@@ -68,7 +68,12 @@ No modelo a seguir são colocados exemplos ilustrativos, que serão substituído
 > # Modelo para Apresentação da Entrega 1 do Projeto (Arquivo README.md)
 
 # Projeto `<Título em Português>`
+
+A [apresentação do projeto](../README.md) está na raiz do repositório.
+
 # Project `<Title in English>`
+
+The [project presentation](../README.md) is at root of the repository.
 
 ## Slides
 
