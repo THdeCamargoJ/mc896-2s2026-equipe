@@ -1,4 +1,4 @@
-# Projeto `<Título do Projeto>`
+# Projeto Extrator-clínico-inator
 
 O presente projeto foi originado no contexto das atividades da disciplina de graduação [*Processamento de Línguas Naturais*](https://www.ic.unicamp.br/~santanch/teaching/nlp/2026-2/), oferecida no segundo semestre de 2026, na Unicamp.
 
@@ -6,7 +6,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de gra
 - [Entrega 2](project2/README.md)
 - [Entrega 3](project3/README.md)
 
-# Project `<Title in English>`
+# Project Clinicalextractorinator
 
 This project is a result of the activities conducted during the undergraduate course [*Natural Languages Processing*](https://www.ic.unicamp.br/~santanch/teaching/nlp/2026-2/) offered during the second semester of 2026 at Unicamp.
 

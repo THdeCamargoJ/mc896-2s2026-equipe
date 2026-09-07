@@ -1,79 +1,10 @@
-# P1 - Template da Primeira Entrega
-*2026.2 Processamento de Línguas Naturais*
-
-# Estrutura de sua pasta de projeto
-
-A fim de uniformizar os repositórios de projetos da disciplina, os diretórios de seu repositório deverão ser nomeados conforme segue.
-
-A estrutura aqui apresentada é uma simplificação daquela proposta pelo [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/). Também será aceito que o projeto adote a estrutura completa do Cookiecutter Data Science e isso será considerado um diferencial. A estrutura geral é a seguinte e será detalhada a seguir:
-
-~~~
-...
-│
-└── project3-final
-    |
-    ├── README.md  <- texto da Entrega 3 do projeto
-    │
-    ├── data
-    │   ├── external       <- dados de terceiros em formato usado para entrada na transformação
-    │   ├── interim        <- dados intermediários, e.g., resultado de transformação
-    │   ├── processed      <- dados finais usados para a publicação
-    │   └── raw            <- dados originais sem modificações
-    │
-    ├── pipelines
-    │   ├── notebooks      <- Jupyter notebooks ou equivalentes
-    │   └── workflows      <- workflows Orange ou equivalentes 
-    |
-    ├── src                <- fonte em linguagem de programação ou sistema (e.g., Cytoscape)
-    │   └── README.md      <- instruções básicas de instalação/execução
-    │
-    └── assets             <- mídias usadas no projeto
-        ├── images         <- imagens usadas no texto do README.md
-        └── slides         <- slides em PDF
-~~~
-
-Na raiz da pasta `project1` deve haver um arquivo de nome `README.md` contendo a apresentação do projeto, como detalhado na seção seguinte.
-
-## `data`
-
-Arquivos de dados usados no projeto, quando isso ocorrer.
-
-## `pipelines`
-
-Processos implementados no projeto que tenham sido executados em algum mecanismo de workflow, como o Orange, ou de notebook, como o Jupyter ou R.
-
-## `src`
-
-Coloque aqui os projetos em Cytoscape. Além disso, código implementado em alguma linguagem de programação, se houver, além dos workflows e notebooks.
-
-Projeto na linguagem escolhida caso não seja usado o notebook, incluindo todos os arquivos de dados e bibliotecas necessários para a sua execução. Só coloque código Python ou Java aqui se ele não rodar dentro do notebook.
-
-Acrescente na raiz um arquivo `README.md` com as instruções básicas de instalação e execução.
-
-## `assets`
-
-Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. Coloque os arquivos aqui (mesmo que você mantenha uma cópia no diretório do código).
-
------
-
-## `README.md` da raiz do `project3-final`
-
-Segue abaixo o modelo de como deve ser apresentado e documentado o projeto. Há partes do modelo a seguir que têm uma marcação específica indicando que **não devem ser literalmente transcritas**:
-
-Trecho entre `<...>` representa algo que deve ser substituído pelo indicado. Nesse caso, você não deve manter os símbolos `<...>`.
-> Parágrafos que aparecem neste modo de citação representa algo que deve ser substituído pelo explicado.
-
-No modelo a seguir são colocados exemplos ilustrativos, que serão substituídos pelos do seu projeto.
-
-> # Modelo para Apresentação da Entrega 1 do Projeto (Arquivo README.md)
-
-# Projeto `<Título em Português>`
+# Projeto Extrator-clínico-inator
 
 A [apresentação do projeto](../README.md) está na raiz do repositório.
 
-# Project `<Title in English>`
+# Project Clinicalextractorinator
 
-The [project presentation](../README.md) is at root of the repository.
+The [project presentation](../README.md) is at the repository's root.
 
 ## Slides
 
