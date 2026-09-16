@@ -246,8 +246,28 @@ Avaliamos a recuperação das entidades extraídas pelo nosso pipeline e pelas s
 
 > **Destaque:** Nosso pipeline obteve **precisão 2.5 vezes superior** e **F1-score quase o dobro** dos demais projetos. Esse ganho empírico decorre diretamente da resolução dos 5 gargalos: autômato com validação de token boundaries (`\b`), descarte de achados negados via NegEx com barreira de conjunções e pareamento sintagmático de exames e valores.
 
-### Visualizador Interativo Standalone
-O arquivo [`project1/data/output/graph_visualization.html`](data/output/graph_visualization.html) permite navegar fluidamente pelo grafo de qualquer paciente em Cytoscape.js, com código cromático de asserção (verde = afirmado, vermelho = negado, amarelo = tratamento) e inspeção de evidências.
+### Visualizador Interativo Standalone (Sentence Provenance Workbench)
+
+Para viabilizar a auditoria médica e a inspeção detalhada dos grafos gerados, desenvolvemos uma aplicação web em arquivo único ([`project1/data/output/graph_visualization.html`](data/output/graph_visualization.html)) baseada em **Cytoscape.js**, totalmente desacoplada de backend (executa diretamente no navegador com duplo-clique) e equipada com **Sentence Provenance Total**:
+
+1. **Sincronização Bidirecional Grafo $\leftrightarrow$ Narrativa Clínica:**
+   - **Grafo $\rightarrow$ Texto:** Clicar em qualquer nó do grafo localiza instantaneamente a sentença exata de origem no relatório clínico (`[S0]`, `[S1]`, `[S17]`), executando rolagem suave animada e destacando a frase correspondente com contorno azul pulsante.
+   - **Texto $\rightarrow$ Grafo:** No painel da narrativa, todas as entidades identificadas são renderizadas como marcações `<mark>` interativas com código cromático semântico. Clicar em qualquer termo no texto centraliza e aplica zoom automático sobre o nó respectivo no Cytoscape.js.
+
+2. **Ficha de Proveniência Profunda (*Deep Provenance Drawer*):**
+   - Ao selecionar um nó ou aresta, um painel lateral exibe a evidência literal completa:
+     - **Citação Literal da Frase:** Trecho exato da frase original com o termo destacado em contexto clínico real.
+     - **Offsets Rigorosos:** Intervalo de caracteres absoluto no caso `[start - end]` e relativo dentro da sentença.
+     - **Status de Asserção (NegEx):** Classificação formal (`AFFIRMED`, `NEGATED`, `HISTORICAL`) e o termo gatilho responsável (ex.: *"no evidence of"*, *"denies"*, *"history of"*).
+     - **Dado Clínico Estruturado:** Exibição direta de exames laboratoriais interpretados (valor, unidade, faixa de referência) ou esquemas posológicos (dose, via de administração, taxa de infusão contínua em mL/h e finalidade terapêutica).
+     - **Ancoragem Ontológica:** Link direto e navegável para o registro oficial do conceito na National Library of Medicine (MeSH / LOINC).
+     - **Navegação de Vizinhança:** Botões interativos para percorrer todas as arestas incidentes (origem $\rightarrow$ destino).
+
+3. **Múltiplos Modos de Layout para Investigação Clínica:**
+   - **Arquitetura em 2 Camadas (Padrão):** Separação topológica formal entre a camada conceitual MeSH (T-Box) no topo e as instâncias episódicas do paciente (A-Box) na base.
+   - **Linha do Tempo DAG (TimeML):** Reconstrução sequencial da trajetória cronológica do paciente desde os sintomas prodrômicos até a alta médica.
+   - **Simulação por Forças Físicas (CoSE Spring-Embedder):** Agrupamento orgânico de clusters clínicos inter-relacionados por física de atração e repulsão.
+   - **Visão Concêntrica:** Paciente posicionado no núcleo central com anéis concêntricos de achados, diagnósticos e intervenções.
 
 ---
 
