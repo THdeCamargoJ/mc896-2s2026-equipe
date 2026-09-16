@@ -1,5 +1,5 @@
 # Projeto Extrator-clínico-inator
-<img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/dd879b75-20a7-4a81-85f8-8a014195dab9" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/dd879b75-20a7-4a81-85f8-8a014195dab9" />
 
 O presente projeto foi originado no contexto das atividades da disciplina de graduação [*Processamento de Línguas Naturais*](https://www.ic.unicamp.br/~santanch/teaching/nlp/2026-2/), oferecida no segundo semestre de 2026, na Unicamp.
 
