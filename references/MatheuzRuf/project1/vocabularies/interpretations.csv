@@ -1,0 +1,11 @@
+term,aliases,type,source,code
+elevated,high|increased|raised,Interpretation,manual,
+decreased,low|reduced|lowered,Interpretation,manual,
+normal,within normal limits|WNL,Interpretation,manual,
+positive,pos,Interpretation,manual,
+negative,neg,Interpretation,manual,
+abnormal,,Interpretation,manual,
+mild,,Interpretation,manual,
+moderate,,Interpretation,manual,
+severe,,Interpretation,manual,
+borderline,,Interpretation,manual,

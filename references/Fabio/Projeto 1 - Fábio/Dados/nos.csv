@@ -1,0 +1,393 @@
+node_id,type,label,attributes
+N1,Patient,Patient_PMC5137649_01,"{""age"": 44.0, ""gender"": ""Female""}"
+N2,Symptom,pain,{}
+N3,Symptom,nausea,{}
+N4,Symptom,constipation,{}
+N5,Treatment,medication,{}
+N6,Exam,tomography,{}
+N7,Diagnosis,lesion,{}
+N8,Exam,eus-fna,{}
+N9,Exam,fna,{}
+N10,Diagnosis,cyst,{}
+N11,Diagnosis,neoplasm,{}
+N12,Treatment,resection,{}
+N13,Treatment,pancreatectomy,{}
+N14,Exam,endoscopy,{}
+N15,Symptom,bleeding,{}
+N16,Patient,Patient_PMC9387390_01,"{""age"": 57.0, ""gender"": ""Male""}"
+N17,Symptom,diarrhea,{}
+N18,Symptom,fullness,{}
+N19,Exam,tomography,{}
+N20,Exam,ct,{}
+N21,Diagnosis,edema,{}
+N22,Exam,enema,{}
+N23,Exam,study,{}
+N24,Diagnosis,mass,{}
+N25,Exam,biopsy,{}
+N26,Diagnosis,adenocarcinoma,{}
+N27,Diagnosis,disease,{}
+N28,Treatment,chemotherapy,{}
+N29,Symptom,nausea,{}
+N30,Symptom,emesis,{}
+N31,Symptom,distention,{}
+N32,Diagnosis,obstruction,{}
+N33,Treatment,gastrojejunostomy,{}
+N34,Treatment,drainage,{}
+N35,Treatment,tube,{}
+N36,Exam,endoscopy,{}
+N37,Treatment,stent,{}
+N38,Patient,Patient_PMC3437073_01,"{""age"": 55.0, ""gender"": ""Male""}"
+N39,Diagnosis,mass,{}
+N40,Diagnosis,lesion,{}
+N41,Exam,ultrasound,{}
+N42,Exam,ct,{}
+N43,Exam,scan,{}
+N44,Diagnosis,abscess,{}
+N45,Patient,Patient_PMC7102447_01,"{""age"": 65.0, ""gender"": ""Male""}"
+N46,Exam,tomography,{}
+N47,Diagnosis,edema,{}
+N48,Diagnosis,syndrome,{}
+N49,Treatment,surgery,{}
+N50,Patient,Patient_PMC6354154_01,"{""age"": 30.0, ""gender"": ""Female""}"
+N51,Diagnosis,cancer,{}
+N52,Diagnosis,mass,{}
+N53,Treatment,surgery,{}
+N54,Diagnosis,tumor,{}
+N55,Diagnosis,lesion,{}
+N56,Exam,study,{}
+N57,Exam,ultrasound,{}
+N58,Treatment,therapy,{}
+N59,Patient,Patient_PMC4782471_01,"{""age"": 10.0, ""gender"": ""Female""}"
+N60,Symptom,fever,{}
+N61,Treatment,surgery,{}
+N62,Patient,Patient_PMC4835621_01,"{""age"": 81.0, ""gender"": ""Female""}"
+N63,Symptom,fatigue,{}
+N64,Symptom,fever,{}
+N65,Symptom,nausea,{}
+N66,Symptom,diarrhea,{}
+N67,Symptom,vomiting,{}
+N68,Symptom,bleeding,{}
+N69,Exam,ct,{}
+N70,Exam,biopsy,{}
+N71,Exam,tomography,{}
+N72,Exam,scan,{}
+N73,Treatment,therapy,{}
+N74,Patient,Patient_PMC8627357_01,"{""age"": 36.0, ""gender"": ""Male""}"
+N75,Exam,tomography,{}
+N76,Exam,ct,{}
+N77,Diagnosis,edema,{}
+N78,Symptom,swelling,{}
+N79,Exam,x-ray,{}
+N80,Treatment,surgery,{}
+N81,Treatment,tube,{}
+N82,Treatment,therapy,{}
+N83,Patient,Patient_PMC5833205_01,"{""age"": 0.0, ""gender"": ""Male""}"
+N84,Symptom,swelling,{}
+N85,Diagnosis,edema,{}
+N86,Exam,endoscopy,{}
+N87,Treatment,therapy,{}
+N88,Symptom,diarrhea,{}
+N89,Patient,Patient_PMC3917415_01,"{""age"": 47.0, ""gender"": ""Female""}"
+N90,Diagnosis,disease,{}
+N91,Exam,tomography,{}
+N92,Exam,ct,{}
+N93,Patient,Patient_PMC7718649_01,"{""age"": 65.0, ""gender"": ""Female""}"
+N94,Symptom,fever,{}
+N95,Symptom,fatigue,{}
+N96,Symptom,nausea,{}
+N97,Symptom,diarrhea,{}
+N98,Exam,ct,{}
+N99,Diagnosis,infection,{}
+N100,Symptom,pain,{}
+N101,Exam,study,{}
+N102,Patient,Patient_PMC6134951_01,"{""age"": 49.0, ""gender"": ""Female""}"
+N103,Diagnosis,adenocarcinoma,{}
+N104,Diagnosis,disease,{}
+N105,Diagnosis,tumor,{}
+N106,Symptom,pain,{}
+N107,Symptom,swelling,{}
+N108,Diagnosis,lesion,{}
+N109,Treatment,medication,{}
+N110,Exam,biopsy,{}
+N111,Symptom,fever,{}
+N112,Patient,Patient_PMC6343374_01,"{""age"": 0.0, ""gender"": ""Male""}"
+N113,Diagnosis,obstruction,{}
+N114,Treatment,stent,{}
+N115,Treatment,surgery,{}
+N116,Exam,study,{}
+N117,Exam,ultrasound,{}
+N118,Patient,Patient_PMC9529523_01,"{""age"": 41.0, ""gender"": ""Female""}"
+N119,Symptom,pain,{}
+N120,Diagnosis,disease,{}
+N121,Treatment,drainage,{}
+N122,Diagnosis,abscess,{}
+N123,Treatment,medication,{}
+N124,Exam,biopsy,{}
+N125,Exam,tomography,{}
+N126,Exam,scan,{}
+N127,Exam,mri,{}
+N128,Patient,Patient_PMC9532611_01,"{""age"": 12.0, ""gender"": ""Female""}"
+N129,Treatment,surgery,{}
+N130,Patient,Patient_PMC9532611_02,"{""age"": 6.0, ""gender"": ""Female""}"
+N131,Diagnosis,mass,{}
+N132,Patient,Patient_PMC5875137_01,"{""age"": 83.0, ""gender"": ""Female""}"
+N133,Exam,tomography,{}
+N134,Exam,ct,{}
+N135,Exam,scan,{}
+N136,Diagnosis,cancer,{}
+N137,Treatment,surgery,{}
+N138,Diagnosis,mass,{}
+N139,Patient,Patient_PMC6949661_01,"{""age"": 23.0, ""gender"": ""Male""}"
+N140,Symptom,pain,{}
+N141,Symptom,fever,{}
+N142,Exam,tomography,{}
+N143,Exam,ct,{}
+N144,Exam,scan,{}
+N145,Symptom,nausea,{}
+N146,Symptom,vomiting,{}
+N147,Diagnosis,disease,{}
+N148,Symptom,bleeding,{}
+N149,Exam,endoscopy,{}
+N150,Diagnosis,lesion,{}
+N151,Treatment,resection,{}
+N152,Treatment,surgery,{}
+N153,Patient,Patient_PMC10405809_01,"{""age"": 55.0, ""gender"": ""Female""}"
+N154,Symptom,pain,{}
+N155,Diagnosis,disease,{}
+N156,Exam,tomography,{}
+N157,Exam,ct,{}
+N158,Exam,scan,{}
+N159,Exam,biopsy,{}
+N160,Exam,endoscopy,{}
+N161,Patient,Patient_PMC7519975_01,"{""age"": 33.0, ""gender"": ""Female""}"
+N162,Symptom,emesis,{}
+N163,Exam,tomography,{}
+N164,Exam,ct,{}
+N165,Diagnosis,infection,{}
+N166,Treatment,surgery,{}
+N167,Diagnosis,disease,{}
+N168,Patient,Patient_PMC3950436_01,"{""age"": 19.0, ""gender"": ""Female""}"
+N169,Diagnosis,tumor,{}
+N170,Diagnosis,obstruction,{}
+N171,Symptom,pain,{}
+N172,Treatment,chemotherapy,{}
+N173,Treatment,surgery,{}
+N174,Treatment,tube,{}
+N175,Exam,ultrasound,{}
+N176,Patient,Patient_PMC10434843_01,"{""age"": 49.0, ""gender"": ""Male""}"
+N177,Exam,mri,{}
+N178,Symptom,swelling,{}
+N179,Exam,tomography,{}
+N180,Exam,ct,{}
+N181,Diagnosis,tumor,{}
+N182,Diagnosis,syndrome,{}
+N183,Diagnosis,disease,{}
+N184,Patient,Patient_PMC4630775_01,"{""age"": 39.0, ""gender"": ""Female""}"
+N185,Diagnosis,syndrome,{}
+N186,Patient,Patient_PMC2700431_01,"{""age"": 35.0, ""gender"": ""Male""}"
+N187,Treatment,tube,{}
+N188,Diagnosis,infection,{}
+N189,Patient,Patient_PMC10106591_01,"{""age"": 44.0, ""gender"": ""Female""}"
+N190,Symptom,pain,{}
+N191,Diagnosis,edema,{}
+N192,Diagnosis,syndrome,{}
+N193,Treatment,medication,{}
+N194,Patient,Patient_PMC4073451_01,"{""age"": 14.0, ""gender"": ""Female""}"
+N195,Diagnosis,lesion,{}
+N196,Treatment,surgery,{}
+N197,Symptom,swelling,{}
+N198,Exam,tomography,{}
+N199,Exam,ct,{}
+N200,Exam,biopsy,{}
+N201,Diagnosis,tumor,{}
+N202,Diagnosis,cyst,{}
+N203,Exam,scan,{}
+N204,Patient,Patient_PMC6083636_01,"{""age"": 9.0, ""gender"": ""Male""}"
+N205,Patient,Patient_PMC6083636_02,"{""age"": null, ""gender"": ""Unknown""}"
+N206,Patient,Patient_PMC6083636_03,"{""age"": null, ""gender"": ""Unknown""}"
+N207,Patient,Patient_PMC9969157_01,"{""age"": 7.0, ""gender"": ""Male""}"
+N208,Treatment,medication,{}
+N209,Diagnosis,syndrome,{}
+N210,Symptom,emesis,{}
+N211,Exam,x-ray,{}
+N212,Patient,Patient_PMC4828947_01,"{""age"": 61.0, ""gender"": ""Male""}"
+N213,Treatment,surgery,{}
+N214,Exam,mri,{}
+N215,Exam,scan,{}
+N216,Diagnosis,lesion,{}
+N217,Diagnosis,cyst,{}
+N218,Diagnosis,edema,{}
+N219,Patient,Patient_PMC7086412_01,"{""age"": 34.0, ""gender"": ""Female""}"
+N220,Patient,Patient_PMC7086412_02,"{""age"": 31.0, ""gender"": ""Female""}"
+N221,Diagnosis,mass,{}
+N222,Treatment,tube,{}
+N223,Patient,Patient_PMC3557982_01,"{""age"": 1.0, ""gender"": ""Female""}"
+N224,Exam,study,{}
+N225,Diagnosis,infection,{}
+N226,Patient,Patient_PMC9815523_01,"{""age"": 40.0, ""gender"": ""Unknown""}"
+N227,Treatment,therapy,{}
+N228,Diagnosis,syndrome,{}
+N229,Symptom,bleeding,{}
+N230,Treatment,surgery,{}
+N231,Treatment,stent,{}
+N232,Patient,Patient_PMC4310058_01,"{""age"": 16.0, ""gender"": ""Male""}"
+N233,Exam,study,{}
+N234,Exam,tomography,{}
+N235,Exam,ct,{}
+N236,Exam,mri,{}
+N237,Diagnosis,lesion,{}
+N238,Patient,Patient_PMC3859158_01,"{""age"": 44.0, ""gender"": ""Male""}"
+N239,Symptom,pain,{}
+N240,Symptom,nausea,{}
+N241,Symptom,vomiting,{}
+N242,Diagnosis,disease,{}
+N243,Symptom,fever,{}
+N244,Diagnosis,mass,{}
+N245,Diagnosis,cancer,{}
+N246,Exam,tomography,{}
+N247,Exam,ct,{}
+N248,Exam,scan,{}
+N249,Treatment,resection,{}
+N250,Diagnosis,tumor,{}
+N251,Treatment,surgery,{}
+N252,Treatment,therapy,{}
+N253,Patient,Patient_PMC9650410_01,"{""age"": 67.0, ""gender"": ""Female""}"
+N254,Treatment,therapy,{}
+N255,Diagnosis,cancer,{}
+N256,Symptom,pain,{}
+N257,Exam,study,{}
+N258,Patient,Patient_PMC5804616_01,"{""age"": 77.0, ""gender"": ""Male""}"
+N259,Treatment,tube,{}
+N260,Treatment,surgery,{}
+N261,Diagnosis,cancer,{}
+N262,Treatment,chemotherapy,{}
+N263,Exam,tomography,{}
+N264,Treatment,therapy,{}
+N265,Diagnosis,obstruction,{}
+N266,Exam,x-ray,{}
+N267,Treatment,drainage,{}
+N268,Patient,Patient_PMC3897989_01,"{""age"": 65.0, ""gender"": ""Male""}"
+N269,Symptom,pain,{}
+N270,Treatment,therapy,{}
+N271,Diagnosis,tumor,{}
+N272,Exam,tomography,{}
+N273,Exam,ct,{}
+N274,Exam,mri,{}
+N275,Diagnosis,infection,{}
+N276,Treatment,drainage,{}
+N277,Exam,biopsy,{}
+N278,Exam,x-ray,{}
+N279,Diagnosis,abscess,{}
+N280,Patient,Patient_PMC2817501_01,"{""age"": 53.0, ""gender"": ""Male""}"
+N281,Diagnosis,disease,{}
+N282,Patient,Patient_PMC11131390_01,"{""age"": null, ""gender"": ""Male""}"
+N283,Diagnosis,disease,{}
+N284,Treatment,therapy,{}
+N285,Patient,Patient_PMC10521634_01,"{""age"": 38.0, ""gender"": ""Male""}"
+N286,Symptom,bleeding,{}
+N287,Symptom,pain,{}
+N288,Symptom,diarrhea,{}
+N289,Symptom,fever,{}
+N290,Exam,ct,{}
+N291,Exam,scan,{}
+N292,Diagnosis,disease,{}
+N293,Treatment,therapy,{}
+N294,Diagnosis,abscess,{}
+N295,Treatment,drainage,{}
+N296,Treatment,surgery,{}
+N297,Exam,endoscopy,{}
+N298,Patient,Patient_PMC10710131_01,"{""age"": 26.0, ""gender"": ""Female""}"
+N299,Treatment,therapy,{}
+N300,Patient,Patient_PMC10488652_01,"{""age"": 22.0, ""gender"": ""Female""}"
+N301,Symptom,diarrhea,{}
+N302,Symptom,emesis,{}
+N303,Symptom,fever,{}
+N304,Diagnosis,edema,{}
+N305,Exam,biopsy,{}
+N306,Diagnosis,syndrome,{}
+N307,Exam,study,{}
+N308,Patient,Patient_PMC11420039_01,"{""age"": 74.0, ""gender"": ""Female""}"
+N309,Treatment,medication,{}
+N310,Symptom,fatigue,{}
+N311,Exam,ct,{}
+N312,Exam,mri,{}
+N313,Treatment,therapy,{}
+N314,Diagnosis,infection,{}
+N315,Diagnosis,syndrome,{}
+N316,Patient,Patient_PMC11259348_01,"{""age"": null, ""gender"": ""Female""}"
+N317,Symptom,fever,{}
+N318,Patient,Patient_PMC11259348_02,"{""age"": null, ""gender"": ""Unknown""}"
+N319,Treatment,tube,{}
+N320,Patient,Patient_PMC11368112_01,"{""age"": 35.0, ""gender"": ""Male""}"
+N321,Symptom,fever,{}
+N322,Treatment,surgery,{}
+N323,Exam,ultrasound,{}
+N324,Treatment,therapy,{}
+N325,Diagnosis,mass,{}
+N326,Diagnosis,infection,{}
+N327,Exam,biopsy,{}
+N328,Diagnosis,disease,{}
+N329,Treatment,medication,{}
+N330,Patient,Patient_PMC11345641_01,"{""age"": 48.0, ""gender"": ""Female""}"
+N331,Diagnosis,mass,{}
+N332,Symptom,pain,{}
+N333,Diagnosis,tumor,{}
+N334,Exam,mri,{}
+N335,Exam,biopsy,{}
+N336,Treatment,surgery,{}
+N337,Diagnosis,lesion,{}
+N338,Symptom,distention,{}
+N339,Treatment,resection,{}
+N340,Symptom,bleeding,{}
+N341,Treatment,chemotherapy,{}
+N342,Patient,Patient_PMC11723754_01,"{""age"": 0.0, ""gender"": ""Male""}"
+N343,Diagnosis,syndrome,{}
+N344,Treatment,medication,{}
+N345,Patient,Patient_PMC11783470_01,"{""age"": 22.0, ""gender"": ""Female""}"
+N346,Symptom,pain,{}
+N347,Symptom,nausea,{}
+N348,Symptom,vomiting,{}
+N349,Exam,biopsy,{}
+N350,Diagnosis,lesion,{}
+N351,Symptom,bleeding,{}
+N352,Diagnosis,disease,{}
+N353,Treatment,resection,{}
+N354,Exam,endoscopy,{}
+N355,Patient,Patient_PMC11722600_01,"{""age"": 41.0, ""gender"": ""Female""}"
+N356,Symptom,pain,{}
+N357,Symptom,fever,{}
+N358,Exam,ultrasound,{}
+N359,Exam,ct,{}
+N360,Treatment,tube,{}
+N361,Symptom,bleeding,{}
+N362,Patient,Patient_PMC11722600_02,"{""age"": 44.0, ""gender"": ""Female""}"
+N363,Symptom,pain,{}
+N364,Treatment,resection,{}
+N365,Symptom,fever,{}
+N366,Exam,ct,{}
+N367,Diagnosis,abscess,{}
+N368,Treatment,surgery,{}
+N369,Exam,study,{}
+N370,Treatment,drainage,{}
+N371,Symptom,bleeding,{}
+N372,Patient,Patient_PMC12215201_01,"{""age"": 56.0, ""gender"": ""Male""}"
+N373,Symptom,fatigue,{}
+N374,Symptom,pain,{}
+N375,Exam,ultrasound,{}
+N376,Diagnosis,mass,{}
+N377,Exam,ct,{}
+N378,Exam,endoscopy,{}
+N379,Exam,biopsy,{}
+N380,Diagnosis,tumor,{}
+N381,Treatment,drainage,{}
+N382,Patient,Patient_PMC12832199_01,"{""age"": 57.0, ""gender"": ""Female""}"
+N383,Symptom,pain,{}
+N384,Symptom,vomiting,{}
+N385,Diagnosis,disease,{}
+N386,Symptom,distention,{}
+N387,Exam,ct,{}
+N388,Diagnosis,obstruction,{}
+N389,Treatment,tube,{}
+N390,Treatment,therapy,{}
+N391,Treatment,resection,{}
+N392,Exam,endoscopy,{}

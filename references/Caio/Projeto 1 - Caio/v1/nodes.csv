@@ -1,0 +1,877 @@
+node_id,case_id,type,label,attributes,evidence,sentence_id
+PMC5137649_01_PATIENT,PMC5137649_01,Patient,Patient PMC5137649_01,"{""age"": ""44.0"", ""gender"": ""Female""}",,
+PMC5137649_01_N0001,PMC5137649_01,AnatomicalSite,flank,{},flank,0
+PMC5137649_01_N0002,PMC5137649_01,Symptom,abdominal pain,{},abdominal pain,0
+PMC5137649_01_N0003,PMC5137649_01,Symptom,nausea,{},nausea,0
+PMC5137649_01_N0004,PMC5137649_01,Symptom,constipation,{},constipation,0
+PMC5137649_01_N0005,PMC5137649_01,Exam,contrast-enhanced CT,"{""measurements"": [{""value"": 6.0, ""unit"": ""cm"", ""surface_form"": ""6cm""}]}",contrast enhanced computed tomography,2
+PMC5137649_01_N0006,PMC5137649_01,AnatomicalSite,stomach,{},stomach,2
+PMC5137649_01_N0007,PMC5137649_01,AnatomicalSite,pancreas,{},pancreas,2
+PMC5137649_01_N0008,PMC5137649_01,AnatomicalSite,stomach,{},stomach,3
+PMC5137649_01_N0009,PMC5137649_01,Diagnosis,mucinous pancreatic cystic neoplasm,{},mucinous pancreatic cystic neoplasm,5
+PMC5137649_01_N0010,PMC5137649_01,Treatment,resection,{},resection,6
+PMC5137649_01_N0011,PMC5137649_01,Treatment,pancreatectomy,{},pancreatectomy,7
+PMC5137649_01_N0012,PMC5137649_01,AnatomicalSite,stomach,{},stomach,8
+PMC5137649_01_N0013,PMC5137649_01,AnatomicalSite,stomach,{},stomach,8
+PMC5137649_01_N0014,PMC5137649_01,AnatomicalSite,pancreas,{},pancreas,8
+PMC5137649_01_N0015,PMC5137649_01,AnatomicalSite,pancreas,{},pancreas,9
+PMC5137649_01_N0016,PMC5137649_01,AnatomicalSite,stomach,{},stomach,9
+PMC5137649_01_N0017,PMC5137649_01,Exam,endoscopy,{},endoscopy,10
+PMC5137649_01_N0018,PMC5137649_01,AnatomicalSite,stomach,"{""negated"": true, ""status"": ""absent""}",stomach,10
+PMC5137649_01_N0019,PMC5137649_01,Treatment,resection,{},resection,11
+PMC5137649_01_N0020,PMC5137649_01,AnatomicalSite,stomach,{},stomach,12
+PMC5137649_01_N0021,PMC5137649_01,Diagnosis,gastric duplication cyst,{},gastric duplication cyst,12
+PMC5137649_01_N0022,PMC5137649_01,Treatment,resection,{},resection,13
+PMC5137649_01_N0023,PMC5137649_01,AnatomicalSite,stomach,{},stomach,13
+PMC5137649_01_N0024,PMC5137649_01,AnatomicalSite,stomach,{},stomach,14
+PMC5137649_01_N0025,PMC5137649_01,Symptom,nausea,{},nausea,21
+PMC9387390_01_PATIENT,PMC9387390_01,Patient,Patient PMC9387390_01,"{""age"": ""57.0"", ""gender"": ""Male""}",,
+PMC9387390_01_N0001,PMC9387390_01,Symptom,abdominal fullness,{},abdominal fullness,0
+PMC9387390_01_N0002,PMC9387390_01,Symptom,diarrhea,{},diarrhea,0
+PMC9387390_01_N0003,PMC9387390_01,Exam,computed tomography,{},Computed tomography,1
+PMC9387390_01_N0004,PMC9387390_01,Exam,computed tomography,{},CT,1
+PMC9387390_01_N0005,PMC9387390_01,Exam,computed tomography,{},CT,3
+PMC9387390_01_N0006,PMC9387390_01,AnatomicalSite,abdomen,{},abdomen,3
+PMC9387390_01_N0007,PMC9387390_01,AnatomicalSite,pancreas,{},pancreas,3
+PMC9387390_01_N0008,PMC9387390_01,AnatomicalSite,duodenum,{},duodenum,3
+PMC9387390_01_N0009,PMC9387390_01,Exam,computed tomography,{},CT,4
+PMC9387390_01_N0010,PMC9387390_01,Exam,biopsy,{},biopsy,4
+PMC9387390_01_N0011,PMC9387390_01,Diagnosis,adenocarcinoma,{},adenocarcinoma,4
+PMC9387390_01_N0012,PMC9387390_01,Treatment,chemotherapy,"{""measurements"": [{""value"": 11.0, ""unit"": ""months"", ""surface_form"": ""11 months""}]}",chemotherapy,5
+PMC9387390_01_N0013,PMC9387390_01,Treatment,chemotherapy,{},chemotherapy,6
+PMC9387390_01_N0014,PMC9387390_01,Symptom,nausea,{},nausea,6
+PMC9387390_01_N0015,PMC9387390_01,Symptom,vomiting,{},emesis,6
+PMC9387390_01_N0016,PMC9387390_01,Symptom,abdominal distention,{},abdominal distention,6
+PMC9387390_01_N0017,PMC9387390_01,AnatomicalSite,duodenum,{},duodenum,12
+PMC9387390_01_N0018,PMC9387390_01,AnatomicalSite,jejunum,{},jejunum,12
+PMC9387390_01_N0019,PMC9387390_01,Exam,computed tomography,"{""measurements"": [{""value"": 7.0, ""unit"": ""days"", ""surface_form"": ""7 days""}]}",CT,13
+PMC9387390_01_N0020,PMC9387390_01,AnatomicalSite,stomach,{},stomach,13
+PMC9387390_01_N0021,PMC9387390_01,Treatment,drainage,{},drainage,14
+PMC9387390_01_N0022,PMC9387390_01,Exam,esophagogastroduodenoscopy,{},esophagogastroduodenoscopy,15
+PMC9387390_01_N0023,PMC9387390_01,Exam,esophagogastroduodenoscopy,{},EGD,15
+PMC9387390_01_N0024,PMC9387390_01,AnatomicalSite,stomach,{},stomach,16
+PMC9387390_01_N0025,PMC9387390_01,AnatomicalSite,jejunum,{},jejunum,19
+PMC9387390_01_N0026,PMC9387390_01,Treatment,drainage,{},drainage,22
+PMC9387390_01_N0027,PMC9387390_01,AnatomicalSite,duodenum,{},duodenum,22
+PMC9387390_01_N0028,PMC9387390_01,Exam,esophagogastroduodenoscopy,{},EGD,24
+PMC9387390_01_N0029,PMC9387390_01,AnatomicalSite,jejunum,{},jejunum,24
+PMC9387390_01_N0030,PMC9387390_01,Exam,endoscopy,{},endoscopy,28
+PMC9387390_01_N0031,PMC9387390_01,Treatment,drainage,"{""measurements"": [{""value"": 20.0, ""unit"": ""mm"", ""surface_form"": ""20 mm""}, {""value"": 10.0, ""unit"": ""mm"", ""surface_form"": ""10 mm""}]}",drainage,28
+PMC9387390_01_N0032,PMC9387390_01,Exam,computed tomography,{},CT,32
+PMC3437073_01_PATIENT,PMC3437073_01,Patient,Patient PMC3437073_01,"{""age"": ""55.0"", ""gender"": ""Male""}",,
+PMC3437073_01_N0001,PMC3437073_01,AnatomicalSite,chest,{},chest,0
+PMC3437073_01_N0002,PMC3437073_01,AnatomicalSite,abdomen,{},abdomen,0
+PMC3437073_01_N0003,PMC3437073_01,AnatomicalSite,chest,"{""negated"": true, ""status"": ""absent""}",chest,2
+PMC3437073_01_N0004,PMC3437073_01,AnatomicalSite,abdomen,{},abdomen,2
+PMC3437073_01_N0005,PMC3437073_01,AnatomicalSite,spleen,"{""measurements"": [{""value"": 8.0, ""unit"": ""cm"", ""surface_form"": ""8 cm""}]}",spleen,3
+PMC3437073_01_N0006,PMC3437073_01,AnatomicalSite,chest,{},Chest,5
+PMC3437073_01_N0007,PMC3437073_01,AnatomicalSite,lung,{},lung,5
+PMC3437073_01_N0008,PMC3437073_01,Exam,ultrasound,{},Ultrasound,7
+PMC3437073_01_N0009,PMC3437073_01,AnatomicalSite,abdomen,{},abdomen,7
+PMC3437073_01_N0010,PMC3437073_01,AnatomicalSite,spleen,{},spleen,7
+PMC3437073_01_N0011,PMC3437073_01,Exam,computed tomography,{},CT scan,8
+PMC3437073_01_N0012,PMC3437073_01,AnatomicalSite,abdomen,{},abdomen,8
+PMC3437073_01_N0013,PMC3437073_01,Diagnosis,splenic abscess,{},splenic abscess,8
+PMC3437073_01_N0014,PMC3437073_01,AnatomicalSite,chest,{},chest,8
+PMC3437073_01_N0015,PMC3437073_01,Diagnosis,tuberculous splenic abscess,{},tuberculous splenic abscess,9
+PMC3437073_01_N0016,PMC3437073_01,Treatment,splenectomy,{},splenectomy,10
+PMC3437073_01_N0017,PMC3437073_01,AnatomicalSite,spleen,{},spleen,11
+PMC3437073_01_N0018,PMC3437073_01,AnatomicalSite,chest,{},chest,11
+PMC3437073_01_N0019,PMC3437073_01,AnatomicalSite,spleen,{},spleen,12
+PMC3437073_01_N0020,PMC3437073_01,AnatomicalSite,chest,{},chest,12
+PMC3437073_01_N0021,PMC3437073_01,Exam,histopathology,{},Histopathology,14
+PMC3437073_01_N0022,PMC3437073_01,AnatomicalSite,spleen,{},spleen,14
+PMC3437073_01_N0023,PMC3437073_01,Treatment,isoniazid,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}]}",Isoniazid,16
+PMC3437073_01_N0024,PMC3437073_01,Treatment,rifampin,"{""measurements"": [{""value"": 600.0, ""unit"": ""mg"", ""surface_form"": ""600 mg""}]}",Rifampin,16
+PMC3437073_01_N0025,PMC3437073_01,Treatment,ethambutol,"{""measurements"": [{""value"": 600.0, ""unit"": ""mg"", ""surface_form"": ""600 mg""}]}",Ethambutol,16
+PMC3437073_01_N0026,PMC3437073_01,Treatment,pyrazinamide,"{""measurements"": [{""value"": 500.0, ""unit"": ""mg"", ""surface_form"": ""500 mg""}]}",Pyrazinamide,16
+PMC7102447_01_PATIENT,PMC7102447_01,Patient,Patient PMC7102447_01,"{""age"": ""65.0"", ""gender"": ""Male""}",,
+PMC7102447_01_N0001,PMC7102447_01,History,hypertension,{},hypertension,0
+PMC7102447_01_N0002,PMC7102447_01,History,asthma,{},asthma,0
+PMC7102447_01_N0003,PMC7102447_01,AnatomicalSite,mitral valve,"{""measurements"": [{""value"": 33.0, ""unit"": ""mm"", ""surface_form"": ""33 mm""}]}",mitral valve,0
+PMC7102447_01_N0004,PMC7102447_01,Symptom,respiratory distress,{},respiratory distress,0
+PMC7102447_01_N0005,PMC7102447_01,Exam,electrocardiogram,{},electrocardiogram,1
+PMC7102447_01_N0006,PMC7102447_01,Treatment,heparin,{},heparin,8
+PMC7102447_01_N0007,PMC7102447_01,Exam,computed tomography,{},computed tomography,8
+PMC7102447_01_N0008,PMC7102447_01,AnatomicalSite,chest,{},chest,8
+PMC7102447_01_N0009,PMC7102447_01,Exam,transesophageal echocardiogram,{},Transesophageal echocardiogram,9
+PMC7102447_01_N0010,PMC7102447_01,AnatomicalSite,mitral valve,{},mitral valve,9
+PMC7102447_01_N0011,PMC7102447_01,AnatomicalSite,mitral valve,{},mitral valve,12
+PMC7102447_01_N0012,PMC7102447_01,AnatomicalSite,mitral valve,{},mitral valve,13
+PMC7102447_01_N0013,PMC7102447_01,Treatment,surgery,"{""measurements"": [{""value"": 33.0, ""unit"": ""mm"", ""surface_form"": ""33 mm""}]}",surgery,13
+PMC7102447_01_N0014,PMC7102447_01,AnatomicalSite,mitral valve,{},mitral valve,16
+PMC7102447_01_N0015,PMC7102447_01,Treatment,warfarin,{},warfarin,17
+PMC6354154_01_PATIENT,PMC6354154_01,Patient,Patient PMC6354154_01,"{""age"": ""30.0"", ""gender"": ""Female""}",,
+PMC6354154_01_N0001,PMC6354154_01,History,infertility,"{""negated"": true, ""status"": ""absent""}",infertility,4
+PMC6354154_01_N0002,PMC6354154_01,Diagnosis,cancer,{},cancer,4
+PMC6354154_01_N0003,PMC6354154_01,Exam,ultrasonography,{},ultrasonography,7
+PMC6354154_01_N0004,PMC6354154_01,AnatomicalSite,uterus,{},uterus,7
+PMC6354154_01_N0005,PMC6354154_01,AnatomicalSite,ovary,{},ovary,7
+PMC6354154_01_N0006,PMC6354154_01,Exam,hysterosalpingography,{},hysterosalpingography,8
+PMC6354154_01_N0007,PMC6354154_01,Treatment,surgery,{},surgery,11
+PMC6354154_01_N0008,PMC6354154_01,AnatomicalSite,ovary,{},ovary,11
+PMC6354154_01_N0009,PMC6354154_01,Exam,immunohistochemical study,{},Immunohistochemical study,18
+PMC6354154_01_N0010,PMC6354154_01,Diagnosis,ovarian steroid cell tumor,{},ovarian steroid cell tumor,19
+PMC6354154_01_N0011,PMC6354154_01,Exam,ultrasound,"{""measurements"": [{""value"": 24.0, ""unit"": ""months"", ""surface_form"": ""24 months""}]}",ultrasound,20
+PMC4782471_01_PATIENT,PMC4782471_01,Patient,Patient PMC4782471_01,"{""age"": ""10.0"", ""gender"": ""Female""}",,
+PMC4782471_01_N0001,PMC4782471_01,History,hypertension,"{""negated"": true, ""status"": ""absent""}",hypertension,0
+PMC4782471_01_N0002,PMC4782471_01,Symptom,breathlessness,{},breathlessness,1
+PMC4782471_01_N0003,PMC4782471_01,Symptom,fever,{},fever,7
+PMC4782471_01_N0004,PMC4782471_01,AnatomicalSite,heart,"{""measurements"": [{""value"": 60.0, ""unit"": ""mm"", ""surface_form"": ""60 mm""}]}",heart,9
+PMC4782471_01_N0005,PMC4782471_01,Treatment,blood transfusion,{},blood transfusion,11
+PMC4782471_01_N0006,PMC4782471_01,Exam,echocardiography,"{""measurements"": [{""value"": 5.0, ""unit"": ""mm"", ""surface_form"": ""5 mm""}, {""value"": 6.0, ""unit"": ""mm"", ""surface_form"": ""6 mm""}]}",Echocardiography,13
+PMC4782471_01_N0007,PMC4782471_01,AnatomicalSite,tricuspid valve,{},tricuspid valve,13
+PMC4782471_01_N0008,PMC4782471_01,AnatomicalSite,tricuspid valve,{},tricuspid valve,13
+PMC4782471_01_N0009,PMC4782471_01,History,hypertension,"{""negated"": true, ""status"": ""absent""}",hypertension,14
+PMC4782471_01_N0010,PMC4782471_01,Diagnosis,infective endocarditis,{},infective endocarditis,16
+PMC4782471_01_N0011,PMC4782471_01,Symptom,fever,{},fever,18
+PMC4782471_01_N0012,PMC4782471_01,AnatomicalSite,right atrium,{},right atrium,20
+PMC4782471_01_N0013,PMC4782471_01,AnatomicalSite,tricuspid valve,{},tricuspid valve,20
+PMC4782471_01_N0014,PMC4782471_01,AnatomicalSite,tricuspid valve,{},tricuspid valve,22
+PMC4782471_01_N0015,PMC4782471_01,AnatomicalSite,heart,{},heart,24
+PMC4782471_01_N0016,PMC4782471_01,AnatomicalSite,heart,{},heart,24
+PMC4782471_01_N0017,PMC4782471_01,Treatment,surgery,{},surgery,27
+PMC4835621_01_PATIENT,PMC4835621_01,Patient,Patient PMC4835621_01,"{""age"": ""81.0"", ""gender"": ""Female""}",,
+PMC4835621_01_N0001,PMC4835621_01,Symptom,fatigue,{},fatigue,1
+PMC4835621_01_N0002,PMC4835621_01,Symptom,fever,"{""negated"": true, ""status"": ""absent""}",fever,2
+PMC4835621_01_N0003,PMC4835621_01,Symptom,diarrhea,{},diarrhea,3
+PMC4835621_01_N0004,PMC4835621_01,Symptom,nausea,{},nausea,3
+PMC4835621_01_N0005,PMC4835621_01,Symptom,vomiting,{},vomiting,3
+PMC4835621_01_N0006,PMC4835621_01,History,hypertension,{},hypertension,5
+PMC4835621_01_N0007,PMC4835621_01,Symptom,fever,"{""negated"": true, ""status"": ""absent""}",fever,9
+PMC4835621_01_N0008,PMC4835621_01,AnatomicalSite,heart,{},heart,12
+PMC4835621_01_N0009,PMC4835621_01,AnatomicalSite,abdomen,{},abdomen,12
+PMC4835621_01_N0010,PMC4835621_01,Symptom,hematochezia,"{""negated"": true, ""status"": ""absent""}",hematochezia,13
+PMC4835621_01_N0011,PMC4835621_01,Exam,computed tomography,{},CT,15
+PMC4835621_01_N0012,PMC4835621_01,AnatomicalSite,liver,"{""measurements"": [{""value"": 405.0, ""unit"": ""iu/l"", ""surface_form"": ""405 IU/L""}]}",liver,22
+PMC4835621_01_N0013,PMC4835621_01,Exam,biopsy,{},biopsy,28
+PMC4835621_01_N0014,PMC4835621_01,Exam,computed tomography,{},computed tomography,32
+PMC4835621_01_N0015,PMC4835621_01,Exam,computed tomography,{},CT,32
+PMC4835621_01_N0016,PMC4835621_01,AnatomicalSite,chest,{},chest,32
+PMC4835621_01_N0017,PMC4835621_01,AnatomicalSite,abdomen,"{""measurements"": [{""value"": 3.5, ""unit"": ""cm"", ""surface_form"": ""3.5 cm""}]}",abdomen,32
+PMC4835621_01_N0018,PMC4835621_01,AnatomicalSite,stomach,{},stomach,33
+PMC4835621_01_N0019,PMC4835621_01,Exam,computed tomography,{},CT,34
+PMC4835621_01_N0020,PMC4835621_01,AnatomicalSite,esophagus,{},esophagus,34
+PMC4835621_01_N0021,PMC4835621_01,Treatment,heparin,{},heparin,36
+PMC4835621_01_N0022,PMC4835621_01,AnatomicalSite,esophagus,{},esophagus,37
+PMC4835621_01_N0023,PMC4835621_01,AnatomicalSite,stomach,{},stomach,37
+PMC4835621_01_N0024,PMC4835621_01,Exam,biopsy,{},biopsy,38
+PMC4835621_01_N0025,PMC4835621_01,Exam,colonoscopy,"{""measurements"": [{""value"": 10.0, ""unit"": ""days"", ""surface_form"": ""10 days""}]}",Colonoscopy,40
+PMC8627357_01_PATIENT,PMC8627357_01,Patient,Patient PMC8627357_01,"{""age"": ""36.0"", ""gender"": ""Male""}",,
+PMC8627357_01_N0001,PMC8627357_01,Symptom,dyspnea,{},dyspnea,0
+PMC8627357_01_N0002,PMC8627357_01,Exam,computed tomography,{},computed tomography,1
+PMC8627357_01_N0003,PMC8627357_01,Exam,computed tomography,{},CT,1
+PMC8627357_01_N0004,PMC8627357_01,Exam,computed tomography,{},CT,6
+PMC8627357_01_N0005,PMC8627357_01,AnatomicalSite,chest,{},Chest,7
+PMC8627357_01_N0006,PMC8627357_01,Symptom,respiratory distress,{},respiratory distress,9
+PMC8627357_01_N0007,PMC8627357_01,Exam,computed tomography,{},CT,10
+PMC8627357_01_N0008,PMC8627357_01,AnatomicalSite,chest,{},chest,10
+PMC8627357_01_N0009,PMC8627357_01,Treatment,surgery,{},surgery,11
+PMC8627357_01_N0010,PMC8627357_01,Exam,transthoracic echocardiogram,{},Transthoracic echocardiogram,12
+PMC8627357_01_N0011,PMC8627357_01,Exam,transesophageal echocardiogram,{},transesophageal echocardiogram,13
+PMC8627357_01_N0012,PMC8627357_01,Treatment,gentamicin,{},gentamicin,14
+PMC8627357_01_N0013,PMC8627357_01,Treatment,linezolid,{},linezolid,14
+PMC8627357_01_N0014,PMC8627357_01,AnatomicalSite,chest,{},chest,15
+PMC8627357_01_N0015,PMC8627357_01,AnatomicalSite,chest,{},chest,16
+PMC8627357_01_N0016,PMC8627357_01,AnatomicalSite,chest,{},chest,16
+PMC8627357_01_N0017,PMC8627357_01,AnatomicalSite,chest,{},chest,17
+PMC8627357_01_N0018,PMC8627357_01,AnatomicalSite,chest,{},chest,17
+PMC8627357_01_N0019,PMC8627357_01,AnatomicalSite,lung,{},lung,18
+PMC8627357_01_N0020,PMC8627357_01,AnatomicalSite,chest,{},chest,18
+PMC5833205_01_PATIENT,PMC5833205_01,Patient,Patient PMC5833205_01,"{""age"": ""0.0"", ""gender"": ""Male""}",,
+PMC5833205_01_N0001,PMC5833205_01,Exam,endoscopy,{},endoscopy,14
+PMC5833205_01_N0002,PMC5833205_01,Exam,colonoscopy,{},colonoscopy,14
+PMC5833205_01_N0003,PMC5833205_01,AnatomicalSite,esophagus,{},esophagus,15
+PMC5833205_01_N0004,PMC5833205_01,AnatomicalSite,duodenum,{},duodenum,15
+PMC5833205_01_N0005,PMC5833205_01,AnatomicalSite,colon,"{""measurements"": [{""value"": 20.0, ""unit"": ""ml"", ""surface_form"": ""20 mL""}]}",colon,15
+PMC5833205_01_N0006,PMC5833205_01,Symptom,diarrhea,"{""negated"": true, ""status"": ""absent""}",diarrhea,19
+PMC3917415_01_PATIENT,PMC3917415_01,Patient,Patient PMC3917415_01,"{""age"": ""47.0"", ""gender"": ""Female""}",,
+PMC3917415_01_N0001,PMC3917415_01,History,systemic lupus erythematosus,{},SLE,0
+PMC3917415_01_N0002,PMC3917415_01,Symptom,headache,{},headache,0
+PMC3917415_01_N0003,PMC3917415_01,AnatomicalSite,kidney,{},kidney,5
+PMC3917415_01_N0004,PMC3917415_01,Exam,computed tomography,{},Computed tomography,9
+PMC3917415_01_N0005,PMC3917415_01,Exam,computed tomography,{},CT,9
+PMC3917415_01_N0006,PMC3917415_01,History,systemic lupus erythematosus,{},SLE,10
+PMC7718649_01_PATIENT,PMC7718649_01,Patient,Patient PMC7718649_01,"{""age"": ""65.0"", ""gender"": ""Female""}",,
+PMC7718649_01_N0001,PMC7718649_01,History,systemic lupus erythematosus,{},SLE,0
+PMC7718649_01_N0002,PMC7718649_01,History,systemic lupus erythematosus,{},SLE,1
+PMC7718649_01_N0003,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 10.0, ""unit"": ""mg"", ""surface_form"": ""10 mg""}]}",prednisone,1
+PMC7718649_01_N0004,PMC7718649_01,Treatment,hydroxychloroquine,{},hydroxychloroquine,3
+PMC7718649_01_N0005,PMC7718649_01,Symptom,fever,{},fever,9
+PMC7718649_01_N0006,PMC7718649_01,Symptom,chills,{},chills,9
+PMC7718649_01_N0007,PMC7718649_01,Symptom,rigor,{},rigor,9
+PMC7718649_01_N0008,PMC7718649_01,Symptom,myalgia,{},muscular soreness,9
+PMC7718649_01_N0009,PMC7718649_01,Symptom,fatigue,{},fatigue,9
+PMC7718649_01_N0010,PMC7718649_01,Symptom,nausea,{},nausea,12
+PMC7718649_01_N0011,PMC7718649_01,Symptom,heartburn,{},heartburn,12
+PMC7718649_01_N0012,PMC7718649_01,Symptom,diarrhea,{},diarrhea,12
+PMC7718649_01_N0013,PMC7718649_01,Treatment,oseltamivir,"{""measurements"": [{""value"": 75.0, ""unit"": ""mg"", ""surface_form"": ""75 mg""}]}",oseltamivir,13
+PMC7718649_01_N0014,PMC7718649_01,Treatment,arbidol,{},arbidol,13
+PMC7718649_01_N0015,PMC7718649_01,Treatment,moxifloxacin,{},moxifloxacin,14
+PMC7718649_01_N0016,PMC7718649_01,Treatment,prednisone,{},prednisone,17
+PMC7718649_01_N0017,PMC7718649_01,Treatment,hydroxychloroquine,{},hydroxychloroquine,17
+PMC7718649_01_N0018,PMC7718649_01,Exam,rRT-PCR,{},real-time reverse transcription polymerase chain reaction,19
+PMC7718649_01_N0019,PMC7718649_01,Exam,rRT-PCR,{},rRT-PCR,19
+PMC7718649_01_N0020,PMC7718649_01,Exam,computed tomography,{},CT,20
+PMC7718649_01_N0021,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 25.0, ""unit"": ""mg"", ""surface_form"": ""25 mg""}, {""value"": 5.0, ""unit"": ""days"", ""surface_form"": ""5 days""}]}",prednisone,21
+PMC7718649_01_N0022,PMC7718649_01,Exam,computed tomography,{},CT,23
+PMC7718649_01_N0023,PMC7718649_01,Symptom,fever,{},fever,28
+PMC7718649_01_N0024,PMC7718649_01,Symptom,cough,{},mild coughing,29
+PMC7718649_01_N0025,PMC7718649_01,AnatomicalSite,kidney,{},kidney,35
+PMC7718649_01_N0026,PMC7718649_01,AnatomicalSite,liver,{},liver,35
+PMC7718649_01_N0027,PMC7718649_01,History,systemic lupus erythematosus,{},SLE,42
+PMC7718649_01_N0028,PMC7718649_01,History,diabetes mellitus,{},diabetes mellitus,43
+PMC7718649_01_N0029,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 25.0, ""unit"": ""mg"", ""surface_form"": ""25 mg""}]}",Prednisone,44
+PMC7718649_01_N0030,PMC7718649_01,Treatment,hydroxychloroquine,{},hydroxychloroquine,46
+PMC7718649_01_N0031,PMC7718649_01,History,systemic lupus erythematosus,{},SLE,49
+PMC7718649_01_N0032,PMC7718649_01,Treatment,pantoprazole,"{""measurements"": [{""value"": 40.0, ""unit"": ""mg"", ""surface_form"": ""40 mg""}]}",Pantoprazole,50
+PMC7718649_01_N0033,PMC7718649_01,Treatment,prednisone,{},prednisone,52
+PMC7718649_01_N0034,PMC7718649_01,Treatment,levofloxacin,{},Levofloxacin,53
+PMC7718649_01_N0035,PMC7718649_01,Treatment,acarbose,"{""measurements"": [{""value"": 50.0, ""unit"": ""mg"", ""surface_form"": ""50 mg""}]}",acarbose,58
+PMC7718649_01_N0036,PMC7718649_01,Exam,computed tomography,{},CT,60
+PMC7718649_01_N0037,PMC7718649_01,Exam,computed tomography,{},CT,60
+PMC7718649_01_N0038,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 15.0, ""unit"": ""mg"", ""surface_form"": ""15 mg""}]}",prednisone,62
+PMC7718649_01_N0039,PMC7718649_01,Exam,computed tomography,{},CT,68
+PMC7718649_01_N0040,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 10.0, ""unit"": ""mg"", ""surface_form"": ""10 mg""}]}",prednisone,69
+PMC7718649_01_N0041,PMC7718649_01,Exam,rRT-PCR,{},rRT-PCR,70
+PMC7718649_01_N0042,PMC7718649_01,Symptom,wrist pain,{},wrist pain,71
+PMC7718649_01_N0043,PMC7718649_01,Treatment,loxoprofen,"{""measurements"": [{""value"": 60.0, ""unit"": ""mg"", ""surface_form"": ""60 mg""}]}",loxoprofen,71
+PMC7718649_01_N0044,PMC7718649_01,Exam,computed tomography,{},CT,75
+PMC7718649_01_N0045,PMC7718649_01,Exam,rRT-PCR,{},rRT-PCR,76
+PMC7718649_01_N0046,PMC7718649_01,Exam,rRT-PCR,{},rRT-PCR,80
+PMC6134951_01_PATIENT,PMC6134951_01,Patient,Patient PMC6134951_01,"{""age"": ""49.0"", ""gender"": ""Female""}",,
+PMC6134951_01_N0001,PMC6134951_01,History,asthma,{},asthma,0
+PMC6134951_01_N0002,PMC6134951_01,History,atrial myxoma,{},atrial myxoma,0
+PMC6134951_01_N0003,PMC6134951_01,AnatomicalSite,lung,{},lung,0
+PMC6134951_01_N0004,PMC6134951_01,Diagnosis,pulmonary adenocarcinoma,{},pulmonary adenocarcinoma,1
+PMC6134951_01_N0005,PMC6134951_01,Treatment,carboplatin,{},carboplatin,4
+PMC6134951_01_N0006,PMC6134951_01,Treatment,pemetrexed,{},pemetrexed,4
+PMC6134951_01_N0007,PMC6134951_01,Treatment,pembrolizumab,{},pembrolizumab,4
+PMC6134951_01_N0008,PMC6134951_01,Treatment,alectinib,"{""measurements"": [{""value"": 600.0, ""unit"": ""mg"", ""surface_form"": ""600 mg""}]}",alectinib,9
+PMC6134951_01_N0009,PMC6134951_01,Symptom,chest pain,"{""measurements"": [{""value"": 10.0, ""unit"": ""days"", ""surface_form"": ""10 days""}]}",chest pain,9
+PMC6134951_01_N0010,PMC6134951_01,Diagnosis,drug eruption,{},drug eruption,12
+PMC6134951_01_N0011,PMC6134951_01,Diagnosis,delayed type IV hypersensitivity,{},delayed type IV hypersensitivity,12
+PMC6134951_01_N0012,PMC6134951_01,Treatment,alectinib,{},Alectinib,15
+PMC6134951_01_N0013,PMC6134951_01,Treatment,prednisone,"{""measurements"": [{""value"": 30.0, ""unit"": ""mg"", ""surface_form"": ""30 mg""}, {""value"": 20.0, ""unit"": ""mg"", ""surface_form"": ""20 mg""}]}",prednisone,16
+PMC6134951_01_N0014,PMC6134951_01,Treatment,diphenhydramine,"{""measurements"": [{""value"": 50.0, ""unit"": ""mg"", ""surface_form"": ""50 mg""}]}",diphenhydramine,18
+PMC6134951_01_N0015,PMC6134951_01,Treatment,prednisone,{},prednisone,18
+PMC6134951_01_N0016,PMC6134951_01,Treatment,triamcinolone,{},triamcinolone,18
+PMC6134951_01_N0017,PMC6134951_01,Treatment,prednisone,{},prednisone,20
+PMC6134951_01_N0018,PMC6134951_01,Exam,biopsy,{},biopsy,21
+PMC6134951_01_N0019,PMC6134951_01,Treatment,brigatinib,{},brigatinib,22
+PMC6134951_01_N0020,PMC6134951_01,Treatment,prednisone,{},prednisone,22
+PMC6134951_01_N0021,PMC6134951_01,Symptom,fever,"{""negated"": true, ""status"": ""absent""}",fever,23
+PMC6343374_01_PATIENT,PMC6343374_01,Patient,Patient PMC6343374_01,"{""age"": ""0.0"", ""gender"": ""Male""}",,
+PMC6343374_01_N0001,PMC6343374_01,Exam,echocardiography,{},Echocardiography,1
+PMC6343374_01_N0002,PMC6343374_01,Exam,echocardiography,{},echocardiography,11
+PMC6343374_01_N0003,PMC6343374_01,Treatment,surgery,{},surgery,13
+PMC6343374_01_N0004,PMC6343374_01,AnatomicalSite,bronchus,"{""measurements"": [{""value"": 7.0, ""unit"": ""months"", ""surface_form"": ""7 months""}]}",bronchus,13
+PMC6343374_01_N0005,PMC6343374_01,Exam,echocardiography,"{""measurements"": [{""value"": 36.0, ""unit"": ""months"", ""surface_form"": ""36 months""}]}",echocardiography,17
+PMC6343374_01_N0006,PMC6343374_01,Treatment,surgery,{},surgery,20
+PMC6343374_01_N0007,PMC6343374_01,AnatomicalSite,heart,{},heart,24
+PMC6343374_01_N0008,PMC6343374_01,Treatment,surgery,{},surgery,24
+PMC6343374_01_N0009,PMC6343374_01,Exam,ultrasound,{},ultrasound,33
+PMC6343374_01_N0010,PMC6343374_01,Treatment,surgery,{},surgery,42
+PMC6343374_01_N0011,PMC6343374_01,AnatomicalSite,heart,{},heart,44
+PMC9529523_01_PATIENT,PMC9529523_01,Patient,Patient PMC9529523_01,"{""age"": ""41.0"", ""gender"": ""Female""}",,
+PMC9529523_01_N0001,PMC9529523_01,History,postpartum cardiomyopathy,{},postpartum cardiomyopathy,0
+PMC9529523_01_N0002,PMC9529523_01,History,systemic lupus erythematosus,{},SLE,0
+PMC9529523_01_N0003,PMC9529523_01,Symptom,finger pain,{},finger pain,1
+PMC9529523_01_N0004,PMC9529523_01,Treatment,drainage,{},drainage,1
+PMC9529523_01_N0005,PMC9529523_01,Exam,transthoracic echocardiogram,{},transthoracic echocardiogram,2
+PMC9529523_01_N0006,PMC9529523_01,Diagnosis,infective endocarditis,"{""negated"": true, ""status"": ""absent""}",infective endocarditis,2
+PMC9529523_01_N0007,PMC9529523_01,Treatment,drainage,{},drainage,3
+PMC9529523_01_N0008,PMC9529523_01,History,systemic lupus erythematosus,{},systemic lupus erythematosus,10
+PMC9529523_01_N0009,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}, {""value"": 3.9, ""unit"": ""mg"", ""surface_form"": ""3.9 mg""}]}",hydroxychloroquine,11
+PMC9529523_01_N0010,PMC9529523_01,Treatment,mycophenolate mofetil,{},mycophenolate mofetil,12
+PMC9529523_01_N0011,PMC9529523_01,Symptom,weight loss,{},weight loss,14
+PMC9529523_01_N0012,PMC9529523_01,Symptom,alopecia,{},alopecia,15
+PMC9529523_01_N0013,PMC9529523_01,AnatomicalSite,chest,{},chest,15
+PMC9529523_01_N0014,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 1232.1, ""unit"": ""ng/ml"", ""surface_form"": ""1232.1 ng/ml""}]}",hydroxychloroquine,21
+PMC9529523_01_N0015,PMC9529523_01,History,systemic lupus erythematosus,{},SLE,22
+PMC9529523_01_N0016,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 1000.0, ""unit"": ""ng/ml"", ""surface_form"": ""1000 ng/mL""}]}",hydroxychloroquine,22
+PMC9529523_01_N0017,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}, {""value"": 3.1, ""unit"": ""mg"", ""surface_form"": ""3.1 mg""}]}",hydroxychloroquine,24
+PMC9529523_01_N0018,PMC9529523_01,AnatomicalSite,kidney,{},kidney,26
+PMC9529523_01_N0019,PMC9529523_01,AnatomicalSite,kidney,{},kidney,26
+PMC9529523_01_N0020,PMC9529523_01,Exam,biopsy,{},biopsy,26
+PMC9529523_01_N0021,PMC9529523_01,History,hypertension,{},hypertension,26
+PMC9529523_01_N0022,PMC9529523_01,Exam,pulmonary function testing,{},pulmonary function testing,27
+PMC9529523_01_N0023,PMC9529523_01,Exam,computed tomography,{},computed tomography,29
+PMC9529523_01_N0024,PMC9529523_01,AnatomicalSite,chest,{},chest,29
+PMC9529523_01_N0025,PMC9529523_01,AnatomicalSite,lung,"{""negated"": true, ""status"": ""absent""}",lung,29
+PMC9529523_01_N0026,PMC9529523_01,AnatomicalSite,kidney,{},kidney,30
+PMC9529523_01_N0027,PMC9529523_01,Treatment,mycophenolate mofetil,{},Mycophenolate mofetil,33
+PMC9529523_01_N0028,PMC9529523_01,History,hypertension,{},hypertension,34
+PMC9529523_01_N0029,PMC9529523_01,Exam,echocardiography,"{""negated"": true, ""status"": ""absent""}",echocardiography,35
+PMC9529523_01_N0030,PMC9529523_01,Exam,magnetic resonance imaging,{},magnetic resonance imaging,35
+PMC9529523_01_N0031,PMC9529523_01,Exam,magnetic resonance imaging,{},MRI,35
+PMC9529523_01_N0032,PMC9529523_01,Symptom,shortness of breath,{},shortness of breath,37
+PMC9529523_01_N0033,PMC9529523_01,Symptom,dyspnea,{},dyspnea,37
+PMC9529523_01_N0034,PMC9529523_01,AnatomicalSite,chest,{},chest,38
+PMC9529523_01_N0035,PMC9529523_01,Treatment,mycophenolate mofetil,{},mycophenolate mofetil,40
+PMC9529523_01_N0036,PMC9529523_01,Exam,electrocardiogram,{},Electrocardiogram,41
+PMC9529523_01_N0037,PMC9529523_01,Exam,transthoracic echocardiogram,{},transthoracic echocardiogram,41
+PMC9529523_01_N0038,PMC9529523_01,AnatomicalSite,heart,{},heart,43
+PMC9529523_01_N0039,PMC9529523_01,Exam,biopsy,{},biopsy,43
+PMC9529523_01_N0040,PMC9529523_01,History,hypertension,"{""negated"": true, ""status"": ""absent""}",hypertension,43
+PMC9529523_01_N0041,PMC9529523_01,Exam,biopsy,{},biopsy,44
+PMC9529523_01_N0042,PMC9529523_01,Treatment,hydroxychloroquine,{},hydroxychloroquine,44
+PMC9529523_01_N0043,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 274.0, ""unit"": ""ng/ml"", ""surface_form"": ""274 ng/ml""}]}",hydroxychloroquine,45
+PMC9529523_01_N0044,PMC9529523_01,Exam,biopsy,{},biopsy,45
+PMC9529523_01_N0045,PMC9529523_01,Treatment,hydroxychloroquine,{},Hydroxychloroquine,46
+PMC9529523_01_N0046,PMC9529523_01,Treatment,prednisone,{},prednisone,46
+PMC9532611_01_PATIENT,PMC9532611_01,Patient,Patient PMC9532611_01,"{""age"": ""12.0"", ""gender"": ""Female""}",,
+PMC9532611_01_N0001,PMC9532611_01,History,hypertension,{},hypertension,1
+PMC9532611_01_N0002,PMC9532611_01,History,hypertension,"{""negated"": true, ""status"": ""absent""}",hypertension,7
+PMC9532611_01_N0003,PMC9532611_01,History,hypertension,"{""measurements"": [{""value"": 4.0, ""unit"": ""years"", ""surface_form"": ""4 years""}]}",hypertension,8
+PMC9532611_01_N0004,PMC9532611_01,Treatment,surgery,{},surgery,9
+PMC9532611_02_PATIENT,PMC9532611_02,Patient,Patient PMC9532611_02,"{""age"": ""6.0"", ""gender"": ""Female""}",,
+PMC5875137_01_PATIENT,PMC5875137_01,Patient,Patient PMC5875137_01,"{""age"": ""83.0"", ""gender"": ""Female""}",,
+PMC5875137_01_N0001,PMC5875137_01,Diagnosis,cancer,{},cancer,0
+PMC5875137_01_N0002,PMC5875137_01,AnatomicalSite,chest,{},chest,0
+PMC5875137_01_N0003,PMC5875137_01,Exam,computed tomography,{},computed tomography,0
+PMC5875137_01_N0004,PMC5875137_01,Exam,computed tomography,"{""measurements"": [{""value"": 6.5, ""unit"": ""cm"", ""surface_form"": ""6.5 cm""}]}",CT,0
+PMC5875137_01_N0005,PMC5875137_01,Treatment,surgery,{},surgery,4
+PMC5875137_01_N0006,PMC5875137_01,AnatomicalSite,chest,{},chest,5
+PMC5875137_01_N0007,PMC5875137_01,Exam,computed tomography,{},CT scan,5
+PMC5875137_01_N0008,PMC5875137_01,AnatomicalSite,heart,{},heart,5
+PMC5875137_01_N0009,PMC5875137_01,Exam,echocardiography,{},echocardiography,6
+PMC6949661_01_PATIENT,PMC6949661_01,Patient,Patient PMC6949661_01,"{""age"": ""23.0"", ""gender"": ""Male""}",,
+PMC6949661_01_N0001,PMC6949661_01,Symptom,fever,"{""negated"": true, ""status"": ""absent""}",fever,1
+PMC6949661_01_N0002,PMC6949661_01,Symptom,headache,"{""negated"": true, ""status"": ""absent""}",headache,1
+PMC6949661_01_N0003,PMC6949661_01,Symptom,chest pain,"{""negated"": true, ""status"": ""absent""}",chest pain,1
+PMC6949661_01_N0004,PMC6949661_01,Symptom,shortness of breath,"{""negated"": true, ""status"": ""absent""}",shortness of breath,1
+PMC6949661_01_N0005,PMC6949661_01,Symptom,palpitations,{},palpitations,1
+PMC6949661_01_N0006,PMC6949661_01,AnatomicalSite,chest,"{""negated"": true, ""status"": ""absent""}",chest,2
+PMC6949661_01_N0007,PMC6949661_01,Exam,computed tomography,{},Computed tomography,5
+PMC6949661_01_N0008,PMC6949661_01,Exam,computed tomography,{},CT,5
+PMC6949661_01_N0009,PMC6949661_01,Exam,electrocardiogram,{},ECG,5
+PMC6949661_01_N0010,PMC6949661_01,Exam,echocardiography,{},Echocardiography,6
+PMC6949661_01_N0011,PMC6949661_01,Symptom,nausea,{},nausea,7
+PMC6949661_01_N0012,PMC6949661_01,Symptom,vomiting,{},vomiting,7
+PMC6949661_01_N0013,PMC6949661_01,AnatomicalSite,liver,{},liver,7
+PMC6949661_01_N0014,PMC6949661_01,Symptom,tachycardia,{},tachycardia,8
+PMC6949661_01_N0015,PMC6949661_01,AnatomicalSite,abdomen,{},abdomen,9
+PMC6949661_01_N0016,PMC6949661_01,Exam,esophagogastroduodenoscopy,{},Esophagogastroduodenoscopy,17
+PMC6949661_01_N0017,PMC6949661_01,Exam,esophagogastroduodenoscopy,{},EGD,17
+PMC6949661_01_N0018,PMC6949661_01,AnatomicalSite,duodenum,{},duodenum,17
+PMC6949661_01_N0019,PMC6949661_01,Exam,colonoscopy,{},Colonoscopy,18
+PMC6949661_01_N0020,PMC6949661_01,Exam,computed tomography,{},CT,20
+PMC6949661_01_N0021,PMC6949661_01,AnatomicalSite,kidney,{},kidney,20
+PMC6949661_01_N0022,PMC6949661_01,Exam,endoscopy,{},Endoscopy,22
+PMC6949661_01_N0023,PMC6949661_01,AnatomicalSite,jejunum,{},jejunum,23
+PMC6949661_01_N0024,PMC6949661_01,AnatomicalSite,jejunum,"{""measurements"": [{""value"": 30.0, ""unit"": ""cm"", ""surface_form"": ""30 cm""}]}",jejunum,24
+PMC6949661_01_N0025,PMC6949661_01,Treatment,resection,{},resection,27
+PMC6949661_01_N0026,PMC6949661_01,Treatment,surgery,{},surgery,28
+PMC6949661_01_N0027,PMC6949661_01,Treatment,surgery,{},surgery,29
+PMC6949661_01_N0028,PMC6949661_01,AnatomicalSite,jejunum,{},jejunum,31
+PMC10405809_01_PATIENT,PMC10405809_01,Patient,Patient PMC10405809_01,"{""age"": ""55.0"", ""gender"": ""Female""}",,
+PMC10405809_01_N0001,PMC10405809_01,Symptom,dysphagia,"{""measurements"": [{""value"": 10.0, ""unit"": ""kg"", ""surface_form"": ""10 kg""}]}",dysphagia,0
+PMC10405809_01_N0002,PMC10405809_01,Symptom,heartburn,"{""measurements"": [{""value"": 5.0, ""unit"": ""years"", ""surface_form"": ""5 years""}]}",heartburn,1
+PMC10405809_01_N0003,PMC10405809_01,AnatomicalSite,abdomen,{},abdomen,7
+PMC10405809_01_N0004,PMC10405809_01,AnatomicalSite,esophagus,{},esophagus,13
+PMC10405809_01_N0005,PMC10405809_01,AnatomicalSite,esophagus,{},esophagus,13
+PMC10405809_01_N0006,PMC10405809_01,AnatomicalSite,esophagus,{},esophagus,15
+PMC10405809_01_N0007,PMC10405809_01,Symptom,weight loss,{},weight loss,15
+PMC10405809_01_N0008,PMC10405809_01,Exam,computed tomography,{},computed tomography,16
+PMC10405809_01_N0009,PMC10405809_01,Exam,computed tomography,{},CT,16
+PMC10405809_01_N0010,PMC10405809_01,AnatomicalSite,esophagus,{},esophagus,16
+PMC10405809_01_N0011,PMC10405809_01,Exam,esophagogastroduodenoscopy,"{""measurements"": [{""value"": 20.0, ""unit"": ""cm"", ""surface_form"": ""20 cm""}]}",Esophagogastroduodenoscopy,18
+PMC10405809_01_N0012,PMC10405809_01,AnatomicalSite,esophagus,{},esophagus,18
+PMC10405809_01_N0013,PMC10405809_01,AnatomicalSite,esophagus,{},esophagus,23
+PMC10405809_01_N0014,PMC10405809_01,Symptom,weight loss,{},weight loss,24
+PMC10405809_01_N0015,PMC10405809_01,Exam,computed tomography,{},CT scan,24
+PMC10405809_01_N0016,PMC10405809_01,Exam,biopsy,{},biopsy,24
+PMC10405809_01_N0017,PMC10405809_01,Exam,endoscopy,{},endoscopy,25
+PMC10405809_01_N0018,PMC10405809_01,Exam,computed tomography,{},CT scan,26
+PMC10405809_01_N0019,PMC10405809_01,AnatomicalSite,esophagus,{},esophagus,26
+PMC7519975_01_PATIENT,PMC7519975_01,Patient,Patient PMC7519975_01,"{""age"": ""33.0"", ""gender"": ""Female""}",,
+PMC7519975_01_N0001,PMC7519975_01,History,diabetes mellitus,{},diabetes mellitus,0
+PMC7519975_01_N0002,PMC7519975_01,Symptom,vomiting,{},emesis,0
+PMC7519975_01_N0003,PMC7519975_01,Exam,computed tomography,{},Computed tomography,1
+PMC7519975_01_N0004,PMC7519975_01,Exam,computed tomography,{},CT,1
+PMC7519975_01_N0005,PMC7519975_01,AnatomicalSite,abdomen,{},abdomen,1
+PMC7519975_01_N0006,PMC7519975_01,AnatomicalSite,abdomen,{},abdomen,1
+PMC7519975_01_N0007,PMC7519975_01,Exam,computed tomography,{},CT,2
+PMC7519975_01_N0008,PMC7519975_01,AnatomicalSite,abdomen,{},abdomen,3
+PMC7519975_01_N0009,PMC7519975_01,Treatment,surgery,{},surgery,5
+PMC7519975_01_N0010,PMC7519975_01,AnatomicalSite,abdomen,{},abdomen,5
+PMC7519975_01_N0011,PMC7519975_01,AnatomicalSite,heart,{},heart,6
+PMC7519975_01_N0012,PMC7519975_01,Exam,electrocardiogram,{},electrocardiogram,8
+PMC7519975_01_N0013,PMC7519975_01,Exam,electrocardiogram,{},ECG,8
+PMC7519975_01_N0014,PMC7519975_01,Treatment,surgery,"{""measurements"": [{""value"": 30.0, ""unit"": ""days"", ""surface_form"": ""30 days""}]}",surgery,17
+PMC7519975_01_N0015,PMC7519975_01,Treatment,surgery,{},surgery,17
+PMC7519975_01_N0016,PMC7519975_01,Treatment,surgery,{},surgery,18
+PMC7519975_01_N0017,PMC7519975_01,Treatment,surgery,{},surgery,19
+PMC7519975_01_N0018,PMC7519975_01,Treatment,surgery,{},surgery,19
+PMC7519975_01_N0019,PMC7519975_01,AnatomicalSite,chest,{},chest,23
+PMC7519975_01_N0020,PMC7519975_01,AnatomicalSite,chest,{},chest,24
+PMC7519975_01_N0021,PMC7519975_01,Treatment,surgery,{},surgery,25
+PMC7519975_01_N0022,PMC7519975_01,AnatomicalSite,heart,"{""negated"": true, ""status"": ""absent""}",heart,33
+PMC7519975_01_N0023,PMC7519975_01,Treatment,surgery,{},Surgery,36
+PMC7519975_01_N0024,PMC7519975_01,AnatomicalSite,ileum,{},ileum,37
+PMC7519975_01_N0025,PMC7519975_01,AnatomicalSite,colon,{},colon,37
+PMC7519975_01_N0026,PMC7519975_01,Treatment,surgery,{},Surgery,38
+PMC3950436_01_PATIENT,PMC3950436_01,Patient,Patient PMC3950436_01,"{""age"": ""19.0"", ""gender"": ""Female""}",,
+PMC3950436_01_N0001,PMC3950436_01,Symptom,shortness of breath,{},shortness of breath,2
+PMC3950436_01_N0002,PMC3950436_01,Symptom,dysphagia,{},dysphagia,2
+PMC3950436_01_N0003,PMC3950436_01,Treatment,chemotherapy,{},chemotherapy,4
+PMC3950436_01_N0004,PMC3950436_01,Treatment,surgery,{},surgery,9
+PMC3950436_01_N0005,PMC3950436_01,AnatomicalSite,heart,{},heart,9
+PMC3950436_01_N0006,PMC3950436_01,Exam,electrocardiogram,{},electrocardiogram,16
+PMC3950436_01_N0007,PMC3950436_01,Exam,ultrasound,"{""measurements"": [{""value"": 5.0, ""unit"": ""ml"", ""surface_form"": ""5 ml""}]}",ultrasound,18
+PMC10434843_01_PATIENT,PMC10434843_01,Patient,Patient PMC10434843_01,"{""age"": ""49.0"", ""gender"": ""Male""}",,
+PMC10434843_01_N0001,PMC10434843_01,Exam,magnetic resonance imaging,{},Magnetic resonance imaging,4
+PMC10434843_01_N0002,PMC10434843_01,Exam,magnetic resonance imaging,{},MRI,4
+PMC10434843_01_N0003,PMC10434843_01,Exam,ultrasonography,{},ultrasonography,27
+PMC10434843_01_N0004,PMC10434843_01,Exam,magnetic resonance imaging,{},MRI,29
+PMC10434843_01_N0005,PMC10434843_01,AnatomicalSite,abdomen,{},abdomen,30
+PMC10434843_01_N0006,PMC10434843_01,Exam,computed tomography,{},computed tomography,30
+PMC10434843_01_N0007,PMC10434843_01,Exam,computed tomography,{},CT,30
+PMC4630775_01_PATIENT,PMC4630775_01,Patient,Patient PMC4630775_01,"{""age"": ""39.0"", ""gender"": ""Female""}",,
+PMC2700431_01_PATIENT,PMC2700431_01,Patient,Patient PMC2700431_01,"{""age"": ""35.0"", ""gender"": ""Male""}",,
+PMC2700431_01_N0001,PMC2700431_01,AnatomicalSite,chest,{},chest,3
+PMC2700431_01_N0002,PMC2700431_01,AnatomicalSite,spleen,{},spleen,3
+PMC2700431_01_N0003,PMC2700431_01,AnatomicalSite,liver,{},liver,3
+PMC2700431_01_N0004,PMC2700431_01,AnatomicalSite,chest,{},Chest,10
+PMC2700431_01_N0005,PMC2700431_01,AnatomicalSite,lung,{},lung,10
+PMC2700431_01_N0006,PMC2700431_01,Exam,bronchoscopy,{},Bronchoscopy,11
+PMC10106591_01_PATIENT,PMC10106591_01,Patient,Patient PMC10106591_01,"{""age"": ""44.0"", ""gender"": ""Female""}",,
+PMC10106591_01_N0001,PMC10106591_01,Symptom,chest pain,{},chest pain,0
+PMC10106591_01_N0002,PMC10106591_01,Symptom,chest tightness,{},chest tightness,0
+PMC10106591_01_N0003,PMC10106591_01,Symptom,chest pain,{},chest pain,1
+PMC10106591_01_N0004,PMC10106591_01,Symptom,shortness of breath,"{""negated"": true, ""status"": ""absent""}",shortness of breath,1
+PMC10106591_01_N0005,PMC10106591_01,Symptom,palpitations,"{""negated"": true, ""status"": ""absent""}",palpitations,1
+PMC10106591_01_N0006,PMC10106591_01,Symptom,diaphoresis,"{""negated"": true, ""status"": ""absent""}",diaphoresis,1
+PMC10106591_01_N0007,PMC10106591_01,History,hypertension,"{""measurements"": [{""value"": 7.0, ""unit"": ""years"", ""surface_form"": ""7 years""}, {""value"": 150.0, ""unit"": ""mg"", ""surface_form"": ""150 mg""}]}",hypertension,4
+PMC10106591_01_N0008,PMC10106591_01,AnatomicalSite,heart,{},heart,8
+PMC10106591_01_N0009,PMC10106591_01,AnatomicalSite,heart,{},heart,9
+PMC10106591_01_N0010,PMC10106591_01,AnatomicalSite,abdomen,{},abdomen,10
+PMC10106591_01_N0011,PMC10106591_01,Exam,electrocardiogram,{},electrocardiogram,12
+PMC10106591_01_N0012,PMC10106591_01,Exam,electrocardiogram,{},ECG,12
+PMC10106591_01_N0013,PMC10106591_01,Exam,echocardiography,"{""negated"": true, ""status"": ""absent""}",echocardiography,12
+PMC10106591_01_N0014,PMC10106591_01,Treatment,aspirin,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}], ""negated"": true, ""status"": ""absent""}",aspirin,20
+PMC10106591_01_N0015,PMC10106591_01,Treatment,clopidogrel,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}], ""negated"": true, ""status"": ""absent""}",clopidogrel,20
+PMC10106591_01_N0016,PMC10106591_01,Exam,coronary angiography,{},coronary angiography,20
+PMC10106591_01_N0017,PMC10106591_01,Symptom,chest pain,{},chest pain,22
+PMC10106591_01_N0018,PMC10106591_01,Exam,electrocardiogram,{},ECG,22
+PMC10106591_01_N0019,PMC10106591_01,Symptom,chest pain,{},chest pain,23
+PMC10106591_01_N0020,PMC10106591_01,Exam,electrocardiogram,{},ECG,23
+PMC10106591_01_N0021,PMC10106591_01,Symptom,chest pain,{},chest pain,23
+PMC10106591_01_N0022,PMC10106591_01,Treatment,diltiazem,{},diltiazem,24
+PMC10106591_01_N0023,PMC10106591_01,Symptom,chest pain,{},chest pain,24
+PMC10106591_01_N0024,PMC10106591_01,Treatment,diltiazem,"{""measurements"": [{""value"": 5.0, ""unit"": ""ml"", ""surface_form"": ""5 mL""}]}",diltiazem,25
+PMC10106591_01_N0025,PMC10106591_01,AnatomicalSite,liver,{},liver,27
+PMC10106591_01_N0026,PMC10106591_01,Exam,electrocardiogram,"{""measurements"": [{""value"": 0.031, ""unit"": ""ng/ml"", ""surface_form"": ""0.031 ng/mL""}]}",ECG,28
+PMC10106591_01_N0027,PMC10106591_01,Exam,electrocardiogram,{},ECG,30
+PMC10106591_01_N0028,PMC10106591_01,Treatment,diltiazem,"{""measurements"": [{""value"": 90.0, ""unit"": ""mg"", ""surface_form"": ""90 mg""}]}",diltiazem,31
+PMC10106591_01_N0029,PMC10106591_01,Treatment,aspirin,"{""measurements"": [{""value"": 100.0, ""unit"": ""mg"", ""surface_form"": ""100 mg""}]}",aspirin,31
+PMC10106591_01_N0030,PMC10106591_01,Treatment,atorvastatin,"{""measurements"": [{""value"": 20.0, ""unit"": ""mg"", ""surface_form"": ""20 mg""}]}",atorvastatin,31
+PMC10106591_01_N0031,PMC10106591_01,Symptom,chest pain,"{""negated"": true, ""status"": ""absent""}",chest pain,32
+PMC10106591_01_N0032,PMC10106591_01,Symptom,chest pain,"{""negated"": true, ""status"": ""absent""}",chest pain,33
+PMC4073451_01_PATIENT,PMC4073451_01,Patient,Patient PMC4073451_01,"{""age"": ""14.0"", ""gender"": ""Female""}",,
+PMC4073451_01_N0001,PMC4073451_01,Treatment,surgery,{},Surgery,0
+PMC4073451_01_N0002,PMC4073451_01,AnatomicalSite,mandible,{},mandible,0
+PMC4073451_01_N0003,PMC4073451_01,AnatomicalSite,mandible,{},mandible,1
+PMC4073451_01_N0004,PMC4073451_01,Exam,computed tomography,{},CT,2
+PMC4073451_01_N0005,PMC4073451_01,Exam,biopsy,{},biopsy,3
+PMC4073451_01_N0006,PMC4073451_01,Diagnosis,keratocystic odontogenic tumor,"{""measurements"": [{""value"": 14.0, ""unit"": ""months"", ""surface_form"": ""14 months""}]}",keratocystic odontogenic tumor,4
+PMC4073451_01_N0007,PMC4073451_01,Diagnosis,keratocystic odontogenic tumor,{},keratocystic odontogenic tumor,6
+PMC4073451_01_N0008,PMC4073451_01,Exam,computed tomography,{},CT scan,8
+PMC4073451_01_N0009,PMC4073451_01,AnatomicalSite,mandible,{},mandible,9
+PMC4073451_01_N0010,PMC4073451_01,Exam,computed tomography,{},CT scan,10
+PMC4073451_01_N0011,PMC4073451_01,AnatomicalSite,mandible,{},mandible,10
+PMC6083636_01_PATIENT,PMC6083636_01,Patient,Patient PMC6083636_01,"{""age"": ""9.0"", ""gender"": ""Male""}",,
+PMC6083636_01_N0001,PMC6083636_01,Symptom,reduced vision,"{""measurements"": [{""value"": 10.0, ""unit"": ""mg"", ""surface_form"": ""10 mg""}]}",poor vision,5
+PMC6083636_02_PATIENT,PMC6083636_02,Patient,Patient PMC6083636_02,"{""age"": """", ""gender"": ""Unknown""}",,
+PMC6083636_02_N0001,PMC6083636_02,Exam,optical coherence tomography,{},OCT,1
+PMC6083636_02_N0002,PMC6083636_02,Exam,optical coherence tomography,{},OCT,1
+PMC6083636_02_N0003,PMC6083636_02,AnatomicalSite,retina,{},retina,7
+PMC6083636_02_N0004,PMC6083636_02,AnatomicalSite,retina,{},retina,12
+PMC6083636_02_N0005,PMC6083636_02,AnatomicalSite,retina,{},retina,12
+PMC6083636_02_N0006,PMC6083636_02,Diagnosis,fovea plana,{},fovea plana,13
+PMC6083636_03_PATIENT,PMC6083636_03,Patient,Patient PMC6083636_03,"{""age"": """", ""gender"": ""Unknown""}",,
+PMC6083636_03_N0001,PMC6083636_03,Exam,optical coherence tomography,{},OCT,7
+PMC9969157_01_PATIENT,PMC9969157_01,Patient,Patient PMC9969157_01,"{""age"": ""7.0"", ""gender"": ""Male""}",,
+PMC9969157_01_N0001,PMC9969157_01,History,gestational diabetes,{},gestational diabetes,0
+PMC9969157_01_N0002,PMC9969157_01,History,gestational hypertension,{},gestational hypertension,0
+PMC9969157_01_N0003,PMC9969157_01,Diagnosis,LCHADD,{},LCHADD,0
+PMC9969157_01_N0004,PMC9969157_01,Diagnosis,LCHADD,{},LCHADD,9
+PMC9969157_01_N0005,PMC9969157_01,Diagnosis,LCHADD,{},LCHADD,10
+PMC9969157_01_N0006,PMC9969157_01,Symptom,bradycardia,{},bradycardia,18
+PMC9969157_01_N0007,PMC9969157_01,Symptom,vomiting,{},emesis,20
+PMC9969157_01_N0008,PMC9969157_01,Symptom,hematochezia,{},hematochezia,20
+PMC9969157_01_N0009,PMC9969157_01,Diagnosis,necrotizing enterocolitis,{},NEC,21
+PMC9969157_01_N0010,PMC9969157_01,Treatment,ampicillin-sulbactam,{},ampicillin-sulbactam,22
+PMC9969157_01_N0011,PMC9969157_01,Treatment,gentamicin,"{""measurements"": [{""value"": 7.0, ""unit"": ""days"", ""surface_form"": ""7 days""}, {""value"": 5.0, ""unit"": ""days"", ""surface_form"": ""5 days""}]}",gentamicin,22
+PMC4828947_01_PATIENT,PMC4828947_01,Patient,Patient PMC4828947_01,"{""age"": ""61.0"", ""gender"": ""Male""}",,
+PMC4828947_01_N0001,PMC4828947_01,History,drug-resistant seizures,{},drug-resistant seizures,0
+PMC4828947_01_N0002,PMC4828947_01,Exam,electroencephalogram,{},electroencephalogram,1
+PMC4828947_01_N0003,PMC4828947_01,Exam,electroencephalogram,{},EEG,1
+PMC4828947_01_N0004,PMC4828947_01,Symptom,seizure,{},seizures,1
+PMC4828947_01_N0005,PMC4828947_01,AnatomicalSite,temporal lobe,{},temporal lobe,1
+PMC4828947_01_N0006,PMC4828947_01,Symptom,seizure,{},seizures,2
+PMC4828947_01_N0007,PMC4828947_01,Symptom,dysphasia,{},dysphasia,3
+PMC4828947_01_N0008,PMC4828947_01,Symptom,dysphasia,{},dysphasia,4
+PMC4828947_01_N0009,PMC4828947_01,Treatment,surgery,{},surgery,5
+PMC4828947_01_N0010,PMC4828947_01,Symptom,seizure,{},seizures,5
+PMC4828947_01_N0011,PMC4828947_01,Symptom,seizure,{},seizures,6
+PMC4828947_01_N0012,PMC4828947_01,Treatment,oxcarbazepine,"{""measurements"": [{""value"": 1200.0, ""unit"": ""mg"", ""surface_form"": ""1200 mg""}]}",oxcarbazepine,6
+PMC4828947_01_N0013,PMC4828947_01,Treatment,valproic acid,"{""measurements"": [{""value"": 1500.0, ""unit"": ""mg"", ""surface_form"": ""1500 mg""}]}",valproic acid,6
+PMC4828947_01_N0014,PMC4828947_01,Symptom,seizure,{},seizures,7
+PMC4828947_01_N0015,PMC4828947_01,Exam,magnetic resonance imaging,{},magnetic resonance imaging,10
+PMC4828947_01_N0016,PMC4828947_01,Exam,magnetic resonance imaging,{},MRI,10
+PMC4828947_01_N0017,PMC4828947_01,AnatomicalSite,temporal lobe,{},temporal lobe,10
+PMC4828947_01_N0018,PMC4828947_01,Exam,electroencephalogram,{},EEG,13
+PMC4828947_01_N0019,PMC4828947_01,AnatomicalSite,temporal lobe,{},temporal lobe,13
+PMC4828947_01_N0020,PMC4828947_01,Exam,magnetic resonance imaging,{},MRI,13
+PMC4828947_01_N0021,PMC4828947_01,Diagnosis,mixed ganglioglioma-DNET,{},mixed ganglioglioma-DNET,15
+PMC7086412_01_PATIENT,PMC7086412_01,Patient,Patient PMC7086412_01,"{""age"": ""34.0"", ""gender"": ""Female""}",,
+PMC7086412_01_N0001,PMC7086412_01,History,diabetes mellitus,{},diabetes,9
+PMC7086412_01_N0002,PMC7086412_01,History,diabetes mellitus,{},Diabetes,9
+PMC7086412_02_PATIENT,PMC7086412_02,Patient,Patient PMC7086412_02,"{""age"": ""31.0"", ""gender"": ""Female""}",,
+PMC7086412_02_N0001,PMC7086412_02,History,diabetes mellitus,{},diabetes,12
+PMC7086412_02_N0002,PMC7086412_02,History,diabetes mellitus,{},Diabetes,12
+PMC3557982_01_PATIENT,PMC3557982_01,Patient,Patient PMC3557982_01,"{""age"": ""1.0"", ""gender"": ""Female""}",,
+PMC3557982_01_N0001,PMC3557982_01,AnatomicalSite,lung,{},lung,6
+PMC9815523_01_PATIENT,PMC9815523_01,Patient,Patient PMC9815523_01,"{""age"": ""40.0"", ""gender"": ""Unknown""}",,
+PMC9815523_01_N0001,PMC9815523_01,Symptom,menorrhagia,{},menorrhagia,20
+PMC9815523_01_N0002,PMC9815523_01,Treatment,blood transfusion,{},blood transfusion,20
+PMC9815523_01_N0003,PMC9815523_01,Treatment,surgery,{},surgery,24
+PMC9815523_01_N0004,PMC9815523_01,Treatment,surgery,"{""negated"": true, ""status"": ""absent""}",surgery,25
+PMC9815523_01_N0005,PMC9815523_01,Treatment,heparin,{},heparin,27
+PMC9815523_01_N0006,PMC9815523_01,Treatment,surgery,{},surgery,39
+PMC9815523_01_N0007,PMC9815523_01,AnatomicalSite,chest,{},chest,49
+PMC4310058_01_PATIENT,PMC4310058_01,Patient,Patient PMC4310058_01,"{""age"": ""16.0"", ""gender"": ""Male""}",,
+PMC4310058_01_N0001,PMC4310058_01,AnatomicalSite,parietal bone,{},parietal bone,4
+PMC4310058_01_N0002,PMC4310058_01,AnatomicalSite,parietal bone,{},parietal bone,7
+PMC4310058_01_N0003,PMC4310058_01,Exam,computed tomography,{},computed tomography,8
+PMC4310058_01_N0004,PMC4310058_01,Exam,computed tomography,{},CT,8
+PMC4310058_01_N0005,PMC4310058_01,Exam,magnetic resonance imaging,{},magnetic resonance imaging,10
+PMC4310058_01_N0006,PMC4310058_01,Exam,magnetic resonance imaging,{},MRI,10
+PMC4310058_01_N0007,PMC4310058_01,Diagnosis,benign fibro-osseous lesion,{},benign fibro-osseous lesion,24
+PMC3859158_01_PATIENT,PMC3859158_01,Patient,Patient PMC3859158_01,"{""age"": ""44.0"", ""gender"": ""Male""}",,
+PMC3859158_01_N0001,PMC3859158_01,Symptom,epigastric pain,{},epigastric pain,0
+PMC3859158_01_N0002,PMC3859158_01,Symptom,nausea,{},nausea,1
+PMC3859158_01_N0003,PMC3859158_01,Symptom,vomiting,{},vomiting,1
+PMC3859158_01_N0004,PMC3859158_01,Diagnosis,pancreatitis,{},pancreatitis,2
+PMC3859158_01_N0005,PMC3859158_01,Symptom,fever,{},fever,3
+PMC3859158_01_N0006,PMC3859158_01,Symptom,weight loss,{},weight loss,3
+PMC3859158_01_N0007,PMC3859158_01,AnatomicalSite,abdomen,{},Abdomen,6
+PMC3859158_01_N0008,PMC3859158_01,Diagnosis,cancer,{},cancer,8
+PMC3859158_01_N0009,PMC3859158_01,Exam,computed tomography,{},computed tomography,9
+PMC3859158_01_N0010,PMC3859158_01,Exam,computed tomography,"{""measurements"": [{""value"": 11.5, ""unit"": ""cm"", ""surface_form"": ""11.5 cm""}]}",CT,9
+PMC3859158_01_N0011,PMC3859158_01,AnatomicalSite,pancreas,{},pancreas,12
+PMC3859158_01_N0012,PMC3859158_01,AnatomicalSite,pancreatic tail,{},pancreatic tail,15
+PMC3859158_01_N0013,PMC3859158_01,Treatment,resection,{},resection,16
+PMC3859158_01_N0014,PMC3859158_01,AnatomicalSite,pancreatic tail,{},pancreatic tail,16
+PMC3859158_01_N0015,PMC3859158_01,Treatment,splenectomy,{},splenectomy,16
+PMC3859158_01_N0016,PMC3859158_01,AnatomicalSite,spleen,{},spleen,17
+PMC3859158_01_N0017,PMC3859158_01,Diagnosis,ancient schwannoma,{},ancient schwannoma,25
+PMC3859158_01_N0018,PMC3859158_01,Diagnosis,ancient schwannoma,{},ancient schwannoma,29
+PMC3859158_01_N0019,PMC3859158_01,AnatomicalSite,pancreatic tail,{},pancreatic tail,29
+PMC3859158_01_N0020,PMC3859158_01,Treatment,surgery,{},surgery,30
+PMC3859158_01_N0021,PMC3859158_01,Exam,computed tomography,{},CT scan,32
+PMC9650410_01_PATIENT,PMC9650410_01,Patient,Patient PMC9650410_01,"{""age"": ""67.0"", ""gender"": ""Female""}",,
+PMC9650410_01_N0001,PMC9650410_01,Diagnosis,cancer,{},cancer,77
+PMC9650410_01_N0002,PMC9650410_01,Diagnosis,cancer,{},cancer,84
+PMC5804616_01_PATIENT,PMC5804616_01,Patient,Patient PMC5804616_01,"{""age"": ""77.0"", ""gender"": ""Male""}",,
+PMC5804616_01_N0001,PMC5804616_01,Treatment,surgery,{},surgery,0
+PMC5804616_01_N0002,PMC5804616_01,Treatment,chemotherapy,{},chemotherapy,1
+PMC5804616_01_N0003,PMC5804616_01,History,esophageal cancer,{},esophageal cancer,1
+PMC5804616_01_N0004,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,1
+PMC5804616_01_N0005,PMC5804616_01,History,hypertension,{},hypertension,3
+PMC5804616_01_N0006,PMC5804616_01,History,diabetes mellitus,{},diabetes mellitus,3
+PMC5804616_01_N0007,PMC5804616_01,History,bladder cancer,{},bladder cancer,3
+PMC5804616_01_N0008,PMC5804616_01,History,cerebral infarction,{},cerebral infarction,3
+PMC5804616_01_N0009,PMC5804616_01,Exam,computed tomography,"{""measurements"": [{""value"": 3.0, ""unit"": ""mm"", ""surface_form"": ""3 mm""}]}",computed tomography,8
+PMC5804616_01_N0010,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,8
+PMC5804616_01_N0011,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,12
+PMC5804616_01_N0012,PMC5804616_01,Exam,bronchoscopy,"{""measurements"": [{""value"": 35.0, ""unit"": ""mg"", ""surface_form"": ""35 mg""}]}",bronchoscopy,12
+PMC5804616_01_N0013,PMC5804616_01,Exam,bronchoscopy,{},bronchoscopy,15
+PMC5804616_01_N0014,PMC5804616_01,AnatomicalSite,lung,{},lung,16
+PMC5804616_01_N0015,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,16
+PMC5804616_01_N0016,PMC5804616_01,AnatomicalSite,lung,{},lung,17
+PMC5804616_01_N0017,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,18
+PMC5804616_01_N0018,PMC5804616_01,AnatomicalSite,lung,{},lung,20
+PMC5804616_01_N0019,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,20
+PMC5804616_01_N0020,PMC5804616_01,Treatment,surgery,"{""measurements"": [{""value"": 6.0, ""unit"": ""ml"", ""surface_form"": ""6 ml""}]}",surgery,25
+PMC5804616_01_N0021,PMC5804616_01,Treatment,surgery,{},surgery,35
+PMC5804616_01_N0022,PMC5804616_01,AnatomicalSite,lung,{},lung,37
+PMC5804616_01_N0023,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,38
+PMC5804616_01_N0024,PMC5804616_01,Treatment,surgery,{},surgery,44
+PMC5804616_01_N0025,PMC5804616_01,AnatomicalSite,chest,{},chest,44
+PMC5804616_01_N0026,PMC5804616_01,AnatomicalSite,chest,{},chest,46
+PMC5804616_01_N0027,PMC5804616_01,Treatment,drainage,{},drainage,46
+PMC5804616_01_N0028,PMC5804616_01,AnatomicalSite,chest,{},chest,50
+PMC5804616_01_N0029,PMC5804616_01,AnatomicalSite,lung,{},lung,52
+PMC5804616_01_N0030,PMC5804616_01,Exam,computed tomography,"{""negated"": true, ""status"": ""absent""}",computed tomography,53
+PMC5804616_01_N0031,PMC5804616_01,AnatomicalSite,lung,{},lung,57
+PMC5804616_01_N0032,PMC5804616_01,AnatomicalSite,lung,{},lung,57
+PMC5804616_01_N0033,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,60
+PMC5804616_01_N0034,PMC5804616_01,AnatomicalSite,bronchus,{},bronchus,62
+PMC5804616_01_N0035,PMC5804616_01,AnatomicalSite,lung,{},lung,66
+PMC5804616_01_N0036,PMC5804616_01,AnatomicalSite,pleura,{},pleura,67
+PMC5804616_01_N0037,PMC5804616_01,Treatment,surgery,{},surgery,67
+PMC5804616_01_N0038,PMC5804616_01,Treatment,surgery,{},surgery,68
+PMC5804616_01_N0039,PMC5804616_01,AnatomicalSite,pleura,"{""negated"": true, ""status"": ""absent""}",pleura,68
+PMC5804616_01_N0040,PMC5804616_01,Treatment,surgery,{},surgery,69
+PMC5804616_01_N0041,PMC5804616_01,Treatment,surgery,{},Surgery,71
+PMC5804616_01_N0042,PMC5804616_01,AnatomicalSite,esophagus,{},esophagus,72
+PMC5804616_01_N0043,PMC5804616_01,Treatment,surgery,{},surgery,73
+PMC5804616_01_N0044,PMC5804616_01,AnatomicalSite,lung,{},lung,74
+PMC5804616_01_N0045,PMC5804616_01,Treatment,surgery,{},surgery,74
+PMC3897989_01_PATIENT,PMC3897989_01,Patient,Patient PMC3897989_01,"{""age"": ""65.0"", ""gender"": ""Male""}",,
+PMC3897989_01_N0001,PMC3897989_01,Symptom,abdominal pain,{},abdominal pain,0
+PMC3897989_01_N0002,PMC3897989_01,Treatment,aspirin,{},aspirin,1
+PMC3897989_01_N0003,PMC3897989_01,AnatomicalSite,heart,{},heart,3
+PMC3897989_01_N0004,PMC3897989_01,Exam,computed tomography,{},computed tomography,12
+PMC3897989_01_N0005,PMC3897989_01,Exam,computed tomography,{},CT,12
+PMC3897989_01_N0006,PMC3897989_01,Exam,magnetic resonance imaging,{},MRI,12
+PMC3897989_01_N0007,PMC3897989_01,AnatomicalSite,pancreas,{},pancreas,12
+PMC3897989_01_N0008,PMC3897989_01,AnatomicalSite,kidney,{},kidney,13
+PMC3897989_01_N0009,PMC3897989_01,Exam,computed tomography,{},CT,14
+PMC3897989_01_N0010,PMC3897989_01,Exam,magnetic resonance imaging,{},MRI,14
+PMC3897989_01_N0011,PMC3897989_01,Treatment,meropenem,{},meropenem,20
+PMC3897989_01_N0012,PMC3897989_01,Treatment,drainage,{},drainage,22
+PMC3897989_01_N0013,PMC3897989_01,AnatomicalSite,liver,{},liver,22
+PMC3897989_01_N0014,PMC3897989_01,Exam,computed tomography,{},CT,27
+PMC3897989_01_N0015,PMC3897989_01,Exam,biopsy,{},biopsy,27
+PMC3897989_01_N0016,PMC3897989_01,AnatomicalSite,liver,"{""measurements"": [{""value"": 32.0, ""unit"": ""mg"", ""surface_form"": ""32 mg""}]}",liver,37
+PMC3897989_01_N0017,PMC3897989_01,Exam,magnetic resonance imaging,{},MRI,40
+PMC3897989_01_N0018,PMC3897989_01,AnatomicalSite,pancreas,"{""measurements"": [{""value"": 40.0, ""unit"": ""days"", ""surface_form"": ""40 days""}]}",pancreas,40
+PMC3897989_01_N0019,PMC3897989_01,AnatomicalSite,chest,{},chest,47
+PMC3897989_01_N0020,PMC3897989_01,AnatomicalSite,chest,{},chest,49
+PMC3897989_01_N0021,PMC3897989_01,AnatomicalSite,lung,{},lung,49
+PMC3897989_01_N0022,PMC3897989_01,AnatomicalSite,chest,{},Chest,50
+PMC3897989_01_N0023,PMC3897989_01,Exam,computed tomography,{},CT,50
+PMC3897989_01_N0024,PMC3897989_01,Exam,computed tomography,{},CT,51
+PMC3897989_01_N0025,PMC3897989_01,AnatomicalSite,lung,{},lung,51
+PMC3897989_01_N0026,PMC3897989_01,Exam,biopsy,{},biopsy,51
+PMC3897989_01_N0027,PMC3897989_01,Treatment,moxifloxacin,{},moxifloxacin,52
+PMC3897989_01_N0028,PMC3897989_01,AnatomicalSite,liver,{},liver,54
+PMC2817501_01_PATIENT,PMC2817501_01,Patient,Patient PMC2817501_01,"{""age"": ""53.0"", ""gender"": ""Male""}",,
+PMC2817501_01_N0001,PMC2817501_01,Symptom,dyspnea,{},dyspnea,0
+PMC2817501_01_N0002,PMC2817501_01,AnatomicalSite,heart,{},heart,2
+PMC2817501_01_N0003,PMC2817501_01,Exam,echocardiography,{},echocardiography,4
+PMC2817501_01_N0004,PMC2817501_01,AnatomicalSite,mitral valve,{},mitral valve,4
+PMC2817501_01_N0005,PMC2817501_01,AnatomicalSite,mitral valve,"{""measurements"": [{""value"": 29.0, ""unit"": ""mm"", ""surface_form"": ""29 mm""}]}",mitral valve,9
+PMC11131390_01_PATIENT,PMC11131390_01,Patient,Patient PMC11131390_01,"{""age"": """", ""gender"": ""Male""}",,
+PMC11131390_01_N0001,PMC11131390_01,Symptom,weight loss,{},weight loss,0
+PMC10521634_01_PATIENT,PMC10521634_01,Patient,Patient PMC10521634_01,"{""age"": ""38.0"", ""gender"": ""Male""}",,
+PMC10521634_01_N0001,PMC10521634_01,Symptom,diarrhea,{},diarrhea,2
+PMC10521634_01_N0002,PMC10521634_01,Symptom,fever,{},fever,2
+PMC10521634_01_N0003,PMC10521634_01,Symptom,abdominal pain,{},abdominal pain,2
+PMC10521634_01_N0004,PMC10521634_01,Exam,colonoscopy,{},colonoscopy,3
+PMC10521634_01_N0005,PMC10521634_01,Treatment,heparin,{},heparin,8
+PMC10521634_01_N0006,PMC10521634_01,Exam,colonoscopy,{},colonoscopy,13
+PMC10521634_01_N0007,PMC10521634_01,Exam,computed tomography,{},CT scan,15
+PMC10521634_01_N0008,PMC10521634_01,AnatomicalSite,colon,{},colon,15
+PMC10521634_01_N0009,PMC10521634_01,Treatment,splenectomy,{},splenectomy,16
+PMC10521634_01_N0010,PMC10521634_01,AnatomicalSite,colon,{},colon,17
+PMC10521634_01_N0011,PMC10521634_01,Exam,histopathology,{},histopathology,18
+PMC10521634_01_N0012,PMC10521634_01,AnatomicalSite,colon,{},colon,18
+PMC10521634_01_N0013,PMC10521634_01,Treatment,splenectomy,"{""measurements"": [{""value"": 5.0, ""unit"": ""mg"", ""surface_form"": ""5mg""}]}",splenectomy,19
+PMC10521634_01_N0014,PMC10521634_01,Exam,computed tomography,{},CT scan,23
+PMC10521634_01_N0015,PMC10521634_01,Treatment,surgery,{},surgery,23
+PMC10521634_01_N0016,PMC10521634_01,Treatment,drainage,{},drainage,23
+PMC10521634_01_N0017,PMC10521634_01,Exam,endoscopy,{},endoscopy,24
+PMC10710131_01_PATIENT,PMC10710131_01,Patient,Patient PMC10710131_01,"{""age"": ""26.0"", ""gender"": ""Female""}",,
+PMC10488652_01_PATIENT,PMC10488652_01,Patient,Patient PMC10488652_01,"{""age"": ""22.0"", ""gender"": ""Female""}",,
+PMC10488652_01_N0001,PMC10488652_01,Symptom,fever,{},fever,0
+PMC10488652_01_N0002,PMC10488652_01,Symptom,headache,{},headache,0
+PMC10488652_01_N0003,PMC10488652_01,Symptom,diarrhea,{},diarrhea,0
+PMC10488652_01_N0004,PMC10488652_01,Symptom,vomiting,{},emesis,0
+PMC10488652_01_N0005,PMC10488652_01,History,systemic lupus erythematosus,{},SLE,3
+PMC10488652_01_N0006,PMC10488652_01,AnatomicalSite,kidney,{},kidney,4
+PMC10488652_01_N0007,PMC10488652_01,Exam,biopsy,{},biopsy,4
+PMC10488652_01_N0008,PMC10488652_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}]}",hydroxychloroquine,9
+PMC10488652_01_N0009,PMC10488652_01,Treatment,prednisone,"{""measurements"": [{""value"": 5.0, ""unit"": ""mg"", ""surface_form"": ""5 mg""}]}",prednisone,11
+PMC10488652_01_N0010,PMC10488652_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}]}",hydroxychloroquine,11
+PMC10488652_01_N0011,PMC10488652_01,Treatment,mycophenolate mofetil,"{""measurements"": [{""value"": 500.0, ""unit"": ""mg"", ""surface_form"": ""500 mg""}, {""value"": 500.0, ""unit"": ""mg"", ""surface_form"": ""500 mg""}]}",mycophenolate mofetil,11
+PMC11420039_01_PATIENT,PMC11420039_01,Patient,Patient PMC11420039_01,"{""age"": ""74.0"", ""gender"": ""Female""}",,
+PMC11420039_01_N0001,PMC11420039_01,Symptom,fatigue,{},fatigue,17
+PMC11420039_01_N0002,PMC11420039_01,Symptom,dyspnea,{},dyspnea,17
+PMC11420039_01_N0003,PMC11420039_01,AnatomicalSite,chest,{},Chest,19
+PMC11420039_01_N0004,PMC11420039_01,Exam,computed tomography,{},CT,19
+PMC11420039_01_N0005,PMC11420039_01,Exam,computed tomography,{},CT,19
+PMC11420039_01_N0006,PMC11420039_01,Exam,magnetic resonance imaging,{},MRI,19
+PMC11420039_01_N0007,PMC11420039_01,Exam,magnetic resonance imaging,{},MRI,28
+PMC11420039_01_N0008,PMC11420039_01,AnatomicalSite,lung,{},lung,30
+PMC11420039_01_N0009,PMC11420039_01,Treatment,meropenem,{},meropenem,31
+PMC11420039_01_N0010,PMC11420039_01,Treatment,linezolid,{},linezolid,31
+PMC11259348_01_PATIENT,PMC11259348_01,Patient,Patient PMC11259348_01,"{""age"": """", ""gender"": ""Female""}",,
+PMC11259348_01_N0001,PMC11259348_01,Symptom,fever,{},fever,0
+PMC11259348_01_N0002,PMC11259348_01,Treatment,blood transfusion,{},blood transfusion,4
+PMC11259348_02_PATIENT,PMC11259348_02,Patient,Patient PMC11259348_02,"{""age"": """", ""gender"": ""Unknown""}",,
+PMC11368112_01_PATIENT,PMC11368112_01,Patient,Patient PMC11368112_01,"{""age"": ""35.0"", ""gender"": ""Male""}",,
+PMC11368112_01_N0001,PMC11368112_01,Symptom,chest tightness,{},chest tightness,0
+PMC11368112_01_N0002,PMC11368112_01,Symptom,fever,{},fever,0
+PMC11368112_01_N0003,PMC11368112_01,History,pulmonary nodules,{},pulmonary nodules,1
+PMC11368112_01_N0004,PMC11368112_01,Treatment,surgery,{},surgery,1
+PMC11368112_01_N0005,PMC11368112_01,History,hypertension,{},hypertension,1
+PMC11368112_01_N0006,PMC11368112_01,Symptom,dyspnea,{},dyspnea,2
+PMC11368112_01_N0007,PMC11368112_01,Symptom,fever,{},fever,2
+PMC11368112_01_N0008,PMC11368112_01,Symptom,chills,{},chills,2
+PMC11368112_01_N0009,PMC11368112_01,Exam,ultrasound,{},ultrasound,8
+PMC11368112_01_N0010,PMC11368112_01,Exam,electrocardiogram,{},ECG,9
+PMC11368112_01_N0011,PMC11368112_01,Symptom,tachycardia,{},tachycardia,9
+PMC11368112_01_N0012,PMC11368112_01,Diagnosis,pulmonary embolism,{},pulmonary embolism,11
+PMC11368112_01_N0013,PMC11368112_01,Symptom,chills,{},chills,13
+PMC11368112_01_N0014,PMC11368112_01,Treatment,meropenem,{},meropenem,14
+PMC11368112_01_N0015,PMC11368112_01,Treatment,linezolid,{},linezolid,14
+PMC11368112_01_N0016,PMC11368112_01,Symptom,fever,{},fever,14
+PMC11368112_01_N0017,PMC11368112_01,Symptom,fever,{},fever,17
+PMC11368112_01_N0018,PMC11368112_01,Treatment,surgery,{},surgery,17
+PMC11368112_01_N0019,PMC11368112_01,AnatomicalSite,right atrium,{},right atrium,18
+PMC11368112_01_N0020,PMC11368112_01,Treatment,surgery,"{""measurements"": [{""value"": 3.0, ""unit"": ""cm"", ""surface_form"": ""3 cm""}]}",surgery,19
+PMC11368112_01_N0021,PMC11368112_01,AnatomicalSite,right atrium,{},right atrium,20
+PMC11368112_01_N0022,PMC11368112_01,Treatment,surgery,{},surgery,22
+PMC11368112_01_N0023,PMC11368112_01,Exam,biopsy,{},biopsy,27
+PMC11368112_01_N0024,PMC11368112_01,Treatment,surgery,{},surgery,28
+PMC11368112_01_N0025,PMC11368112_01,Treatment,surgery,{},surgery,28
+PMC11368112_01_N0026,PMC11368112_01,Exam,ultrasonography,{},ultrasonography,28
+PMC11368112_01_N0027,PMC11368112_01,Treatment,cyclosporine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}]}",cyclosporine,29
+PMC11368112_01_N0028,PMC11368112_01,Treatment,warfarin,{},warfarin,29
+PMC11345641_01_PATIENT,PMC11345641_01,Patient,Patient PMC11345641_01,"{""age"": ""48.0"", ""gender"": ""Female""}",,
+PMC11345641_01_N0001,PMC11345641_01,Exam,ultrasonography,{},ultrasonography,0
+PMC11345641_01_N0002,PMC11345641_01,Symptom,abdominal pain,{},abdominal pain,2
+PMC11345641_01_N0003,PMC11345641_01,Exam,ultrasonography,{},Ultrasonography,6
+PMC11345641_01_N0004,PMC11345641_01,AnatomicalSite,uterus,"{""measurements"": [{""value"": 8.4, ""unit"": ""cm"", ""surface_form"": ""8.4cm""}]}",uterus,6
+PMC11345641_01_N0005,PMC11345641_01,Exam,magnetic resonance imaging,{},MRI,11
+PMC11345641_01_N0006,PMC11345641_01,Exam,magnetic resonance imaging,{},MRI,15
+PMC11345641_01_N0007,PMC11345641_01,Exam,biopsy,{},biopsy,16
+PMC11345641_01_N0008,PMC11345641_01,Treatment,hysterectomy,{},hysterectomy,17
+PMC11345641_01_N0009,PMC11345641_01,Treatment,surgery,{},surgery,18
+PMC11345641_01_N0010,PMC11345641_01,AnatomicalSite,uterus,{},uterus,18
+PMC11345641_01_N0011,PMC11345641_01,AnatomicalSite,uterus,{},uterus,19
+PMC11345641_01_N0012,PMC11345641_01,Treatment,surgery,{},surgery,21
+PMC11345641_01_N0013,PMC11345641_01,Exam,ultrasonography,{},ultrasonography,23
+PMC11345641_01_N0014,PMC11345641_01,Exam,ultrasonography,{},ultrasonography,25
+PMC11345641_01_N0015,PMC11345641_01,Exam,magnetic resonance imaging,{},MRI,29
+PMC11345641_01_N0016,PMC11345641_01,Symptom,abdominal distention,{},abdominal distention,33
+PMC11345641_01_N0017,PMC11345641_01,Treatment,resection,{},resection,35
+PMC11345641_01_N0018,PMC11345641_01,AnatomicalSite,colon,{},colon,35
+PMC11345641_01_N0019,PMC11345641_01,Treatment,surgery,"{""measurements"": [{""value"": 20.0, ""unit"": ""cm"", ""surface_form"": ""20 cm""}]}",surgery,36
+PMC11345641_01_N0020,PMC11345641_01,AnatomicalSite,colon,{},colon,37
+PMC11345641_01_N0021,PMC11345641_01,AnatomicalSite,ileum,{},ileum,37
+PMC11345641_01_N0022,PMC11345641_01,AnatomicalSite,colon,"{""measurements"": [{""value"": 7.0, ""unit"": ""cm"", ""surface_form"": ""7 cm""}]}",colon,38
+PMC11345641_01_N0023,PMC11345641_01,Treatment,surgery,{},surgery,41
+PMC11345641_01_N0024,PMC11345641_01,AnatomicalSite,colon,{},colon,43
+PMC11345641_01_N0025,PMC11345641_01,AnatomicalSite,ileum,{},ileum,43
+PMC11345641_01_N0026,PMC11345641_01,AnatomicalSite,appendix,{},appendix,43
+PMC11345641_01_N0027,PMC11345641_01,Treatment,chemotherapy,{},chemotherapy,46
+PMC11723754_01_PATIENT,PMC11723754_01,Patient,Patient PMC11723754_01,"{""age"": ""0.0"", ""gender"": ""Male""}",,
+PMC11723754_01_N0001,PMC11723754_01,AnatomicalSite,liver,{},liver,15
+PMC11783470_01_PATIENT,PMC11783470_01,Patient,Patient PMC11783470_01,"{""age"": ""22.0"", ""gender"": ""Female""}",,
+PMC11783470_01_N0001,PMC11783470_01,Symptom,menorrhagia,"{""negated"": true, ""status"": ""absent""}",menorrhagia,1
+PMC11783470_01_N0002,PMC11783470_01,Symptom,dysphagia,"{""negated"": true, ""status"": ""absent""}",dysphagia,2
+PMC11783470_01_N0003,PMC11783470_01,Symptom,odynophagia,"{""negated"": true, ""status"": ""absent""}",odynophagia,2
+PMC11783470_01_N0004,PMC11783470_01,Symptom,heartburn,"{""negated"": true, ""status"": ""absent""}",heartburn,2
+PMC11783470_01_N0005,PMC11783470_01,Symptom,nausea,"{""negated"": true, ""status"": ""absent""}",nausea,2
+PMC11783470_01_N0006,PMC11783470_01,Symptom,vomiting,"{""negated"": true, ""status"": ""absent""}",vomiting,2
+PMC11783470_01_N0007,PMC11783470_01,Symptom,abdominal pain,{},abdominal pain,2
+PMC11783470_01_N0008,PMC11783470_01,Symptom,hematochezia,{},hematochezia,2
+PMC11783470_01_N0009,PMC11783470_01,Symptom,weight loss,{},weight loss,2
+PMC11783470_01_N0010,PMC11783470_01,Exam,esophagogastroduodenoscopy,{},esophagogastroduodenoscopy,8
+PMC11783470_01_N0011,PMC11783470_01,Exam,esophagogastroduodenoscopy,{},EGD,8
+PMC11783470_01_N0012,PMC11783470_01,Exam,colonoscopy,{},colonoscopy,8
+PMC11783470_01_N0013,PMC11783470_01,Exam,esophagogastroduodenoscopy,{},EGD,9
+PMC11783470_01_N0014,PMC11783470_01,Exam,biopsy,{},biopsy,9
+PMC11783470_01_N0015,PMC11783470_01,Exam,biopsy,{},Biopsy,10
+PMC11783470_01_N0016,PMC11783470_01,Exam,esophagogastroduodenoscopy,{},EGD,13
+PMC11783470_01_N0017,PMC11783470_01,Treatment,resection,{},resection,13
+PMC11783470_01_N0018,PMC11783470_01,Symptom,menorrhagia,{},menorrhagia,15
+PMC11783470_01_N0019,PMC11783470_01,Exam,endoscopy,{},endoscopy,15
+PMC11783470_01_N0020,PMC11783470_01,Exam,video capsule endoscopy,{},video capsule endoscopy,15
+PMC11783470_01_N0021,PMC11783470_01,Exam,esophagogastroduodenoscopy,"{""measurements"": [{""value"": 3.0, ""unit"": ""months"", ""surface_form"": ""3 months""}]}",EGD,16
+PMC11722600_01_PATIENT,PMC11722600_01,Patient,Patient PMC11722600_01,"{""age"": ""41.0"", ""gender"": ""Female""}",,
+PMC11722600_01_N0001,PMC11722600_01,Symptom,abdominal pain,{},abdominal pain,0
+PMC11722600_01_N0002,PMC11722600_01,Symptom,fever,"{""negated"": true, ""status"": ""absent""}",fever,1
+PMC11722600_01_N0003,PMC11722600_01,Symptom,abdominal pain,{},abdominal pain,4
+PMC11722600_01_N0004,PMC11722600_01,Exam,ultrasound,{},ultrasound,7
+PMC11722600_01_N0005,PMC11722600_01,Exam,computed tomography,{},CT,8
+PMC11722600_01_N0006,PMC11722600_01,AnatomicalSite,appendix,"{""measurements"": [{""value"": 8.0, ""unit"": ""mm"", ""surface_form"": ""8 mm""}]}",appendix,8
+PMC11722600_01_N0007,PMC11722600_01,AnatomicalSite,ovary,"{""measurements"": [{""value"": 4.0, ""unit"": ""cm"", ""surface_form"": ""4 cm""}]}",ovary,8
+PMC11722600_01_N0008,PMC11722600_01,Diagnosis,appendicitis,{},appendicitis,9
+PMC11722600_01_N0009,PMC11722600_01,AnatomicalSite,appendix,"{""negated"": true, ""status"": ""absent""}",appendix,9
+PMC11722600_01_N0010,PMC11722600_01,AnatomicalSite,fallopian tube,{},fallopian tube,9
+PMC11722600_01_N0011,PMC11722600_01,Treatment,laparoscopic appendectomy,{},laparoscopic appendectomy,10
+PMC11722600_01_N0012,PMC11722600_01,Diagnosis,endometriosis,"{""negated"": true, ""status"": ""absent""}",endometriosis,11
+PMC11722600_01_N0013,PMC11722600_01,Exam,histopathology,{},Histopathology,13
+PMC11722600_01_N0014,PMC11722600_01,AnatomicalSite,appendix,{},appendix,13
+PMC11722600_01_N0015,PMC11722600_01,AnatomicalSite,appendix,{},appendix,13
+PMC11722600_01_N0016,PMC11722600_01,Diagnosis,endometriosis,{},endometriosis,13
+PMC11722600_01_N0017,PMC11722600_01,AnatomicalSite,fallopian tube,"{""measurements"": [{""value"": 6.0, ""unit"": ""month"", ""surface_form"": ""6 month""}]}",fallopian tube,14
+PMC11722600_02_PATIENT,PMC11722600_02,Patient,Patient PMC11722600_02,"{""age"": ""44.0"", ""gender"": ""Female""}",,
+PMC11722600_02_N0001,PMC11722600_02,Diagnosis,endometriosis,{},endometriosis,0
+PMC11722600_02_N0002,PMC11722600_02,Treatment,resection,{},resection,0
+PMC11722600_02_N0003,PMC11722600_02,Symptom,abdominal pain,{},abdominal pain,0
+PMC11722600_02_N0004,PMC11722600_02,Symptom,fever,"{""negated"": true, ""status"": ""absent""}",fever,1
+PMC11722600_02_N0005,PMC11722600_02,Symptom,abdominal pain,"{""negated"": true, ""status"": ""absent""}",abdominal pain,2
+PMC11722600_02_N0006,PMC11722600_02,Symptom,abdominal pain,{},abdominal pain,3
+PMC11722600_02_N0007,PMC11722600_02,Diagnosis,appendicitis,{},appendicitis,6
+PMC11722600_02_N0008,PMC11722600_02,Exam,computed tomography,{},CT,6
+PMC11722600_02_N0009,PMC11722600_02,AnatomicalSite,appendix,"{""measurements"": [{""value"": 17.0, ""unit"": ""mm"", ""surface_form"": ""17 mm""}]}",appendix,6
+PMC11722600_02_N0010,PMC11722600_02,AnatomicalSite,ileum,{},ileum,6
+PMC11722600_02_N0011,PMC11722600_02,Diagnosis,appendicitis,{},appendicitis,7
+PMC11722600_02_N0012,PMC11722600_02,Symptom,fever,{},fever,8
+PMC11722600_02_N0013,PMC11722600_02,Symptom,abdominal pain,{},abdominal pain,8
+PMC11722600_02_N0014,PMC11722600_02,Symptom,tachycardia,{},tachycardia,8
+PMC11722600_02_N0015,PMC11722600_02,AnatomicalSite,ileum,{},ileum,8
+PMC11722600_02_N0016,PMC11722600_02,Treatment,surgery,"{""negated"": true, ""status"": ""absent""}",surgery,10
+PMC11722600_02_N0017,PMC11722600_02,Exam,computed tomography,{},CT,13
+PMC11722600_02_N0018,PMC11722600_02,Treatment,drainage,{},drainage,13
+PMC11722600_02_N0019,PMC11722600_02,Exam,computed tomography,{},CT,14
+PMC11722600_02_N0020,PMC11722600_02,AnatomicalSite,appendix,{},appendix,14
+PMC11722600_02_N0021,PMC11722600_02,Treatment,laparoscopic appendectomy,{},laparoscopic appendectomy,15
+PMC11722600_02_N0022,PMC11722600_02,AnatomicalSite,appendix,{},appendix,15
+PMC11722600_02_N0023,PMC11722600_02,Treatment,laparoscopic appendectomy,{},Laparoscopic appendectomy,16
+PMC11722600_02_N0024,PMC11722600_02,AnatomicalSite,appendix,{},appendix,16
+PMC11722600_02_N0025,PMC11722600_02,AnatomicalSite,appendix,"{""measurements"": [{""value"": 2.5, ""unit"": ""cm"", ""surface_form"": ""2.5 cm""}, {""value"": 45.0, ""unit"": ""mm"", ""surface_form"": ""45 mm""}]}",appendix,17
+PMC11722600_02_N0026,PMC11722600_02,AnatomicalSite,appendix,{},appendix,20
+PMC11722600_02_N0027,PMC11722600_02,Diagnosis,endometriosis,{},endometriosis,20
+PMC12215201_01_PATIENT,PMC12215201_01,Patient,Patient PMC12215201_01,"{""age"": ""56.0"", ""gender"": ""Male""}",,
+PMC12215201_01_N0001,PMC12215201_01,Symptom,fatigue,{},fatigue,0
+PMC12215201_01_N0002,PMC12215201_01,AnatomicalSite,abdomen,{},abdomen,0
+PMC12215201_01_N0003,PMC12215201_01,Symptom,weight loss,{},weight loss,0
+PMC12215201_01_N0004,PMC12215201_01,AnatomicalSite,abdomen,{},abdomen,1
+PMC12215201_01_N0005,PMC12215201_01,AnatomicalSite,abdomen,{},abdomen,7
+PMC12215201_01_N0006,PMC12215201_01,Exam,ultrasound,{},ultrasound,12
+PMC12215201_01_N0007,PMC12215201_01,AnatomicalSite,liver,"{""measurements"": [{""value"": 2.1, ""unit"": ""cm"", ""surface_form"": ""2.1 cm""}]}",liver,12
+PMC12215201_01_N0008,PMC12215201_01,AnatomicalSite,spleen,{},spleen,16
+PMC12215201_01_N0009,PMC12215201_01,Exam,computed tomography,{},CT,20
+PMC12215201_01_N0010,PMC12215201_01,AnatomicalSite,abdomen,{},abdomen,20
+PMC12215201_01_N0011,PMC12215201_01,AnatomicalSite,liver,{},liver,20
+PMC12215201_01_N0012,PMC12215201_01,AnatomicalSite,spleen,{},spleen,20
+PMC12215201_01_N0013,PMC12215201_01,AnatomicalSite,lung,{},lung,22
+PMC12215201_01_N0014,PMC12215201_01,AnatomicalSite,kidney,{},kidney,22
+PMC12215201_01_N0015,PMC12215201_01,Exam,colonoscopy,{},colonoscopy,30
+PMC12215201_01_N0016,PMC12215201_01,Exam,esophagogastroduodenoscopy,{},Esophagogastroduodenoscopy,31
+PMC12215201_01_N0017,PMC12215201_01,AnatomicalSite,duodenum,{},duodenum,32
+PMC12215201_01_N0018,PMC12215201_01,Exam,video capsule endoscopy,{},Video capsule endoscopy,35
+PMC12215201_01_N0019,PMC12215201_01,AnatomicalSite,stomach,{},stomach,35
+PMC12215201_01_N0020,PMC12215201_01,AnatomicalSite,liver,{},liver,37
+PMC12215201_01_N0021,PMC12215201_01,Exam,biopsy,{},biopsy,37
+PMC12215201_01_N0022,PMC12215201_01,Treatment,drainage,{},drainage,43
+PMC12832199_01_PATIENT,PMC12832199_01,Patient,Patient PMC12832199_01,"{""age"": ""57.0"", ""gender"": ""Female""}",,
+PMC12832199_01_N0001,PMC12832199_01,Symptom,abdominal pain,{},abdominal pain,0
+PMC12832199_01_N0002,PMC12832199_01,Symptom,vomiting,{},vomiting,0
+PMC12832199_01_N0003,PMC12832199_01,Symptom,vomiting,"{""measurements"": [{""value"": 2.0, ""unit"": ""days"", ""surface_form"": ""2 days""}]}",vomiting,1
+PMC12832199_01_N0004,PMC12832199_01,AnatomicalSite,abdomen,{},abdomen,6
+PMC12832199_01_N0005,PMC12832199_01,AnatomicalSite,kidney,"{""measurements"": [{""value"": 2.2, ""unit"": ""mg/dl"", ""surface_form"": ""2.2 mg/dL""}]}",kidney,10
+PMC12832199_01_N0006,PMC12832199_01,Exam,computed tomography,{},CT,12
+PMC12832199_01_N0007,PMC12832199_01,Symptom,abdominal pain,{},abdominal pain,20
+PMC12832199_01_N0008,PMC12832199_01,Treatment,resection,{},resection,24
+PMC12832199_01_N0009,PMC12832199_01,AnatomicalSite,colon,{},colon,24
+PMC12832199_01_N0010,PMC12832199_01,AnatomicalSite,colon,{},colon,25
+PMC12832199_01_N0011,PMC12832199_01,AnatomicalSite,stomach,{},stomach,28
+PMC12832199_01_N0012,PMC12832199_01,AnatomicalSite,stomach,{},stomach,30
+PMC12832199_01_N0013,PMC12832199_01,AnatomicalSite,stomach,{},stomach,31
+PMC12832199_01_N0014,PMC12832199_01,AnatomicalSite,colon,{},colon,31
+PMC12832199_01_N0015,PMC12832199_01,AnatomicalSite,colon,{},colon,36
+PMC12832199_01_N0016,PMC12832199_01,AnatomicalSite,colon,{},colon,36
+PMC12832199_01_N0017,PMC12832199_01,Exam,endoscopy,{},Endoscopy,40
+PMC12832199_01_N0018,PMC12832199_01,Exam,computed tomography,"{""measurements"": [{""value"": 2.0, ""unit"": ""months"", ""surface_form"": ""2 months""}]}",CT,43
+PMC12832199_01_N0019,PMC12832199_01,AnatomicalSite,colon,{},colon,45
+PMC12832199_01_N0020,PMC12832199_01,AnatomicalSite,colon,"{""negated"": true, ""status"": ""absent""}",colon,46

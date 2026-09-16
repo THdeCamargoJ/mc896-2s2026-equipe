@@ -1,0 +1,17 @@
+{
+  "total_cases_evaluated": 35,
+  "naive_baseline": {
+    "precision": 0.3193,
+    "recall": 0.4212,
+    "f1_score": 0.3348,
+    "jaccard": 0.217,
+    "recall_at_10": 0.425
+  },
+  "sota_pipeline": {
+    "precision": 0.2314,
+    "recall": 0.3753,
+    "f1_score": 0.223,
+    "jaccard": 0.1307,
+    "recall_at_10": 0.2825
+  }
+}

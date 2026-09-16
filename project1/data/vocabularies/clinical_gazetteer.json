@@ -1,0 +1,2610 @@
+[
+  {
+    "id": "D010195",
+    "canonical": "Pancreatitis",
+    "category": "C06",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pancreatitis",
+      "acute pancreatitis",
+      "chronic pancreatitis"
+    ]
+  },
+  {
+    "id": "D003924",
+    "canonical": "Diabetes Mellitus, Type 2",
+    "category": "C18",
+    "type": "Diagnosis",
+    "synonyms": [
+      "type 2 diabetes mellitus",
+      "type 2 diabetes",
+      "t2dm",
+      "diabetes"
+    ]
+  },
+  {
+    "id": "D006973",
+    "canonical": "Hypertension",
+    "category": "C14",
+    "type": "Diagnosis",
+    "synonyms": [
+      "hypertension",
+      "high blood pressure",
+      "htn"
+    ]
+  },
+  {
+    "id": "D000230",
+    "canonical": "Adenocarcinoma",
+    "category": "C04",
+    "type": "Diagnosis",
+    "synonyms": [
+      "adenocarcinoma",
+      "invasive adenocarcinoma",
+      "poorly differentiated adenocarcinoma"
+    ]
+  },
+  {
+    "id": "D014397",
+    "canonical": "Tuberculosis",
+    "category": "C01",
+    "type": "Diagnosis",
+    "synonyms": [
+      "tuberculosis",
+      "tuberculous",
+      "old pulmonary tuberculosis",
+      "tb"
+    ]
+  },
+  {
+    "id": "D013158",
+    "canonical": "Splenic Abscess",
+    "category": "C01",
+    "type": "Diagnosis",
+    "synonyms": [
+      "splenic abscess",
+      "tuberculous splenic abscess",
+      "subcutaneous abscess",
+      "abscess"
+    ]
+  },
+  {
+    "id": "D013927",
+    "canonical": "Thrombosis",
+    "category": "C14",
+    "type": "Diagnosis",
+    "synonyms": [
+      "thrombosis",
+      "acute thrombosis",
+      "valve thrombosis",
+      "thrombus"
+    ]
+  },
+  {
+    "id": "D004696",
+    "canonical": "Endocarditis",
+    "category": "C01",
+    "type": "Diagnosis",
+    "synonyms": [
+      "endocarditis",
+      "infective endocarditis"
+    ]
+  },
+  {
+    "id": "D006333",
+    "canonical": "Heart Failure",
+    "category": "C14",
+    "type": "Diagnosis",
+    "synonyms": [
+      "heart failure",
+      "fulminant heart failure",
+      "cardiac failure"
+    ]
+  },
+  {
+    "id": "D001249",
+    "canonical": "Asthma",
+    "category": "C08",
+    "type": "Diagnosis",
+    "synonyms": [
+      "asthma",
+      "bronchial asthma"
+    ]
+  },
+  {
+    "id": "D000208",
+    "canonical": "Acute Coronary Syndrome",
+    "category": "C14",
+    "type": "Diagnosis",
+    "synonyms": [
+      "acute coronary syndrome",
+      "acs",
+      "myocardial infarction"
+    ]
+  },
+  {
+    "id": "D005764",
+    "canonical": "Gastroesophageal Reflux",
+    "category": "C06",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gerd",
+      "reflux"
+    ]
+  },
+  {
+    "id": "D018589",
+    "canonical": "Gastroparesis",
+    "category": "C06",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastroparesis",
+      "delayed gastric emptying"
+    ]
+  },
+  {
+    "id": "D017219",
+    "canonical": "Gastric Outlet Obstruction",
+    "category": "C06",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastric outlet obstruction",
+      "gastroduodenal outlet obstruction",
+      "malignant obstruction",
+      "functional obstruction",
+      "obstruction"
+    ]
+  },
+  {
+    "id": "D010182",
+    "canonical": "Pancreatic Cyst",
+    "category": "C04",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pancreatic cyst",
+      "pseudocyst",
+      "pancreatic pseudocyst",
+      "cystic neoplasm",
+      "mucinous pancreatic cystic neoplasm",
+      "mucinous cystic neoplasm"
+    ]
+  },
+  {
+    "id": "D003560",
+    "canonical": "Cysts",
+    "category": "C23",
+    "type": "Diagnosis",
+    "synonyms": [
+      "cyst",
+      "cystic lesion",
+      "gastric duplication cyst",
+      "gdc",
+      "subcutaneous mass",
+      "mass",
+      "solid mass"
+    ]
+  },
+  {
+    "id": "D016640",
+    "canonical": "Ventricular Septal Defect",
+    "category": "C16",
+    "type": "Diagnosis",
+    "synonyms": [
+      "ventricular septal defect",
+      "perimembranous vsd",
+      "vsd"
+    ]
+  },
+  {
+    "id": "D004374",
+    "canonical": "Ductus Arteriosus, Patent",
+    "category": "C16",
+    "type": "Diagnosis",
+    "synonyms": [
+      "patent ductus arteriosus",
+      "pda"
+    ]
+  },
+  {
+    "id": "D007246",
+    "canonical": "Infertility",
+    "category": "C13",
+    "type": "Diagnosis",
+    "synonyms": [
+      "infertility",
+      "inability to conceive"
+    ]
+  },
+  {
+    "id": "D010048",
+    "canonical": "Ovarian Neoplasms",
+    "category": "C04",
+    "type": "Diagnosis",
+    "synonyms": [
+      "ovarian steroid cell tumor",
+      "ovarian tumor",
+      "steroid cell tumor nos",
+      "gynecologic cancer"
+    ]
+  },
+  {
+    "id": "D011030",
+    "canonical": "Pneumothorax",
+    "category": "C08",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pneumothorax",
+      "recurrent pneumothorax"
+    ]
+  },
+  {
+    "id": "D011655",
+    "canonical": "Pulmonary Embolism",
+    "category": "C08",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pulmonary embolism",
+      "septic pulmonary embolism"
+    ]
+  },
+  {
+    "id": "D016553",
+    "canonical": "Purpura, Thrombotic Thrombocytopenic",
+    "category": "C15",
+    "type": "Diagnosis",
+    "synonyms": [
+      "thrombotic thrombocytopenic purpura",
+      "refractory ttp",
+      "ttp"
+    ]
+  },
+  {
+    "id": "D000740",
+    "canonical": "Anemia",
+    "category": "C15",
+    "type": "Diagnosis",
+    "synonyms": [
+      "anemia",
+      "iron deficiency anemia",
+      "severe iron deficiency anemia"
+    ]
+  },
+  {
+    "id": "D011504",
+    "canonical": "Protein-Losing Enteropathies",
+    "category": "C06",
+    "type": "Diagnosis",
+    "synonyms": [
+      "protein-losing enteropathy",
+      "ple"
+    ]
+  },
+  {
+    "id": "D008946",
+    "canonical": "Mitral Valve Stenosis",
+    "category": "C14",
+    "type": "Diagnosis",
+    "synonyms": [
+      "mitral stenosis",
+      "severe mitral stenosis",
+      "mitral regurgitation"
+    ]
+  },
+  {
+    "id": "D005334",
+    "canonical": "Fever",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "fever",
+      "low-grade fever",
+      "high-grade fever",
+      "pyrexia",
+      "febrile"
+    ]
+  },
+  {
+    "id": "D010146",
+    "canonical": "Pain",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "pain",
+      "abdominal pain",
+      "epigastric pain",
+      "flank pain",
+      "chest pain",
+      "back pain",
+      "atypical chest pain",
+      "tenderness",
+      "epigastric tenderness"
+    ]
+  },
+  {
+    "id": "D009325",
+    "canonical": "Nausea",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "nausea",
+      "nauseous"
+    ]
+  },
+  {
+    "id": "D014839",
+    "canonical": "Vomiting",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "vomiting",
+      "emesis"
+    ]
+  },
+  {
+    "id": "D003248",
+    "canonical": "Constipation",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "constipation"
+    ]
+  },
+  {
+    "id": "D003967",
+    "canonical": "Diarrhea",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "diarrhea"
+    ]
+  },
+  {
+    "id": "D004417",
+    "canonical": "Dyspnea",
+    "category": "C08",
+    "type": "Symptom",
+    "synonyms": [
+      "dyspnea",
+      "respiratory distress",
+      "breathlessness",
+      "shortness of breath",
+      "breathlessness on exertion"
+    ]
+  },
+  {
+    "id": "D004487",
+    "canonical": "Edema",
+    "category": "C23",
+    "type": "Finding",
+    "synonyms": [
+      "edema",
+      "mesenteric edema",
+      "interstitial edema",
+      "anasarca",
+      "swelling"
+    ]
+  },
+  {
+    "id": "D003371",
+    "canonical": "Cough",
+    "category": "C08",
+    "type": "Symptom",
+    "synonyms": [
+      "cough",
+      "hemoptysis"
+    ]
+  },
+  {
+    "id": "D005221",
+    "canonical": "Fatigue",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "fatigue",
+      "malaise",
+      "weakness"
+    ]
+  },
+  {
+    "id": "D006261",
+    "canonical": "Headache",
+    "category": "C10",
+    "type": "Symptom",
+    "synonyms": [
+      "headache",
+      "headaches",
+      "cephalalgia"
+    ]
+  },
+  {
+    "id": "D013154",
+    "canonical": "Splenomegaly",
+    "category": "C15",
+    "type": "Finding",
+    "synonyms": [
+      "splenomegaly",
+      "enlarged spleen",
+      "spleen was enlarged"
+    ]
+  },
+  {
+    "id": "D006470",
+    "canonical": "Hemorrhage",
+    "category": "C23",
+    "type": "Finding",
+    "synonyms": [
+      "bleeding",
+      "hemorrhage",
+      "anastomotic leak",
+      "leak"
+    ]
+  },
+  {
+    "id": "D000855",
+    "canonical": "Anorexia",
+    "category": "C23",
+    "type": "Symptom",
+    "synonyms": [
+      "anorexia",
+      "loss of appetite",
+      "weight loss"
+    ]
+  },
+  {
+    "id": "D012131",
+    "canonical": "Respiratory Insufficiency",
+    "category": "C08",
+    "type": "Diagnosis",
+    "synonyms": [
+      "severe respiratory distress",
+      "oxygenation impairment"
+    ]
+  },
+  {
+    "id": "D010179",
+    "canonical": "Pancreas",
+    "category": "A03",
+    "type": "Anatomy",
+    "synonyms": [
+      "pancreas",
+      "pancreatic tail",
+      "pancreatic body",
+      "pancreatic head",
+      "pancreaticobiliary tract"
+    ]
+  },
+  {
+    "id": "D013270",
+    "canonical": "Stomach",
+    "category": "A03",
+    "type": "Anatomy",
+    "synonyms": [
+      "stomach",
+      "gastric wall",
+      "posterior stomach wall",
+      "lesser sac",
+      "pylorus"
+    ]
+  },
+  {
+    "id": "D013154",
+    "canonical": "Spleen",
+    "category": "A15",
+    "type": "Anatomy",
+    "synonyms": [
+      "spleen"
+    ]
+  },
+  {
+    "id": "D008168",
+    "canonical": "Lung",
+    "category": "A04",
+    "type": "Anatomy",
+    "synonyms": [
+      "lung",
+      "right lung",
+      "left lung",
+      "pulmonary"
+    ]
+  },
+  {
+    "id": "D006321",
+    "canonical": "Heart",
+    "category": "A07",
+    "type": "Anatomy",
+    "synonyms": [
+      "heart",
+      "cardiac",
+      "myocardium",
+      "atrium",
+      "ventricle"
+    ]
+  },
+  {
+    "id": "D008943",
+    "canonical": "Mitral Valve",
+    "category": "A07",
+    "type": "Anatomy",
+    "synonyms": [
+      "mitral valve",
+      "porcine valve",
+      "mechanical prosthesis",
+      "bioprosthetic mitral valve"
+    ]
+  },
+  {
+    "id": "D004386",
+    "canonical": "Duodenum",
+    "category": "A03",
+    "type": "Anatomy",
+    "synonyms": [
+      "duodenum"
+    ]
+  },
+  {
+    "id": "D007583",
+    "canonical": "Jejunum",
+    "category": "A03",
+    "type": "Anatomy",
+    "synonyms": [
+      "jejunum",
+      "proximal jejunum",
+      "efferent limb"
+    ]
+  },
+  {
+    "id": "D010053",
+    "canonical": "Ovary",
+    "category": "A05",
+    "type": "Anatomy",
+    "synonyms": [
+      "ovary",
+      "ovaries",
+      "right ovary",
+      "left ovary"
+    ]
+  },
+  {
+    "id": "D002637",
+    "canonical": "Chest",
+    "category": "A01",
+    "type": "Anatomy",
+    "synonyms": [
+      "chest",
+      "lower chest",
+      "chest wall",
+      "thorax"
+    ]
+  },
+  {
+    "id": "D000005",
+    "canonical": "Abdomen",
+    "category": "A01",
+    "type": "Anatomy",
+    "synonyms": [
+      "abdomen",
+      "abdominal",
+      "upper abdomen",
+      "flank",
+      "right flank"
+    ]
+  },
+  {
+    "id": "D014057",
+    "canonical": "Tomography, X-Ray Computed",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "computed tomography",
+      "ct",
+      "contrast enhanced computed tomography",
+      "ct scan",
+      "cta",
+      "computed tomography angiogram",
+      "repeat ct"
+    ]
+  },
+  {
+    "id": "D019160",
+    "canonical": "Endosonography",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "endoscopic ultrasound",
+      "eus",
+      "transvaginal ultrasonography",
+      "transvaginal ultrasound",
+      "ultrasound",
+      "echocardiogram",
+      "transesophageal echocardiogram",
+      "tee"
+    ]
+  },
+  {
+    "id": "D044963",
+    "canonical": "Biopsy, Fine-Needle",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "fine needle aspiration",
+      "fna",
+      "eus-fna",
+      "ct guided biopsy",
+      "biopsy"
+    ]
+  },
+  {
+    "id": "D004562",
+    "canonical": "Electrocardiography",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "electrocardiogram",
+      "ekg",
+      "ecg"
+    ]
+  },
+  {
+    "id": "D016145",
+    "canonical": "Endoscopy, Digestive System",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "endoscopy",
+      "intraoperative endoscopy",
+      "esophagogastroduodenoscopy",
+      "egd",
+      "push enteroscopy"
+    ]
+  },
+  {
+    "id": "D013902",
+    "canonical": "Radiography, Thoracic",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "chest x-rays",
+      "chest x-ray",
+      "radiographs",
+      "abdominal radiographs",
+      "ugi",
+      "upper gastrointestinal contrast study",
+      "barium enema",
+      "hysterosalpingography"
+    ]
+  },
+  {
+    "id": "D010535",
+    "canonical": "Laparoscopy",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "laparoscopy",
+      "diagnostic laparoscopy",
+      "laparoscopic exploration",
+      "relaparoscopy"
+    ]
+  },
+  {
+    "id": "D006651",
+    "canonical": "Histocytochemistry",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "histopathology",
+      "pathology",
+      "immunohistochemical study",
+      "semen analysis",
+      "blood count",
+      "hormonal assay"
+    ]
+  },
+  {
+    "id": "L3040-3",
+    "canonical": "Serum Lipase",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "serum lipase",
+      "lipase"
+    ]
+  },
+  {
+    "id": "L1988-5",
+    "canonical": "C-Reactive Protein",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "c-reactive protein",
+      "crp"
+    ]
+  },
+  {
+    "id": "L2039-6",
+    "canonical": "Carcinoembryonic Antigen",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "carcinoembryonic antigen",
+      "cea",
+      "cea level"
+    ]
+  },
+  {
+    "id": "L2042-0",
+    "canonical": "CA 19-9 Antigen",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "carbohydrate antigen 19-9",
+      "ca 19-9",
+      "ca 19-9 level"
+    ]
+  },
+  {
+    "id": "L49563-0",
+    "canonical": "Troponin",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "troponin",
+      "initial troponin"
+    ]
+  },
+  {
+    "id": "L2157-6",
+    "canonical": "Creatine Kinase MB",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "ck-mb",
+      "total ck",
+      "creatine kinase"
+    ]
+  },
+  {
+    "id": "L6301-6",
+    "canonical": "INR",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "inr",
+      "ptt",
+      "pt",
+      "anticoagulation studies"
+    ]
+  },
+  {
+    "id": "L718-7",
+    "canonical": "Hemoglobin",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "hemoglobin",
+      "hb"
+    ]
+  },
+  {
+    "id": "L6690-2",
+    "canonical": "White Blood Cell Count",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "wbc",
+      "leukocyte count",
+      "white blood cells"
+    ]
+  },
+  {
+    "id": "L777-3",
+    "canonical": "Platelets",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "platelets",
+      "platelet count"
+    ]
+  },
+  {
+    "id": "L2160-0",
+    "canonical": "Creatinine",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "creatinine",
+      "serum creatinine"
+    ]
+  },
+  {
+    "id": "L2951-2",
+    "canonical": "Serum Sodium",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "serum sodium",
+      "sodium"
+    ]
+  },
+  {
+    "id": "L2823-3",
+    "canonical": "Serum Potassium",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "serum potassium",
+      "potassium"
+    ]
+  },
+  {
+    "id": "D006493",
+    "canonical": "Heparin",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "heparin",
+      "heparin infusion"
+    ]
+  },
+  {
+    "id": "D014859",
+    "canonical": "Warfarin",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "warfarin",
+      "anticoagulation"
+    ]
+  },
+  {
+    "id": "D007538",
+    "canonical": "Isoniazid",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "isoniazid",
+      "inh"
+    ]
+  },
+  {
+    "id": "D012293",
+    "canonical": "Rifampin",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "rifampin"
+    ]
+  },
+  {
+    "id": "D005030",
+    "canonical": "Ethambutol",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "ethambutol"
+    ]
+  },
+  {
+    "id": "D011746",
+    "canonical": "Pyrazinamide",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "pyrazinamide"
+    ]
+  },
+  {
+    "id": "D011241",
+    "canonical": "Prednisone",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "prednisone",
+      "steroids"
+    ]
+  },
+  {
+    "id": "D007052",
+    "canonical": "Ibuprofen",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "ibuprofen",
+      "analgesia",
+      "analgesics"
+    ]
+  },
+  {
+    "id": "D000082",
+    "canonical": "Acetaminophen",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "paracetamol",
+      "acetaminophen"
+    ]
+  },
+  {
+    "id": "D002690",
+    "canonical": "Chemotherapy",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "chemotherapy",
+      "anti-tuberculous medications"
+    ]
+  },
+  {
+    "id": "D000900",
+    "canonical": "Anti-Bacterial Agents",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "antibiotics",
+      "antibacterial agents",
+      "eradication therapy"
+    ]
+  },
+  {
+    "id": "D005440",
+    "canonical": "Fluid Therapy",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "intravenous fluids",
+      "iv fluids"
+    ]
+  },
+  {
+    "id": "D010180",
+    "canonical": "Pancreatectomy",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "distal pancreatectomy",
+      "laparoscopic distal pancreatectomy",
+      "pancreatectomy",
+      "resection",
+      "surgical resection",
+      "open resection"
+    ]
+  },
+  {
+    "id": "D013156",
+    "canonical": "Splenectomy",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "splenectomy"
+    ]
+  },
+  {
+    "id": "D005749",
+    "canonical": "Gastrojejunostomy",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "gastrojejunostomy",
+      "gj",
+      "laparoscopic gastrojejunostomy",
+      "palliative bypass"
+    ]
+  },
+  {
+    "id": "D015607",
+    "canonical": "Stents",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "stent",
+      "axios stent",
+      "colonic stent",
+      "stent placement"
+    ]
+  },
+  {
+    "id": "D019918",
+    "canonical": "Heart Valve Prosthesis Implantation",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "valve replacement",
+      "mitral valve replacement",
+      "redo mitral valve surgery"
+    ]
+  },
+  {
+    "id": "D005085",
+    "canonical": "Drainage",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "drainage",
+      "decompression",
+      "gastric decompression",
+      "cystgastrostomy",
+      "incised and drained"
+    ]
+  },
+  {
+    "id": "D007442",
+    "canonical": "Intubation",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "intubation",
+      "emergent intubation",
+      "extubated",
+      "nj tube",
+      "ng tube",
+      "gastrojejunal tube"
+    ]
+  },
+  {
+    "id": "META_0000",
+    "canonical": "Cysts",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "cysts"
+    ]
+  },
+  {
+    "id": "META_0001",
+    "canonical": "Stomach Diseases",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "stomach diseases"
+    ]
+  },
+  {
+    "id": "META_0002",
+    "canonical": "Diagnosis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "diagnosis"
+    ]
+  },
+  {
+    "id": "META_0003",
+    "canonical": "Differential",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "differential"
+    ]
+  },
+  {
+    "id": "META_0004",
+    "canonical": "Endoscopic Ultrasound-Guided Fine Needle Aspiration",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "endoscopic ultrasound-guided fine needle aspiration"
+    ]
+  },
+  {
+    "id": "META_0005",
+    "canonical": "Gastric Bypass",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "gastric bypass"
+    ]
+  },
+  {
+    "id": "META_0006",
+    "canonical": "Pancreatic Neoplasms",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pancreatic neoplasms"
+    ]
+  },
+  {
+    "id": "META_0007",
+    "canonical": "Adenovirus Infections",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "adenovirus infections"
+    ]
+  },
+  {
+    "id": "META_0008",
+    "canonical": "Human",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "human"
+    ]
+  },
+  {
+    "id": "META_0009",
+    "canonical": "Adenoviruses",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "adenoviruses"
+    ]
+  },
+  {
+    "id": "META_0010",
+    "canonical": "Viral",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "viral"
+    ]
+  },
+  {
+    "id": "META_0011",
+    "canonical": "Fatal Outcome",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "fatal outcome"
+    ]
+  },
+  {
+    "id": "META_0012",
+    "canonical": "New Brunswick",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "new brunswick"
+    ]
+  },
+  {
+    "id": "META_0013",
+    "canonical": "Phylogeny",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "phylogeny"
+    ]
+  },
+  {
+    "id": "META_0014",
+    "canonical": "Serotyping",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "serotyping"
+    ]
+  },
+  {
+    "id": "META_0015",
+    "canonical": "Autoimmune Diseases",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "autoimmune diseases"
+    ]
+  },
+  {
+    "id": "META_0016",
+    "canonical": "Liver Cirrhosis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "liver cirrhosis"
+    ]
+  },
+  {
+    "id": "META_0017",
+    "canonical": "Biliary",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "biliary"
+    ]
+  },
+  {
+    "id": "META_0018",
+    "canonical": "Research Support",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "research support"
+    ]
+  },
+  {
+    "id": "META_0019",
+    "canonical": "Non-U.S. Gov\\",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "non-u.s. gov\\"
+    ]
+  },
+  {
+    "id": "META_0020",
+    "canonical": "Education",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "education"
+    ]
+  },
+  {
+    "id": "META_0021",
+    "canonical": "Medical",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "medical"
+    ]
+  },
+  {
+    "id": "META_0022",
+    "canonical": "Undergraduate",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "undergraduate"
+    ]
+  },
+  {
+    "id": "META_0023",
+    "canonical": "Students",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "students"
+    ]
+  },
+  {
+    "id": "META_0024",
+    "canonical": "Randomized Controlled Trial",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "randomized controlled trial"
+    ]
+  },
+  {
+    "id": "META_0025",
+    "canonical": "Maxilla",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "maxilla"
+    ]
+  },
+  {
+    "id": "META_0026",
+    "canonical": "Problem-Based Learning",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "problem-based learning"
+    ]
+  },
+  {
+    "id": "META_0027",
+    "canonical": "Surveys and Questionnaires",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "surveys and questionnaires"
+    ]
+  },
+  {
+    "id": "META_0028",
+    "canonical": "Central Nervous System Infections",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "central nervous system infections"
+    ]
+  },
+  {
+    "id": "META_0029",
+    "canonical": "Pemphigoid",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pemphigoid"
+    ]
+  },
+  {
+    "id": "META_0030",
+    "canonical": "Bullous",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "bullous"
+    ]
+  },
+  {
+    "id": "META_0031",
+    "canonical": "Sjogren\\",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "sjogren\\"
+    ]
+  },
+  {
+    "id": "META_0032",
+    "canonical": "s Syndrome",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "s syndrome"
+    ]
+  },
+  {
+    "id": "META_0033",
+    "canonical": "Antibodies",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "antibodies"
+    ]
+  },
+  {
+    "id": "META_0034",
+    "canonical": "Monoclonal",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "monoclonal"
+    ]
+  },
+  {
+    "id": "META_0035",
+    "canonical": "Humanized",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "humanized"
+    ]
+  },
+  {
+    "id": "META_0036",
+    "canonical": "Methylprednisolone",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "methylprednisolone"
+    ]
+  },
+  {
+    "id": "META_0037",
+    "canonical": "Adenoma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "adenoma"
+    ]
+  },
+  {
+    "id": "META_0038",
+    "canonical": "Stomach Neoplasms",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "stomach neoplasms"
+    ]
+  },
+  {
+    "id": "META_0039",
+    "canonical": "Iron-Deficiency",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "iron-deficiency"
+    ]
+  },
+  {
+    "id": "META_0040",
+    "canonical": "Gastric Mucosa",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastric mucosa"
+    ]
+  },
+  {
+    "id": "META_0041",
+    "canonical": "Gastroscopy",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastroscopy"
+    ]
+  },
+  {
+    "id": "META_0042",
+    "canonical": "Young Adult",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "young adult"
+    ]
+  },
+  {
+    "id": "META_0043",
+    "canonical": "pfm coil",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pfm coil"
+    ]
+  },
+  {
+    "id": "META_0044",
+    "canonical": "iron deficiency",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "iron deficiency"
+    ]
+  },
+  {
+    "id": "META_0045",
+    "canonical": "whole cow milk",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "whole cow milk"
+    ]
+  },
+  {
+    "id": "META_0046",
+    "canonical": "covid-19",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "covid-19"
+    ]
+  },
+  {
+    "id": "META_0047",
+    "canonical": "sars-cov-2",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "sars-cov-2"
+    ]
+  },
+  {
+    "id": "META_0048",
+    "canonical": "hydroxychloroquine",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "hydroxychloroquine"
+    ]
+  },
+  {
+    "id": "META_0049",
+    "canonical": "multiple infections",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "multiple infections"
+    ]
+  },
+  {
+    "id": "META_0050",
+    "canonical": "alectinib",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "alectinib"
+    ]
+  },
+  {
+    "id": "META_0051",
+    "canonical": "brigatinib",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "brigatinib"
+    ]
+  },
+  {
+    "id": "META_0052",
+    "canonical": "bronchial compression",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "bronchial compression"
+    ]
+  },
+  {
+    "id": "META_0053",
+    "canonical": "interrupted aortic arch",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "interrupted aortic arch"
+    ]
+  },
+  {
+    "id": "META_0054",
+    "canonical": "pulmonary artery stenting",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pulmonary artery stenting"
+    ]
+  },
+  {
+    "id": "META_0055",
+    "canonical": "truncus arteriosus communis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "truncus arteriosus communis"
+    ]
+  },
+  {
+    "id": "META_0056",
+    "canonical": "17α-hydroxylase deficiency",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "17α-hydroxylase deficiency"
+    ]
+  },
+  {
+    "id": "META_0057",
+    "canonical": "children",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "children"
+    ]
+  },
+  {
+    "id": "META_0058",
+    "canonical": "hypokalemia",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "hypokalemia"
+    ]
+  },
+  {
+    "id": "META_0059",
+    "canonical": "novel variant",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "novel variant"
+    ]
+  },
+  {
+    "id": "META_0060",
+    "canonical": "twin",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "twin"
+    ]
+  },
+  {
+    "id": "META_0061",
+    "canonical": "aortic replacement",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "aortic replacement"
+    ]
+  },
+  {
+    "id": "META_0062",
+    "canonical": "cardiac pseudomasses",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "cardiac pseudomasses"
+    ]
+  },
+  {
+    "id": "META_0063",
+    "canonical": "echocardiography",
+    "category": "E01",
+    "type": "Exam",
+    "synonyms": [
+      "echocardiography"
+    ]
+  },
+  {
+    "id": "META_0064",
+    "canonical": "left atrium",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "left atrium"
+    ]
+  },
+  {
+    "id": "META_0065",
+    "canonical": "case report",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "case report"
+    ]
+  },
+  {
+    "id": "META_0066",
+    "canonical": "diverticulum",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "diverticulum"
+    ]
+  },
+  {
+    "id": "META_0067",
+    "canonical": "esophageal stricture",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "esophageal stricture"
+    ]
+  },
+  {
+    "id": "META_0068",
+    "canonical": "airway",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "airway"
+    ]
+  },
+  {
+    "id": "META_0069",
+    "canonical": "oral dexmedetomidine",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "oral dexmedetomidine"
+    ]
+  },
+  {
+    "id": "META_0070",
+    "canonical": "oral ketamine",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "oral ketamine"
+    ]
+  },
+  {
+    "id": "META_0071",
+    "canonical": "sedation",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "sedation"
+    ]
+  },
+  {
+    "id": "META_0072",
+    "canonical": "caspr2",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "caspr2"
+    ]
+  },
+  {
+    "id": "META_0073",
+    "canonical": "flow cytometry",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "flow cytometry"
+    ]
+  },
+  {
+    "id": "META_0074",
+    "canonical": "multifocal motor neuropathy",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "multifocal motor neuropathy"
+    ]
+  },
+  {
+    "id": "META_0075",
+    "canonical": "compartment syndrome",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "compartment syndrome"
+    ]
+  },
+  {
+    "id": "META_0076",
+    "canonical": "extremity birth deformity",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "extremity birth deformity"
+    ]
+  },
+  {
+    "id": "META_0077",
+    "canonical": "in utero extremity insult",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "in utero extremity insult"
+    ]
+  },
+  {
+    "id": "META_0078",
+    "canonical": "neonatal compartment syndrome",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "neonatal compartment syndrome"
+    ]
+  },
+  {
+    "id": "META_0079",
+    "canonical": "upper extremity ischemia",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "upper extremity ischemia"
+    ]
+  },
+  {
+    "id": "META_0080",
+    "canonical": "cuff leak",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "cuff leak"
+    ]
+  },
+  {
+    "id": "META_0081",
+    "canonical": "endotracheal tube",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "endotracheal tube"
+    ]
+  },
+  {
+    "id": "META_0082",
+    "canonical": "intracuff pressure",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "intracuff pressure"
+    ]
+  },
+  {
+    "id": "META_0083",
+    "canonical": "tracheal damage",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "tracheal damage"
+    ]
+  },
+  {
+    "id": "META_0084",
+    "canonical": "tracheoesophageal fistula",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "tracheoesophageal fistula"
+    ]
+  },
+  {
+    "id": "META_0085",
+    "canonical": "calcium channel blocker",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "calcium channel blocker"
+    ]
+  },
+  {
+    "id": "META_0086",
+    "canonical": "complete atrioventricular block",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "complete atrioventricular block"
+    ]
+  },
+  {
+    "id": "META_0087",
+    "canonical": "coronary artery spasm",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "coronary artery spasm"
+    ]
+  },
+  {
+    "id": "D004110",
+    "canonical": "Diltiazem",
+    "category": "D27",
+    "type": "Treatment",
+    "synonyms": [
+      "diltiazem",
+      "diltiazem hydrochloride",
+      "cardizem"
+    ]
+  },
+  {
+    "id": "META_0089",
+    "canonical": "fatal arrhythmia",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "fatal arrhythmia"
+    ]
+  },
+  {
+    "id": "META_0090",
+    "canonical": "anatomical variations",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "anatomical variations"
+    ]
+  },
+  {
+    "id": "META_0091",
+    "canonical": "inferior alveolar nerve branches",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "inferior alveolar nerve branches"
+    ]
+  },
+  {
+    "id": "META_0092",
+    "canonical": "mandibular nerve",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "mandibular nerve"
+    ]
+  },
+  {
+    "id": "META_0093",
+    "canonical": "misdiagnosis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "misdiagnosis"
+    ]
+  },
+  {
+    "id": "META_0094",
+    "canonical": "lchadd",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "lchadd"
+    ]
+  },
+  {
+    "id": "META_0095",
+    "canonical": "human milk",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "human milk"
+    ]
+  },
+  {
+    "id": "META_0096",
+    "canonical": "necrotizing enterocolitis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "necrotizing enterocolitis"
+    ]
+  },
+  {
+    "id": "META_0097",
+    "canonical": "preterm",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "preterm"
+    ]
+  },
+  {
+    "id": "META_0098",
+    "canonical": "triheptanoin",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "triheptanoin"
+    ]
+  },
+  {
+    "id": "META_0099",
+    "canonical": "dysembryoplastic neuroepithelial tumor",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "dysembryoplastic neuroepithelial tumor"
+    ]
+  },
+  {
+    "id": "META_0100",
+    "canonical": "ganglioglioma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "ganglioglioma"
+    ]
+  },
+  {
+    "id": "META_0101",
+    "canonical": "glioneuronal tumor",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "glioneuronal tumor"
+    ]
+  },
+  {
+    "id": "META_0102",
+    "canonical": "surgery",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "surgery"
+    ]
+  },
+  {
+    "id": "META_0103",
+    "canonical": "temporal lobe epilepsy",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "temporal lobe epilepsy"
+    ]
+  },
+  {
+    "id": "META_0104",
+    "canonical": "uedvt",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "uedvt"
+    ]
+  },
+  {
+    "id": "META_0105",
+    "canonical": "anticoagulation therapy",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "anticoagulation therapy"
+    ]
+  },
+  {
+    "id": "META_0106",
+    "canonical": "first rib resection and scalenectomy",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "first rib resection and scalenectomy"
+    ]
+  },
+  {
+    "id": "META_0107",
+    "canonical": "upper extremity deep venous thrombosis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "upper extremity deep venous thrombosis"
+    ]
+  },
+  {
+    "id": "META_0108",
+    "canonical": "venous thoracic outlet syndrome",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "venous thoracic outlet syndrome"
+    ]
+  },
+  {
+    "id": "META_0109",
+    "canonical": "desmoplastic fibroma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "desmoplastic fibroma"
+    ]
+  },
+  {
+    "id": "META_0110",
+    "canonical": "fibrous dysplasia",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "fibrous dysplasia"
+    ]
+  },
+  {
+    "id": "META_0111",
+    "canonical": "intraosseous",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "intraosseous"
+    ]
+  },
+  {
+    "id": "META_0112",
+    "canonical": "ossifying fibroma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "ossifying fibroma"
+    ]
+  },
+  {
+    "id": "META_0113",
+    "canonical": "skull lesion",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "skull lesion"
+    ]
+  },
+  {
+    "id": "META_0114",
+    "canonical": "alasdair macintyre",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "alasdair macintyre"
+    ]
+  },
+  {
+    "id": "META_0115",
+    "canonical": "management",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "management"
+    ]
+  },
+  {
+    "id": "META_0116",
+    "canonical": "manager",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "manager"
+    ]
+  },
+  {
+    "id": "META_0117",
+    "canonical": "moral injury",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "moral injury"
+    ]
+  },
+  {
+    "id": "META_0118",
+    "canonical": "virtue",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "virtue"
+    ]
+  },
+  {
+    "id": "META_0119",
+    "canonical": "complication",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "complication"
+    ]
+  },
+  {
+    "id": "META_0120",
+    "canonical": "esophageal bypass surgery",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "esophageal bypass surgery"
+    ]
+  },
+  {
+    "id": "META_0121",
+    "canonical": "esophagobronchial fistula",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "esophagobronchial fistula"
+    ]
+  },
+  {
+    "id": "META_0122",
+    "canonical": "spontaneous respiration",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "spontaneous respiration"
+    ]
+  },
+  {
+    "id": "META_0123",
+    "canonical": "graves’ disease",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "graves’ disease"
+    ]
+  },
+  {
+    "id": "META_0124",
+    "canonical": "autoimmune thyroiditis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "autoimmune thyroiditis"
+    ]
+  },
+  {
+    "id": "META_0125",
+    "canonical": "hypothyroidism",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "hypothyroidism"
+    ]
+  },
+  {
+    "id": "META_0126",
+    "canonical": "quitting smoking",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "quitting smoking"
+    ]
+  },
+  {
+    "id": "META_0127",
+    "canonical": "trigger",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "trigger"
+    ]
+  },
+  {
+    "id": "META_0128",
+    "canonical": "calprotectin value",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "calprotectin value"
+    ]
+  },
+  {
+    "id": "META_0129",
+    "canonical": "emergency colectomy",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "emergency colectomy"
+    ]
+  },
+  {
+    "id": "META_0130",
+    "canonical": "massive rectal bleeding",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "massive rectal bleeding"
+    ]
+  },
+  {
+    "id": "META_0131",
+    "canonical": "ulcerative colitis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "ulcerative colitis"
+    ]
+  },
+  {
+    "id": "META_0132",
+    "canonical": "bone augmentation",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "bone augmentation"
+    ]
+  },
+  {
+    "id": "META_0133",
+    "canonical": "dental implant",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "dental implant"
+    ]
+  },
+  {
+    "id": "META_0134",
+    "canonical": "digital dentistry",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "digital dentistry"
+    ]
+  },
+  {
+    "id": "META_0135",
+    "canonical": "esthetics",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "esthetics"
+    ]
+  },
+  {
+    "id": "META_0136",
+    "canonical": "autoimmune hemolytic anemia",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "autoimmune hemolytic anemia"
+    ]
+  },
+  {
+    "id": "META_0137",
+    "canonical": "systemic lupus erythematosus",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "systemic lupus erythematosus"
+    ]
+  },
+  {
+    "id": "META_0138",
+    "canonical": "sjogren’s syndrome",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "sjogren’s syndrome"
+    ]
+  },
+  {
+    "id": "META_0139",
+    "canonical": "bullous pemphigoid",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "bullous pemphigoid"
+    ]
+  },
+  {
+    "id": "META_0140",
+    "canonical": "central nervous system infection",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "central nervous system infection"
+    ]
+  },
+  {
+    "id": "META_0141",
+    "canonical": "pathological mechanisms",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pathological mechanisms"
+    ]
+  },
+  {
+    "id": "META_0142",
+    "canonical": "blood transfusion",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "blood transfusion"
+    ]
+  },
+  {
+    "id": "META_0143",
+    "canonical": "p antigen-negative blood",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "p antigen-negative blood"
+    ]
+  },
+  {
+    "id": "META_0144",
+    "canonical": "paroxysmal cold hemoglobinuria",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "paroxysmal cold hemoglobinuria"
+    ]
+  },
+  {
+    "id": "META_0145",
+    "canonical": "behçet’s disease",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "behçet’s disease"
+    ]
+  },
+  {
+    "id": "META_0146",
+    "canonical": "atrial mass",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "atrial mass"
+    ]
+  },
+  {
+    "id": "META_0147",
+    "canonical": "morcellation",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "morcellation"
+    ]
+  },
+  {
+    "id": "META_0148",
+    "canonical": "tumor spread",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "tumor spread"
+    ]
+  },
+  {
+    "id": "META_0149",
+    "canonical": "undifferentiated sarcomas",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "undifferentiated sarcomas"
+    ]
+  },
+  {
+    "id": "META_0150",
+    "canonical": "uterine sarcomas",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "uterine sarcomas"
+    ]
+  },
+  {
+    "id": "META_0151",
+    "canonical": "low-cost negative pressure dressing",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "low-cost negative pressure dressing"
+    ]
+  },
+  {
+    "id": "META_0152",
+    "canonical": "pressure injury",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "pressure injury"
+    ]
+  },
+  {
+    "id": "META_0153",
+    "canonical": "vacuum assisted closure",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "vacuum assisted closure"
+    ]
+  },
+  {
+    "id": "META_0154",
+    "canonical": "neurorehabilitation",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "neurorehabilitation"
+    ]
+  },
+  {
+    "id": "META_0155",
+    "canonical": "spinal cord injury",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "spinal cord injury"
+    ]
+  },
+  {
+    "id": "META_0156",
+    "canonical": "gastric adenocarcinoma of fundic gland type (ga-fg)",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastric adenocarcinoma of fundic gland type (ga-fg)"
+    ]
+  },
+  {
+    "id": "META_0157",
+    "canonical": "gastric adenocarcinoma with chief cell differentiation (ga-ccd)",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastric adenocarcinoma with chief cell differentiation (ga-ccd)"
+    ]
+  },
+  {
+    "id": "META_0158",
+    "canonical": "gastric adenoma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastric adenoma"
+    ]
+  },
+  {
+    "id": "META_0159",
+    "canonical": "gastric polyp",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastric polyp"
+    ]
+  },
+  {
+    "id": "META_0160",
+    "canonical": "oxyntic gland adenoma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "oxyntic gland adenoma"
+    ]
+  },
+  {
+    "id": "META_0161",
+    "canonical": "acute appendicitis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "acute appendicitis"
+    ]
+  },
+  {
+    "id": "META_0162",
+    "canonical": "appendiceal endometriosis",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "appendiceal endometriosis"
+    ]
+  },
+  {
+    "id": "META_0163",
+    "canonical": "laparoscopic appendectomy",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "laparoscopic appendectomy"
+    ]
+  },
+  {
+    "id": "META_0164",
+    "canonical": "angiosarcoma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "angiosarcoma"
+    ]
+  },
+  {
+    "id": "META_0165",
+    "canonical": "gastroenterology",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "gastroenterology"
+    ]
+  },
+  {
+    "id": "META_0166",
+    "canonical": "hepatic angiosarcoma",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "hepatic angiosarcoma"
+    ]
+  },
+  {
+    "id": "META_0167",
+    "canonical": "liver",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "liver"
+    ]
+  },
+  {
+    "id": "META_0168",
+    "canonical": "malignancy",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "malignancy"
+    ]
+  },
+  {
+    "id": "META_0169",
+    "canonical": "sugarbaker technique",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "sugarbaker technique"
+    ]
+  },
+  {
+    "id": "META_0170",
+    "canonical": "laparoscopic surgery",
+    "category": "E04",
+    "type": "Treatment",
+    "synonyms": [
+      "laparoscopic surgery"
+    ]
+  },
+  {
+    "id": "META_0171",
+    "canonical": "parastomal hernia",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "parastomal hernia"
+    ]
+  },
+  {
+    "id": "META_0172",
+    "canonical": "stomach incarceration",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "stomach incarceration"
+    ]
+  },
+  {
+    "id": "META_0173",
+    "canonical": "stomach obstruction",
+    "category": "C_or_E",
+    "type": "Diagnosis",
+    "synonyms": [
+      "stomach obstruction"
+    ]
+  }
+]

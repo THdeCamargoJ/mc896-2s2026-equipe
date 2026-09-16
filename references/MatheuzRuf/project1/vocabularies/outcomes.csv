@@ -1,0 +1,5 @@
+term,aliases,type,source,code
+recovery,recovered|recovering,Outcome,manual,
+discharge,discharged,Outcome,manual,
+death,died|deceased,Outcome,manual,
+recurrence,relapsed|recurred,Outcome,manual,

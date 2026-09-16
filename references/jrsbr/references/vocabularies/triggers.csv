@@ -1,0 +1,32 @@
+trigger,polarity,use
+showed,neutral,exam_result
+demonstrated,neutral,exam_result
+revealed,neutral,exam_result
+indicated,neutral,exam_result
+noted,neutral,exam_result
+confirmed,positive,exam_result
+consistent with,positive,exam_result
+suggestive of,positive,exam_result
+indicative of,positive,exam_result
+positive for,positive,exam_result
+diagnostic of,positive,exam_result
+excluded,negative,exam_result
+ruled out,negative,exam_result
+negative for,negative,exam_result
+no evidence of,negative,exam_result
+without evidence of,negative,exam_result
+treated with,positive,administration
+given,positive,administration
+started on,positive,administration
+administered,positive,administration
+received,positive,administration
+prescribed,positive,administration
+underwent,positive,administration
+history of,history,medical_history
+hx of,history,medical_history
+h/o,history,medical_history
+prior,history,medical_history
+previous,history,medical_history
+known case of,history,medical_history
+previously diagnosed with,history,medical_history
+past medical history of,history,medical_history

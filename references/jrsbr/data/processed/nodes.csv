@@ -1,0 +1,1594 @@
+node_id,case_id,type,label,attributes
+PMC5137649_01_P1,PMC5137649_01,Patient,case PMC5137649_01,age=44.0; gender=Female
+PMC5137649_01_H1,PMC5137649_01,History,Abdominal Pain,category=symptom
+PMC5137649_01_H2,PMC5137649_01,History,Nausea,category=symptom
+PMC5137649_01_H3,PMC5137649_01,History,Constipation,category=symptom
+PMC5137649_01_E1,PMC5137649_01,Exam,Physical Examination,match=exact; distance=0
+PMC5137649_01_AS1,PMC5137649_01,AnatomicalSite,Stomach,match=exact; distance=0
+PMC5137649_01_AS2,PMC5137649_01,AnatomicalSite,Tail,match=exact; distance=0
+PMC5137649_01_AS3,PMC5137649_01,AnatomicalSite,Pancreas,match=exact; distance=0
+PMC5137649_01_E2,PMC5137649_01,Exam,Tomography,match=exact; distance=0
+PMC5137649_01_R1,PMC5137649_01,ExamResult,6 cm,value=6
+UNIT_CM,,Unit,cm,
+PMC5137649_01_E3,PMC5137649_01,Exam,Carcinoembryonic Antigen,match=exact; distance=0
+PMC5137649_01_R2,PMC5137649_01,ExamResult,"12,476.5 ng/ml","value=12,476.5"
+UNIT_NG/ML,,Unit,ng/ml,
+PMC5137649_01_AS4,PMC5137649_01,AnatomicalSite,Peritoneal Cavity,match=exact; distance=0
+PMC5137649_01_E4,PMC5137649_01,Exam,Endoscopy,match=exact; distance=0
+PMC5137649_01_E5,PMC5137649_01,Exam,"Endoscopy, Digestive System",match=fuzzy; distance=1
+PMC5137649_01_F1,PMC5137649_01,Finding,the presence of an intact staple line on the posterior stom,
+PMC5137649_01_S1,PMC5137649_01,Symptom,Pain,match=exact; distance=0
+PMC5137649_01_S2,PMC5137649_01,Symptom,Nausea,match=exact; distance=0
+PMC9387390_01_P1,PMC9387390_01,Patient,case PMC9387390_01,age=57.0; gender=Male
+PMC9387390_01_S1,PMC9387390_01,Symptom,Diarrhea,match=exact; distance=0
+PMC9387390_01_S2,PMC9387390_01,Symptom,Edema,match=exact; distance=0
+PMC9387390_01_E1,PMC9387390_01,Exam,Tomography,match=exact; distance=0
+PMC9387390_01_E2,PMC9387390_01,Exam,Barium Enema,match=exact; distance=0
+PMC9387390_01_AS1,PMC9387390_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC9387390_01_AS2,PMC9387390_01,AnatomicalSite,Pancreas,match=exact; distance=0
+PMC9387390_01_AS3,PMC9387390_01,AnatomicalSite,Duodenum,match=exact; distance=0
+PMC9387390_01_D1,PMC9387390_01,Diagnosis,Adenocarcinoma,match=exact; distance=0
+PMC9387390_01_AS4,PMC9387390_01,AnatomicalSite,Upper Gastrointestinal Tract,match=exact; distance=0
+PMC9387390_01_E3,PMC9387390_01,Exam,Biopsy,match=exact; distance=0
+PMC9387390_01_S3,PMC9387390_01,Symptom,Disease,match=exact; distance=0
+PMC9387390_01_S4,PMC9387390_01,Symptom,Nausea,match=exact; distance=0
+PMC9387390_01_T1,PMC9387390_01,Treatment,Gastric Bypass,match=exact; distance=0
+PMC9387390_01_S5,PMC9387390_01,Symptom,Anastomotic Leak,match=exact; distance=0
+PMC9387390_01_AS5,PMC9387390_01,AnatomicalSite,Jejunum,match=exact; distance=0
+PMC9387390_01_AS6,PMC9387390_01,AnatomicalSite,Stomach,match=exact; distance=0
+PMC9387390_01_AS7,PMC9387390_01,AnatomicalSite,Intestines,match=fuzzy; distance=1
+PMC9387390_01_T2,PMC9387390_01,Treatment,Drainage,match=exact; distance=0
+PMC9387390_01_E4,PMC9387390_01,Exam,"Endoscopy, Digestive System",match=exact; distance=0
+PMC9387390_01_F1,PMC9387390_01,Finding,stricture,
+PMC9387390_01_T3,PMC9387390_01,Treatment,Decompression,match=exact; distance=0
+PMC9387390_01_E5,PMC9387390_01,Exam,Endoscopy,match=exact; distance=0
+PMC9387390_01_F2,PMC9387390_01,Finding,"ent of this NJ tube multiple times, and due to the findings",
+PMC9387390_01_T4,PMC9387390_01,Treatment,Hospice Care,match=exact; distance=0
+PMC3437073_01_P1,PMC3437073_01,Patient,case PMC3437073_01,age=55.0; gender=Male
+PMC3437073_01_AS1,PMC3437073_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC3437073_01_AS2,PMC3437073_01,AnatomicalSite,Skin,match=exact; distance=0
+PMC3437073_01_AS3,PMC3437073_01,AnatomicalSite,Spleen,match=exact; distance=0
+PMC3437073_01_AS4,PMC3437073_01,AnatomicalSite,Rib Cage,match=exact; distance=0
+PMC3437073_01_AS5,PMC3437073_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC3437073_01_D1,PMC3437073_01,Diagnosis,Tuberculosis,match=exact; distance=0
+PMC3437073_01_E1,PMC3437073_01,Exam,Radiography,match=fuzzy; distance=1
+PMC3437073_01_F1,PMC3437073_01,Finding,calcified lesions in the left upper quadrant (Figure 1),
+PMC3437073_01_S1,PMC3437073_01,Symptom,Abscess,match=exact; distance=0
+PMC3437073_01_AS6,PMC3437073_01,AnatomicalSite,Diaphragm,match=exact; distance=0
+PMC3437073_01_S2,PMC3437073_01,Symptom,Suppuration,match=exact; distance=0
+PMC3437073_01_S3,PMC3437073_01,Symptom,Granuloma,match=exact; distance=0
+PMC3437073_01_AS7,PMC3437073_01,AnatomicalSite,Epithelioid Cells,match=exact; distance=0
+PMC3437073_01_AS8,PMC3437073_01,AnatomicalSite,Giant Cells,match=exact; distance=0
+PMC3437073_01_S4,PMC3437073_01,Symptom,Necrosis,match=exact; distance=0
+PMC3437073_01_E2,PMC3437073_01,Exam,Staining and Labeling,match=exact; distance=0
+PMC3437073_01_T1,PMC3437073_01,Treatment,Isoniazid,match=exact; distance=0
+PMC3437073_01_T2,PMC3437073_01,Treatment,Rifampin,match=exact; distance=0
+PMC3437073_01_E3,PMC3437073_01,Exam,Ethambutol,match=exact; distance=0
+PMC3437073_01_R1,PMC3437073_01,ExamResult,600 mg,value=600
+UNIT_MG,,Unit,mg,
+PMC3437073_01_E4,PMC3437073_01,Exam,Pyrazinamide,match=exact; distance=0
+PMC3437073_01_R2,PMC3437073_01,ExamResult,500 mg,value=500
+PMC7102447_01_P1,PMC7102447_01,Patient,case PMC7102447_01,age=65.0; gender=Male
+PMC7102447_01_D1,PMC7102447_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC7102447_01_D2,PMC7102447_01,Diagnosis,Asthma,match=exact; distance=0
+PMC7102447_01_AS1,PMC7102447_01,AnatomicalSite,Mitral Valve,match=exact; distance=0
+PMC7102447_01_H1,PMC7102447_01,History,Intubation,category=treatment
+PMC7102447_01_S1,PMC7102447_01,Symptom,Bundle-Branch Block,match=exact; distance=0
+PMC7102447_01_E1,PMC7102447_01,Exam,Electrocardiography,match=exact; distance=0
+PMC7102447_01_E2,PMC7102447_01,Exam,Troponin,match=exact; distance=0
+PMC7102447_01_R1,PMC7102447_01,ExamResult,0.04 ng/mL,value=0.04
+PMC7102447_01_T1,PMC7102447_01,Treatment,Critical Care,match=exact; distance=0
+PMC7102447_01_T2,PMC7102447_01,Treatment,Heparin,match=exact; distance=0
+PMC7102447_01_D3,PMC7102447_01,Diagnosis,Acute Coronary Syndrome,match=exact; distance=0
+PMC7102447_01_S2,PMC7102447_01,Symptom,Edema,match=exact; distance=0
+PMC7102447_01_S3,PMC7102447_01,Symptom,Cardiomegaly,match=exact; distance=0
+PMC7102447_01_E3,PMC7102447_01,Exam,Tomography,match=exact; distance=0
+PMC7102447_01_F1,PMC7102447_01,Finding,moderate patchy ground-glass and nodular airspace opacities,
+PMC7102447_01_E4,PMC7102447_01,Exam,Angiography,match=exact; distance=0
+PMC7102447_01_F2,PMC7102447_01,Finding,moderate patchy ground-glass and nodular airspace opacities,
+PMC7102447_01_D4,PMC7102447_01,Diagnosis,Thrombosis,match=exact; distance=0
+PMC7102447_01_T3,PMC7102447_01,Treatment,Warfarin,match=exact; distance=0
+PMC6354154_01_P1,PMC6354154_01,Patient,case PMC6354154_01,age=30.0; gender=Female
+PMC6354154_01_H1,PMC6354154_01,History,Infertility,category=diagnosis
+PMC6354154_01_H2,PMC6354154_01,History,Neoplasms,category=diagnosis
+PMC6354154_01_E1,PMC6354154_01,Exam,Body Mass Index,match=exact; distance=0
+PMC6354154_01_AS1,PMC6354154_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC6354154_01_T1,PMC6354154_01,Treatment,Testosterone,match=exact; distance=0
+PMC6354154_01_T2,PMC6354154_01,Treatment,Dehydroepiandrosterone,match=exact; distance=0
+PMC6354154_01_AS2,PMC6354154_01,AnatomicalSite,Uterus,match=exact; distance=0
+PMC6354154_01_AS3,PMC6354154_01,AnatomicalSite,Ovary,match=exact; distance=0
+PMC6354154_01_E2,PMC6354154_01,Exam,Ultrasonography,match=exact; distance=0
+PMC6354154_01_E3,PMC6354154_01,Exam,Hysterosalpingography,match=exact; distance=0
+PMC6354154_01_E4,PMC6354154_01,Exam,Semen Analysis,match=exact; distance=0
+PMC6354154_01_E5,PMC6354154_01,Exam,Laparoscopy,match=exact; distance=0
+PMC6354154_01_D1,PMC6354154_01,Diagnosis,Rupture,match=exact; distance=0
+PMC6354154_01_AS4,PMC6354154_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC6354154_01_AS5,PMC6354154_01,AnatomicalSite,Cytoplasm,match=exact; distance=0
+PMC6354154_01_S1,PMC6354154_01,Symptom,Hemorrhage,match=exact; distance=0
+PMC6354154_01_T3,PMC6354154_01,Treatment,Vimentin,match=exact; distance=0
+PMC6354154_01_AS6,PMC6354154_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC6354154_01_S2,PMC6354154_01,Symptom,Recurrence,match=exact; distance=0
+PMC6354154_01_T4,PMC6354154_01,Treatment,Ovulation Induction,match=exact; distance=0
+PMC4782471_01_P1,PMC4782471_01,Patient,case PMC4782471_01,age=10.0; gender=Female
+PMC4782471_01_D1,PMC4782471_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC4782471_01_AS1,PMC4782471_01,AnatomicalSite,Ductus Arteriosus,match=exact; distance=0
+PMC4782471_01_S1,PMC4782471_01,Symptom,Postoperative Complications,match=exact; distance=0
+PMC4782471_01_S2,PMC4782471_01,Symptom,Fever,match=exact; distance=0
+PMC4782471_01_E1,PMC4782471_01,Exam,Heart Rate,match=exact; distance=0
+PMC4782471_01_E2,PMC4782471_01,Exam,Respiratory Rate,match=exact; distance=0
+PMC4782471_01_E3,PMC4782471_01,Exam,Blood Pressure,match=exact; distance=0
+PMC4782471_01_R1,PMC4782471_01,ExamResult,60 mm,value=60
+UNIT_MM,,Unit,mm,
+PMC4782471_01_S3,PMC4782471_01,Symptom,Hemorrhage,match=fuzzy; distance=1
+PMC4782471_01_T1,PMC4782471_01,Treatment,Blood Transfusion,match=exact; distance=0
+PMC4782471_01_E4,PMC4782471_01,Exam,Blood Sedimentation,match=exact; distance=0
+PMC4782471_01_R2,PMC4782471_01,ExamResult,120 mm,value=120
+PMC4782471_01_E5,PMC4782471_01,Exam,C-Reactive Protein,match=exact; distance=0
+PMC4782471_01_R3,PMC4782471_01,ExamResult,91 mg/dl,value=91
+UNIT_MG/DL,,Unit,mg/dl,
+PMC4782471_01_E6,PMC4782471_01,Exam,Blood Cell Count,match=exact; distance=0
+PMC4782471_01_E7,PMC4782471_01,Exam,Platelet Count,match=exact; distance=0
+PMC4782471_01_AS2,PMC4782471_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC4782471_01_AS3,PMC4782471_01,AnatomicalSite,Tricuspid Valve,match=exact; distance=0
+PMC4782471_01_E8,PMC4782471_01,Exam,Echocardiography,match=exact; distance=0
+PMC4782471_01_F1,PMC4782471_01,Finding,vegetation of 5 mm x 6 mm attached to the tricuspid valve,
+PMC4782471_01_AS4,PMC4782471_01,AnatomicalSite,Heart Ventricles,match=exact; distance=0
+PMC4782471_01_D2,PMC4782471_01,Diagnosis,Endocarditis,match=exact; distance=0
+PMC4782471_01_T2,PMC4782471_01,Treatment,Ceftazidime,match=exact; distance=0
+PMC4782471_01_T3,PMC4782471_01,Treatment,Ciprofloxacin,match=exact; distance=0
+PMC4782471_01_T4,PMC4782471_01,Treatment,Vancomycin,match=exact; distance=0
+PMC4782471_01_T5,PMC4782471_01,Treatment,Methicillin,match=exact; distance=0
+PMC4782471_01_S4,PMC4782471_01,Symptom,Leukocytosis,match=fuzzy; distance=1
+PMC4782471_01_T6,PMC4782471_01,Treatment,C-Reactive Protein,match=exact; distance=0
+PMC4782471_01_AS5,PMC4782471_01,AnatomicalSite,Heart Atria,match=exact; distance=0
+PMC4782471_01_AS6,PMC4782471_01,AnatomicalSite,Tissues,match=exact; distance=0
+PMC4782471_01_T7,PMC4782471_01,Treatment,Polypropylenes,match=exact; distance=0
+PMC4782471_01_S5,PMC4782471_01,Symptom,Heart Block,match=exact; distance=0
+PMC4782471_01_D3,PMC4782471_01,Diagnosis,Heart Failure,match=exact; distance=0
+PMC4782471_01_S6,PMC4782471_01,Symptom,Sepsis,match=exact; distance=0
+PMC4782471_01_T8,PMC4782471_01,Treatment,Dopamine,match=exact; distance=0
+PMC4782471_01_T9,PMC4782471_01,Treatment,Dobutamine,match=exact; distance=0
+PMC4782471_01_T10,PMC4782471_01,Treatment,Anti-Bacterial Agents,match=exact; distance=0
+PMC4835621_01_P1,PMC4835621_01,Patient,case PMC4835621_01,age=81.0; gender=Female
+PMC4835621_01_H1,PMC4835621_01,History,Purpura,category=symptom
+PMC4835621_01_AS1,PMC4835621_01,AnatomicalSite,Extremities,match=exact; distance=0
+PMC4835621_01_S1,PMC4835621_01,Symptom,Headache,match=fuzzy; distance=1
+PMC4835621_01_S2,PMC4835621_01,Symptom,Fatigue,match=exact; distance=0
+PMC4835621_01_S3,PMC4835621_01,Symptom,Fever,match=exact; distance=0
+PMC4835621_01_S4,PMC4835621_01,Symptom,Hematuria,match=exact; distance=0
+PMC4835621_01_S5,PMC4835621_01,Symptom,Diarrhea,match=exact; distance=0
+PMC4835621_01_S6,PMC4835621_01,Symptom,Nausea,match=exact; distance=0
+PMC4835621_01_S7,PMC4835621_01,Symptom,Vomiting,match=exact; distance=0
+PMC4835621_01_S8,PMC4835621_01,Symptom,Epistaxis,match=exact; distance=0
+PMC4835621_01_D1,PMC4835621_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC4835621_01_D2,PMC4835621_01,Diagnosis,Osteoporosis,match=exact; distance=0
+PMC4835621_01_T1,PMC4835621_01,Treatment,Calcium,match=exact; distance=0
+PMC4835621_01_T2,PMC4835621_01,Treatment,Hydrochlorothiazide,match=exact; distance=0
+PMC4835621_01_T3,PMC4835621_01,Treatment,Vitamin D,match=exact; distance=0
+PMC4835621_01_E1,PMC4835621_01,Exam,Physical Examination,match=exact; distance=0
+PMC4835621_01_E2,PMC4835621_01,Exam,Vital Signs,match=exact; distance=0
+PMC4835621_01_S9,PMC4835621_01,Symptom,Jaundice,match=exact; distance=0
+PMC4835621_01_S10,PMC4835621_01,Symptom,Purpura,match=exact; distance=0
+PMC4835621_01_AS2,PMC4835621_01,AnatomicalSite,Heart,match=exact; distance=0
+PMC4835621_01_AS3,PMC4835621_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC4835621_01_S11,PMC4835621_01,Symptom,Splenomegaly,match=exact; distance=0
+PMC4835621_01_S12,PMC4835621_01,Symptom,Melena,match=exact; distance=0
+PMC4835621_01_S13,PMC4835621_01,Symptom,Gastrointestinal Hemorrhage,match=exact; distance=0
+PMC4835621_01_AS4,PMC4835621_01,AnatomicalSite,Facial Nerve,match=exact; distance=0
+PMC4835621_01_AS5,PMC4835621_01,AnatomicalSite,Head,match=exact; distance=0
+PMC4835621_01_AS6,PMC4835621_01,AnatomicalSite,Neutrophils,match=exact; distance=0
+PMC4835621_01_E3,PMC4835621_01,Exam,"Diagnostic Tests, Routine",match=exact; distance=0
+PMC4835621_01_F1,PMC4835621_01,Finding,a white blood cell count of 6100 per microliter with 73% ne,
+PMC4835621_01_E4,PMC4835621_01,Exam,Blood Cell Count,match=exact; distance=0
+PMC4835621_01_F2,PMC4835621_01,Finding,Laboratory diagnostic tests,
+PMC4835621_01_E5,PMC4835621_01,Exam,Erythrocyte Indices,match=exact; distance=0
+PMC4835621_01_E6,PMC4835621_01,Exam,Reticulocyte Count,match=exact; distance=0
+PMC4835621_01_AS7,PMC4835621_01,AnatomicalSite,Spherocytes,match=exact; distance=0
+PMC4835621_01_AS8,PMC4835621_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC4835621_01_T4,PMC4835621_01,Treatment,Fibrinogen,match=exact; distance=0
+PMC4835621_01_T5,PMC4835621_01,Treatment,Creatinine,match=exact; distance=0
+PMC4835621_01_E7,PMC4835621_01,Exam,Liver Function Tests,match=exact; distance=0
+PMC4835621_01_F3,PMC4835621_01,Finding,Blood chemistry,
+PMC4835621_01_T6,PMC4835621_01,Treatment,Lactic Acid,match=exact; distance=0
+PMC4835621_01_AS9,PMC4835621_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC4835621_01_T7,PMC4835621_01,Treatment,Autoantibodies,match=exact; distance=0
+PMC4835621_01_E8,PMC4835621_01,Exam,Coombs Test,match=exact; distance=0
+PMC4835621_01_T8,PMC4835621_01,Treatment,Antibodies,match=exact; distance=0
+PMC4835621_01_AS10,PMC4835621_01,AnatomicalSite,Bone Marrow,match=exact; distance=0
+PMC4835621_01_E9,PMC4835621_01,Exam,Biopsy,match=exact; distance=0
+PMC4835621_01_F4,PMC4835621_01,Finding,"slightly hypercellular marrow for the patient's age, with n",
+PMC4835621_01_S14,PMC4835621_01,Symptom,Disease Progression,match=exact; distance=0
+PMC4835621_01_T9,PMC4835621_01,Treatment,Plasmapheresis,match=exact; distance=0
+PMC4835621_01_AS11,PMC4835621_01,AnatomicalSite,Stomach,match=exact; distance=0
+PMC4835621_01_E10,PMC4835621_01,Exam,Tomography,match=exact; distance=0
+PMC4835621_01_F5,PMC4835621_01,Finding,an intraluminal thickening of 3.5 cm size in the stomach (F,
+PMC4835621_01_AS12,PMC4835621_01,AnatomicalSite,Cardia,match=exact; distance=0
+PMC4835621_01_AS13,PMC4835621_01,AnatomicalSite,Esophagus,match=exact; distance=0
+PMC4835621_01_T10,PMC4835621_01,Treatment,Rituximab,match=exact; distance=0
+PMC4835621_01_T11,PMC4835621_01,Treatment,Hospitalization,match=exact; distance=0
+PMC4835621_01_D3,PMC4835621_01,Diagnosis,Venous Thrombosis,match=exact; distance=0
+PMC4835621_01_T12,PMC4835621_01,Treatment,Heparin,match=exact; distance=0
+PMC4835621_01_D4,PMC4835621_01,Diagnosis,Gastritis,match=exact; distance=0
+PMC4835621_01_S15,PMC4835621_01,Symptom,Aphasia,match=fuzzy; distance=1
+PMC4835621_01_E11,PMC4835621_01,Exam,Colonoscopy,match=exact; distance=0
+PMC4835621_01_F6,PMC4835621_01,Finding,no significant findings,
+PMC4835621_01_T13,PMC4835621_01,Treatment,Omeprazole,match=exact; distance=0
+PMC4835621_01_T14,PMC4835621_01,Treatment,Amoxicillin,match=exact; distance=0
+PMC4835621_01_T15,PMC4835621_01,Treatment,Clarithromycin,match=exact; distance=0
+PMC4835621_01_T16,PMC4835621_01,Treatment,Anti-Bacterial Agents,match=exact; distance=0
+PMC4835621_01_AS14,PMC4835621_01,AnatomicalSite,Reticulocytes,match=exact; distance=0
+PMC8627357_01_P1,PMC8627357_01,Patient,case PMC8627357_01,age=36.0; gender=Male
+PMC8627357_01_H1,PMC8627357_01,History,Methamphetamine,category=treatment
+PMC8627357_01_H2,PMC8627357_01,History,Heroin,category=treatment
+PMC8627357_01_AS1,PMC8627357_01,AnatomicalSite,Upper Extremity,match=exact; distance=0
+PMC8627357_01_S1,PMC8627357_01,Symptom,Cellulitis,match=exact; distance=0
+PMC8627357_01_S2,PMC8627357_01,Symptom,Dyspnea,match=exact; distance=0
+PMC8627357_01_E1,PMC8627357_01,Exam,Tomography,match=exact; distance=0
+PMC8627357_01_S3,PMC8627357_01,Symptom,Edema,match=exact; distance=0
+PMC8627357_01_S4,PMC8627357_01,Symptom,Erythema,match=exact; distance=0
+PMC8627357_01_AS2,PMC8627357_01,AnatomicalSite,Urine,match=exact; distance=0
+PMC8627357_01_T1,PMC8627357_01,Treatment,Amphetamines,match=exact; distance=0
+PMC8627357_01_T2,PMC8627357_01,Treatment,Methicillin,match=exact; distance=0
+PMC8627357_01_AS3,PMC8627357_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC8627357_01_AS4,PMC8627357_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC8627357_01_T3,PMC8627357_01,Treatment,Vancomycin,match=exact; distance=0
+PMC8627357_01_T4,PMC8627357_01,Treatment,Clindamycin,match=exact; distance=0
+PMC8627357_01_T5,PMC8627357_01,Treatment,Piperacillin,match=exact; distance=0
+PMC8627357_01_T6,PMC8627357_01,Treatment,Tazobactam,match=exact; distance=0
+PMC8627357_01_S5,PMC8627357_01,Symptom,Hypoxia,match=exact; distance=0
+PMC8627357_01_E2,PMC8627357_01,Exam,Oximetry,match=exact; distance=0
+PMC8627357_01_D1,PMC8627357_01,Diagnosis,Lymphadenopathy,match=exact; distance=0
+PMC8627357_01_T7,PMC8627357_01,Treatment,Orthopedic Procedures,match=exact; distance=0
+PMC8627357_01_T8,PMC8627357_01,Treatment,Anti-Bacterial Agents,match=exact; distance=0
+PMC8627357_01_T9,PMC8627357_01,Treatment,Ceftaroline,match=exact; distance=0
+PMC8627357_01_T10,PMC8627357_01,Treatment,Gentamicins,match=exact; distance=0
+PMC8627357_01_T11,PMC8627357_01,Treatment,Linezolid,match=exact; distance=0
+PMC8627357_01_T12,PMC8627357_01,Treatment,Renal Replacement Therapy,match=exact; distance=0
+PMC8627357_01_D2,PMC8627357_01,Diagnosis,Acidosis,match=exact; distance=0
+PMC8627357_01_D3,PMC8627357_01,Diagnosis,Uremia,match=exact; distance=0
+PMC8627357_01_S6,PMC8627357_01,Symptom,Subcutaneous Emphysema,match=exact; distance=0
+PMC8627357_01_AS5,PMC8627357_01,AnatomicalSite,Thorax,match=exact; distance=0
+PMC8627357_01_T13,PMC8627357_01,Treatment,Renal Dialysis,match=exact; distance=0
+PMC8627357_01_AS6,PMC8627357_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC8627357_01_T14,PMC8627357_01,Treatment,Tracheostomy,match=exact; distance=0
+PMC8627357_01_T15,PMC8627357_01,Treatment,Critical Care,match=exact; distance=0
+PMC8627357_01_T16,PMC8627357_01,Treatment,Water,match=exact; distance=0
+PMC8627357_01_T17,PMC8627357_01,Treatment,Rehabilitation,match=exact; distance=0
+PMC5833205_01_P1,PMC5833205_01,Patient,case PMC5833205_01,age=0.0; gender=Male
+PMC5833205_01_S1,PMC5833205_01,Symptom,Edema,match=exact; distance=0
+PMC5833205_01_AS1,PMC5833205_01,AnatomicalSite,Lower Extremity,match=exact; distance=0
+PMC5833205_01_AS2,PMC5833205_01,AnatomicalSite,Milk,match=exact; distance=0
+PMC5833205_01_E1,PMC5833205_01,Exam,Urinalysis,match=exact; distance=0
+PMC5833205_01_F1,PMC5833205_01,Finding,protein,
+PMC5833205_01_D1,PMC5833205_01,Diagnosis,Anemia,match=exact; distance=0
+PMC5833205_01_T1,PMC5833205_01,Treatment,Iron,match=exact; distance=0
+PMC5833205_01_D2,PMC5833205_01,Diagnosis,Hypoproteinemia,match=exact; distance=0
+PMC5833205_01_E2,PMC5833205_01,Exam,Erythrocyte Indices,match=exact; distance=0
+PMC5833205_01_F2,PMC5833205_01,Finding,aboratory studies obtained in the emergency department were,
+PMC5833205_01_E3,PMC5833205_01,Exam,Occult Blood,match=exact; distance=0
+PMC5833205_01_F3,PMC5833205_01,Finding,"per limit of our testing (>1.13 mg/g), and his stool tested",
+PMC5833205_01_AS3,PMC5833205_01,AnatomicalSite,Lower Gastrointestinal Tract,match=exact; distance=0
+PMC5833205_01_E4,PMC5833205_01,Exam,Endoscopy,match=exact; distance=0
+PMC5833205_01_F4,PMC5833205_01,Finding,grossly normal appearing mucosa lining the upper and lower,
+PMC5833205_01_E5,PMC5833205_01,Exam,Colonoscopy,match=exact; distance=0
+PMC5833205_01_F5,PMC5833205_01,Finding,grossly normal appearing mucosa lining the upper and lower,
+PMC5833205_01_AS4,PMC5833205_01,AnatomicalSite,Eosinophils,match=exact; distance=0
+PMC5833205_01_S2,PMC5833205_01,Symptom,Inflammation,match=exact; distance=0
+PMC5833205_01_AS5,PMC5833205_01,AnatomicalSite,Esophagus,match=exact; distance=0
+PMC5833205_01_AS6,PMC5833205_01,AnatomicalSite,Duodenum,match=exact; distance=0
+PMC5833205_01_AS7,PMC5833205_01,AnatomicalSite,Colon,match=exact; distance=0
+PMC5833205_01_AS8,PMC5833205_01,AnatomicalSite,Rectum,match=exact; distance=0
+PMC5833205_01_AS9,PMC5833205_01,AnatomicalSite,Blood Cells,match=exact; distance=0
+PMC5833205_01_S3,PMC5833205_01,Symptom,Diarrhea,match=exact; distance=0
+PMC3917415_01_P1,PMC3917415_01,Patient,case PMC3917415_01,age=47.0; gender=Female
+PMC3917415_01_H1,PMC3917415_01,History,Headache,category=symptom
+PMC3917415_01_E1,PMC3917415_01,Exam,Prednisolone,match=exact; distance=0
+PMC3917415_01_R1,PMC3917415_01,ExamResult,7.5 mg,value=7.5
+PMC3917415_01_E2,PMC3917415_01,Exam,Cyclophosphamide,match=exact; distance=0
+PMC3917415_01_R2,PMC3917415_01,ExamResult,50 mg,value=50
+PMC3917415_01_AS1,PMC3917415_01,AnatomicalSite,Kidney,match=exact; distance=0
+PMC3917415_01_S1,PMC3917415_01,Symptom,Disease,match=exact; distance=0
+PMC3917415_01_E3,PMC3917415_01,Exam,Glomerular Filtration Rate,match=exact; distance=0
+PMC3917415_01_R3,PMC3917415_01,ExamResult,5.6 mL,value=5.6
+UNIT_ML,,Unit,mL,
+PMC3917415_01_E4,PMC3917415_01,Exam,Complement C3,match=exact; distance=0
+PMC3917415_01_R4,PMC3917415_01,ExamResult,66 mg/dL,value=66
+PMC3917415_01_T1,PMC3917415_01,Treatment,DNA,match=exact; distance=0
+PMC3917415_01_E5,PMC3917415_01,Exam,Tomography,match=exact; distance=0
+PMC3917415_01_F1,PMC3917415_01,Finding,SAH in her right Sylvian fissure (Figure 1a),
+PMC3917415_01_T2,PMC3917415_01,Treatment,Renal Dialysis,match=exact; distance=0
+PMC3917415_01_D1,PMC3917415_01,Diagnosis,Aneurysm,match=exact; distance=0
+PMC3917415_01_AS2,PMC3917415_01,AnatomicalSite,Neck,match=exact; distance=0
+PMC3917415_01_E6,PMC3917415_01,Exam,Microscopy,match=exact; distance=0
+PMC3917415_01_T3,PMC3917415_01,Treatment,Indocyanine Green,match=exact; distance=0
+PMC3917415_01_D2,PMC3917415_01,Diagnosis,"Vasospasm, Intracranial",match=exact; distance=0
+PMC3917415_01_D3,PMC3917415_01,Diagnosis,Hydrocephalus,match=exact; distance=0
+PMC7718649_01_P1,PMC7718649_01,Patient,case PMC7718649_01,age=65.0; gender=Female
+PMC7718649_01_E1,PMC7718649_01,Exam,Prednisone,match=exact; distance=0
+PMC7718649_01_R1,PMC7718649_01,ExamResult,10 mg,value=10
+PMC7718649_01_E2,PMC7718649_01,Exam,Hydroxychloroquine,match=exact; distance=0
+PMC7718649_01_R2,PMC7718649_01,ExamResult,0.2 g,value=0.2
+UNIT_G,,Unit,g,
+PMC7718649_01_D1,PMC7718649_01,Diagnosis,COVID-19,match=exact; distance=0
+PMC7718649_01_S1,PMC7718649_01,Symptom,Fever,match=exact; distance=0
+PMC7718649_01_S2,PMC7718649_01,Symptom,Chills,match=exact; distance=0
+PMC7718649_01_S3,PMC7718649_01,Symptom,Fatigue,match=exact; distance=0
+PMC7718649_01_AS1,PMC7718649_01,AnatomicalSite,Sputum,match=exact; distance=0
+PMC7718649_01_S4,PMC7718649_01,Symptom,Nausea,match=exact; distance=0
+PMC7718649_01_S5,PMC7718649_01,Symptom,Anorexia,match=exact; distance=0
+PMC7718649_01_S6,PMC7718649_01,Symptom,Heartburn,match=exact; distance=0
+PMC7718649_01_S7,PMC7718649_01,Symptom,Diarrhea,match=exact; distance=0
+PMC7718649_01_T1,PMC7718649_01,Treatment,Oseltamivir,match=exact; distance=0
+PMC7718649_01_E3,PMC7718649_01,Exam,Moxifloxacin,match=exact; distance=0
+PMC7718649_01_R3,PMC7718649_01,ExamResult,0.4 g,value=0.4
+PMC7718649_01_E4,PMC7718649_01,Exam,Capsules,match=exact; distance=0
+PMC7718649_01_R4,PMC7718649_01,ExamResult,1.4 g,value=1.4
+PMC7718649_01_T2,PMC7718649_01,Treatment,Prednisone,match=exact; distance=0
+PMC7718649_01_T3,PMC7718649_01,Treatment,Hydroxychloroquine,match=exact; distance=0
+PMC7718649_01_R5,PMC7718649_01,ExamResult,25 mg,value=25
+PMC7718649_01_T4,PMC7718649_01,Treatment,Immunoglobulin G,match=exact; distance=0
+PMC7718649_01_AS2,PMC7718649_01,AnatomicalSite,Plasma,match=exact; distance=0
+PMC7718649_01_S8,PMC7718649_01,Symptom,Leukocytosis,match=fuzzy; distance=1
+PMC7718649_01_E5,PMC7718649_01,Exam,Lymphocyte Count,match=exact; distance=0
+PMC7718649_01_T5,PMC7718649_01,Treatment,Oxygen,match=exact; distance=0
+PMC7718649_01_E6,PMC7718649_01,Exam,Physical Examination,match=exact; distance=0
+PMC7718649_01_F1,PMC7718649_01,Finding,"that the conscious of the patient was clear, temperature wa",
+PMC7718649_01_E7,PMC7718649_01,Exam,Blood Pressure,match=exact; distance=0
+PMC7718649_01_R6,PMC7718649_01,ExamResult,74 mmHg,value=74
+UNIT_MMHG,,Unit,mmHg,
+PMC7718649_01_E8,PMC7718649_01,Exam,Heart Rate,match=exact; distance=0
+PMC7718649_01_E9,PMC7718649_01,Exam,Respiratory Rate,match=exact; distance=0
+PMC7718649_01_E10,PMC7718649_01,Exam,Oxygen,match=exact; distance=0
+PMC7718649_01_R7,PMC7718649_01,ExamResult,3 L,value=3
+UNIT_L,,Unit,L,
+PMC7718649_01_AS3,PMC7718649_01,AnatomicalSite,Granulocytes,match=fuzzy; distance=1
+PMC7718649_01_E11,PMC7718649_01,Exam,Blood Cell Count,match=exact; distance=0
+PMC7718649_01_T6,PMC7718649_01,Treatment,Indicators and Reagents,match=exact; distance=0
+PMC7718649_01_D2,PMC7718649_01,Diagnosis,Wounds and Injuries,match=exact; distance=0
+PMC7718649_01_AS4,PMC7718649_01,AnatomicalSite,Kidney,match=exact; distance=0
+PMC7718649_01_AS5,PMC7718649_01,AnatomicalSite,Myocardium,match=exact; distance=0
+PMC7718649_01_AS6,PMC7718649_01,AnatomicalSite,Liver,match=exact; distance=0
+PMC7718649_01_AS7,PMC7718649_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC7718649_01_AS8,PMC7718649_01,AnatomicalSite,Urine,match=exact; distance=0
+PMC7718649_01_D3,PMC7718649_01,Diagnosis,Diabetes Mellitus,match=exact; distance=0
+PMC7718649_01_R8,PMC7718649_01,ExamResult,25 mg,value=25
+PMC7718649_01_R9,PMC7718649_01,ExamResult,0.2 g,value=0.2
+PMC7718649_01_E12,PMC7718649_01,Exam,Pantoprazole,match=exact; distance=0
+PMC7718649_01_R10,PMC7718649_01,ExamResult,40 mg,value=40
+PMC7718649_01_E13,PMC7718649_01,Exam,Levofloxacin,match=exact; distance=0
+PMC7718649_01_R11,PMC7718649_01,ExamResult,0.5 g,value=0.5
+PMC7718649_01_T7,PMC7718649_01,Treatment,Blood Glucose,match=exact; distance=0
+PMC7718649_01_E14,PMC7718649_01,Exam,Acarbose,match=exact; distance=0
+PMC7718649_01_R12,PMC7718649_01,ExamResult,50 mg,value=50
+PMC7718649_01_T8,PMC7718649_01,Treatment,Hospitalization,match=exact; distance=0
+PMC7718649_01_D4,PMC7718649_01,Diagnosis,Pneumonia,match=exact; distance=0
+PMC7718649_01_R13,PMC7718649_01,ExamResult,15 mg,value=15
+PMC7718649_01_AS9,PMC7718649_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC7718649_01_T9,PMC7718649_01,Treatment,C-Reactive Protein,match=exact; distance=0
+PMC7718649_01_T10,PMC7718649_01,Treatment,Interleukin-6,match=exact; distance=0
+PMC7718649_01_E15,PMC7718649_01,Exam,Blood Sedimentation,match=exact; distance=0
+PMC7718649_01_AS10,PMC7718649_01,AnatomicalSite,Lymphocytes,match=exact; distance=0
+PMC7718649_01_AS11,PMC7718649_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC7718649_01_AS12,PMC7718649_01,AnatomicalSite,Wrist,match=exact; distance=0
+PMC7718649_01_S9,PMC7718649_01,Symptom,Pain,match=exact; distance=0
+PMC7718649_01_T11,PMC7718649_01,Treatment,Immunoglobulin M,match=exact; distance=0
+PMC7718649_01_AS13,PMC7718649_01,AnatomicalSite,Back,match=exact; distance=0
+PMC6134951_01_P1,PMC6134951_01,Patient,case PMC6134951_01,age=49.0; gender=Female
+PMC6134951_01_H1,PMC6134951_01,History,Asthma,category=diagnosis
+PMC6134951_01_H2,PMC6134951_01,History,Myxoma,category=diagnosis
+PMC6134951_01_AS1,PMC6134951_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC6134951_01_D1,PMC6134951_01,Diagnosis,Lymphadenopathy,match=exact; distance=0
+PMC6134951_01_D2,PMC6134951_01,Diagnosis,Pleural Effusion,match=exact; distance=0
+PMC6134951_01_D3,PMC6134951_01,Diagnosis,Adenocarcinoma,match=exact; distance=0
+PMC6134951_01_E1,PMC6134951_01,Exam,In Situ Hybridization,match=exact; distance=0
+PMC6134951_01_F1,PMC6134951_01,Finding,Further testing,
+PMC6134951_01_T1,PMC6134951_01,Treatment,Carboplatin,match=exact; distance=0
+PMC6134951_01_T2,PMC6134951_01,Treatment,Pemetrexed,match=exact; distance=0
+PMC6134951_01_S1,PMC6134951_01,Symptom,Disease,match=exact; distance=0
+PMC6134951_01_T3,PMC6134951_01,Treatment,Circulating Tumor DNA,match=exact; distance=0
+PMC6134951_01_T4,PMC6134951_01,Treatment,Lead,match=exact; distance=0
+PMC6134951_01_S2,PMC6134951_01,Symptom,Chest Pain,match=exact; distance=0
+PMC6134951_01_AS2,PMC6134951_01,AnatomicalSite,Face,match=exact; distance=0
+PMC6134951_01_AS3,PMC6134951_01,AnatomicalSite,Lip,match=exact; distance=0
+PMC6134951_01_AS4,PMC6134951_01,AnatomicalSite,Eye,match=exact; distance=0
+PMC6134951_01_AS5,PMC6134951_01,AnatomicalSite,Arm,match=exact; distance=0
+PMC6134951_01_D4,PMC6134951_01,Diagnosis,Dermatitis,match=exact; distance=0
+PMC6134951_01_AS6,PMC6134951_01,AnatomicalSite,Eosinophils,match=exact; distance=0
+PMC6134951_01_D5,PMC6134951_01,Diagnosis,Hypersensitivity,match=exact; distance=0
+PMC6134951_01_D6,PMC6134951_01,Diagnosis,Eosinophilia,match=exact; distance=0
+PMC6134951_01_D7,PMC6134951_01,Diagnosis,Pharyngitis,match=exact; distance=0
+PMC6134951_01_D8,PMC6134951_01,Diagnosis,Syphilis,match=exact; distance=0
+PMC6134951_01_D9,PMC6134951_01,Diagnosis,Strongyloidiasis,match=exact; distance=0
+PMC6134951_01_S3,PMC6134951_01,Symptom,Bacteremia,match=exact; distance=0
+PMC6134951_01_E2,PMC6134951_01,Exam,Prednisone,match=exact; distance=0
+PMC6134951_01_R1,PMC6134951_01,ExamResult,30 mg,value=30
+PMC6134951_01_T5,PMC6134951_01,Treatment,Dihydrotachysterol,match=exact; distance=0
+PMC6134951_01_T6,PMC6134951_01,Treatment,Diphenhydramine,match=exact; distance=0
+PMC6134951_01_H3,PMC6134951_01,History,Prednisone,category=treatment
+PMC6134951_01_H4,PMC6134951_01,History,Triamcinolone,category=treatment
+PMC6134951_01_T7,PMC6134951_01,Treatment,Anti-Bacterial Agents,match=exact; distance=0
+PMC6134951_01_T8,PMC6134951_01,Treatment,Prednisone,match=exact; distance=0
+PMC6134951_01_AS7,PMC6134951_01,AnatomicalSite,Skin,match=exact; distance=0
+PMC6134951_01_E3,PMC6134951_01,Exam,Biopsy,match=exact; distance=0
+PMC6134951_01_S4,PMC6134951_01,Symptom,Fever,match=exact; distance=0
+PMC6343374_01_P1,PMC6343374_01,Patient,case PMC6343374_01,age=0.0; gender=Male
+PMC6343374_01_AS1,PMC6343374_01,AnatomicalSite,"Aorta, Thoracic",match=exact; distance=0
+PMC6343374_01_E1,PMC6343374_01,Exam,Echocardiography,match=exact; distance=0
+PMC6343374_01_AS2,PMC6343374_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC6343374_01_T1,PMC6343374_01,Treatment,Polyethylene Terephthalates,match=exact; distance=0
+PMC6343374_01_AS3,PMC6343374_01,AnatomicalSite,Heart Ventricles,match=exact; distance=0
+PMC6343374_01_AS4,PMC6343374_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC6343374_01_AS5,PMC6343374_01,AnatomicalSite,Subclavian Artery,match=exact; distance=0
+PMC6343374_01_AS6,PMC6343374_01,AnatomicalSite,Aorta,match=exact; distance=0
+PMC6343374_01_F1,PMC6343374_01,Finding,no pressure gradient at the homograft site,
+PMC6343374_01_D1,PMC6343374_01,Diagnosis,Bronchomalacia,match=exact; distance=0
+PMC6343374_01_T2,PMC6343374_01,Treatment,Intubation,match=exact; distance=0
+PMC6343374_01_T3,PMC6343374_01,Treatment,Length of Stay,match=exact; distance=0
+PMC6343374_01_R1,PMC6343374_01,ExamResult,36 months,value=36
+UNIT_MONTHS,,Unit,months,
+PMC6343374_01_AS7,PMC6343374_01,AnatomicalSite,Heart,match=exact; distance=0
+PMC6343374_01_AS8,PMC6343374_01,AnatomicalSite,Arteries,match=exact; distance=0
+PMC6343374_01_AS9,PMC6343374_01,AnatomicalSite,Tears,match=exact; distance=0
+PMC6343374_01_S1,PMC6343374_01,Symptom,Infarction,match=fuzzy; distance=1
+PMC9529523_01_P1,PMC9529523_01,Patient,case PMC9529523_01,age=41.0; gender=Female
+PMC9529523_01_S1,PMC9529523_01,Symptom,Disease,match=exact; distance=0
+PMC9529523_01_AS1,PMC9529523_01,AnatomicalSite,Fingers,match=fuzzy; distance=1
+PMC9529523_01_S2,PMC9529523_01,Symptom,Pain,match=exact; distance=0
+PMC9529523_01_T1,PMC9529523_01,Treatment,Drainage,match=exact; distance=0
+PMC9529523_01_D1,PMC9529523_01,Diagnosis,Endocarditis,match=exact; distance=0
+PMC9529523_01_AS2,PMC9529523_01,AnatomicalSite,Upper Extremity,match=exact; distance=0
+PMC9529523_01_T2,PMC9529523_01,Treatment,Nitroglycerin,match=exact; distance=0
+PMC9529523_01_E1,PMC9529523_01,Exam,Angiography,match=exact; distance=0
+PMC9529523_01_F1,PMC9529523_01,Finding,scattered microocclusion of the bilateral fingers; flow did,
+PMC9529523_01_S3,PMC9529523_01,Symptom,Abscess,match=exact; distance=0
+PMC9529523_01_T3,PMC9529523_01,Treatment,Chromatin,match=exact; distance=0
+PMC9529523_01_T4,PMC9529523_01,Treatment,Antibodies,match=exact; distance=0
+PMC9529523_01_E2,PMC9529523_01,Exam,Fluorescent Antibody Technique,match=exact; distance=0
+PMC9529523_01_R1,PMC9529523_01,ExamResult,1280 in,value=1280
+UNIT_IN,,Unit,in,
+PMC9529523_01_T5,PMC9529523_01,Treatment,RNA Polymerase III,match=exact; distance=0
+PMC9529523_01_D2,PMC9529523_01,Diagnosis,Vasculitis,match=exact; distance=0
+PMC9529523_01_T6,PMC9529523_01,Treatment,Cryoglobulins,match=exact; distance=0
+PMC9529523_01_E3,PMC9529523_01,Exam,Blood Sedimentation,match=exact; distance=0
+PMC9529523_01_R2,PMC9529523_01,ExamResult,77 mm,value=77
+PMC9529523_01_E4,PMC9529523_01,Exam,C-Reactive Protein,match=exact; distance=0
+PMC9529523_01_R3,PMC9529523_01,ExamResult,6.2 mg/dL,value=6.2
+PMC9529523_01_AS3,PMC9529523_01,AnatomicalSite,Skin,match=exact; distance=0
+PMC9529523_01_E5,PMC9529523_01,Exam,Physical Examination,match=exact; distance=0
+PMC9529523_01_T7,PMC9529523_01,Treatment,Hydroxychloroquine,match=exact; distance=0
+PMC9529523_01_T8,PMC9529523_01,Treatment,Mycophenolic Acid,match=exact; distance=0
+PMC9529523_01_S4,PMC9529523_01,Symptom,Weight Loss,match=exact; distance=0
+PMC9529523_01_S5,PMC9529523_01,Symptom,Alopecia,match=exact; distance=0
+PMC9529523_01_AS4,PMC9529523_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC9529523_01_E6,PMC9529523_01,Exam,Creatinine,match=exact; distance=0
+PMC9529523_01_R4,PMC9529523_01,ExamResult,2.14 mg/dL,value=2.14
+PMC9529523_01_AS5,PMC9529523_01,AnatomicalSite,Urine,match=exact; distance=0
+PMC9529523_01_T9,PMC9529523_01,Treatment,Creatinine,match=exact; distance=0
+PMC9529523_01_AS6,PMC9529523_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC9529523_01_E7,PMC9529523_01,Exam,Hydroxychloroquine,match=exact; distance=0
+PMC9529523_01_R5,PMC9529523_01,ExamResult,1232.1 ng/ml,value=1232.1
+PMC9529523_01_R6,PMC9529523_01,ExamResult,1000 ng/mL,value=1000
+PMC9529523_01_AS7,PMC9529523_01,AnatomicalSite,Kidney,match=exact; distance=0
+PMC9529523_01_D3,PMC9529523_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC9529523_01_E8,PMC9529523_01,Exam,Biopsy,match=exact; distance=0
+PMC9529523_01_E9,PMC9529523_01,Exam,Vital Capacity,match=exact; distance=0
+PMC9529523_01_F2,PMC9529523_01,Finding,"Further testing, including pulmonary function testing",
+PMC9529523_01_E10,PMC9529523_01,Exam,Forced Expiratory Volume,match=exact; distance=0
+PMC9529523_01_F3,PMC9529523_01,Finding,"Further testing, including pulmonary function testing",
+PMC9529523_01_T10,PMC9529523_01,Treatment,Carbon Monoxide,match=exact; distance=0
+PMC9529523_01_AS8,PMC9529523_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC9529523_01_E11,PMC9529523_01,Exam,Tomography,match=exact; distance=0
+PMC9529523_01_S6,PMC9529523_01,Symptom,Sepsis,match=exact; distance=0
+PMC9529523_01_S7,PMC9529523_01,Symptom,Failure to Thrive,match=exact; distance=0
+PMC9529523_01_S8,PMC9529523_01,Symptom,Hypertrophy,match=exact; distance=0
+PMC9529523_01_E12,PMC9529523_01,Exam,Echocardiography,match=exact; distance=0
+PMC9529523_01_E13,PMC9529523_01,Exam,Magnetic Resonance Imaging,match=exact; distance=0
+PMC9529523_01_F4,PMC9529523_01,Finding,no evidence of infiltrative cardiomyopathy,
+PMC9529523_01_S9,PMC9529523_01,Symptom,Dyspnea,match=exact; distance=0
+PMC9529523_01_D4,PMC9529523_01,Diagnosis,Pericardial Effusion,match=exact; distance=0
+PMC9529523_01_E14,PMC9529523_01,Exam,Electrocardiography,match=exact; distance=0
+PMC9529523_01_F5,PMC9529523_01,Finding,"normal sinus rhythm with QT prolongation, QTc 527 ms, and a",
+PMC9529523_01_E15,PMC9529523_01,Exam,Stroke Volume,match=exact; distance=0
+PMC9529523_01_F6,PMC9529523_01,Finding,"rolongation, QTc 527 ms, and a transthoracic echocardiogram",
+PMC9529523_01_E16,PMC9529523_01,Exam,Pericardiocentesis,match=exact; distance=0
+PMC9529523_01_R7,PMC9529523_01,ExamResult,860 ml,value=860
+PMC9529523_01_AS9,PMC9529523_01,AnatomicalSite,Heart,match=exact; distance=0
+PMC9529523_01_T11,PMC9529523_01,Treatment,Catheterization,match=exact; distance=0
+PMC9529523_01_D5,PMC9529523_01,Diagnosis,Myocarditis,match=exact; distance=0
+PMC9529523_01_AS10,PMC9529523_01,AnatomicalSite,Myelin Sheath,match=exact; distance=0
+PMC9529523_01_AS11,PMC9529523_01,AnatomicalSite,Mitochondria,match=exact; distance=0
+PMC9529523_01_E17,PMC9529523_01,Exam,Microscopy,match=exact; distance=0
+PMC9529523_01_F7,PMC9529523_01,Finding,n figures and enlarged mitochondria (Figures 1(a) and 1(b)),
+PMC9529523_01_R8,PMC9529523_01,ExamResult,274 ng/ml,value=274
+PMC9529523_01_T12,PMC9529523_01,Treatment,Prednisone,match=exact; distance=0
+PMC9532611_01_P1,PMC9532611_01,Patient,case PMC9532611_01,age=12.0; gender=Female
+PMC9532611_01_D1,PMC9532611_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC9532611_01_AS1,PMC9532611_01,AnatomicalSite,Hair,match=exact; distance=0
+PMC9532611_01_AS2,PMC9532611_01,AnatomicalSite,Genitalia,match=exact; distance=0
+PMC9532611_01_H1,PMC9532611_01,History,Hypertension,category=diagnosis
+PMC9532611_01_H2,PMC9532611_01,History,Paralysis,category=symptom
+PMC9532611_01_S1,PMC9532611_01,Symptom,Hernia,match=exact; distance=0
+PMC9532611_01_AS3,PMC9532611_01,AnatomicalSite,Tissues,match=exact; distance=0
+PMC9532611_02_P1,PMC9532611_02,Patient,case PMC9532611_02,age=6.0; gender=Female
+PMC9532611_02_E1,PMC9532611_02,Exam,Blood Pressure,match=exact; distance=0
+PMC9532611_02_AS1,PMC9532611_02,AnatomicalSite,Vulva,match=exact; distance=0
+PMC9532611_02_AS2,PMC9532611_02,AnatomicalSite,Vagina,match=exact; distance=0
+PMC9532611_02_AS3,PMC9532611_02,AnatomicalSite,Blood,match=exact; distance=0
+PMC9532611_02_T1,PMC9532611_02,Treatment,Adrenocorticotropic Hormone,match=exact; distance=0
+PMC9532611_02_AS4,PMC9532611_02,AnatomicalSite,Plasma,match=exact; distance=0
+PMC9532611_02_T2,PMC9532611_02,Treatment,Renin,match=exact; distance=0
+PMC9532611_02_T3,PMC9532611_02,Treatment,Aldosterone,match=exact; distance=0
+PMC9532611_02_T4,PMC9532611_02,Treatment,Anti-Mullerian Hormone,match=exact; distance=0
+PMC9532611_02_T5,PMC9532611_02,Treatment,Dihydrotestosterone,match=exact; distance=0
+PMC9532611_02_T6,PMC9532611_02,Treatment,Androstenedione,match=exact; distance=0
+PMC9532611_02_T7,PMC9532611_02,Treatment,Dehydroepiandrosterone,match=exact; distance=0
+PMC9532611_02_T8,PMC9532611_02,Treatment,Luteinizing Hormone,match=exact; distance=0
+PMC9532611_02_T9,PMC9532611_02,Treatment,Estradiol,match=exact; distance=0
+PMC9532611_02_T10,PMC9532611_02,Treatment,Testosterone,match=exact; distance=0
+PMC9532611_02_T11,PMC9532611_02,Treatment,Progesterone,match=exact; distance=0
+PMC9532611_02_T12,PMC9532611_02,Treatment,Prolactin,match=exact; distance=0
+PMC9532611_02_T13,PMC9532611_02,Treatment,DNA,match=exact; distance=0
+PMC9532611_02_S1,PMC9532611_02,Symptom,Hyperplasia,match=exact; distance=0
+PMC5875137_01_P1,PMC5875137_01,Patient,case PMC5875137_01,age=83.0; gender=Female
+PMC5875137_01_D1,PMC5875137_01,Diagnosis,Breast Neoplasms,match=exact; distance=0
+PMC5875137_01_D2,PMC5875137_01,Diagnosis,Aortic Aneurysm,match=exact; distance=0
+PMC5875137_01_E1,PMC5875137_01,Exam,Tomography,match=exact; distance=0
+PMC5875137_01_AS1,PMC5875137_01,AnatomicalSite,"Aorta, Thoracic",match=exact; distance=0
+PMC5875137_01_T1,PMC5875137_01,Treatment,Platinum,match=exact; distance=0
+PMC5875137_01_AS2,PMC5875137_01,AnatomicalSite,Mammary Arteries,match=exact; distance=0
+PMC5875137_01_T2,PMC5875137_01,Treatment,Cardiac Rehabilitation,match=exact; distance=0
+PMC5875137_01_T3,PMC5875137_01,Treatment,Length of Stay,match=exact; distance=0
+PMC5875137_01_AS3,PMC5875137_01,AnatomicalSite,Heart,match=exact; distance=0
+PMC5875137_01_AS4,PMC5875137_01,AnatomicalSite,Aorta,match=exact; distance=0
+PMC5875137_01_E2,PMC5875137_01,Exam,Echocardiography,match=exact; distance=0
+PMC6949661_01_P1,PMC6949661_01,Patient,case PMC6949661_01,age=23.0; gender=Male
+PMC6949661_01_S1,PMC6949661_01,Symptom,Urinary Incontinence,match=exact; distance=0
+PMC6949661_01_S2,PMC6949661_01,Symptom,Seizures,match=exact; distance=0
+PMC6949661_01_S3,PMC6949661_01,Symptom,Fever,match=exact; distance=0
+PMC6949661_01_S4,PMC6949661_01,Symptom,Headache,match=exact; distance=0
+PMC6949661_01_S5,PMC6949661_01,Symptom,Chest Pain,match=exact; distance=0
+PMC6949661_01_S6,PMC6949661_01,Symptom,Disease,match=fuzzy; distance=1
+PMC6949661_01_E1,PMC6949661_01,Exam,Blood Pressure,match=exact; distance=0
+PMC6949661_01_AS1,PMC6949661_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC6949661_01_AS2,PMC6949661_01,AnatomicalSite,Head,match=exact; distance=0
+PMC6949661_01_S7,PMC6949661_01,Symptom,Hypertrophy,match=exact; distance=0
+PMC6949661_01_E2,PMC6949661_01,Exam,Tomography,match=exact; distance=0
+PMC6949661_01_E3,PMC6949661_01,Exam,Echocardiography,match=exact; distance=0
+PMC6949661_01_S8,PMC6949661_01,Symptom,Melena,match=exact; distance=0
+PMC6949661_01_S9,PMC6949661_01,Symptom,Nausea,match=exact; distance=0
+PMC6949661_01_S10,PMC6949661_01,Symptom,Vomiting,match=exact; distance=0
+PMC6949661_01_AS3,PMC6949661_01,AnatomicalSite,Liver,match=exact; distance=0
+PMC6949661_01_H1,PMC6949661_01,History,Disease,category=symptom
+PMC6949661_01_S11,PMC6949661_01,Symptom,Tachycardia,match=exact; distance=0
+PMC6949661_01_AS4,PMC6949661_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC6949661_01_E4,PMC6949661_01,Exam,Digital Rectal Examination,match=exact; distance=0
+PMC6949661_01_F1,PMC6949661_01,Finding,melanotic stool,
+PMC6949661_01_T1,PMC6949661_01,Treatment,Urea,match=exact; distance=0
+PMC6949661_01_T2,PMC6949661_01,Treatment,Proton Pump Inhibitors,match=exact; distance=0
+PMC6949661_01_AS5,PMC6949661_01,AnatomicalSite,Blood Cells,match=exact; distance=0
+PMC6949661_01_AS6,PMC6949661_01,AnatomicalSite,Duodenum,match=exact; distance=0
+PMC6949661_01_E5,PMC6949661_01,Exam,"Endoscopy, Digestive System",match=exact; distance=0
+PMC6949661_01_F2,PMC6949661_01,Finding,normal examination up to the third part of the duodenum wit,
+PMC6949661_01_S12,PMC6949661_01,Symptom,Diverticulum,match=exact; distance=0
+PMC6949661_01_AS7,PMC6949661_01,AnatomicalSite,Pylorus,match=exact; distance=0
+PMC6949661_01_E6,PMC6949661_01,Exam,Colonoscopy,match=exact; distance=0
+PMC6949661_01_D1,PMC6949661_01,Diagnosis,Fused Kidney,match=exact; distance=0
+PMC6949661_01_E7,PMC6949661_01,Exam,Angiography,match=exact; distance=0
+PMC6949661_01_E8,PMC6949661_01,Exam,Laparoscopy,match=exact; distance=0
+PMC6949661_01_E9,PMC6949661_01,Exam,Endoscopy,match=exact; distance=0
+PMC6949661_01_AS8,PMC6949661_01,AnatomicalSite,Jejunum,match=exact; distance=0
+PMC6949661_01_AS9,PMC6949661_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC6949661_01_D2,PMC6949661_01,Diagnosis,Rupture,match=exact; distance=0
+PMC6949661_01_S13,PMC6949661_01,Symptom,Aphasia,match=fuzzy; distance=1
+PMC10405809_01_P1,PMC10405809_01,Patient,case PMC10405809_01,age=55.0; gender=Female
+PMC10405809_01_S1,PMC10405809_01,Symptom,Aphasia,match=fuzzy; distance=1
+PMC10405809_01_S2,PMC10405809_01,Symptom,Heartburn,match=exact; distance=0
+PMC10405809_01_S3,PMC10405809_01,Symptom,Pain,match=exact; distance=0
+PMC10405809_01_H1,PMC10405809_01,History,Radiotherapy,category=treatment
+PMC10405809_01_S4,PMC10405809_01,Symptom,Disease,match=exact; distance=0
+PMC10405809_01_AS1,PMC10405809_01,AnatomicalSite,Lymph,match=exact; distance=0
+PMC10405809_01_AS2,PMC10405809_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC10405809_01_AS3,PMC10405809_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC10405809_01_AS4,PMC10405809_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC10405809_01_E1,PMC10405809_01,Exam,Leukocyte Count,match=exact; distance=0
+PMC10405809_01_F1,PMC10405809_01,Finding,Blood investigations,
+PMC10405809_01_AS5,PMC10405809_01,AnatomicalSite,Blood Cells,match=exact; distance=0
+PMC10405809_01_S5,PMC10405809_01,Symptom,Diverticulum,match=exact; distance=0
+PMC10405809_01_AS6,PMC10405809_01,AnatomicalSite,Esophagus,match=exact; distance=0
+PMC10405809_01_E2,PMC10405809_01,Exam,Barium,match=exact; distance=0
+PMC10405809_01_R1,PMC10405809_01,ExamResult,3 cm,value=3
+PMC10405809_01_D1,PMC10405809_01,Diagnosis,Gastroesophageal Reflux,match=exact; distance=0
+PMC10405809_01_S6,PMC10405809_01,Symptom,Weight Loss,match=exact; distance=0
+PMC10405809_01_D2,PMC10405809_01,Diagnosis,Anemia,match=exact; distance=0
+PMC10405809_01_AS7,PMC10405809_01,AnatomicalSite,Neck,match=exact; distance=0
+PMC10405809_01_AS8,PMC10405809_01,AnatomicalSite,Thorax,match=exact; distance=0
+PMC10405809_01_AS9,PMC10405809_01,AnatomicalSite,Lymph Nodes,match=exact; distance=0
+PMC10405809_01_E3,PMC10405809_01,Exam,Tomography,match=exact; distance=0
+PMC10405809_01_F2,PMC10405809_01,Finding,KJD and showed a homogenous circumferential wall thickening,
+PMC10405809_01_AS10,PMC10405809_01,AnatomicalSite,Incisor,match=fuzzy; distance=1
+PMC10405809_01_E4,PMC10405809_01,Exam,"Endoscopy, Digestive System",match=exact; distance=0
+PMC10405809_01_R2,PMC10405809_01,ExamResult,20 cm,value=20
+PMC10405809_01_E5,PMC10405809_01,Exam,Endoscopy,match=fuzzy; distance=1
+PMC10405809_01_E6,PMC10405809_01,Exam,Biopsy,match=exact; distance=0
+PMC10405809_01_F3,PMC10405809_01,Finding,peptic stricture in this case,
+PMC10405809_01_T1,PMC10405809_01,Treatment,Barium,match=exact; distance=0
+PMC10405809_01_AS11,PMC10405809_01,AnatomicalSite,"Esophageal Sphincter, Upper",match=exact; distance=0
+PMC10405809_01_AS12,PMC10405809_01,AnatomicalSite,Muscles,match=fuzzy; distance=1
+PMC10405809_01_T2,PMC10405809_01,Treatment,Omeprazole,match=exact; distance=0
+PMC10405809_01_T3,PMC10405809_01,Treatment,Hematinics,match=exact; distance=0
+PMC7519975_01_P1,PMC7519975_01,Patient,case PMC7519975_01,age=33.0; gender=Female
+PMC7519975_01_S1,PMC7519975_01,Symptom,Aphasia,match=fuzzy; distance=1
+PMC7519975_01_H1,PMC7519975_01,History,Diabetes Mellitus,category=diagnosis
+PMC7519975_01_H2,PMC7519975_01,History,Insulin,category=treatment
+PMC7519975_01_H3,PMC7519975_01,History,Meningioma,category=diagnosis
+PMC7519975_01_AS1,PMC7519975_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC7519975_01_S2,PMC7519975_01,Symptom,Inflammation,match=exact; distance=0
+PMC7519975_01_E1,PMC7519975_01,Exam,Tomography,match=exact; distance=0
+PMC7519975_01_F1,PMC7519975_01,Finding,several loops of small bowel in the right side of the abdom,
+PMC7519975_01_AS2,PMC7519975_01,AnatomicalSite,Head,match=exact; distance=0
+PMC7519975_01_AS3,PMC7519975_01,AnatomicalSite,Brain Stem,match=exact; distance=0
+PMC7519975_01_S3,PMC7519975_01,Symptom,Hemorrhage,match=exact; distance=0
+PMC7519975_01_AS4,PMC7519975_01,AnatomicalSite,Neck,match=exact; distance=0
+PMC7519975_01_T1,PMC7519975_01,Treatment,Oxygen,match=exact; distance=0
+PMC7519975_01_E2,PMC7519975_01,Exam,Blood Pressure,match=exact; distance=0
+PMC7519975_01_F2,PMC7519975_01,Finding,Preoperative records,
+PMC7519975_01_E3,PMC7519975_01,Exam,Heart Rate,match=exact; distance=0
+PMC7519975_01_E4,PMC7519975_01,Exam,Electrocardiography,match=exact; distance=0
+PMC7519975_01_F3,PMC7519975_01,Finding,normal sinus rhythm with no acute ST-T wave changes (Figure,
+PMC7519975_01_AS5,PMC7519975_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC7519975_01_AS6,PMC7519975_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC7519975_01_T2,PMC7519975_01,Treatment,Magnesium,match=exact; distance=0
+PMC7519975_01_T3,PMC7519975_01,Treatment,Aspartic Acid,match=exact; distance=0
+PMC7519975_01_T4,PMC7519975_01,Treatment,Alanine Transaminase,match=exact; distance=0
+PMC7519975_01_E5,PMC7519975_01,Exam,Blood Cell Count,match=exact; distance=0
+PMC7519975_01_E6,PMC7519975_01,Exam,Prothrombin Time,match=exact; distance=0
+PMC7519975_01_E7,PMC7519975_01,Exam,International Normalized Ratio,match=exact; distance=0
+PMC7519975_01_R1,PMC7519975_01,ExamResult,148 meq,value=148
+UNIT_MEQ,,Unit,meq,
+PMC7519975_01_E8,PMC7519975_01,Exam,Sodium,match=exact; distance=0
+PMC7519975_01_R2,PMC7519975_01,ExamResult,148 meq,value=148
+PMC7519975_01_E9,PMC7519975_01,Exam,Potassium,match=exact; distance=0
+PMC7519975_01_R3,PMC7519975_01,ExamResult,3.7 meq,value=3.7
+PMC7519975_01_E10,PMC7519975_01,Exam,Creatinine,match=exact; distance=0
+PMC7519975_01_R4,PMC7519975_01,ExamResult,0.4 mg,value=0.4
+PMC7519975_01_E11,PMC7519975_01,Exam,Glucose,match=exact; distance=0
+PMC7519975_01_R5,PMC7519975_01,ExamResult,125 mg,value=125
+PMC7519975_01_E12,PMC7519975_01,Exam,Calcium,match=exact; distance=0
+PMC7519975_01_R6,PMC7519975_01,ExamResult,8.2 mg,value=8.2
+PMC7519975_01_S4,PMC7519975_01,Symptom,Death,match=exact; distance=0
+PMC7519975_01_S5,PMC7519975_01,Symptom,Myocardial Infarction,match=exact; distance=0
+PMC7519975_01_S6,PMC7519975_01,Symptom,Disease,match=exact; distance=0
+PMC7519975_01_T5,PMC7519975_01,Treatment,Insulin,match=exact; distance=0
+PMC7519975_01_S7,PMC7519975_01,Symptom,Bradycardia,match=fuzzy; distance=1
+PMC7519975_01_T6,PMC7519975_01,Treatment,Epinephrine,match=exact; distance=0
+PMC7519975_01_E13,PMC7519975_01,Exam,Hemodynamic Monitoring,match=exact; distance=0
+PMC7519975_01_T7,PMC7519975_01,Treatment,Resuscitation,match=exact; distance=0
+PMC7519975_01_AS7,PMC7519975_01,AnatomicalSite,Abdominal Cavity,match=exact; distance=0
+PMC7519975_01_R7,PMC7519975_01,ExamResult,60 mmHg,value=60
+PMC7519975_01_R8,PMC7519975_01,ExamResult,62 bpm,value=62
+UNIT_BPM,,Unit,bpm,
+PMC7519975_01_AS8,PMC7519975_01,AnatomicalSite,Ileum,match=exact; distance=0
+PMC7519975_01_AS9,PMC7519975_01,AnatomicalSite,Colon,match=exact; distance=0
+PMC7519975_01_T8,PMC7519975_01,Treatment,Critical Care,match=exact; distance=0
+PMC7519975_01_E14,PMC7519975_01,Exam,Prognosis,match=exact; distance=0
+PMC3950436_01_P1,PMC3950436_01,Patient,case PMC3950436_01,age=19.0; gender=Female
+PMC3950436_01_T1,PMC3950436_01,Treatment,Tracheostomy,match=exact; distance=0
+PMC3950436_01_AS1,PMC3950436_01,AnatomicalSite,Oropharynx,match=exact; distance=0
+PMC3950436_01_D1,PMC3950436_01,Diagnosis,Nasal Obstruction,match=exact; distance=0
+PMC3950436_01_AS2,PMC3950436_01,AnatomicalSite,Mouth,match=exact; distance=0
+PMC3950436_01_AS3,PMC3950436_01,AnatomicalSite,Neck,match=exact; distance=0
+PMC3950436_01_S1,PMC3950436_01,Symptom,Apnea,match=exact; distance=0
+PMC3950436_01_S2,PMC3950436_01,Symptom,Vision Disorders,match=exact; distance=0
+PMC3950436_01_S3,PMC3950436_01,Symptom,Aphasia,match=fuzzy; distance=1
+PMC3950436_01_T2,PMC3950436_01,Treatment,Enteral Nutrition,match=exact; distance=0
+PMC3950436_01_S4,PMC3950436_01,Symptom,Recurrence,match=exact; distance=0
+PMC3950436_01_T3,PMC3950436_01,Treatment,Radiotherapy,match=exact; distance=0
+PMC3950436_01_S5,PMC3950436_01,Symptom,Pain,match=exact; distance=0
+PMC3950436_01_AS4,PMC3950436_01,AnatomicalSite,Veins,match=exact; distance=0
+PMC3950436_01_T4,PMC3950436_01,Treatment,"Lidocaine, Prilocaine Drug Combination",match=exact; distance=0
+PMC3950436_01_S6,PMC3950436_01,Symptom,Dysphonia,match=exact; distance=0
+PMC3950436_01_T5,PMC3950436_01,Treatment,Catheterization,match=exact; distance=0
+PMC3950436_01_T6,PMC3950436_01,Treatment,Oxygen,match=exact; distance=0
+PMC3950436_01_E1,PMC3950436_01,Exam,Blood Pressure,match=exact; distance=0
+PMC3950436_01_R1,PMC3950436_01,ExamResult,74 mmHg,value=74
+PMC3950436_01_E2,PMC3950436_01,Exam,Heart Rate,match=exact; distance=0
+PMC3950436_01_E3,PMC3950436_01,Exam,Respiratory Rate,match=exact; distance=0
+PMC3950436_01_T7,PMC3950436_01,Treatment,Ketamine,match=exact; distance=0
+PMC3950436_01_T8,PMC3950436_01,Treatment,Dexmedetomidine,match=exact; distance=0
+PMC3950436_01_AS5,PMC3950436_01,AnatomicalSite,Eye,match=exact; distance=0
+PMC3950436_01_E4,PMC3950436_01,Exam,Electrocardiography,match=exact; distance=0
+PMC3950436_01_E5,PMC3950436_01,Exam,Oximetry,match=exact; distance=0
+PMC3950436_01_T9,PMC3950436_01,Treatment,Lidocaine,match=exact; distance=0
+PMC3950436_01_E6,PMC3950436_01,Exam,Tracheostomy,match=exact; distance=0
+PMC3950436_01_R2,PMC3950436_01,ExamResult,6.0 mm,value=6.0
+PMC3950436_01_E7,PMC3950436_01,Exam,Vital Signs,match=exact; distance=0
+PMC10434843_01_P1,PMC10434843_01,Patient,case PMC10434843_01,age=49.0; gender=Male
+PMC10434843_01_AS1,PMC10434843_01,AnatomicalSite,Arm,match=exact; distance=0
+PMC10434843_01_S1,PMC10434843_01,Symptom,Paresis,match=exact; distance=0
+PMC10434843_01_AS2,PMC10434843_01,AnatomicalSite,Hand,match=exact; distance=0
+PMC10434843_01_S2,PMC10434843_01,Symptom,Paresthesia,match=fuzzy; distance=1
+PMC10434843_01_AS3,PMC10434843_01,AnatomicalSite,Head,match=exact; distance=0
+PMC10434843_01_AS4,PMC10434843_01,AnatomicalSite,Spine,match=exact; distance=0
+PMC10434843_01_T1,PMC10434843_01,Treatment,Cortisone,match=exact; distance=0
+PMC10434843_01_E1,PMC10434843_01,Exam,Magnetic Resonance Imaging,match=exact; distance=0
+PMC10434843_01_F1,PMC10434843_01,Finding,no abnormalities while initial treatments with physiotherap,
+PMC10434843_01_S3,PMC10434843_01,Symptom,Atrophy,match=exact; distance=0
+PMC10434843_01_AS5,PMC10434843_01,AnatomicalSite,Wrist,match=exact; distance=0
+PMC10434843_01_AS6,PMC10434843_01,AnatomicalSite,Fingers,match=fuzzy; distance=1
+PMC10434843_01_AS7,PMC10434843_01,AnatomicalSite,Thumb,match=exact; distance=0
+PMC10434843_01_AS8,PMC10434843_01,AnatomicalSite,Shoulder,match=exact; distance=0
+PMC10434843_01_AS9,PMC10434843_01,AnatomicalSite,Muscles,match=exact; distance=0
+PMC10434843_01_S4,PMC10434843_01,Symptom,Hypesthesia,match=fuzzy; distance=1
+PMC10434843_01_S5,PMC10434843_01,Symptom,Fasciculation,match=fuzzy; distance=1
+PMC10434843_01_AS10,PMC10434843_01,AnatomicalSite,Cerebrospinal Fluid,match=exact; distance=0
+PMC10434843_01_AS11,PMC10434843_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC10434843_01_E2,PMC10434843_01,Exam,Cell Count,match=exact; distance=0
+PMC10434843_01_F2,PMC10434843_01,Finding,puncture and subsequent cerebrospinal fluid (CSF) analysis,
+PMC10434843_01_AS12,PMC10434843_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC10434843_01_E3,PMC10434843_01,Exam,Flow Cytometry,match=exact; distance=0
+PMC10434843_01_F3,PMC10434843_01,Finding,an increase of activated HLA-DR expressing CD4+ T cells (33,
+PMC10434843_01_AS13,PMC10434843_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC10434843_01_E4,PMC10434843_01,Exam,Antibodies,match=exact; distance=0
+PMC10434843_01_R1,PMC10434843_01,ExamResult,2 in,value=2
+PMC10434843_01_E5,PMC10434843_01,Exam,"Fluorescent Antibody Technique, Indirect",match=exact; distance=0
+PMC10434843_01_T2,PMC10434843_01,Treatment,Antibodies,match=exact; distance=0
+PMC10434843_01_AS14,PMC10434843_01,AnatomicalSite,Axilla,match=exact; distance=0
+PMC10434843_01_AS15,PMC10434843_01,AnatomicalSite,Ulnar Nerve,match=exact; distance=0
+PMC10434843_01_AS16,PMC10434843_01,AnatomicalSite,Median Nerve,match=exact; distance=0
+PMC10434843_01_AS17,PMC10434843_01,AnatomicalSite,Tibial Nerve,match=exact; distance=0
+PMC10434843_01_E6,PMC10434843_01,Exam,Electromyography,match=exact; distance=0
+PMC10434843_01_F4,PMC10434843_01,Finding,chronic neurogenic changes in the abductor pollicis brevis,
+PMC10434843_01_E7,PMC10434843_01,Exam,Ultrasonography,match=exact; distance=0
+PMC10434843_01_F5,PMC10434843_01,Finding,an enlargement of the cross-sectional areas of the right me,
+PMC10434843_01_D1,PMC10434843_01,Diagnosis,Autoimmune Diseases of the Nervous System,match=exact; distance=0
+PMC10434843_01_AS18,PMC10434843_01,AnatomicalSite,Brain,match=exact; distance=0
+PMC10434843_01_AS19,PMC10434843_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC10434843_01_E8,PMC10434843_01,Exam,Tomography,match=exact; distance=0
+PMC10434843_01_F6,PMC10434843_01,Finding,no indication of a tumor,
+PMC10434843_01_F7,PMC10434843_01,Finding,no indication of a tumor,
+PMC10434843_01_E9,PMC10434843_01,Exam,Hand Strength,match=exact; distance=0
+PMC10434843_01_AS20,PMC10434843_01,AnatomicalSite,Elbow,match=exact; distance=0
+PMC10434843_01_F8,PMC10434843_01,Finding,"In the follow-up, CASPR2 antibodies were",
+PMC10434843_01_S6,PMC10434843_01,Symptom,Syndrome,match=exact; distance=0
+PMC10434843_01_D2,PMC10434843_01,Diagnosis,Amyotrophic Lateral Sclerosis,match=exact; distance=0
+PMC10434843_01_AS21,PMC10434843_01,AnatomicalSite,Neurons,match=fuzzy; distance=1
+PMC10434843_01_S7,PMC10434843_01,Symptom,Disease,match=exact; distance=0
+PMC4630775_01_P1,PMC4630775_01,Patient,case PMC4630775_01,age=39.0; gender=Female
+PMC4630775_01_D1,PMC4630775_01,Diagnosis,Rupture,match=exact; distance=0
+PMC4630775_01_AS1,PMC4630775_01,AnatomicalSite,Membranes,match=exact; distance=0
+PMC4630775_01_AS2,PMC4630775_01,AnatomicalSite,Skin,match=exact; distance=0
+PMC4630775_01_AS3,PMC4630775_01,AnatomicalSite,Hand,match=exact; distance=0
+PMC4630775_01_AS4,PMC4630775_01,AnatomicalSite,Forearm,match=exact; distance=0
+PMC4630775_01_S1,PMC4630775_01,Symptom,Ischemia,match=exact; distance=0
+PMC4630775_01_AS5,PMC4630775_01,AnatomicalSite,Thumb,match=exact; distance=0
+PMC4630775_01_S2,PMC4630775_01,Symptom,Syndrome,match=exact; distance=0
+PMC4630775_01_S3,PMC4630775_01,Symptom,Signs and Symptoms,match=exact; distance=0
+PMC2700431_01_P1,PMC2700431_01,Patient,case PMC2700431_01,age=35.0; gender=Male
+PMC2700431_01_T1,PMC2700431_01,Treatment,Critical Care,match=exact; distance=0
+PMC2700431_01_D1,PMC2700431_01,Diagnosis,Wounds and Injuries,match=exact; distance=0
+PMC2700431_01_D2,PMC2700431_01,Diagnosis,Hepatitis B,match=exact; distance=0
+PMC2700431_01_AS1,PMC2700431_01,AnatomicalSite,Spine,match=exact; distance=0
+PMC2700431_01_AS2,PMC2700431_01,AnatomicalSite,Spinal Cord,match=exact; distance=0
+PMC2700431_01_S1,PMC2700431_01,Symptom,Quadriplegia,match=fuzzy; distance=1
+PMC2700431_01_AS3,PMC2700431_01,AnatomicalSite,Ribs,match=exact; distance=0
+PMC2700431_01_D3,PMC2700431_01,Diagnosis,Pneumothorax,match=exact; distance=0
+PMC2700431_01_D4,PMC2700431_01,Diagnosis,Rupture,match=exact; distance=0
+PMC2700431_01_AS4,PMC2700431_01,AnatomicalSite,Spleen,match=exact; distance=0
+PMC2700431_01_AS5,PMC2700431_01,AnatomicalSite,Liver,match=exact; distance=0
+PMC2700431_01_T2,PMC2700431_01,Treatment,Tracheostomy,match=exact; distance=0
+PMC2700431_01_AS6,PMC2700431_01,AnatomicalSite,Back,match=exact; distance=0
+PMC2700431_01_T3,PMC2700431_01,Treatment,Anti-Bacterial Agents,match=exact; distance=0
+PMC2700431_01_AS7,PMC2700431_01,AnatomicalSite,Mouth,match=exact; distance=0
+PMC2700431_01_AS8,PMC2700431_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC2700431_01_AS9,PMC2700431_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC2700431_01_E1,PMC2700431_01,Exam,Radiography,match=fuzzy; distance=1
+PMC2700431_01_F1,PMC2700431_01,Finding,opacities in the right lower lung region and large endotrac,
+PMC2700431_01_S2,PMC2700431_01,Symptom,Fistula,match=exact; distance=0
+PMC2700431_01_E2,PMC2700431_01,Exam,Bronchoscopy,match=exact; distance=0
+PMC2700431_01_T4,PMC2700431_01,Treatment,Water,match=exact; distance=0
+PMC2700431_01_AS10,PMC2700431_01,AnatomicalSite,Trachea,match=exact; distance=0
+PMC2700431_01_S3,PMC2700431_01,Symptom,Tracheoesophageal Fistula,match=exact; distance=0
+PMC2700431_01_D5,PMC2700431_01,Diagnosis,Pneumonia,match=exact; distance=0
+PMC10106591_01_P1,PMC10106591_01,Patient,case PMC10106591_01,age=44.0; gender=Female
+PMC10106591_01_S1,PMC10106591_01,Symptom,Chest Pain,match=exact; distance=0
+PMC10106591_01_S2,PMC10106591_01,Symptom,Pain,match=exact; distance=0
+PMC10106591_01_D1,PMC10106591_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC10106591_01_E1,PMC10106591_01,Exam,Irbesartan,match=exact; distance=0
+PMC10106591_01_R1,PMC10106591_01,ExamResult,150 mg,value=150
+PMC10106591_01_T1,PMC10106591_01,Treatment,Glucose,match=exact; distance=0
+PMC10106591_01_T2,PMC10106591_01,Treatment,Oxygen,match=exact; distance=0
+PMC10106591_01_E2,PMC10106591_01,Exam,Physical Examination,match=exact; distance=0
+PMC10106591_01_F1,PMC10106591_01,Finding,that vitals were all within normal limits: blood pressure 1,
+PMC10106591_01_E3,PMC10106591_01,Exam,Blood Pressure,match=exact; distance=0
+PMC10106591_01_R2,PMC10106591_01,ExamResult,51 mmHg,value=51
+PMC10106591_01_E4,PMC10106591_01,Exam,Heart Rate,match=exact; distance=0
+PMC10106591_01_E5,PMC10106591_01,Exam,Respiratory Rate,match=exact; distance=0
+PMC10106591_01_AS1,PMC10106591_01,AnatomicalSite,Heart,match=exact; distance=0
+PMC10106591_01_E6,PMC10106591_01,Exam,Auscultation,match=exact; distance=0
+PMC10106591_01_F2,PMC10106591_01,Finding,Cardiac and pulmonary examination,
+PMC10106591_01_AS2,PMC10106591_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC10106591_01_E7,PMC10106591_01,Exam,Palpation,match=exact; distance=0
+PMC10106591_01_AS3,PMC10106591_01,AnatomicalSite,Lower Extremity,match=exact; distance=0
+PMC10106591_01_S3,PMC10106591_01,Symptom,Edema,match=exact; distance=0
+PMC10106591_01_AS4,PMC10106591_01,AnatomicalSite,Ventricular Septum,match=exact; distance=0
+PMC10106591_01_E8,PMC10106591_01,Exam,Electrocardiography,match=exact; distance=0
+PMC10106591_01_F3,PMC10106591_01,Finding,normal sinus rhythm with no significant ST-T changes (Figur,
+PMC10106591_01_E9,PMC10106591_01,Exam,Echocardiography,match=exact; distance=0
+PMC10106591_01_F4,PMC10106591_01,Finding,a mildly thickened ventricular septum and left ventricular,
+PMC10106591_01_E10,PMC10106591_01,Exam,Stroke Volume,match=exact; distance=0
+PMC10106591_01_E11,PMC10106591_01,Exam,Troponin I,match=exact; distance=0
+PMC10106591_01_R3,PMC10106591_01,ExamResult,0.016 ng/mL,value=0.016
+PMC10106591_01_E12,PMC10106591_01,Exam,Creatine Kinase,match=exact; distance=0
+PMC10106591_01_R4,PMC10106591_01,ExamResult,0.7 ng/mL,value=0.7
+PMC10106591_01_E13,PMC10106591_01,Exam,Myoglobin,match=exact; distance=0
+PMC10106591_01_R5,PMC10106591_01,ExamResult,14.1 ng/mL,value=14.1
+PMC10106591_01_D2,PMC10106591_01,Diagnosis,Acute Coronary Syndrome,match=exact; distance=0
+PMC10106591_01_E14,PMC10106591_01,Exam,Aspirin,match=exact; distance=0
+PMC10106591_01_R6,PMC10106591_01,ExamResult,300 mg,value=300
+PMC10106591_01_E15,PMC10106591_01,Exam,Clopidogrel,match=exact; distance=0
+PMC10106591_01_R7,PMC10106591_01,ExamResult,300 mg,value=300
+PMC10106591_01_E16,PMC10106591_01,Exam,Coronary Angiography,match=exact; distance=0
+PMC10106591_01_T3,PMC10106591_01,Treatment,Hospitalization,match=exact; distance=0
+PMC10106591_01_T4,PMC10106591_01,Treatment,Lead,match=exact; distance=0
+PMC10106591_01_D3,PMC10106591_01,Diagnosis,Hypotension,match=exact; distance=0
+PMC10106591_01_T5,PMC10106591_01,Treatment,Troponin I,match=exact; distance=0
+PMC10106591_01_T6,PMC10106591_01,Treatment,Diltiazem,match=exact; distance=0
+PMC10106591_01_AS5,PMC10106591_01,AnatomicalSite,Back,match=exact; distance=0
+PMC10106591_01_E17,PMC10106591_01,Exam,Diltiazem,match=exact; distance=0
+PMC10106591_01_R8,PMC10106591_01,ExamResult,5 mL,value=5
+PMC10106591_01_T7,PMC10106591_01,Treatment,Suggestion,match=exact; distance=0
+PMC10106591_01_T8,PMC10106591_01,Treatment,Lipids,match=exact; distance=0
+PMC10106591_01_AS6,PMC10106591_01,AnatomicalSite,Liver,match=exact; distance=0
+PMC10106591_01_T9,PMC10106591_01,Treatment,Electrolytes,match=exact; distance=0
+PMC10106591_01_T10,PMC10106591_01,Treatment,Cytokines,match=exact; distance=0
+PMC10106591_01_E18,PMC10106591_01,Exam,Blood Cell Count,match=exact; distance=0
+PMC10106591_01_F5,PMC10106591_01,Finding,Routine lab work during hospitalization,
+PMC10106591_01_E19,PMC10106591_01,Exam,Blood Sedimentation,match=exact; distance=0
+PMC10106591_01_E20,PMC10106591_01,Exam,Urinalysis,match=exact; distance=0
+PMC10106591_01_E21,PMC10106591_01,Exam,Troponin,match=exact; distance=0
+PMC10106591_01_R9,PMC10106591_01,ExamResult,0.031 ng/mL,value=0.031
+PMC10106591_01_T11,PMC10106591_01,Treatment,Capsules,match=exact; distance=0
+PMC10106591_01_R10,PMC10106591_01,ExamResult,100 mg,value=100
+PMC10106591_01_E22,PMC10106591_01,Exam,Atorvastatin,match=exact; distance=0
+PMC10106591_01_R11,PMC10106591_01,ExamResult,20 mg,value=20
+PMC10106591_01_D4,PMC10106591_01,Diagnosis,Myocardial Ischemia,match=exact; distance=0
+PMC10106591_01_S4,PMC10106591_01,Symptom,Recurrence,match=exact; distance=0
+PMC4073451_01_P1,PMC4073451_01,Patient,case PMC4073451_01,age=14.0; gender=Female
+PMC4073451_01_AS1,PMC4073451_01,AnatomicalSite,Mandible,match=exact; distance=0
+PMC4073451_01_AS2,PMC4073451_01,AnatomicalSite,Mandibular Canal,match=exact; distance=0
+PMC4073451_01_E1,PMC4073451_01,Exam,Tomography,match=exact; distance=0
+PMC4073451_01_E2,PMC4073451_01,Exam,Biopsy,match=exact; distance=0
+PMC4073451_01_T1,PMC4073451_01,Treatment,Decompression,match=exact; distance=0
+PMC4073451_01_E3,PMC4073451_01,Exam,Radiography,match=fuzzy; distance=1
+PMC4073451_01_F1,PMC4073451_01,Finding,It was,
+PMC4073451_01_AS3,PMC4073451_01,AnatomicalSite,Cortical Bone,match=exact; distance=0
+PMC4073451_01_S1,PMC4073451_01,Symptom,Recurrence,match=exact; distance=0
+PMC6083636_01_P1,PMC6083636_01,Patient,case PMC6083636_01,age=9.0; gender=Male
+PMC6083636_01_H1,PMC6083636_01,History,Amblyopia,category=symptom
+PMC6083636_01_H2,PMC6083636_01,History,Strabismus,category=diagnosis
+PMC6083636_01_AS1,PMC6083636_01,AnatomicalSite,Eye,match=exact; distance=0
+PMC6083636_01_D1,PMC6083636_01,Diagnosis,Albinism,match=exact; distance=0
+PMC6083636_01_E1,PMC6083636_01,Exam,Physical Examination,match=exact; distance=0
+PMC6083636_02_P1,PMC6083636_02,Patient,case PMC6083636_02,age=nan; gender=Unknown
+PMC6083636_02_E1,PMC6083636_02,Exam,Reflex,match=exact; distance=0
+PMC6083636_02_F1,PMC6083636_02,Finding,"terior segment was unremarkable, but the fundus examination",
+PMC6083636_02_AS1,PMC6083636_02,AnatomicalSite,Eye,match=exact; distance=0
+PMC6083636_02_AS2,PMC6083636_02,AnatomicalSite,Retina,match=exact; distance=0
+PMC6083636_02_E2,PMC6083636_02,Exam,Photography,match=fuzzy; distance=1
+PMC6083636_03_P1,PMC6083636_03,Patient,case PMC6083636_03,age=nan; gender=Unknown
+PMC6083636_03_E1,PMC6083636_03,Exam,Visual Acuity,match=exact; distance=0
+PMC6083636_03_D1,PMC6083636_03,Diagnosis,Exotropia,match=exact; distance=0
+PMC6083636_03_D2,PMC6083636_03,Diagnosis,"Nystagmus, Pathologic",match=exact; distance=0
+PMC9969157_01_P1,PMC9969157_01,Patient,case PMC9969157_01,age=7.0; gender=Male
+PMC9969157_01_D1,PMC9969157_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC9969157_01_D2,PMC9969157_01,Diagnosis,HELLP Syndrome,match=exact; distance=0
+PMC9969157_01_T1,PMC9969157_01,Treatment,Resuscitation,match=exact; distance=0
+PMC9969157_01_S1,PMC9969157_01,Symptom,Birth Weight,match=exact; distance=0
+PMC9969157_01_AS1,PMC9969157_01,AnatomicalSite,Head,match=exact; distance=0
+PMC9969157_01_AS2,PMC9969157_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC9969157_01_AS3,PMC9969157_01,AnatomicalSite,Ductus Arteriosus,match=exact; distance=0
+PMC9969157_01_AS4,PMC9969157_01,AnatomicalSite,Foramen Ovale,match=exact; distance=0
+PMC9969157_01_T2,PMC9969157_01,Treatment,Enteral Nutrition,match=exact; distance=0
+PMC9969157_01_AS5,PMC9969157_01,AnatomicalSite,Milk,match=exact; distance=0
+PMC9969157_01_S2,PMC9969157_01,Symptom,Bradycardia,match=exact; distance=0
+PMC9969157_01_S3,PMC9969157_01,Symptom,Gastrointestinal Hemorrhage,match=exact; distance=0
+PMC9969157_01_T3,PMC9969157_01,Treatment,Ampicillin,match=exact; distance=0
+PMC9969157_01_E1,PMC9969157_01,Exam,Sulbactam,match=exact; distance=0
+PMC9969157_01_R1,PMC9969157_01,ExamResult,7 days,value=7
+UNIT_DAYS,,Unit,days,
+PMC9969157_01_E2,PMC9969157_01,Exam,Gentamicins,match=exact; distance=0
+PMC9969157_01_R2,PMC9969157_01,ExamResult,7 days,value=7
+PMC9969157_01_E3,PMC9969157_01,Exam,Decompression,match=exact; distance=0
+PMC9969157_01_R3,PMC9969157_01,ExamResult,5 days,value=5
+PMC9969157_01_E4,PMC9969157_01,Exam,Glucose,match=exact; distance=0
+PMC9969157_01_R4,PMC9969157_01,ExamResult,15 mg,value=15
+PMC4828947_01_P1,PMC4828947_01,Patient,case PMC4828947_01,age=61.0; gender=Male
+PMC4828947_01_S1,PMC4828947_01,Symptom,Seizures,match=exact; distance=0
+PMC4828947_01_AS1,PMC4828947_01,AnatomicalSite,Temporal Lobe,match=exact; distance=0
+PMC4828947_01_E1,PMC4828947_01,Exam,Electroencephalography,match=exact; distance=0
+PMC4828947_01_AS2,PMC4828947_01,AnatomicalSite,Head,match=exact; distance=0
+PMC4828947_01_S2,PMC4828947_01,Symptom,Dystonia,match=fuzzy; distance=1
+PMC4828947_01_AS3,PMC4828947_01,AnatomicalSite,Hand,match=exact; distance=0
+PMC4828947_01_S3,PMC4828947_01,Symptom,Aphasia,match=exact; distance=0
+PMC4828947_01_AS4,PMC4828947_01,AnatomicalSite,Nose,match=exact; distance=0
+PMC4828947_01_T1,PMC4828947_01,Treatment,Oxcarbazepine,match=exact; distance=0
+PMC4828947_01_T2,PMC4828947_01,Treatment,Valproic Acid,match=exact; distance=0
+PMC4828947_01_D1,PMC4828947_01,Diagnosis,Epilepsy,match=exact; distance=0
+PMC4828947_01_D2,PMC4828947_01,Diagnosis,Meningitis,match=exact; distance=0
+PMC4828947_01_E2,PMC4828947_01,Exam,Magnetic Resonance Imaging,match=exact; distance=0
+PMC4828947_01_F1,PMC4828947_01,Finding,a cortical lesion in the medial and superior temporal gyrus,
+PMC4828947_01_T3,PMC4828947_01,Treatment,Gadolinium,match=exact; distance=0
+PMC4828947_01_T4,PMC4828947_01,Treatment,Hemosiderin,match=exact; distance=0
+PMC4828947_01_D3,PMC4828947_01,Diagnosis,Ganglioglioma,match=exact; distance=0
+PMC4828947_01_AS5,PMC4828947_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC4828947_01_AS6,PMC4828947_01,AnatomicalSite,Eosinophils,match=fuzzy; distance=1
+PMC4828947_01_AS7,PMC4828947_01,AnatomicalSite,Neurons,match=exact; distance=0
+PMC4828947_01_T5,PMC4828947_01,Treatment,Synaptophysin,match=exact; distance=0
+PMC4828947_01_T6,PMC4828947_01,Treatment,Glial Fibrillary Acidic Protein,match=exact; distance=0
+PMC4828947_01_E3,PMC4828947_01,Exam,Staining and Labeling,match=exact; distance=0
+PMC4828947_01_F2,PMC4828947_01,Finding,no elevated proliferative activity,
+PMC4828947_01_S4,PMC4828947_01,Symptom,Edema,match=exact; distance=0
+PMC7086412_01_P1,PMC7086412_01,Patient,case PMC7086412_01,age=34.0; gender=Female
+PMC7086412_01_T1,PMC7086412_01,Treatment,Glucose,match=exact; distance=0
+PMC7086412_01_T2,PMC7086412_01,Treatment,Blood Glucose,match=exact; distance=0
+PMC7086412_01_T3,PMC7086412_01,Treatment,Glycated Hemoglobin,match=exact; distance=0
+PMC7086412_01_AS1,PMC7086412_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC7086412_01_T4,PMC7086412_01,Treatment,Fibrinogen,match=exact; distance=0
+PMC7086412_01_AS2,PMC7086412_01,AnatomicalSite,Urine,match=exact; distance=0
+PMC7086412_01_AS3,PMC7086412_01,AnatomicalSite,Plasma,match=exact; distance=0
+PMC7086412_01_T5,PMC7086412_01,Treatment,Antibodies,match=exact; distance=0
+PMC7086412_01_T6,PMC7086412_01,Treatment,"Antibodies, Anticardiolipin",match=exact; distance=0
+PMC7086412_01_T7,PMC7086412_01,Treatment,Factor V,match=exact; distance=0
+PMC7086412_01_T8,PMC7086412_01,Treatment,Prothrombin,match=exact; distance=0
+PMC7086412_01_E1,PMC7086412_01,Exam,Prothrombin Time,match=exact; distance=0
+PMC7086412_01_E2,PMC7086412_01,Exam,Partial Thromboplastin Time,match=exact; distance=0
+PMC7086412_01_T9,PMC7086412_01,Treatment,Misoprostol,match=exact; distance=0
+PMC7086412_01_T10,PMC7086412_01,Treatment,Oxytocin,match=exact; distance=0
+PMC7086412_01_D1,PMC7086412_01,Diagnosis,Rupture,match=exact; distance=0
+PMC7086412_01_AS4,PMC7086412_01,AnatomicalSite,Membranes,match=exact; distance=0
+PMC7086412_01_AS5,PMC7086412_01,AnatomicalSite,Head,match=exact; distance=0
+PMC7086412_01_AS6,PMC7086412_01,AnatomicalSite,Shoulder,match=exact; distance=0
+PMC7086412_01_D2,PMC7086412_01,Diagnosis,Shoulder Dystocia,match=exact; distance=0
+PMC7086412_01_D3,PMC7086412_01,Diagnosis,Dystocia,match=exact; distance=0
+PMC7086412_01_AS7,PMC7086412_01,AnatomicalSite,Wood,match=exact; distance=0
+PMC7086412_01_AS8,PMC7086412_01,AnatomicalSite,Arm,match=exact; distance=0
+PMC7086412_01_T11,PMC7086412_01,Treatment,Nitroglycerin,match=exact; distance=0
+PMC7086412_02_P1,PMC7086412_02,Patient,case PMC7086412_02,age=31.0; gender=Female
+PMC7086412_02_E1,PMC7086412_02,Exam,Glucose Tolerance Test,match=exact; distance=0
+PMC7086412_02_E2,PMC7086412_02,Exam,Body Mass Index,match=exact; distance=0
+PMC7086412_02_D1,PMC7086412_02,Diagnosis,Glucose Intolerance,match=exact; distance=0
+PMC7086412_02_T1,PMC7086412_02,Treatment,Misoprostol,match=exact; distance=0
+PMC7086412_02_T2,PMC7086412_02,Treatment,Oxytocin,match=exact; distance=0
+PMC7086412_02_D2,PMC7086412_02,Diagnosis,Rupture,match=exact; distance=0
+PMC7086412_02_AS1,PMC7086412_02,AnatomicalSite,Membranes,match=exact; distance=0
+PMC7086412_02_AS2,PMC7086412_02,AnatomicalSite,Head,match=exact; distance=0
+PMC7086412_02_AS3,PMC7086412_02,AnatomicalSite,Shoulder,match=exact; distance=0
+PMC7086412_02_D3,PMC7086412_02,Diagnosis,Shoulder Dystocia,match=exact; distance=0
+PMC7086412_02_D4,PMC7086412_02,Diagnosis,Dystocia,match=exact; distance=0
+PMC7086412_02_AS4,PMC7086412_02,AnatomicalSite,Wood,match=exact; distance=0
+PMC7086412_02_AS5,PMC7086412_02,AnatomicalSite,Back,match=exact; distance=0
+PMC7086412_02_AS6,PMC7086412_02,AnatomicalSite,Arm,match=exact; distance=0
+PMC7086412_02_AS7,PMC7086412_02,AnatomicalSite,Axilla,match=exact; distance=0
+PMC3557982_01_P1,PMC3557982_01,Patient,case PMC3557982_01,age=1.0; gender=Female
+PMC3557982_01_AS1,PMC3557982_01,AnatomicalSite,Trachea,match=fuzzy; distance=1
+PMC3557982_01_AS2,PMC3557982_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC3557982_01_AS3,PMC3557982_01,AnatomicalSite,Leukocytes,match=exact; distance=0
+PMC3557982_01_E1,PMC3557982_01,Exam,Staining and Labeling,match=exact; distance=0
+PMC3557982_01_E2,PMC3557982_01,Exam,"Fluorescent Antibody Technique, Indirect",match=exact; distance=0
+PMC3557982_01_F1,PMC3557982_01,Finding,"athic effect after 6 days of incubation, and adenovirus was",
+PMC3557982_01_E3,PMC3557982_01,Exam,Mass Screening,match=exact; distance=0
+PMC3557982_01_AS4,PMC3557982_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC3557982_01_S1,PMC3557982_01,Symptom,Necrosis,match=exact; distance=0
+PMC3557982_01_E4,PMC3557982_01,Exam,Microscopy,match=exact; distance=0
+PMC3557982_01_F2,PMC3557982_01,Finding,"diffuse alveolar damage, fibrinohemorrhagic changes, areas",
+PMC3557982_01_AS5,PMC3557982_01,AnatomicalSite,Epithelial Cells,match=exact; distance=0
+PMC3557982_01_E5,PMC3557982_01,Exam,Immunohistochemistry,match=exact; distance=0
+PMC3557982_01_D1,PMC3557982_01,Diagnosis,Otitis Media,match=exact; distance=0
+PMC3557982_01_D2,PMC3557982_01,Diagnosis,Pneumonia,match=exact; distance=0
+PMC3557982_01_T1,PMC3557982_01,Treatment,Hospitalization,match=exact; distance=0
+PMC3557982_01_AS6,PMC3557982_01,AnatomicalSite,Radius,match=exact; distance=0
+PMC3557982_01_D3,PMC3557982_01,Diagnosis,Sprains and Strains,match=exact; distance=0
+PMC9815523_01_P1,PMC9815523_01,Patient,case PMC9815523_01,age=40.0; gender=Unknown
+PMC9815523_01_T1,PMC9815523_01,Treatment,Conservative Treatment,match=exact; distance=0
+PMC9815523_01_AS1,PMC9815523_01,AnatomicalSite,Arm,match=exact; distance=0
+PMC9815523_01_D1,PMC9815523_01,Diagnosis,Thrombosis,match=exact; distance=0
+PMC9815523_01_S1,PMC9815523_01,Symptom,Syndrome,match=exact; distance=0
+PMC9815523_01_E1,PMC9815523_01,Exam,Diagnostic Imaging,match=exact; distance=0
+PMC9815523_01_E2,PMC9815523_01,Exam,Angiography,match=exact; distance=0
+PMC9815523_01_T2,PMC9815523_01,Treatment,Vitamin K,match=exact; distance=0
+PMC9815523_01_T3,PMC9815523_01,Treatment,Physical Therapy Modalities,match=exact; distance=0
+PMC9815523_01_S2,PMC9815523_01,Symptom,Epistaxis,match=exact; distance=0
+PMC9815523_01_S3,PMC9815523_01,Symptom,Menorrhagia,match=exact; distance=0
+PMC9815523_01_T4,PMC9815523_01,Treatment,Blood Transfusion,match=exact; distance=0
+PMC9815523_01_AS2,PMC9815523_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC9815523_01_T5,PMC9815523_01,Treatment,Heparin,match=exact; distance=0
+PMC9815523_01_AS3,PMC9815523_01,AnatomicalSite,Pectoralis Muscles,match=exact; distance=0
+PMC9815523_01_AS4,PMC9815523_01,AnatomicalSite,Subclavian Vein,match=exact; distance=0
+PMC9815523_01_T6,PMC9815523_01,Treatment,Anticoagulants,match=exact; distance=0
+PMC9815523_01_D2,PMC9815523_01,Diagnosis,Pneumonia,match=exact; distance=0
+PMC4310058_01_P1,PMC4310058_01,Patient,case PMC4310058_01,age=16.0; gender=Male
+PMC4310058_01_AS1,PMC4310058_01,AnatomicalSite,Skull,match=exact; distance=0
+PMC4310058_01_S1,PMC4310058_01,Symptom,Headache,match=fuzzy; distance=1
+PMC4310058_01_AS2,PMC4310058_01,AnatomicalSite,Parietal Bone,match=exact; distance=0
+PMC4310058_01_AS3,PMC4310058_01,AnatomicalSite,Scalp,match=exact; distance=0
+PMC4310058_01_E1,PMC4310058_01,Exam,Tomography,match=exact; distance=0
+PMC4310058_01_F1,PMC4310058_01,Finding,progressive erosion of the skull [Figure 1b and c],
+PMC4310058_01_E2,PMC4310058_01,Exam,Magnetic Resonance Imaging,match=exact; distance=0
+PMC4310058_01_F2,PMC4310058_01,Finding,the localization of the lesion to the skull [Figure 1e-f],
+PMC4310058_01_T1,PMC4310058_01,Treatment,Titanium,match=exact; distance=0
+PMC4310058_01_AS4,PMC4310058_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC4310058_01_AS5,PMC4310058_01,AnatomicalSite,Egg Shell,match=fuzzy; distance=1
+PMC4310058_01_S2,PMC4310058_01,Symptom,Inflammation,match=exact; distance=0
+PMC3859158_01_P1,PMC3859158_01,Patient,case PMC3859158_01,age=44.0; gender=Male
+PMC3859158_01_H1,PMC3859158_01,History,Pain,category=symptom
+PMC3859158_01_S1,PMC3859158_01,Symptom,Pain,match=exact; distance=0
+PMC3859158_01_S2,PMC3859158_01,Symptom,Nausea,match=exact; distance=0
+PMC3859158_01_S3,PMC3859158_01,Symptom,Vomiting,match=exact; distance=0
+PMC3859158_01_H2,PMC3859158_01,History,Wounds and Injuries,category=diagnosis
+PMC3859158_01_H3,PMC3859158_01,History,Gastroesophageal Reflux,category=diagnosis
+PMC3859158_01_H4,PMC3859158_01,History,Disease,category=symptom
+PMC3859158_01_H5,PMC3859158_01,History,Gastritis,category=diagnosis
+PMC3859158_01_H6,PMC3859158_01,History,Peptic Ulcer,category=diagnosis
+PMC3859158_01_D1,PMC3859158_01,Diagnosis,Pancreatitis,match=exact; distance=0
+PMC3859158_01_S4,PMC3859158_01,Symptom,Disease,match=exact; distance=0
+PMC3859158_01_H7,PMC3859158_01,History,Fever,category=symptom
+PMC3859158_01_H8,PMC3859158_01,History,Weight Loss,category=symptom
+PMC3859158_01_E1,PMC3859158_01,Exam,Physical Examination,match=exact; distance=0
+PMC3859158_01_AS1,PMC3859158_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC3859158_01_E2,PMC3859158_01,Exam,Palpation,match=exact; distance=0
+PMC3859158_01_F1,PMC3859158_01,Finding,a palpable mass,
+PMC3859158_01_AS2,PMC3859158_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC3859158_01_T1,PMC3859158_01,Treatment,Lipase,match=exact; distance=0
+PMC3859158_01_T2,PMC3859158_01,Treatment,Lactic Acid,match=exact; distance=0
+PMC3859158_01_T3,PMC3859158_01,Treatment,Carcinoembryonic Antigen,match=exact; distance=0
+PMC3859158_01_D2,PMC3859158_01,Diagnosis,Neoplasms,match=exact; distance=0
+PMC3859158_01_AS3,PMC3859158_01,AnatomicalSite,Pancreas,match=exact; distance=0
+PMC3859158_01_E3,PMC3859158_01,Exam,Tomography,match=exact; distance=0
+PMC3859158_01_F2,PMC3859158_01,Finding,"a 9.2 x 9.5 x 11.5 cm, huge, and well-defined left supraren",
+PMC3859158_01_D3,PMC3859158_01,Diagnosis,Lymphadenopathy,match=exact; distance=0
+PMC3859158_01_AS4,PMC3859158_01,AnatomicalSite,Tail,match=exact; distance=0
+PMC3859158_01_E4,PMC3859158_01,Exam,Laparoscopy,match=exact; distance=0
+PMC3859158_01_AS5,PMC3859158_01,AnatomicalSite,Lymph,match=exact; distance=0
+PMC3859158_01_E5,PMC3859158_01,Exam,Dissection,match=fuzzy; distance=1
+PMC3859158_01_AS6,PMC3859158_01,AnatomicalSite,Spleen,match=exact; distance=0
+PMC3859158_01_F3,PMC3859158_01,Finding,unremarkable pathological findings and were negative for ma,
+PMC3859158_01_AS7,PMC3859158_01,AnatomicalSite,Schwann Cells,match=exact; distance=0
+PMC3859158_01_AS8,PMC3859158_01,AnatomicalSite,Cytoplasm,match=exact; distance=0
+PMC3859158_01_S5,PMC3859158_01,Symptom,Necrosis,match=exact; distance=0
+PMC3859158_01_AS9,PMC3859158_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC3859158_01_S6,PMC3859158_01,Symptom,Recurrence,match=exact; distance=0
+PMC9650410_01_P1,PMC9650410_01,Patient,case PMC9650410_01,age=67.0; gender=Female
+PMC9650410_01_T1,PMC9650410_01,Treatment,Silicon,match=exact; distance=0
+PMC9650410_01_S1,PMC9650410_01,Symptom,Death,match=exact; distance=0
+PMC9650410_01_AS1,PMC9650410_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC9650410_01_E1,PMC9650410_01,Exam,"Diagnostic Tests, Routine",match=exact; distance=0
+PMC9650410_01_D1,PMC9650410_01,Diagnosis,Neoplasms,match=exact; distance=0
+PMC9650410_01_AS2,PMC9650410_01,AnatomicalSite,Face,match=exact; distance=0
+PMC9650410_01_AS3,PMC9650410_01,AnatomicalSite,Back,match=exact; distance=0
+PMC9650410_01_S2,PMC9650410_01,Symptom,Pain,match=exact; distance=0
+PMC5804616_01_P1,PMC5804616_01,Patient,case PMC5804616_01,age=77.0; gender=Male
+PMC5804616_01_S1,PMC5804616_01,Symptom,Fistula,match=fuzzy; distance=1
+PMC5804616_01_T1,PMC5804616_01,Treatment,Radiotherapy,match=exact; distance=0
+PMC5804616_01_D1,PMC5804616_01,Diagnosis,Neoplasms,match=exact; distance=0
+PMC5804616_01_AS1,PMC5804616_01,AnatomicalSite,Aorta,match=exact; distance=0
+PMC5804616_01_H1,PMC5804616_01,History,Hypertension,category=diagnosis
+PMC5804616_01_H2,PMC5804616_01,History,Diabetes Mellitus,category=diagnosis
+PMC5804616_01_H3,PMC5804616_01,History,Neoplasms,category=diagnosis
+PMC5804616_01_H4,PMC5804616_01,History,Cerebral Infarction,category=symptom
+PMC5804616_01_E1,PMC5804616_01,Exam,Blood Gas Analysis,match=exact; distance=0
+PMC5804616_01_F1,PMC5804616_01,Finding,"a partial oxygen tension (PaO2) of 80.5 mmHg, partial carbo",
+PMC5804616_01_E2,PMC5804616_01,Exam,Oxygen,match=exact; distance=0
+PMC5804616_01_R1,PMC5804616_01,ExamResult,80.5 mmHg,value=80.5
+PMC5804616_01_E3,PMC5804616_01,Exam,Carbon Dioxide,match=exact; distance=0
+PMC5804616_01_R2,PMC5804616_01,ExamResult,38.8 mmHg,value=38.8
+PMC5804616_01_D2,PMC5804616_01,Diagnosis,Pleural Effusion,match=exact; distance=0
+PMC5804616_01_AS2,PMC5804616_01,AnatomicalSite,Thoracic Cavity,match=exact; distance=0
+PMC5804616_01_E4,PMC5804616_01,Exam,Tomography,match=exact; distance=0
+PMC5804616_01_E5,PMC5804616_01,Exam,Bronchoscopy,match=exact; distance=0
+PMC5804616_01_AS3,PMC5804616_01,AnatomicalSite,Trachea,match=fuzzy; distance=1
+PMC5804616_01_T2,PMC5804616_01,Treatment,Intubation,match=exact; distance=0
+PMC5804616_01_F2,PMC5804616_01,Finding,The tip of the tracheal tube was,
+PMC5804616_01_T3,PMC5804616_01,Treatment,One-Lung Ventilation,match=exact; distance=0
+PMC5804616_01_AS4,PMC5804616_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC5804616_01_AS5,PMC5804616_01,AnatomicalSite,Hand,match=exact; distance=0
+PMC5804616_01_S2,PMC5804616_01,Symptom,Hypoxia,match=exact; distance=0
+PMC5804616_01_T4,PMC5804616_01,Treatment,High-Frequency Jet Ventilation,match=exact; distance=0
+PMC5804616_01_AS6,PMC5804616_01,AnatomicalSite,Membranes,match=fuzzy; distance=1
+PMC5804616_01_T5,PMC5804616_01,Treatment,Sevoflurane,match=exact; distance=0
+PMC5804616_01_E6,PMC5804616_01,Exam,Tidal Volume,match=exact; distance=0
+PMC5804616_01_E7,PMC5804616_01,Exam,Respiratory Rate,match=exact; distance=0
+PMC5804616_01_R3,PMC5804616_01,ExamResult,400 ml,value=400
+PMC5804616_01_T6,PMC5804616_01,Treatment,Lidocaine,match=exact; distance=0
+PMC5804616_01_AS7,PMC5804616_01,AnatomicalSite,Muscles,match=fuzzy; distance=1
+PMC5804616_01_E8,PMC5804616_01,Exam,Ropivacaine,match=exact; distance=0
+PMC5804616_01_R4,PMC5804616_01,ExamResult,6 ml,value=6
+PMC5804616_01_T7,PMC5804616_01,Treatment,Oxygen,match=exact; distance=0
+PMC5804616_01_R5,PMC5804616_01,ExamResult,252.4 mmHg,value=252.4
+PMC5804616_01_AS8,PMC5804616_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC5804616_01_R6,PMC5804616_01,ExamResult,101.7 mmHg,value=101.7
+PMC5804616_01_D3,PMC5804616_01,Diagnosis,Pneumothorax,match=exact; distance=0
+PMC5804616_01_T8,PMC5804616_01,Treatment,Drainage,match=exact; distance=0
+PMC5804616_01_H5,PMC5804616_01,History,Hypoxia,category=symptom
+PMC5804616_01_AS9,PMC5804616_01,AnatomicalSite,Pleura,match=exact; distance=0
+PMC5804616_01_AS10,PMC5804616_01,AnatomicalSite,Esophagus,match=exact; distance=0
+PMC3897989_01_P1,PMC3897989_01,Patient,case PMC3897989_01,age=65.0; gender=Male
+PMC3897989_01_S1,PMC3897989_01,Symptom,Jaundice,match=exact; distance=0
+PMC3897989_01_S2,PMC3897989_01,Symptom,Pruritus,match=exact; distance=0
+PMC3897989_01_S3,PMC3897989_01,Symptom,Abdominal Pain,match=exact; distance=0
+PMC3897989_01_AS1,PMC3897989_01,AnatomicalSite,Urine,match=exact; distance=0
+PMC3897989_01_S4,PMC3897989_01,Symptom,Atrial Fibrillation,match=exact; distance=0
+PMC3897989_01_T1,PMC3897989_01,Treatment,Aspirin,match=exact; distance=0
+PMC3897989_01_AS2,PMC3897989_01,AnatomicalSite,Sclera,match=exact; distance=0
+PMC3897989_01_AS3,PMC3897989_01,AnatomicalSite,Skin,match=exact; distance=0
+PMC3897989_01_AS4,PMC3897989_01,AnatomicalSite,Heart,match=exact; distance=0
+PMC3897989_01_E1,PMC3897989_01,Exam,Physical Examination,match=exact; distance=0
+PMC3897989_01_F1,PMC3897989_01,Finding,"icteric sclera and skin, mild upper abdominal tenderness, a",
+PMC3897989_01_AS5,PMC3897989_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC3897989_01_T2,PMC3897989_01,Treatment,Alanine Transaminase,match=exact; distance=0
+PMC3897989_01_T3,PMC3897989_01,Treatment,Aspartic Acid,match=exact; distance=0
+PMC3897989_01_T4,PMC3897989_01,Treatment,Alkaline Phosphatase,match=exact; distance=0
+PMC3897989_01_T5,PMC3897989_01,Treatment,gamma-Glutamyltransferase,match=exact; distance=0
+PMC3897989_01_T6,PMC3897989_01,Treatment,Bilirubin,match=exact; distance=0
+PMC3897989_01_S5,PMC3897989_01,Symptom,Disease,match=fuzzy; distance=1
+PMC3897989_01_E2,PMC3897989_01,Exam,Mass Screening,match=exact; distance=0
+PMC3897989_01_F2,PMC3897989_01,Finding,that the patient was positive for antimitochondrial antibod,
+PMC3897989_01_T7,PMC3897989_01,Treatment,Biomarkers,match=exact; distance=0
+PMC3897989_01_AS6,PMC3897989_01,AnatomicalSite,Pancreas,match=exact; distance=0
+PMC3897989_01_E3,PMC3897989_01,Exam,Tomography,match=exact; distance=0
+PMC3897989_01_F3,PMC3897989_01,Finding,"diffusive enlargement of the pancreas, capsuled by an armor",
+PMC3897989_01_E4,PMC3897989_01,Exam,Magnetic Resonance Imaging,match=exact; distance=0
+PMC3897989_01_F4,PMC3897989_01,Finding,"diffusive enlargement of the pancreas, capsuled by an armor",
+PMC3897989_01_AS7,PMC3897989_01,AnatomicalSite,Bile,match=exact; distance=0
+PMC3897989_01_AS8,PMC3897989_01,AnatomicalSite,Gallbladder,match=exact; distance=0
+PMC3897989_01_S6,PMC3897989_01,Symptom,Atrophy,match=exact; distance=0
+PMC3897989_01_AS9,PMC3897989_01,AnatomicalSite,Kidney,match=exact; distance=0
+PMC3897989_01_AS10,PMC3897989_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC3897989_01_E5,PMC3897989_01,Exam,Meropenem,match=exact; distance=0
+PMC3897989_01_R1,PMC3897989_01,ExamResult,0.5 g,value=0.5
+PMC3897989_01_D1,PMC3897989_01,Diagnosis,Cholestasis,match=exact; distance=0
+PMC3897989_01_T8,PMC3897989_01,Treatment,Drainage,match=exact; distance=0
+PMC3897989_01_AS11,PMC3897989_01,AnatomicalSite,Liver,match=exact; distance=0
+PMC3897989_01_T9,PMC3897989_01,Treatment,Immunoglobulin G,match=exact; distance=0
+PMC3897989_01_S7,PMC3897989_01,Symptom,Fibrosis,match=exact; distance=0
+PMC3897989_01_E6,PMC3897989_01,Exam,Biopsy,match=exact; distance=0
+PMC3897989_01_AS12,PMC3897989_01,AnatomicalSite,Plasma,match=exact; distance=0
+PMC3897989_01_E7,PMC3897989_01,Exam,Methylprednisolone,match=exact; distance=0
+PMC3897989_01_R2,PMC3897989_01,ExamResult,40 mg,value=40
+PMC3897989_01_T10,PMC3897989_01,Treatment,Enzymes,match=exact; distance=0
+PMC3897989_01_AS13,PMC3897989_01,AnatomicalSite,Back,match=exact; distance=0
+PMC3897989_01_S8,PMC3897989_01,Symptom,Disease Progression,match=exact; distance=0
+PMC3897989_01_S9,PMC3897989_01,Symptom,Pain,match=exact; distance=0
+PMC3897989_01_S10,PMC3897989_01,Symptom,Blister,match=fuzzy; distance=1
+PMC3897989_01_D2,PMC3897989_01,Diagnosis,Herpes Zoster,match=exact; distance=0
+PMC3897989_01_T11,PMC3897989_01,Treatment,Acyclovir,match=exact; distance=0
+PMC3897989_01_AS14,PMC3897989_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC3897989_01_AS15,PMC3897989_01,AnatomicalSite,Neutrophils,match=fuzzy; distance=1
+PMC3897989_01_F5,PMC3897989_01,Finding,neutrophil aggregation and fibrous effusion within the alve,
+PMC3897989_01_S11,PMC3897989_01,Symptom,Abscess,match=exact; distance=0
+PMC3897989_01_T12,PMC3897989_01,Treatment,Moxifloxacin,match=exact; distance=0
+PMC3897989_01_T13,PMC3897989_01,Treatment,Thymosin,match=exact; distance=0
+PMC2817501_01_P1,PMC2817501_01,Patient,case PMC2817501_01,age=53.0; gender=Male
+PMC2817501_01_S1,PMC2817501_01,Symptom,Dyspnea,match=exact; distance=0
+PMC2817501_01_AS1,PMC2817501_01,AnatomicalSite,Aortic Valve,match=exact; distance=0
+PMC2817501_01_S2,PMC2817501_01,Symptom,Paresis,match=exact; distance=0
+PMC2817501_01_E1,PMC2817501_01,Exam,Physical Examination,match=exact; distance=0
+PMC2817501_01_E2,PMC2817501_01,Exam,Blood Pressure,match=exact; distance=0
+PMC2817501_01_R1,PMC2817501_01,ExamResult,80 mmHg,value=80
+PMC2817501_01_E3,PMC2817501_01,Exam,Heart Rate,match=exact; distance=0
+PMC2817501_01_F1,PMC2817501_01,Finding,His physical examination,
+PMC2817501_01_S3,PMC2817501_01,Symptom,Respiratory Sounds,match=exact; distance=0
+PMC2817501_01_E4,PMC2817501_01,Exam,Auscultation,match=exact; distance=0
+PMC2817501_01_AS2,PMC2817501_01,AnatomicalSite,Mitral Valve,match=exact; distance=0
+PMC2817501_01_S4,PMC2817501_01,Symptom,Disease,match=exact; distance=0
+PMC2817501_01_AS3,PMC2817501_01,AnatomicalSite,Pulmonary Artery,match=exact; distance=0
+PMC2817501_01_AS4,PMC2817501_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC2817501_01_E5,PMC2817501_01,Exam,Echocardiography,match=exact; distance=0
+PMC2817501_01_F2,PMC2817501_01,Finding,a functioning Starr-Edwards caged ball mechanical prosthesi,
+PMC2817501_01_E6,PMC2817501_01,Exam,Stroke Volume,match=exact; distance=0
+PMC2817501_01_E7,PMC2817501_01,Exam,Angiography,match=exact; distance=0
+PMC2817501_01_F3,PMC2817501_01,Finding,a 90% stenosis at proximal portion of LAD and well function,
+PMC2817501_01_S5,PMC2817501_01,Symptom,Hypothermia,match=exact; distance=0
+PMC11131390_01_P1,PMC11131390_01,Patient,case PMC11131390_01,age=nan; gender=Male
+PMC11131390_01_S1,PMC11131390_01,Symptom,Weight Loss,match=exact; distance=0
+PMC11131390_01_D1,PMC11131390_01,Diagnosis,Hyperthyroidism,match=exact; distance=0
+PMC11131390_01_E1,PMC11131390_01,Exam,Thyroid Function Tests,match=exact; distance=0
+PMC11131390_01_D2,PMC11131390_01,Diagnosis,Goiter,match=exact; distance=0
+PMC11131390_01_AS1,PMC11131390_01,AnatomicalSite,Eye,match=exact; distance=0
+PMC11131390_01_S2,PMC11131390_01,Symptom,Disease,match=exact; distance=0
+PMC11131390_01_T1,PMC11131390_01,Treatment,Thyroglobulin,match=exact; distance=0
+PMC11131390_01_E2,PMC11131390_01,Exam,Antibodies,match=exact; distance=0
+PMC11131390_01_R1,PMC11131390_01,ExamResult,34 IU,value=34
+UNIT_IU,,Unit,IU,
+PMC11131390_01_R2,PMC11131390_01,ExamResult,115 IU,value=115
+PMC11131390_01_T2,PMC11131390_01,Treatment,Methimazole,match=exact; distance=0
+PMC11131390_01_E3,PMC11131390_01,Exam,Carbimazole,match=exact; distance=0
+PMC11131390_01_R3,PMC11131390_01,ExamResult,20 mg,value=20
+PMC11131390_01_S3,PMC11131390_01,Symptom,Weight Gain,match=exact; distance=0
+PMC11131390_01_D3,PMC11131390_01,Diagnosis,Hypothyroidism,match=exact; distance=0
+PMC11131390_01_S4,PMC11131390_01,Symptom,Body Weight,match=exact; distance=0
+PMC11131390_01_T3,PMC11131390_01,Treatment,Thyroxine,match=exact; distance=0
+PMC10521634_01_P1,PMC10521634_01,Patient,case PMC10521634_01,age=38.0; gender=Male
+PMC10521634_01_S1,PMC10521634_01,Symptom,Dizziness,match=exact; distance=0
+PMC10521634_01_E1,PMC10521634_01,Exam,Mesalamine,match=exact; distance=0
+PMC10521634_01_R1,PMC10521634_01,ExamResult,4 g,value=4
+PMC10521634_01_S2,PMC10521634_01,Symptom,Diarrhea,match=exact; distance=0
+PMC10521634_01_S3,PMC10521634_01,Symptom,Fever,match=exact; distance=0
+PMC10521634_01_S4,PMC10521634_01,Symptom,Abdominal Pain,match=exact; distance=0
+PMC10521634_01_D1,PMC10521634_01,Diagnosis,Peritonitis,match=exact; distance=0
+PMC10521634_01_D2,PMC10521634_01,Diagnosis,Colitis,match=exact; distance=0
+PMC10521634_01_E2,PMC10521634_01,Exam,Colonoscopy,match=exact; distance=0
+PMC10521634_01_E3,PMC10521634_01,Exam,Platelet Count,match=exact; distance=0
+PMC10521634_01_F1,PMC10521634_01,Finding,Laboratory findings,
+PMC10521634_01_D3,PMC10521634_01,Diagnosis,Infections,match=exact; distance=0
+PMC10521634_01_D4,PMC10521634_01,Diagnosis,Venous Thrombosis,match=exact; distance=0
+PMC10521634_01_T1,PMC10521634_01,Treatment,Heparin,match=exact; distance=0
+PMC10521634_01_D5,PMC10521634_01,Diagnosis,Thrombocytosis,match=exact; distance=0
+PMC10521634_01_S5,PMC10521634_01,Symptom,Erythema,match=exact; distance=0
+PMC10521634_01_AS1,PMC10521634_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC10521634_01_AS2,PMC10521634_01,AnatomicalSite,Colon,match=exact; distance=0
+PMC10521634_01_AS3,PMC10521634_01,AnatomicalSite,Rectum,match=exact; distance=0
+PMC10521634_01_S6,PMC10521634_01,Symptom,Aphasia,match=fuzzy; distance=1
+PMC10521634_01_S7,PMC10521634_01,Symptom,Disease,match=exact; distance=0
+PMC10521634_01_S8,PMC10521634_01,Symptom,Inflammation,match=exact; distance=0
+PMC10521634_01_E4,PMC10521634_01,Exam,Infliximab,match=exact; distance=0
+PMC10521634_01_R2,PMC10521634_01,ExamResult,5 mg,value=5
+PMC10521634_01_D6,PMC10521634_01,Diagnosis,Abdominal Abscess,match=exact; distance=0
+PMC10521634_01_T2,PMC10521634_01,Treatment,Drainage,match=exact; distance=0
+PMC10521634_01_S9,PMC10521634_01,Symptom,Abscess,match=exact; distance=0
+PMC10521634_01_E5,PMC10521634_01,Exam,Endoscopy,match=exact; distance=0
+PMC10521634_01_E6,PMC10521634_01,Exam,Azathioprine,match=exact; distance=0
+PMC10521634_01_R3,PMC10521634_01,ExamResult,2.5 mg,value=2.5
+PMC10710131_01_P1,PMC10710131_01,Patient,case PMC10710131_01,age=26.0; gender=Female
+PMC10710131_01_AS1,PMC10710131_01,AnatomicalSite,Maxilla,match=exact; distance=0
+PMC10710131_01_T1,PMC10710131_01,Treatment,Titanium,match=exact; distance=0
+PMC10710131_01_AS2,PMC10710131_01,AnatomicalSite,Connective Tissue,match=exact; distance=0
+PMC10710131_01_AS3,PMC10710131_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC10710131_01_AS4,PMC10710131_01,AnatomicalSite,Tooth,match=exact; distance=0
+PMC10710131_01_T2,PMC10710131_01,Treatment,Oral Hygiene,match=exact; distance=0
+PMC10710131_01_D1,PMC10710131_01,Diagnosis,Gingival Recession,match=exact; distance=0
+PMC10488652_01_P1,PMC10488652_01,Patient,case PMC10488652_01,age=22.0; gender=Female
+PMC10488652_01_S1,PMC10488652_01,Symptom,Fever,match=exact; distance=0
+PMC10488652_01_S2,PMC10488652_01,Symptom,Headache,match=exact; distance=0
+PMC10488652_01_S3,PMC10488652_01,Symptom,Myalgia,match=exact; distance=0
+PMC10488652_01_S4,PMC10488652_01,Symptom,Diarrhea,match=exact; distance=0
+PMC10488652_01_S5,PMC10488652_01,Symptom,Pallor,match=exact; distance=0
+PMC10488652_01_D1,PMC10488652_01,Diagnosis,Synovitis,match=exact; distance=0
+PMC10488652_01_AS1,PMC10488652_01,AnatomicalSite,Joints,match=exact; distance=0
+PMC10488652_01_S6,PMC10488652_01,Symptom,Edema,match=exact; distance=0
+PMC10488652_01_E1,PMC10488652_01,Exam,Physical Examination,match=exact; distance=0
+PMC10488652_01_T1,PMC10488652_01,Treatment,DNA,match=exact; distance=0
+PMC10488652_01_AS2,PMC10488652_01,AnatomicalSite,Kidney,match=exact; distance=0
+PMC10488652_01_S7,PMC10488652_01,Symptom,Proteinuria,match=exact; distance=0
+PMC10488652_01_D2,PMC10488652_01,Diagnosis,Lupus Nephritis,match=exact; distance=0
+PMC10488652_01_E2,PMC10488652_01,Exam,Biopsy,match=exact; distance=0
+PMC10488652_01_D3,PMC10488652_01,Diagnosis,Anemia,match=exact; distance=0
+PMC10488652_01_S8,PMC10488652_01,Symptom,Syndrome,match=exact; distance=0
+PMC10488652_01_E3,PMC10488652_01,Exam,Hematocrit,match=exact; distance=0
+PMC10488652_01_F1,PMC10488652_01,Finding,"C3d and negative for IgG, leading to the diagnosis of cold",
+PMC10488652_01_T2,PMC10488652_01,Treatment,Critical Care,match=exact; distance=0
+PMC10488652_01_D4,PMC10488652_01,Diagnosis,Pancytopenia,match=exact; distance=0
+PMC10488652_01_AS3,PMC10488652_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC10488652_01_E4,PMC10488652_01,Exam,Dexamethasone,match=exact; distance=0
+PMC10488652_01_R1,PMC10488652_01,ExamResult,40 mg,value=40
+PMC10488652_01_E5,PMC10488652_01,Exam,Hydroxychloroquine,match=exact; distance=0
+PMC10488652_01_R2,PMC10488652_01,ExamResult,200 mg,value=200
+PMC10488652_01_E6,PMC10488652_01,Exam,Prednisone,match=exact; distance=0
+PMC10488652_01_R3,PMC10488652_01,ExamResult,5 mg,value=5
+PMC10488652_01_R4,PMC10488652_01,ExamResult,200 mg,value=200
+PMC10488652_01_E7,PMC10488652_01,Exam,Mycophenolic Acid,match=exact; distance=0
+PMC10488652_01_R5,PMC10488652_01,ExamResult,500 mg,value=500
+PMC10488652_01_S9,PMC10488652_01,Symptom,Recurrence,match=fuzzy; distance=1
+PMC11420039_01_P1,PMC11420039_01,Patient,case PMC11420039_01,age=74.0; gender=Female
+PMC11420039_01_D1,PMC11420039_01,Diagnosis,Eczema,match=exact; distance=0
+PMC11420039_01_T1,PMC11420039_01,Treatment,Acyclovir,match=exact; distance=0
+PMC11420039_01_AS1,PMC11420039_01,AnatomicalSite,Buttocks,match=exact; distance=0
+PMC11420039_01_AS2,PMC11420039_01,AnatomicalSite,Skin,match=exact; distance=0
+PMC11420039_01_AS3,PMC11420039_01,AnatomicalSite,Eosinophils,match=exact; distance=0
+PMC11420039_01_E1,PMC11420039_01,Exam,"Fluorescent Antibody Technique, Direct",match=exact; distance=0
+PMC11420039_01_E2,PMC11420039_01,Exam,Staining and Labeling,match=exact; distance=0
+PMC11420039_01_F1,PMC11420039_01,Finding,"gG along the dermoepidermal junction, histological features",
+PMC11420039_01_AS4,PMC11420039_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC11420039_01_T2,PMC11420039_01,Treatment,Methylprednisolone,match=exact; distance=0
+PMC11420039_01_T3,PMC11420039_01,Treatment,Tablets,match=exact; distance=0
+PMC11420039_01_T4,PMC11420039_01,Treatment,Hospitalization,match=exact; distance=0
+PMC11420039_01_T5,PMC11420039_01,Treatment,Injections,match=exact; distance=0
+PMC11420039_01_S1,PMC11420039_01,Symptom,Fatigue,match=exact; distance=0
+PMC11420039_01_S2,PMC11420039_01,Symptom,Dyspnea,match=exact; distance=0
+PMC11420039_01_D2,PMC11420039_01,Diagnosis,Respiratory Insufficiency,match=exact; distance=0
+PMC11420039_01_T6,PMC11420039_01,Treatment,Critical Care,match=exact; distance=0
+PMC11420039_01_AS5,PMC11420039_01,AnatomicalSite,Head,match=exact; distance=0
+PMC11420039_01_AS6,PMC11420039_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC11420039_01_S3,PMC11420039_01,Symptom,Sepsis,match=exact; distance=0
+PMC11420039_01_T7,PMC11420039_01,Treatment,Antibodies,match=exact; distance=0
+PMC11420039_01_AS7,PMC11420039_01,AnatomicalSite,Mouth,match=exact; distance=0
+PMC11420039_01_D3,PMC11420039_01,Diagnosis,Sjogren's Syndrome,match=exact; distance=0
+PMC11420039_01_AS8,PMC11420039_01,AnatomicalSite,Cerebrospinal Fluid,match=exact; distance=0
+PMC11420039_01_AS9,PMC11420039_01,AnatomicalSite,Plasma,match=exact; distance=0
+PMC11420039_01_AS10,PMC11420039_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC11420039_01_T8,PMC11420039_01,Treatment,Meropenem,match=exact; distance=0
+PMC11420039_01_T9,PMC11420039_01,Treatment,Linezolid,match=exact; distance=0
+PMC11420039_01_T10,PMC11420039_01,Treatment,Thymosin,match=exact; distance=0
+PMC11420039_01_AS11,PMC11420039_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC11420039_01_AS12,PMC11420039_01,AnatomicalSite,Immune System,match=exact; distance=0
+PMC11259348_01_P1,PMC11259348_01,Patient,case PMC11259348_01,age=nan; gender=Female
+PMC11259348_01_S1,PMC11259348_01,Symptom,Fever,match=exact; distance=0
+PMC11259348_01_AS1,PMC11259348_01,AnatomicalSite,Urine,match=exact; distance=0
+PMC11259348_01_AS2,PMC11259348_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC11259348_01_E1,PMC11259348_01,Exam,Mass Screening,match=exact; distance=0
+PMC11259348_01_T1,PMC11259348_01,Treatment,Blood Transfusion,match=exact; distance=0
+PMC11259348_01_S2,PMC11259348_01,Symptom,Hemoglobinuria,match=exact; distance=0
+PMC11259348_02_P1,PMC11259348_02,Patient,case PMC11259348_02,age=nan; gender=Unknown
+PMC11259348_02_D1,PMC11259348_02,Diagnosis,Transfusion Reaction,match=exact; distance=0
+PMC11259348_02_AS1,PMC11259348_02,AnatomicalSite,Erythrocytes,match=fuzzy; distance=1
+PMC11259348_02_S1,PMC11259348_02,Symptom,Hemolysis,match=exact; distance=0
+PMC11259348_02_AS2,PMC11259348_02,AnatomicalSite,Blood,match=exact; distance=0
+PMC11259348_02_AS3,PMC11259348_02,AnatomicalSite,Serum,match=exact; distance=0
+PMC11259348_02_E1,PMC11259348_02,Exam,Molecular Typing,match=exact; distance=0
+PMC11259348_02_AS4,PMC11259348_02,AnatomicalSite,Cells,match=exact; distance=0
+PMC11259348_02_T1,PMC11259348_02,Treatment,Suspensions,match=exact; distance=0
+PMC11259348_02_T2,PMC11259348_02,Treatment,Ice,match=exact; distance=0
+PMC11259348_02_T3,PMC11259348_02,Treatment,Water,match=exact; distance=0
+PMC11368112_01_P1,PMC11368112_01,Patient,case PMC11368112_01,age=35.0; gender=Male
+PMC11368112_01_H1,PMC11368112_01,History,Fever,category=symptom
+PMC11368112_01_AS1,PMC11368112_01,AnatomicalSite,Lower Extremity,match=exact; distance=0
+PMC11368112_01_D1,PMC11368112_01,Diagnosis,Venous Thrombosis,match=exact; distance=0
+PMC11368112_01_D2,PMC11368112_01,Diagnosis,Hypertension,match=exact; distance=0
+PMC11368112_01_S1,PMC11368112_01,Symptom,Dyspnea,match=exact; distance=0
+PMC11368112_01_S2,PMC11368112_01,Symptom,Fever,match=exact; distance=0
+PMC11368112_01_S3,PMC11368112_01,Symptom,Chills,match=exact; distance=0
+PMC11368112_01_E1,PMC11368112_01,Exam,Physical Examination,match=exact; distance=0
+PMC11368112_01_F1,PMC11368112_01,Finding,"a temperature of 38.7 C, with rapid respiration but no othe",
+PMC11368112_01_AS2,PMC11368112_01,AnatomicalSite,Neutrophils,match=exact; distance=0
+PMC11368112_01_D3,PMC11368112_01,Diagnosis,Thrombosis,match=exact; distance=0
+PMC11368112_01_AS3,PMC11368112_01,AnatomicalSite,Femoral Vein,match=exact; distance=0
+PMC11368112_01_AS4,PMC11368112_01,AnatomicalSite,Veins,match=exact; distance=0
+PMC11368112_01_S4,PMC11368112_01,Symptom,Tachycardia,match=exact; distance=0
+PMC11368112_01_D4,PMC11368112_01,Diagnosis,Embolism,match=exact; distance=0
+PMC11368112_01_AS5,PMC11368112_01,AnatomicalSite,Pulmonary Artery,match=exact; distance=0
+PMC11368112_01_D5,PMC11368112_01,Diagnosis,Pulmonary Embolism,match=exact; distance=0
+PMC11368112_01_T1,PMC11368112_01,Treatment,Meropenem,match=exact; distance=0
+PMC11368112_01_T2,PMC11368112_01,Treatment,Linezolid,match=exact; distance=0
+PMC11368112_01_T3,PMC11368112_01,Treatment,Hospitalization,match=exact; distance=0
+PMC11368112_01_AS6,PMC11368112_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC11368112_01_AS7,PMC11368112_01,AnatomicalSite,Sputum,match=exact; distance=0
+PMC11368112_01_AS8,PMC11368112_01,AnatomicalSite,Heart Atria,match=exact; distance=0
+PMC11368112_01_AS9,PMC11368112_01,AnatomicalSite,Coronary Sinus,match=exact; distance=0
+PMC11368112_01_AS10,PMC11368112_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC11368112_01_AS11,PMC11368112_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC11368112_01_D6,PMC11368112_01,Diagnosis,Tuberculosis,match=exact; distance=0
+PMC11368112_01_AS12,PMC11368112_01,AnatomicalSite,Extremities,match=exact; distance=0
+PMC11368112_01_AS13,PMC11368112_01,AnatomicalSite,Groin,match=exact; distance=0
+PMC11368112_01_AS14,PMC11368112_01,AnatomicalSite,Scrotum,match=exact; distance=0
+PMC11368112_01_F2,PMC11368112_01,Finding,multiple ulcers (0.2-0.8 cm in diameter) on the patient's b,
+PMC11368112_01_AS15,PMC11368112_01,AnatomicalSite,Oropharynx,match=exact; distance=0
+PMC11368112_01_AS16,PMC11368112_01,AnatomicalSite,Tongue,match=exact; distance=0
+PMC11368112_01_AS17,PMC11368112_01,AnatomicalSite,Skin,match=exact; distance=0
+PMC11368112_01_E2,PMC11368112_01,Exam,Biopsy,match=exact; distance=0
+PMC11368112_01_F3,PMC11368112_01,Finding,epidermal ulceration with lipofuscinosis (Figure 2c),
+PMC11368112_01_S5,PMC11368112_01,Symptom,Disease,match=exact; distance=0
+PMC11368112_01_E3,PMC11368112_01,Exam,Ultrasonography,match=exact; distance=0
+PMC11368112_01_T4,PMC11368112_01,Treatment,Warfarin,match=exact; distance=0
+PMC11368112_01_E4,PMC11368112_01,Exam,Methylprednisolone,match=exact; distance=0
+PMC11368112_01_R1,PMC11368112_01,ExamResult,80 mg,value=80
+PMC11368112_01_E5,PMC11368112_01,Exam,Cyclosporine,match=exact; distance=0
+PMC11368112_01_R2,PMC11368112_01,ExamResult,200 mg,value=200
+PMC11368112_01_E6,PMC11368112_01,Exam,International Normalized Ratio,match=exact; distance=0
+PMC11345641_01_P1,PMC11345641_01,Patient,case PMC11345641_01,age=48.0; gender=Female
+PMC11345641_01_D1,PMC11345641_01,Diagnosis,Leiomyoma,match=exact; distance=0
+PMC11345641_01_E1,PMC11345641_01,Exam,Ultrasonography,match=exact; distance=0
+PMC11345641_01_S1,PMC11345641_01,Symptom,Abdominal Pain,match=exact; distance=0
+PMC11345641_01_T1,PMC11345641_01,Treatment,Hospitalization,match=exact; distance=0
+PMC11345641_01_AS1,PMC11345641_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC11345641_01_AS2,PMC11345641_01,AnatomicalSite,Epididymis,match=exact; distance=0
+PMC11345641_01_T2,PMC11345641_01,Treatment,Carcinoembryonic Antigen,match=exact; distance=0
+PMC11345641_01_T3,PMC11345641_01,Treatment,Lactic Acid,match=exact; distance=0
+PMC11345641_01_AS3,PMC11345641_01,AnatomicalSite,Uterus,match=exact; distance=0
+PMC11345641_01_AS4,PMC11345641_01,AnatomicalSite,Muscles,match=fuzzy; distance=1
+PMC11345641_01_AS5,PMC11345641_01,AnatomicalSite,Endometrium,match=exact; distance=0
+PMC11345641_01_E2,PMC11345641_01,Exam,Biopsy,match=exact; distance=0
+PMC11345641_01_F1,PMC11345641_01,Finding,a secretory-responsive endometrium,
+PMC11345641_01_F2,PMC11345641_01,Finding,no abnormalities,
+PMC11345641_01_AS6,PMC11345641_01,AnatomicalSite,Omentum,match=exact; distance=0
+PMC11345641_01_AS7,PMC11345641_01,AnatomicalSite,Mesentery,match=exact; distance=0
+PMC11345641_01_AS8,PMC11345641_01,AnatomicalSite,Rectum,match=exact; distance=0
+PMC11345641_01_AS9,PMC11345641_01,AnatomicalSite,Abdominal Muscles,match=exact; distance=0
+PMC11345641_01_AS10,PMC11345641_01,AnatomicalSite,Subcutaneous Fat,match=exact; distance=0
+PMC11345641_01_AS11,PMC11345641_01,AnatomicalSite,Fingers,match=exact; distance=0
+PMC11345641_01_AS12,PMC11345641_01,AnatomicalSite,Umbilicus,match=exact; distance=0
+PMC11345641_01_E3,PMC11345641_01,Exam,Physical Examination,match=exact; distance=0
+PMC11345641_01_F3,PMC11345641_01,Finding,"significant abdominal distention with a large, palpable mas",
+PMC11345641_01_AS13,PMC11345641_01,AnatomicalSite,Colon,match=exact; distance=0
+PMC11345641_01_AS14,PMC11345641_01,AnatomicalSite,Abdominal Cavity,match=exact; distance=0
+PMC11345641_01_AS15,PMC11345641_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC11345641_01_AS16,PMC11345641_01,AnatomicalSite,Ileum,match=exact; distance=0
+PMC11345641_01_AS17,PMC11345641_01,AnatomicalSite,Peritoneum,match=exact; distance=0
+PMC11345641_01_AS18,PMC11345641_01,AnatomicalSite,Rectus Abdominis,match=exact; distance=0
+PMC11345641_01_AS19,PMC11345641_01,AnatomicalSite,Intestines,match=fuzzy; distance=1
+PMC11345641_01_AS20,PMC11345641_01,AnatomicalSite,Pelvis,match=exact; distance=0
+PMC11345641_01_AS21,PMC11345641_01,AnatomicalSite,Lymph Nodes,match=exact; distance=0
+PMC11345641_01_AS22,PMC11345641_01,AnatomicalSite,Appendix,match=exact; distance=0
+PMC11345641_01_D2,PMC11345641_01,Diagnosis,Pleural Effusion,match=exact; distance=0
+PMC11345641_01_D3,PMC11345641_01,Diagnosis,Hydronephrosis,match=exact; distance=0
+PMC11723754_01_P1,PMC11723754_01,Patient,case PMC11723754_01,age=0.0; gender=Male
+PMC11723754_01_AS1,PMC11723754_01,AnatomicalSite,Spinal Cord,match=exact; distance=0
+PMC11723754_01_D1,PMC11723754_01,Diagnosis,Neurogenic Bowel,match=exact; distance=0
+PMC11723754_01_AS2,PMC11723754_01,AnatomicalSite,Sacrococcygeal Region,match=exact; distance=0
+PMC11723754_01_D2,PMC11723754_01,Diagnosis,Wounds and Injuries,match=exact; distance=0
+PMC11723754_01_E1,PMC11723754_01,Exam,Blood Pressure,match=exact; distance=0
+PMC11723754_01_E2,PMC11723754_01,Exam,Respiratory Rate,match=exact; distance=0
+PMC11723754_01_T1,PMC11723754_01,Treatment,Resuscitation,match=exact; distance=0
+PMC11723754_01_S1,PMC11723754_01,Symptom,Syndrome,match=exact; distance=0
+PMC11723754_01_T2,PMC11723754_01,Treatment,Electrolytes,match=exact; distance=0
+PMC11723754_01_T3,PMC11723754_01,Treatment,Creatinine,match=exact; distance=0
+PMC11723754_01_S2,PMC11723754_01,Symptom,Sepsis,match=fuzzy; distance=1
+PMC11723754_01_S3,PMC11723754_01,Symptom,Shock,match=exact; distance=0
+PMC11723754_01_AS3,PMC11723754_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC11723754_01_AS4,PMC11723754_01,AnatomicalSite,Urine,match=exact; distance=0
+PMC11723754_01_E3,PMC11723754_01,Exam,Liver Function Tests,match=exact; distance=0
+PMC11723754_01_AS5,PMC11723754_01,AnatomicalSite,Granulation Tissue,match=exact; distance=0
+PMC11723754_01_AS6,PMC11723754_01,AnatomicalSite,Hip,match=exact; distance=0
+PMC11723754_01_AS7,PMC11723754_01,AnatomicalSite,Knee,match=exact; distance=0
+PMC11723754_01_AS8,PMC11723754_01,AnatomicalSite,Ankle,match=exact; distance=0
+PMC11723754_01_AS9,PMC11723754_01,AnatomicalSite,Foot,match=exact; distance=0
+PMC11783470_01_P1,PMC11783470_01,Patient,case PMC11783470_01,age=22.0; gender=Female
+PMC11783470_01_S1,PMC11783470_01,Symptom,Menorrhagia,match=exact; distance=0
+PMC11783470_01_S2,PMC11783470_01,Symptom,Aphasia,match=fuzzy; distance=1
+PMC11783470_01_S3,PMC11783470_01,Symptom,Heartburn,match=exact; distance=0
+PMC11783470_01_S4,PMC11783470_01,Symptom,Nausea,match=exact; distance=0
+PMC11783470_01_S5,PMC11783470_01,Symptom,Vomiting,match=exact; distance=0
+PMC11783470_01_S6,PMC11783470_01,Symptom,Abdominal Pain,match=exact; distance=0
+PMC11783470_01_S7,PMC11783470_01,Symptom,Melena,match=exact; distance=0
+PMC11783470_01_S8,PMC11783470_01,Symptom,Gastrointestinal Hemorrhage,match=exact; distance=0
+PMC11783470_01_S9,PMC11783470_01,Symptom,Weight Loss,match=exact; distance=0
+PMC11783470_01_AS1,PMC11783470_01,AnatomicalSite,Conjunctiva,match=fuzzy; distance=1
+PMC11783470_01_S10,PMC11783470_01,Symptom,Pallor,match=exact; distance=0
+PMC11783470_01_E1,PMC11783470_01,Exam,Physical Examination,match=exact; distance=0
+PMC11783470_01_T1,PMC11783470_01,Treatment,Transferrin,match=exact; distance=0
+PMC11783470_01_E2,PMC11783470_01,Exam,Iron,match=exact; distance=0
+PMC11783470_01_R1,PMC11783470_01,ExamResult,76 mcg,value=76
+UNIT_MCG,,Unit,mcg,
+PMC11783470_01_T2,PMC11783470_01,Treatment,Iron,match=exact; distance=0
+PMC11783470_01_E3,PMC11783470_01,Exam,"Endoscopy, Digestive System",match=exact; distance=0
+PMC11783470_01_E4,PMC11783470_01,Exam,Colonoscopy,match=exact; distance=0
+PMC11783470_01_E5,PMC11783470_01,Exam,Biopsy,match=exact; distance=0
+PMC11783470_01_AS2,PMC11783470_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC11783470_01_F1,PMC11783470_01,Finding,well-circumscribed proliferation of chief cells arranged in,
+PMC11783470_01_D1,PMC11783470_01,Diagnosis,Celiac Disease,match=exact; distance=0
+PMC11783470_01_D2,PMC11783470_01,Diagnosis,Anemia,match=exact; distance=0
+PMC11783470_01_E6,PMC11783470_01,Exam,Endoscopy,match=exact; distance=0
+PMC11783470_01_E7,PMC11783470_01,Exam,Capsule Endoscopy,match=exact; distance=0
+PMC11783470_01_S11,PMC11783470_01,Symptom,Recurrence,match=exact; distance=0
+PMC11722600_01_P1,PMC11722600_01,Patient,case PMC11722600_01,age=41.0; gender=Female
+PMC11722600_01_H1,PMC11722600_01,History,Abdominal Pain,category=symptom
+PMC11722600_01_AS1,PMC11722600_01,AnatomicalSite,Ilium,match=exact; distance=0
+PMC11722600_01_S1,PMC11722600_01,Symptom,Fever,match=exact; distance=0
+PMC11722600_01_S2,PMC11722600_01,Symptom,Dysmenorrhea,match=exact; distance=0
+PMC11722600_01_S3,PMC11722600_01,Symptom,Pelvic Pain,match=exact; distance=0
+PMC11722600_01_S4,PMC11722600_01,Symptom,Abdominal Pain,match=exact; distance=0
+PMC11722600_01_E1,PMC11722600_01,Exam,Physical Examination,match=exact; distance=0
+PMC11722600_01_AS2,PMC11722600_01,AnatomicalSite,Blood Cells,match=exact; distance=0
+PMC11722600_01_T1,PMC11722600_01,Treatment,Chorionic Gonadotropin,match=exact; distance=0
+PMC11722600_01_E2,PMC11722600_01,Exam,C-Reactive Protein,match=exact; distance=0
+PMC11722600_01_R1,PMC11722600_01,ExamResult,55 mg/L,value=55
+UNIT_MG/L,,Unit,mg/L,
+PMC11722600_01_E3,PMC11722600_01,Exam,Blood Sedimentation,match=exact; distance=0
+PMC11722600_01_R2,PMC11722600_01,ExamResult,29 mm,value=29
+PMC11722600_01_AS3,PMC11722600_01,AnatomicalSite,Appendix,match=exact; distance=0
+PMC11722600_01_AS4,PMC11722600_01,AnatomicalSite,Ovary,match=exact; distance=0
+PMC11722600_01_D1,PMC11722600_01,Diagnosis,Appendicitis,match=exact; distance=0
+PMC11722600_01_D2,PMC11722600_01,Diagnosis,Peritonitis,match=exact; distance=0
+PMC11722600_01_AS5,PMC11722600_01,AnatomicalSite,Exudates and Transudates,match=exact; distance=0
+PMC11722600_01_D3,PMC11722600_01,Diagnosis,Endometriosis,match=exact; distance=0
+PMC11722600_01_AS6,PMC11722600_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC11722600_01_S5,PMC11722600_01,Symptom,Hemorrhage,match=exact; distance=0
+PMC11722600_02_P1,PMC11722600_02,Patient,case PMC11722600_02,age=44.0; gender=Female
+PMC11722600_02_H1,PMC11722600_02,History,Endometriosis,category=diagnosis
+PMC11722600_02_H2,PMC11722600_02,History,Abdominal Pain,category=symptom
+PMC11722600_02_S1,PMC11722600_02,Symptom,Fever,match=exact; distance=0
+PMC11722600_02_S2,PMC11722600_02,Symptom,Dysmenorrhea,match=exact; distance=0
+PMC11722600_02_S3,PMC11722600_02,Symptom,Abdominal Pain,match=exact; distance=0
+PMC11722600_02_E1,PMC11722600_02,Exam,Physical Examination,match=exact; distance=0
+PMC11722600_02_S4,PMC11722600_02,Symptom,Leukocytosis,match=exact; distance=0
+PMC11722600_02_AS1,PMC11722600_02,AnatomicalSite,Blood Cells,match=exact; distance=0
+PMC11722600_02_D1,PMC11722600_02,Diagnosis,Appendicitis,match=exact; distance=0
+PMC11722600_02_AS2,PMC11722600_02,AnatomicalSite,Appendix,match=exact; distance=0
+PMC11722600_02_AS3,PMC11722600_02,AnatomicalSite,Cecum,match=exact; distance=0
+PMC11722600_02_AS4,PMC11722600_02,AnatomicalSite,Ileum,match=exact; distance=0
+PMC11722600_02_S5,PMC11722600_02,Symptom,Cellulitis,match=exact; distance=0
+PMC11722600_02_T1,PMC11722600_02,Treatment,Anti-Bacterial Agents,match=exact; distance=0
+PMC11722600_02_S6,PMC11722600_02,Symptom,Tachycardia,match=exact; distance=0
+PMC11722600_02_AS5,PMC11722600_02,AnatomicalSite,Peritoneum,match=exact; distance=0
+PMC11722600_02_AS6,PMC11722600_02,AnatomicalSite,Omentum,match=exact; distance=0
+PMC11722600_02_E2,PMC11722600_02,Exam,Laparoscopy,match=exact; distance=0
+PMC11722600_02_F1,PMC11722600_02,Finding,inflammatory process in RIF adhered to the anterior and lat,
+PMC11722600_02_S7,PMC11722600_02,Symptom,Abscess,match=exact; distance=0
+PMC11722600_02_AS7,PMC11722600_02,AnatomicalSite,Pelvis,match=exact; distance=0
+PMC11722600_02_T2,PMC11722600_02,Treatment,Drainage,match=exact; distance=0
+PMC11722600_02_AS8,PMC11722600_02,AnatomicalSite,Cells,match=exact; distance=0
+PMC11722600_02_AS9,PMC11722600_02,AnatomicalSite,Epithelial Cells,match=exact; distance=0
+PMC11722600_02_D2,PMC11722600_02,Diagnosis,Endometriosis,match=exact; distance=0
+PMC11722600_02_AS10,PMC11722600_02,AnatomicalSite,Stromal Cells,match=exact; distance=0
+PMC11722600_02_S8,PMC11722600_02,Symptom,Hemorrhage,match=exact; distance=0
+PMC12215201_01_P1,PMC12215201_01,Patient,case PMC12215201_01,age=56.0; gender=Male
+PMC12215201_01_S1,PMC12215201_01,Symptom,Fatigue,match=exact; distance=0
+PMC12215201_01_AS1,PMC12215201_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC12215201_01_S2,PMC12215201_01,Symptom,Weight Loss,match=exact; distance=0
+PMC12215201_01_S3,PMC12215201_01,Symptom,Pain,match=exact; distance=0
+PMC12215201_01_T1,PMC12215201_01,Treatment,Illicit Drugs,match=exact; distance=0
+PMC12215201_01_S4,PMC12215201_01,Symptom,Ascites,match=exact; distance=0
+PMC12215201_01_E1,PMC12215201_01,Exam,Physical Examination,match=exact; distance=0
+PMC12215201_01_F1,PMC12215201_01,Finding,a diffusely tender and distended abdomen with shifting dull,
+PMC12215201_01_E2,PMC12215201_01,Exam,Platelet Count,match=exact; distance=0
+PMC12215201_01_F2,PMC12215201_01,Finding,Laboratory results,
+PMC12215201_01_E3,PMC12215201_01,Exam,Bilirubin,match=exact; distance=0
+PMC12215201_01_R1,PMC12215201_01,ExamResult,3.2 mg/dL,value=3.2
+PMC12215201_01_E4,PMC12215201_01,Exam,Alkaline Phosphatase,match=exact; distance=0
+PMC12215201_01_R2,PMC12215201_01,ExamResult,315 IU/L,value=315
+UNIT_IU/L,,Unit,IU/L,
+PMC12215201_01_AS2,PMC12215201_01,AnatomicalSite,Liver,match=exact; distance=0
+PMC12215201_01_AS3,PMC12215201_01,AnatomicalSite,Spleen,match=exact; distance=0
+PMC12215201_01_AS4,PMC12215201_01,AnatomicalSite,Tissues,match=fuzzy; distance=1
+PMC12215201_01_AS5,PMC12215201_01,AnatomicalSite,Pelvis,match=exact; distance=0
+PMC12215201_01_AS6,PMC12215201_01,AnatomicalSite,Lung,match=exact; distance=0
+PMC12215201_01_AS7,PMC12215201_01,AnatomicalSite,Kidney,match=exact; distance=0
+PMC12215201_01_AS8,PMC12215201_01,AnatomicalSite,Bone and Bones,match=exact; distance=0
+PMC12215201_01_AS9,PMC12215201_01,AnatomicalSite,Blood Cells,match=exact; distance=0
+PMC12215201_01_D1,PMC12215201_01,Diagnosis,Anemia,match=exact; distance=0
+PMC12215201_01_D2,PMC12215201_01,Diagnosis,Thrombocytopenia,match=exact; distance=0
+PMC12215201_01_T2,PMC12215201_01,Treatment,Length of Stay,match=exact; distance=0
+PMC12215201_01_AS10,PMC12215201_01,AnatomicalSite,Ascitic Fluid,match=exact; distance=0
+PMC12215201_01_E5,PMC12215201_01,Exam,Paracentesis,match=exact; distance=0
+PMC12215201_01_AS11,PMC12215201_01,AnatomicalSite,Serum,match=exact; distance=0
+PMC12215201_01_AS12,PMC12215201_01,AnatomicalSite,Cells,match=exact; distance=0
+PMC12215201_01_E6,PMC12215201_01,Exam,Colonoscopy,match=exact; distance=0
+PMC12215201_01_AS13,PMC12215201_01,AnatomicalSite,Duodenum,match=exact; distance=0
+PMC12215201_01_E7,PMC12215201_01,Exam,"Endoscopy, Digestive System",match=exact; distance=0
+PMC12215201_01_F3,PMC12215201_01,Finding,multiple erythematous nodular lesions in the gastric body (,
+PMC12215201_01_AS14,PMC12215201_01,AnatomicalSite,Stomach,match=exact; distance=0
+PMC12215201_01_E8,PMC12215201_01,Exam,Capsule Endoscopy,match=exact; distance=0
+PMC12215201_01_F4,PMC12215201_01,Finding,numerous metastatic lesions seen throughout the stomach and,
+PMC12215201_01_E9,PMC12215201_01,Exam,Biopsy,match=exact; distance=0
+PMC12215201_01_F5,PMC12215201_01,Finding,small aggregates of anastomosing vascular channels with hig,
+PMC12215201_01_T3,PMC12215201_01,Treatment,Factor VIII,match=exact; distance=0
+PMC12215201_01_T4,PMC12215201_01,Treatment,Drainage,match=exact; distance=0
+PMC12215201_01_D3,PMC12215201_01,Diagnosis,Disseminated Intravascular Coagulation,match=exact; distance=0
+PMC12832199_01_P1,PMC12832199_01,Patient,case PMC12832199_01,age=57.0; gender=Female
+PMC12832199_01_S1,PMC12832199_01,Symptom,Obesity,match=exact; distance=0
+PMC12832199_01_S2,PMC12832199_01,Symptom,Abdominal Pain,match=exact; distance=0
+PMC12832199_01_S3,PMC12832199_01,Symptom,Vomiting,match=exact; distance=0
+PMC12832199_01_H1,PMC12832199_01,History,Disease,category=symptom
+PMC12832199_01_AS1,PMC12832199_01,AnatomicalSite,Knee,match=exact; distance=0
+PMC12832199_01_H2,PMC12832199_01,History,Adrenal Insufficiency,category=diagnosis
+PMC12832199_01_S4,PMC12832199_01,Symptom,Ischemia,match=fuzzy; distance=1
+PMC12832199_01_D1,PMC12832199_01,Diagnosis,Colitis,match=exact; distance=0
+PMC12832199_01_S5,PMC12832199_01,Symptom,Prolapse,match=exact; distance=0
+PMC12832199_01_AS2,PMC12832199_01,AnatomicalSite,Abdomen,match=exact; distance=0
+PMC12832199_01_S6,PMC12832199_01,Symptom,Hypoxia,match=fuzzy; distance=1
+PMC12832199_01_D2,PMC12832199_01,Diagnosis,Pneumonia,match=exact; distance=0
+PMC12832199_01_S7,PMC12832199_01,Symptom,Leukocytosis,match=exact; distance=0
+PMC12832199_01_D3,PMC12832199_01,Diagnosis,Anemia,match=exact; distance=0
+PMC12832199_01_D4,PMC12832199_01,Diagnosis,Hypoalbuminemia,match=exact; distance=0
+PMC12832199_01_D5,PMC12832199_01,Diagnosis,Acute Kidney Injury,match=exact; distance=0
+PMC12832199_01_E1,PMC12832199_01,Exam,Blood Cell Count,match=exact; distance=0
+PMC12832199_01_F1,PMC12832199_01,Finding,Laboratory investigations,
+PMC12832199_01_E2,PMC12832199_01,Exam,Creatinine,match=exact; distance=0
+PMC12832199_01_R1,PMC12832199_01,ExamResult,2.2 mg/dL,value=2.2
+PMC12832199_01_D6,PMC12832199_01,Diagnosis,Gastric Outlet Obstruction,match=exact; distance=0
+PMC12832199_01_T1,PMC12832199_01,Treatment,Decompression,match=exact; distance=0
+PMC12832199_01_S8,PMC12832199_01,Symptom,Necrosis,match=exact; distance=0
+PMC12832199_01_S9,PMC12832199_01,Symptom,Hernia,match=exact; distance=0
+PMC12832199_01_H3,PMC12832199_01,History,Prolapse,category=symptom
+PMC12832199_01_AS3,PMC12832199_01,AnatomicalSite,Colon,match=exact; distance=0
+PMC12832199_01_S10,PMC12832199_01,Symptom,Gagging,match=fuzzy; distance=1
+PMC12832199_01_AS4,PMC12832199_01,AnatomicalSite,Stomach,match=exact; distance=0
+PMC12832199_01_AS5,PMC12832199_01,AnatomicalSite,Ligaments,match=fuzzy; distance=1
+PMC12832199_01_AS6,PMC12832199_01,AnatomicalSite,Mesocolon,match=exact; distance=0
+PMC12832199_01_AS7,PMC12832199_01,AnatomicalSite,Abdominal Wall,match=exact; distance=0
+PMC12832199_01_AS8,PMC12832199_01,AnatomicalSite,Mesentery,match=exact; distance=0
+PMC12832199_01_AS9,PMC12832199_01,AnatomicalSite,Viscera,match=fuzzy; distance=1
+PMC12832199_01_AS10,PMC12832199_01,AnatomicalSite,Blood,match=exact; distance=0
+PMC12832199_01_D7,PMC12832199_01,Diagnosis,Gastritis,match=exact; distance=0
+PMC12832199_01_D8,PMC12832199_01,Diagnosis,Esophagitis,match=exact; distance=0
+PMC12832199_01_E3,PMC12832199_01,Exam,Endoscopy,match=exact; distance=0
+PMC12832199_01_S11,PMC12832199_01,Symptom,Recurrence,match=exact; distance=0
+PMC12832199_01_T2,PMC12832199_01,Treatment,Dihydrotachysterol,match=exact; distance=0

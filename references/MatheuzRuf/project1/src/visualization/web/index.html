@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Knowledge Graph</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">MC896 · Projeto 1</p>
+      <h1>Knowledge Graph</h1>
+      <p class="subtitle">Visualização local dos casos clínicos processados.</p>
+    </div>
+    <div class="controls">
+      <label for="case-select">Caso clínico</label>
+      <div class="control-row">
+        <select id="case-select"></select>
+        <button id="reload-button" type="button">Carregar</button>
+      </div>
+      <label class="checkbox-label">
+        <input id="edge-labels" type="checkbox">
+        Mostrar relações
+      </label>
+      <div class="zoom-controls" aria-label="Controles de zoom">
+        <button id="zoom-out" type="button" title="Diminuir zoom">−</button>
+        <button id="zoom-reset" type="button">Ajustar</button>
+        <button id="zoom-in" type="button" title="Aumentar zoom">+</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary" aria-live="polite">
+      <span id="status">Carregando casos...</span>
+      <span id="stats"></span>
+    </section>
+    <p class="navigation-help">Use a roda do mouse para aplicar zoom e arraste o fundo para navegar.</p>
+    <section class="graph-card">
+      <svg id="graph" viewBox="0 0 1400 900" role="img" aria-label="Knowledge graph do caso selecionado">
+        <defs>
+          <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z"></path>
+          </marker>
+        </defs>
+        <g id="edges"></g>
+        <g id="edge-text"></g>
+        <g id="nodes"></g>
+      </svg>
+    </section>
+    <section>
+      <h2>Tipos de nós</h2>
+      <div id="legend" class="legend"></div>
+    </section>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

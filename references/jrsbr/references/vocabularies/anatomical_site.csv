@@ -1,0 +1,3062 @@
+mesh_ui,canonical,synonym
+D000005,Abdomen,abdomen
+D000009,Abdominal Muscles,transversus abdominis
+D000009,Abdominal Muscles,abdominal muscles
+D000009,Abdominal Muscles,cremaster muscle
+D000009,Abdominal Muscles,quadratus abdominis
+D000009,Abdominal Muscles,pyramidalis muscle
+D000010,Abducens Nerve,abducens nerve
+D000018,Abomasum,abomasum
+D000050,Acanthocytes,acanthocytes
+D000055,Accessory Nerve,accessory nerve
+D000077,Acetabulum,acetabulum
+D000125,Achilles Tendon,achilles tendon
+D000153,Acne Keloid,acne keloid
+D000159,Vestibulocochlear Nerve,vestibulocochlear nerve
+D000173,Acromioclavicular Joint,acromioclavicular joint
+D000173,Acromioclavicular Joint,coracoacromial arch
+D000173,Acromioclavicular Joint,coracoacromial ligament
+D000174,Acromion,acromion
+D000177,Acrosome,acrosome
+D000234,Adenoids,adenoids
+D000273,Adipose Tissue,adipose tissue
+D000273,Adipose Tissue,body fat
+D000273,Adipose Tissue,fat pad
+D000290,Adnexa Uteri,adnexa uteri
+D000302,Adrenal Cortex,adrenal cortex
+D000311,Adrenal Glands,adrenal glands
+D000313,Adrenal Medulla,adrenal medulla
+D000320,Adrenergic Fibers,adrenergic fibers
+D000344,Afferent Pathways,afferent pathways
+D000400,Air Sacs,air sacs
+D000482,Allantois,allantois
+D000539,Alveolar Process,alveolar process
+D000539,Alveolar Process,alveolar ridge
+D000565,Ameloblasts,ameloblasts
+D000650,Amnion,amnion
+D000653,Amniotic Fluid,amniotic fluid
+D000653,Amniotic Fluid,amniotic fluid index
+D000672,Amputation Stumps,amputation stumps
+D000679,Amygdala,intercalated amygdaloid nuclei
+D000679,Amygdala,amygdala
+D000695,Anal Sacs,anal sacs
+D000825,Animal Structures,animal structures
+D000825,Animal Structures,animal organs
+D000842,Ankle,ankle
+D000843,Ankle Joint,ankle joint
+D000843,Ankle Joint,tibiofibular ankle syndesmosis
+D000867,Anterior Chamber,anterior chamber
+D000869,Anterior Eye Segment,anterior eye segment
+D000870,Anterior Horn Cells,anterior horn cells
+D000921,Antibody-Producing Cells,antibody-producing cells
+D000921,Antibody-Producing Cells,antibody-secreting cells
+D000938,Antigen-Presenting Cells,antigen-presenting cells
+D000961,Antilymphocyte Serum,antilymphocyte serum
+D000961,Antilymphocyte Serum,atgam
+D000961,Antilymphocyte Serum,antilymphocyte globulin
+D000961,Antilymphocyte Serum,antilymphoblast globulins
+D000961,Antilymphocyte Serum,antithymoglobulin
+D000961,Antilymphocyte Serum,pressimmune
+D000961,Antilymphocyte Serum,lymphocytotoxic antibodies
+D000961,Antilymphocyte Serum,antilymphocyte immunoglobulin
+D000961,Antilymphocyte Serum,"lymphocyte immune globulin, anti-thymocyte globulin (equine)"
+D000961,Antilymphocyte Serum,antilymphocyte antibodies
+D000999,Antlers,antlers
+D001003,Anal Canal,external anal sphincter
+D001003,Anal Canal,internal anal sphincter
+D001003,Anal Canal,anal sphincter
+D001003,Anal Canal,anal canal
+D001003,Anal Canal,"anal gland, human"
+D001003,Anal Canal,anus
+D001011,Aorta,aorta
+D001012,"Aorta, Abdominal","aorta, abdominal"
+D001013,"Aorta, Thoracic",sinotubular junction
+D001013,"Aorta, Thoracic","aorta, thoracic"
+D001013,"Aorta, Thoracic",aortic root
+D001013,"Aorta, Thoracic",aortic arch
+D001013,"Aorta, Thoracic","aorta, descending"
+D001013,"Aorta, Thoracic",ascending aorta
+D001016,Aortic Bodies,aortic bodies
+D001021,Aortic Valve,aortic valve
+D001050,Apocrine Glands,apocrine glands
+D001065,Appendix,appendix
+D001078,APUD Cells,apud cells
+D001082,Aqueous Humor,aqueous humor
+D001082,Aqueous Humor,aqueous flare
+D001099,Arachnoid,arachnoid
+D001111,Arcuate Nucleus of Hypothalamus,arcuate nucleus of hypothalamus
+D001132,Arm,arm
+D001133,Bones of Upper Extremity,bones of upper extremity
+D001158,Arteries,arteries
+D001160,Arterioles,arterioles
+D001163,Arteriovenous Anastomosis,arteriovenous anastomosis
+D001193,Arytenoid Cartilage,arytenoid cartilage
+D001202,Ascitic Fluid,ascitic fluid
+D001202,Ascitic Fluid,peritoneal fluid
+D001202,Ascitic Fluid,peritoneal effusion
+D001253,Astrocytes,astrocytes
+D001268,Atlanto-Axial Joint,atlanto-axial joint
+D001269,Atlanto-Occipital Joint,atlanto-occipital joint
+D001270,Cervical Atlas,arcuate foramen
+D001270,Cervical Atlas,cervical atlas
+D001283,Atrioventricular Node,atrioventricular node
+D001303,Auditory Cortex,primary auditory cortex
+D001303,Auditory Cortex,auditory cortex
+D001303,Auditory Cortex,transverse temporal gyri
+D001303,Auditory Cortex,brodmann area 42
+D001303,Auditory Cortex,brodmann area 41
+D001306,Auditory Pathways,auditory pathways
+D001338,"Autonomic Fibers, Postganglionic","autonomic fibers, postganglionic"
+D001339,"Autonomic Fibers, Preganglionic","autonomic fibers, preganglionic"
+D001341,Autonomic Nervous System,autonomic nervous system
+D001365,Axilla,axilla
+D001366,Axillary Artery,axillary artery
+D001367,Axillary Vein,axillary vein
+D001368,"Axis, Cervical Vertebra","axis, cervical vertebra"
+D001368,"Axis, Cervical Vertebra",os odontoideum
+D001369,Axons,axons
+D001401,Azygos Vein,azygos vein
+D001402,B-Lymphocytes,b-lymphocytes
+D001415,Back,back
+D001472,Bartholin's Glands,bartholin's glands
+D001479,Basal Ganglia,basal ganglia
+D001485,Basement Membrane,lamina densa
+D001485,Basement Membrane,lamina lucida
+D001485,Basement Membrane,basement membrane
+D001485,Basement Membrane,basal lamina
+D001485,Basement Membrane,lamina reticularis
+D001488,Basilar Artery,basilar artery
+D001489,Basilar Membrane,basilar membrane
+D001491,Basophils,basophils
+D001502,Beak,beak
+D001502,Beak,"bill, avian"
+D001641,Bicuspid,bicuspid
+D001646,Bile,biliary sludge
+D001646,Bile,bile
+D001648,Bile Canaliculi,bile canaliculi
+D001652,Bile Ducts,bile ducts
+D001653,"Bile Ducts, Intrahepatic","bile ducts, intrahepatic"
+D001659,Biliary Tract,biliary tract
+D001743,Urinary Bladder,bladder detrusor muscle
+D001743,Urinary Bladder,urinary bladder
+D001755,Blastocyst,blastocyst
+D001756,Blastoderm,blastoderm
+D001757,Blastomeres,blastocytes
+D001757,Blastomeres,blastomeres
+D001769,Blood,blood
+D001773,Blood Cells,blood cells
+D001792,Blood Platelets,blood platelets
+D001808,Blood Vessels,blood vessels
+D001812,Blood-Brain Barrier,blood-brain barrier
+D001813,Blood-Retinal Barrier,blood-retinal barrier
+D001814,Blood-Testis Barrier,blood-testis barrier
+D001825,Body Fluid Compartments,body fluid compartments
+D001826,Body Fluids,body fluids
+D001829,Body Regions,body regions
+D001834,Body Water,body water
+D001842,Bone and Bones,condyle
+D001842,Bone and Bones,bones
+D001842,Bone and Bones,bone tissue
+D001842,Bone and Bones,bone and bones
+D001853,Bone Marrow,bone marrow
+D001853,Bone Marrow,yellow marrow
+D001853,Bone Marrow,marrow
+D001853,Bone Marrow,red marrow
+D001854,Bone Marrow Cells,bone marrow cells
+D001857,Bone Matrix,bone matrix
+D001916,Brachial Artery,brachial artery
+D001917,Brachial Plexus,brachial plexus
+D001921,Brain,brain
+D001933,Brain Stem,brain stem
+D001934,Branchial Region,branchial region
+D001934,Branchial Region,branchial clefts
+D001934,Branchial Region,branchial arch
+D001940,Breast,breast
+D001956,Broad Ligament,broad ligament
+D001980,Bronchi,bronchi
+D001980,Bronchi,secondary bronchi
+D001980,Bronchi,tertiary bronchi
+D001980,Bronchi,primary bronchi
+D001981,Bronchial Arteries,bronchial arteries
+D002001,"Adipose Tissue, Brown","adipose tissue, brown"
+D002001,"Adipose Tissue, Brown",hibernating gland
+D002011,Brunner Glands,brunner glands
+D002030,Bulbourethral Glands,bulbourethral glands
+D002036,Bundle of His,right bundle branch of his
+D002036,Bundle of His,bundle of his
+D002036,Bundle of His,left bundle branch of his
+D002036,Bundle of His,anterior fascicle
+D002036,Bundle of His,posterior fascicle
+D002060,Bursa of Fabricius,bursa of fabricius
+D002061,"Bursa, Synovial","bursa, synovial"
+D002081,Buttocks,buttocks
+D002081,Buttocks,gluteal region
+D002111,Calcaneus,calcaneus
+D002146,Bony Callus,bony callus
+D002196,Capillaries,capillary beds
+D002196,Capillaries,capillaries
+D002196,Capillaries,sinusoidal beds
+D002213,Capsid,procapsid
+D002213,Capsid,capsid
+D002299,Cardia,cardia
+D002319,Cardiovascular System,cardiovascular system
+D002339,Carotid Arteries,carotid arteries
+D002342,"Carotid Artery, External","carotid artery, external"
+D002343,"Carotid Artery, Internal","carotid artery, internal"
+D002344,Carotid Body,carotid body
+D002346,Carotid Sinus,carotid sinus
+D002348,Carpal Bones,carpal bones
+D002350,"Carpus, Animal","carpus, animal"
+D002356,Cartilage,cartilage
+D002358,"Cartilage, Articular","cartilage, articular"
+D002420,Cauda Equina,filum terminale
+D002420,Cauda Equina,cauda equina
+D002421,Caudate Nucleus,caudate nucleus
+D002426,Cavernous Sinus,cavernous sinus
+D002432,Cecum,cecum
+D002445,Celiac Artery,celiac artery
+D002447,Celiac Plexus,celiac plexus
+D002460,Cell Line,cell line
+D002461,"Cell Line, Transformed","cell line, transformed"
+D002462,Cell Membrane,cell membrane
+D002466,Cell Nucleolus,cell nucleolus
+D002467,Cell Nucleus,cell nucleus
+D002473,Cell Wall,cell wall
+D002474,Cell-Free System,cell-free system
+D002477,Cells,cells
+D002478,"Cells, Cultured","cells, cultured"
+D002479,Inclusion Bodies,inclusion bodies
+D002479,Inclusion Bodies,cytoplasmic inclusions
+D002490,Central Nervous System,central nervous system
+D002502,Centrioles,centrioles
+D002503,Centromere,centromere
+D002523,Edible Grain,edible grain
+D002523,Edible Grain,cereal grain
+D002525,Cerebellar Cortex,cerebellar cortex
+D002529,Cerebellar Nuclei,cerebellar nuclei
+D002529,Cerebellar Nuclei,nucleus dentatus
+D002529,Cerebellar Nuclei,nucleus emboliformis
+D002529,Cerebellar Nuclei,nucleus globosus
+D002529,Cerebellar Nuclei,amiculum of the dentate nucleus
+D002529,Cerebellar Nuclei,nucleus fastigii
+D002530,Cerebellopontine Angle,cerebellopontine angle
+D002531,Cerebellum,cerebellum
+D002535,Cerebral Aqueduct,cerebral aqueduct
+D002536,Cerebral Arteries,cerebral arteries
+D002540,Cerebral Cortex,archipallium
+D002540,Cerebral Cortex,periallocortex
+D002540,Cerebral Cortex,paleocortex
+D002540,Cerebral Cortex,cerebral cortex
+D002540,Cerebral Cortex,allocortex
+D002550,Cerebral Veins,pial vein
+D002550,Cerebral Veins,sylvian vein
+D002550,Cerebral Veins,basal vein
+D002550,Cerebral Veins,thalamostriate vein
+D002550,Cerebral Veins,cerebral veins
+D002550,Cerebral Veins,vein of galen
+D002552,Cerebral Ventricles,cerebral ventricles
+D002552,Cerebral Ventricles,foramen of monro
+D002555,Cerebrospinal Fluid,cerebrospinal fluid
+D002571,Cerumen,cerumen
+D002572,Cervical Plexus,cervical plexus
+D002574,Cervical Vertebrae,cervical vertebrae
+D002582,Cervix Mucus,fern test
+D002582,Cervix Mucus,cervix mucus
+D002582,Cervix Mucus,palm-leaf reaction
+D002584,Cervix Uteri,ectocervix
+D002584,Cervix Uteri,external os of the cervix
+D002584,Cervix Uteri,endocervix
+D002584,Cervix Uteri,cervix uteri
+D002610,Cheek,cheek
+D002628,Chemoreceptor Cells,chemoreceptor cells
+D002642,Chick Embryo,chick embryo
+D002680,Chin,chin
+D002736,Chloroplasts,chloroplasts
+D002736,Chloroplasts,etioplasts
+D002799,Cholinergic Fibers,cholinergic fibers
+D002814,Chorda Tympani Nerve,chorda tympani nerve
+D002815,Chordae Tendineae,chordae tendineae
+D002823,Chorion,chorion
+D002824,Chorionic Villi,chorionic villi
+D002824,Chorionic Villi,labyrinthine placenta
+D002829,Choroid,choroid
+D002829,Choroid,haller's layer
+D002829,Choroid,sattler layer
+D002829,Choroid,choriocapillaris
+D002831,Choroid Plexus,choroid plexus
+D002837,Chromaffin Granules,chromaffin granules
+D002838,Chromaffin System,chromaffin system
+D002842,Chromatids,chromatids
+D002843,Chromatin,chromatin
+D002856,Chromatophores,chromatophores
+D002875,Chromosomes,chromosomes
+D002876,"Chromosomes, Bacterial","chromosomes, bacterial"
+D002877,"Chromosomes, Human","chromosomes, human"
+D002878,"Chromosomes, Human, Pair 1","chromosomes, human, pair 1"
+D002879,"Chromosomes, Human, Pair 10","chromosomes, human, pair 10"
+D002880,"Chromosomes, Human, Pair 11","chromosomes, human, pair 11"
+D002881,"Chromosomes, Human, Pair 12","chromosomes, human, pair 12"
+D002882,"Chromosomes, Human, Pair 13","chromosomes, human, pair 13"
+D002883,"Chromosomes, Human, Pair 14","chromosomes, human, pair 14"
+D002884,"Chromosomes, Human, Pair 15","chromosomes, human, pair 15"
+D002885,"Chromosomes, Human, Pair 16","chromosomes, human, pair 16"
+D002886,"Chromosomes, Human, Pair 17","chromosomes, human, pair 17"
+D002887,"Chromosomes, Human, Pair 18","chromosomes, human, pair 18"
+D002888,"Chromosomes, Human, Pair 19","chromosomes, human, pair 19"
+D002889,"Chromosomes, Human, Pair 2","chromosomes, human, pair 2"
+D002890,"Chromosomes, Human, Pair 20","chromosomes, human, pair 20"
+D002891,"Chromosomes, Human, Pair 21","chromosomes, human, pair 21"
+D002892,"Chromosomes, Human, Pair 22","chromosomes, human, pair 22"
+D002893,"Chromosomes, Human, Pair 3","chromosomes, human, pair 3"
+D002894,"Chromosomes, Human, Pair 4","chromosomes, human, pair 4"
+D002895,"Chromosomes, Human, Pair 5","chromosomes, human, pair 5"
+D002896,"Chromosomes, Human, Pair 6","chromosomes, human, pair 6"
+D002897,"Chromosomes, Human, Pair 7","chromosomes, human, pair 7"
+D002898,"Chromosomes, Human, Pair 8","chromosomes, human, pair 8"
+D002899,"Chromosomes, Human, Pair 9","chromosomes, human, pair 9"
+D002900,"Chromosomes, Human, 1-3","chromosomes, human, 1-3"
+D002901,"Chromosomes, Human, 13-15","chromosomes, human, 13-15"
+D002902,"Chromosomes, Human, 16-18","chromosomes, human, 16-18"
+D002903,"Chromosomes, Human, 19-20","chromosomes, human, 19-20"
+D002904,"Chromosomes, Human, 21-22 and Y","chromosomes, human, 21-22 and y"
+D002904,"Chromosomes, Human, 21-22 and Y","chromosomes, human, 21-22"
+D002905,"Chromosomes, Human, 4-5","chromosomes, human, 4-5"
+D002906,"Chromosomes, Human, 6-12 and X","chromosomes, human, 6-12"
+D002906,"Chromosomes, Human, 6-12 and X","chromosomes, human, 6-12 and x"
+D002913,Chyle,chyle
+D002921,Cicatrix,cicatrization
+D002921,Cicatrix,cicatrix
+D002923,Cilia,nodal cilia
+D002923,Cilia,motile cilia
+D002923,Cilia,cilia
+D002923,Cilia,primary cilia
+D002924,Ciliary Body,ciliary body
+D002941,Circle of Willis,circle of willis
+D002946,Cisterna Magna,cisterna magna
+D002968,Clavicle,collar bone
+D002968,Clavicle,clavicle
+D002970,"Cleavage Stage, Ovum","cleavage stage, ovum"
+D002987,Clitoris,clitoris
+D002988,Cloaca,cloaca
+D002999,Clone Cells,clone cells
+D003034,"Coated Pits, Cell-Membrane","coated pits, cell-membrane"
+D003050,Coccyx,caudal vertebrae
+D003050,Coccyx,coccyx
+D003051,Cochlea,cochlea
+D003052,Cochlear Aqueduct,cochlear aqueduct
+D003053,Cochlear Duct,cochlear duct
+D003056,Cochlear Nerve,cochlear nerve
+D003106,Colon,taenia coli
+D003106,Colon,appendix epiploica
+D003106,Colon,colon
+D003126,Colostrum,colostrum
+D003129,Comb and Wattles,comb
+D003129,Comb and Wattles,comb and wattles
+D003129,Comb and Wattles,wattles
+D003135,Common Bile Duct,common bile duct
+D003228,Conjunctiva,conjunctiva
+D003228,Conjunctiva,bulbar conjunctiva
+D003228,Conjunctiva,plica semilunaris of conjunctiva
+D003228,Conjunctiva,palpebral conjunctiva
+D003238,Connective Tissue,connective tissue
+D003239,Connective Tissue Cells,connective tissue cells
+D003315,Cornea,cornea
+D003319,Corneal Stroma,corneal stroma
+D003331,Coronary Vessels,coronary vessels
+D003331,Coronary Vessels,sinus node artery
+D003331,Coronary Vessels,coronary veins
+D003331,Coronary Vessels,coronary arteries
+D003335,Corpora Allata,corpus cardiacum
+D003335,Corpora Allata,corpora allata
+D003336,Tectum Mesencephali,tectum mesencephali
+D003336,Tectum Mesencephali,commissure of superior colliculus
+D003336,Tectum Mesencephali,commissure of inferior colliculus
+D003336,Tectum Mesencephali,corpora quadrigemina
+D003337,Corpus Callosum,corpus callosum
+D003338,Corpus Luteum,corpus luteum
+D003342,Corpus Striatum,lenticular nucleus
+D003342,Corpus Striatum,corpus striatum
+D003388,"Cranial Fossa, Posterior","cranial fossa, posterior"
+D003388,"Cranial Fossa, Posterior",clivus
+D003391,Cranial Nerves,cranial nerves
+D003392,Cranial Sinuses,cranial sinuses
+D003393,Cranial Sutures,cranial sutures
+D003413,Cricoid Cartilage,cricoid cartilage
+D003426,"Crop, Avian","crop, avian"
+D003481,Cuspid,cuspid
+D003549,Cystic Duct,cystic duct
+D003593,Cytoplasm,protoplasm
+D003593,Cytoplasm,cytoplasm
+D003594,Cytoplasmic Granules,cytoplasmic granules
+D003599,Cytoskeleton,cytoskeleton
+D003599,Cytoskeleton,microtrabecular lattice
+D003599,Cytoskeleton,cytoplasmic filaments
+D003599,Cytoskeleton,cytoskeletal filaments
+D003600,Cytosol,cytosol
+D003656,Decidua,decidua
+D003689,"Vestibular Nucleus, Lateral","vestibular nucleus, lateral"
+D003712,Dendrites,dendrites
+D003713,Dendritic Cells,plasmacytoid dendritic cells
+D003713,Dendritic Cells,veiled cells
+D003713,Dendritic Cells,interstitial dendritic cells
+D003713,Dendritic Cells,interdigitating cells
+D003713,Dendritic Cells,dendritic cells
+D003724,Dental Arch,dental arch
+D003739,Dental Cementum,cementoblasts
+D003739,Dental Cementum,dental cementum
+D003743,Dental Enamel,dental enamel
+D003743,Dental Enamel,enamel cuticle
+D003750,Dental Fissures,dental fissures
+D003771,Dental Papilla,dental papilla
+D003782,Dental Pulp,dental pulp
+D003786,Dental Pulp Cavity,pulp chamber
+D003786,Dental Pulp Cavity,pulp canal
+D003786,Dental Pulp Cavity,dental pulp cavity
+D003795,Dental Sac,dental sac
+D003804,Dentin,dentin
+D003809,"Dentin, Secondary","dentin, secondary"
+D003817,Dentition,dentition
+D003818,"Dentition, Mixed","dentition, mixed"
+D003886,Descemet Membrane,descemet membrane
+D003896,Desmosomes,desmosomes
+D003964,Diaphragm,diaphragm
+D004027,Diencephalon,diencephalon
+D004064,Digestive System,digestive system
+D004302,Dorsomedial Hypothalamic Nucleus,dorsomedial hypothalamic nucleus
+D004312,Douglas' Pouch,douglas' pouch
+D004373,Ductus Arteriosus,ductus arteriosus
+D004386,Duodenum,duodenum
+D004388,Dura Mater,tentorium cerebelli
+D004388,Dura Mater,dura mater
+D004388,Dura Mater,falx cerebelli
+D004388,Dura Mater,falx cerebri
+D004423,Ear,ear
+D004424,Ear Canal,ear canal
+D004425,Ear Cartilage,auricular cartilage
+D004425,Ear Cartilage,ear cartilage
+D004429,Ear Ossicles,ear ossicles
+D004431,"Ear, External","ear, external"
+D004432,"Ear, Middle",tympanic cavity
+D004432,"Ear, Middle","ear, middle"
+D004439,Eccrine Glands,eccrine glands
+D004475,Ectoderm,apical ectodermal ridge
+D004475,Ectoderm,ectoderm
+D004525,Efferent Pathways,efferent pathways
+D004525,Efferent Pathways,motor pathways
+D004528,Egg Shell,egg shell
+D004530,Egg Yolk,egg yolk
+D004543,Ejaculatory Ducts,ejaculatory ducts
+D004547,Elastic Tissue,elastic tissue
+D004547,Elastic Tissue,elastic fibers
+D004550,Elbow,elbow
+D004551,Elbow Joint,elbow joint
+D004557,Electric Organ,electric organ
+D004622,"Embryo, Mammalian","embryo, mammalian"
+D004622,"Embryo, Mammalian","embryonic structures, mammalian"
+D004625,"Embryo, Nonmammalian","embryo, nonmammalian"
+D004625,"Embryo, Nonmammalian","embryonic structures, nonmammalian"
+D004628,Embryonic Structures,embryonic structures
+D004628,Embryonic Structures,presumptive structures
+D004628,Embryonic Structures,embryo
+D004628,Embryonic Structures,prenatal structures
+D004658,Enamel Organ,enamel organ
+D004699,Endocardium,endocardium
+D004702,Endocrine Glands,endocrine glands
+D004703,Endocrine System,endocrine system
+D004707,Endoderm,endoderm
+D004707,Endoderm,definitive endoderm
+D004710,Endolymph,endolymph
+D004711,Endolymphatic Duct,endolymphatic duct
+D004712,Endolymphatic Sac,endolymphatic sac
+D004717,Endometrium,endometrium
+D004721,Endoplasmic Reticulum,endoplasmic reticulum
+D004727,Endothelium,endothelium
+D004728,"Endothelium, Corneal","endothelium, anterior chamber"
+D004728,"Endothelium, Corneal","endothelium, corneal"
+D004728,"Endothelium, Corneal",anterior chamber epithelium
+D004729,"Endothelium, Lymphatic","endothelium, lymphatic"
+D004730,"Endothelium, Vascular","endothelium, vascular"
+D004730,"Endothelium, Vascular",capillary endothelium
+D004759,Enterochromaffin Cells,enterochromaffin cells
+D004804,Eosinophils,eosinophils
+D004805,Ependyma,ependyma
+D004817,Epidermis,epidermis
+D004822,Epididymis,epididymis
+D004824,Epidural Space,epidural space
+D004825,Epiglottis,epiglottis
+D004838,Epiphyses,epiphyses
+D004846,Epithelial Attachment,epithelial attachment
+D004847,Epithelial Cells,epithelial cells
+D004847,Epithelial Cells,transitional epithelial cells
+D004847,Epithelial Cells,squamous epithelial cells
+D004847,Epithelial Cells,glandular epithelial cells
+D004848,Epithelium,mesothelium
+D004848,Epithelium,epithelium
+D004900,Erythroblasts,proerythroblasts
+D004900,Erythroblasts,erythroblasts
+D004900,Erythroblasts,pronormoblasts
+D004900,Erythroblasts,normoblasts
+D004908,Erythrocyte Inclusions,erythrocyte inclusions
+D004908,Erythrocyte Inclusions,howell-jolly bodies
+D004910,Erythrocyte Membrane,red cell ghost
+D004910,Erythrocyte Membrane,erythrocyte membrane
+D004910,Erythrocyte Membrane,erythrocyte cytoskeleton
+D004912,Erythrocytes,erythrocytes
+D004913,"Erythrocytes, Abnormal","erythrocytes, abnormal"
+D004943,Esophagogastric Junction,esophagogastric junction
+D004947,Esophagus,esophagus
+D005004,Ethmoid Bone,horizontal plate of ethmoid bone
+D005004,Ethmoid Bone,ethmoid bone
+D005005,Ethmoid Sinus,infraorbital ethmoid cell
+D005005,Ethmoid Sinus,sphenoethmoidal air cell
+D005005,Ethmoid Sinus,ethmoid sinus
+D005005,Ethmoid Sinus,ethmoid bulla
+D005057,Eukaryotic Cells,eukaryotic cells
+D005064,Eustachian Tube,eustachian tube
+D005088,Exocrine Glands,exocrine glands
+D005109,Extracellular Matrix,extracellular matrix
+D005110,Extracellular Space,extracellular space
+D005116,Extrapyramidal Tracts,extrapyramidal tracts
+D005121,Extremities,extremities
+D005122,Exudates and Transudates,transudates
+D005122,Exudates and Transudates,exudates and transudates
+D005122,Exudates and Transudates,exudates
+D005123,Eye,eye
+D005138,Eyebrows,eyebrows
+D005140,Eyelashes,eyelashes
+D005143,Eyelids,eyelids
+D005145,Face,face
+D005147,Facial Bones,facial bones
+D005152,Facial Muscles,mimetic muscles
+D005152,Facial Muscles,facial muscles
+D005154,Facial Nerve,nervus intermedius
+D005154,Facial Nerve,facial nerve
+D005154,Facial Nerve,marginal mandibular nerve
+D005187,Fallopian Tubes,fallopian tubes
+D005205,Fascia,fascia
+D005206,Fascia Lata,fascia lata
+D005216,Fat Body,insect fat body
+D005216,Fat Body,amphibian fat body
+D005216,Fat Body,fat body
+D005241,Feathers,feathers
+D005243,Feces,feces
+D005263,Femoral Artery,femoral artery
+D005263,Femoral Artery,common femoral artery
+D005267,Femoral Nerve,femoral nerve
+D005268,Femoral Vein,femoral vein
+D005269,Femur,greater trochanter
+D005269,Femur,femur
+D005269,Femur,lesser trochanter
+D005269,Femur,trochanter
+D005270,Femur Head,femur head
+D005272,Femur Neck,femur neck
+D005312,Fetal Blood,fetal blood
+D005312,Fetal Blood,cord blood
+D005318,Fetal Heart,fetal heart
+D005321,Extraembryonic Membranes,fetal membranes
+D005321,Extraembryonic Membranes,extraembryonic membranes
+D005333,Fetus,fetus
+D005333,Fetus,mummified fetus
+D005333,Fetus,fetal structures
+D005333,Fetus,retained fetus
+D005333,Fetus,fetal tissue
+D005347,Fibroblasts,fibroblasts
+D005360,Fibula,fibula
+D005384,Finger Joint,finger joint
+D005385,Fingers,fingers
+D005407,Flagella,flagella
+D005441,Fluids and Secretions,fluids and secretions
+D005487,Foam Cells,foam cells
+D005528,Foot,foot
+D005529,Foot Bones,foot bones
+D005539,Foramen Magnum,foramen magnum
+D005542,Forearm,forearm
+D005545,"Forefoot, Human","forefoot, human"
+D005546,Forehead,forehead
+D005552,Forelimb,forelimb
+D005584,Fovea Centralis,fovea centralis
+D005624,Frontal Bone,frontal bone
+D005625,Frontal Lobe,frontal eye fields
+D005625,Frontal Lobe,brodmann area 8
+D005625,Frontal Lobe,supplementary eye field
+D005625,Frontal Lobe,frontal lobe
+D005626,Frontal Sinus,frontal sinus
+D005626,Frontal Sinus,frontal sinus ostium
+D005626,Frontal Sinus,agger nasi cell
+D005626,Frontal Sinus,frontal recess
+D005638,Fruit,legume pod
+D005638,Fruit,berries
+D005638,Fruit,plant aril
+D005638,Fruit,fruit
+D005638,Fruit,plant capsule
+D005654,Fundus Oculi,fundus oculi
+D005704,Gallbladder,gallbladder
+D005724,Ganglia,ganglia
+D005725,"Ganglia, Autonomic","ganglia, autonomic"
+D005726,"Ganglia, Parasympathetic","ganglia, parasympathetic"
+D005726,"Ganglia, Parasympathetic",otic ganglia
+D005726,"Ganglia, Parasympathetic",pterygopalatine ganglia
+D005726,"Ganglia, Parasympathetic",ciliary ganglion
+D005726,"Ganglia, Parasympathetic",submandibular ganglia
+D005727,"Ganglia, Spinal","ganglia, spinal"
+D005728,"Ganglia, Sympathetic",celiac ganglia
+D005728,"Ganglia, Sympathetic","ganglia, sympathetic"
+D005744,Gastric Acid,gastric acid
+D005748,Gastric Fundus,gastric fundus
+D005750,Gastric Juice,gastric juice
+D005753,Gastric Mucosa,gastric glands
+D005753,Gastric Mucosa,pyloric glands
+D005753,Gastric Mucosa,cardiac glands
+D005753,Gastric Mucosa,gastric mucosa
+D005766,Gastrointestinal Contents,stomach contents
+D005766,Gastrointestinal Contents,intestinal contents
+D005766,Gastrointestinal Contents,gastrointestinal contents
+D005775,Gastrula,blastopore
+D005775,Gastrula,primitive gut
+D005775,Gastrula,gastrula
+D005829,Geniculate Bodies,lateral geniculate body
+D005829,Geniculate Bodies,geniculate bodies
+D005829,Geniculate Bodies,medial geniculate body
+D005830,Geniculate Ganglion,external petrosal nerve
+D005830,Geniculate Ganglion,greater superficial petrosal nerve
+D005830,Geniculate Ganglion,vidian nerve
+D005830,Geniculate Ganglion,geniculate ganglion
+D005830,Geniculate Ganglion,lesser petrosal nerve
+D005835,Genitalia,genitalia
+D005835,Genitalia,accessory sex organs
+D005836,"Genitalia, Female","genitalia, female"
+D005836,"Genitalia, Female","accessory sex organs, female"
+D005836,"Genitalia, Female","reproductive system, female"
+D005837,"Genitalia, Male","genitalia, male"
+D005837,"Genitalia, Male","accessory sex organs, male"
+D005837,"Genitalia, Male","reproductive system, male"
+D005854,Germ Cells,gametes
+D005854,Germ Cells,germ line
+D005854,Germ Cells,germ cells
+D005855,Germ Layers,germ layers
+D005855,Germ Layers,epiblast
+D005855,Germ Layers,hypoblast
+D005880,Gills,gills
+D005881,Gingiva,interdental papilla
+D005881,Gingiva,gingiva
+D005883,Gingival Crevicular Fluid,gingival crevicular fluid
+D005895,"Gizzard, Avian","gizzard, avian"
+D005917,Globus Pallidus,globus pallidus
+D005917,Globus Pallidus,paleostriatum
+D005920,Glomerular Mesangium,glomerular mesangium
+D005920,Glomerular Mesangium,mesangial extracellular matrix
+D005924,Glomus Jugulare,glomus jugulare
+D005930,Glossopharyngeal Nerve,glossopharyngeal nerve
+D005931,Glottis,rima glottidis
+D005931,Glottis,glottis
+D006056,Golgi Apparatus,golgi apparatus
+D006057,Golgi-Mazzoni Corpuscles,golgi-mazzoni corpuscles
+D006066,Gonads,gonads
+D006080,Ovarian Follicle,ovarian follicle
+D006080,Ovarian Follicle,atretic follicle
+D006080,Ovarian Follicle,graafian follicle
+D006097,Granulation Tissue,granulation tissue
+D006098,Granulocytes,granulocytes
+D006107,Granulosa Cells,granulosa cells
+D006119,Groin,groin
+D006132,Growth Plate,growth plate
+D006179,Gyrus Cinguli,brodmann area 24
+D006179,Gyrus Cinguli,brodmann area 32
+D006179,Gyrus Cinguli,gyrus cinguli anterior
+D006179,Gyrus Cinguli,gyrus cinguli
+D006179,Gyrus Cinguli,brodmann area 29
+D006179,Gyrus Cinguli,posterior cingulate cortex
+D006179,Gyrus Cinguli,brodmann area 23
+D006179,Gyrus Cinguli,retrosplenial cortex
+D006179,Gyrus Cinguli,brodmann area 26
+D006179,Gyrus Cinguli,cingulate cortex
+D006179,Gyrus Cinguli,brodmann area 33
+D006179,Gyrus Cinguli,brodmann area 31
+D006179,Gyrus Cinguli,brodmann area 30
+D006197,Hair,hair
+D006197,Hair,lanugo
+D006198,"Hair Cells, Auditory","hair cells, auditory"
+D006199,"Hair Cells, Auditory, Inner","hair cells, auditory, inner"
+D006214,Hallux,hallux
+D006225,Hand,hand
+D006243,Harderian Gland,harderian gland
+D006253,Haversian System,nutrient canals
+D006253,Haversian System,haversian system
+D006253,Haversian System,haversian canals
+D006253,Haversian System,volkmann canals
+D006257,Head,head
+D006321,Heart,heart
+D006325,Heart Atria,heart atria
+D006325,Heart Atria,right atrium
+D006325,Heart Atria,left atrium
+D006329,Heart Conduction System,heart conduction system
+D006346,Heart Septum,heart septum
+D006351,Heart Valves,heart valves
+D006352,Heart Ventricles,right ventricle
+D006352,Heart Ventricles,heart ventricles
+D006352,Heart Ventricles,left ventricle
+D006365,Heel,heel
+D006365,Heel,sinus tarsi
+D006366,Heinz Bodies,heinz bodies
+D006367,HeLa Cells,hela cells
+D006377,"T-Lymphocytes, Helper-Inducer","t-lymphocytes, helper-inducer"
+D006412,Hematopoietic Stem Cells,hematopoietic stem cells
+D006412,Hematopoietic Stem Cells,"colony-forming units, hematopoietic"
+D006413,Hematopoietic System,hematopoietic system
+D006424,Hemic and Immune Systems,hemic and immune systems
+D006424,Hemic and Immune Systems,hemic system
+D006434,Hemocytes,hemocytes
+D006458,Hemolymph,hemolymph
+D006499,Hepatic Artery,hepatic artery
+D006500,"Hepatic Duct, Common","hepatic duct, common"
+D006500,"Hepatic Duct, Common",hepatic duct
+D006503,Hepatic Veins,hepatic veins
+D006570,Heterochromatin,heterochromatin
+D006614,Hindlimb,hindlimb
+D006615,Hip,hip
+D006621,Hip Joint,hip joint
+D006624,Hippocampus,hippocampal formation
+D006624,Hippocampus,hippocampus
+D006624,Hippocampus,subiculum
+D006644,Histiocytes,histiocytes
+D006724,Hoof and Claw,hooves
+D006724,Hoof and Claw,hoof and claw
+D006724,Hoof and Claw,claw
+D006733,Horns,horns
+D006811,Humerus,greater tubercle
+D006811,Humerus,olecranon fossa
+D006811,Humerus,humerus
+D006811,Humerus,lesser tubercle
+D006818,Hyalin,hyalin
+D006822,Hybrid Cells,hybrid cells
+D006825,Hybridomas,hybridomas
+D006924,Hymen,hymen
+D006928,Hyoid Bone,hyoid bone
+D007001,Hypogastric Plexus,hypogastric plexus
+D007001,Hypogastric Plexus,pelvic plexus
+D007002,Hypoglossal Nerve,hypoglossal nerve
+D007013,Hypopharynx,hypopharynx
+D007025,Anterior Hypothalamic Nucleus,anterior hypothalamic nucleus
+D007026,"Hypothalamic Area, Lateral",accessory nucleus of the ventral horn
+D007026,"Hypothalamic Area, Lateral",lateral tuberal nuclei
+D007026,"Hypothalamic Area, Lateral","hypothalamic area, lateral"
+D007026,"Hypothalamic Area, Lateral",lateral hypothalamic nucleus
+D007026,"Hypothalamic Area, Lateral",tuberomammillary nucleus
+D007030,Hypothalamo-Hypophyseal System,hypothalamo-pituitary-adrenal axis
+D007030,Hypothalamo-Hypophyseal System,hypothalamo-hypophyseal system
+D007031,Hypothalamus,lamina terminalis
+D007031,Hypothalamus,hypothalamus
+D007032,"Hypothalamus, Anterior",anteroventral periventricular nucleus
+D007032,"Hypothalamus, Anterior","hypothalamus, anterior"
+D007032,"Hypothalamus, Anterior","hypothalamus, supraoptic"
+D007032,"Hypothalamus, Anterior",anterior hypothalamic commissure
+D007033,"Hypothalamus, Middle","hypothalamus, middle"
+D007034,"Hypothalamus, Posterior",supramammillary commissure
+D007034,"Hypothalamus, Posterior",supramammillary nucleus
+D007034,"Hypothalamus, Posterior",posterior periventricular nucleus
+D007034,"Hypothalamus, Posterior",premammillary nucleus
+D007034,"Hypothalamus, Posterior","hypothalamus, posterior"
+D007080,Ileocecal Valve,ileocecal valve
+D007082,Ileum,ileum
+D007083,Iliac Artery,iliac artery
+D007084,Iliac Vein,iliac vein
+D007084,Iliac Vein,deep circumflex iliac vein
+D007085,Ilium,iliac fossa
+D007085,Ilium,iliac crest bone
+D007085,Ilium,ilium
+D007085,Ilium,auricular surface of ilium
+D007106,Immune Sera,immune sera
+D007107,Immune System,immune system
+D007180,Incisor,incisor
+D007181,"Inclusion Bodies, Viral",negri body
+D007181,"Inclusion Bodies, Viral","inclusion bodies, viral"
+D007188,Incus,incus
+D007245,Inferior Colliculi,inferior colliculi
+D007245,Inferior Colliculi,brachial nucleus of the inferior colliculus
+D007264,Inguinal Canal,inguinal canal
+D007264,Inguinal Canal,inguinal ring
+D007365,Intercellular Junctions,intercellular junctions
+D007366,Intercostal Muscles,intercostal muscles
+D007367,Intercostal Nerves,intercostal nerves
+D007382,Intermediate Filaments,tonofilaments
+D007382,Intermediate Filaments,neurofilaments
+D007382,Intermediate Filaments,intermediate filaments
+D007395,Interneurons,interneurons
+D007401,Interrenal Gland,interrenal gland
+D007403,Intervertebral Disc,intervertebral disc
+D007413,Intestinal Mucosa,intestinal mucosa
+D007413,Intestinal Mucosa,intestinal epithelium
+D007413,Intestinal Mucosa,intestinal glands
+D007419,Intestinal Secretions,intestinal secretions
+D007420,"Intestine, Large","intestine, large"
+D007421,"Intestine, Small","intestine, small"
+D007422,Intestines,intestines
+D007424,Intracellular Fluid,intracellular fluid
+D007425,Intracellular Membranes,intracellular membranes
+D007498,Iris,iris
+D007512,Ischium,ischium
+D007515,Islets of Langerhans,islets of langerhans
+D007568,Jaw,jaw
+D007583,Jejunum,jejunum
+D007596,Joints,joints
+D007601,Jugular Veins,jugular veins
+D007606,Juxtaglomerular Apparatus,juxtaglomerular apparatus
+D007624,KB Cells,kb cells
+D007627,Keloid,keloid
+D007668,Kidney,kidney
+D007670,Kidney Calices,kidney calices
+D007672,Kidney Cortex,kidney cortex
+D007678,Kidney Glomerulus,kidney glomerulus
+D007679,Kidney Medulla,kidney papilla
+D007679,Kidney Medulla,kidney medulla
+D007682,Kidney Pelvis,kidney pelvis
+D007684,Kidney Tubules,kidney tubules
+D007685,"Kidney Tubules, Collecting","kidney tubules, collecting"
+D007686,"Kidney Tubules, Distal","kidney tubules, distal"
+D007687,"Kidney Tubules, Proximal","kidney tubules, proximal"
+D007694,"Killer Cells, Natural","killer cells, natural"
+D007717,Knee,knee
+D007719,Knee Joint,knee joint
+D007728,Kupffer Cells,kupffer cells
+D007739,L Cells,l cells
+D007739,L Cells,l929 cells
+D007742,Labial Frenum,mandibular labial frenum
+D007742,Labial Frenum,labial frenum
+D007742,Labial Frenum,maxillary labial frenum
+D007758,"Ear, Inner",membranous labyrinth
+D007758,"Ear, Inner",bony labyrinth
+D007758,"Ear, Inner","ear, inner"
+D007760,Labyrinth Supporting Cells,labyrinth supporting cells
+D007761,Labyrinthine Fluids,labyrinthine fluids
+D007765,Lacrimal Apparatus,lateral canthus
+D007765,Lacrimal Apparatus,lacrimal gland
+D007765,Lacrimal Apparatus,conjunctival sacs
+D007765,Lacrimal Apparatus,lacrimal ducts
+D007765,Lacrimal Apparatus,lacrimal punctum
+D007765,Lacrimal Apparatus,lacrimal apparatus
+D007765,Lacrimal Apparatus,medial canthus
+D007801,Langerhans Cells,dermal dendritic cells
+D007801,Langerhans Cells,langerhans cells
+D007801,Langerhans Cells,skin dendritic cells
+D007817,Laryngeal Cartilages,laryngeal cartilages
+D007820,Laryngeal Mucosa,laryngeal mucosa
+D007820,Laryngeal Mucosa,laryngeal epithelium
+D007821,Laryngeal Muscles,arytenoid muscle
+D007821,Laryngeal Muscles,vocal muscle
+D007821,Laryngeal Muscles,laryngeal muscles
+D007821,Laryngeal Muscles,cricothyroid muscles
+D007821,Laryngeal Muscles,aryepiglottic muscle
+D007821,Laryngeal Muscles,cricoarytenoid muscles
+D007821,Laryngeal Muscles,thyroarytenoid muscles
+D007821,Laryngeal Muscles,thyroepiglottic muscle
+D007823,Laryngeal Nerves,"laryngeal nerve, superior"
+D007823,Laryngeal Nerves,laryngeal nerves
+D007830,Larynx,larynx
+D007830,Larynx,laryngeal posterior commissure
+D007830,Larynx,laryngeal anterior commissure
+D007866,Leg,leg
+D007867,Leg Bones,leg bones
+D007903,"Lens Capsule, Crystalline","lens capsule, crystalline"
+D007904,"Lens Cortex, Crystalline","lens cortex, crystalline"
+D007907,"Lens Nucleus, Crystalline","lens nucleus, crystalline"
+D007908,"Lens, Crystalline","lens, crystalline"
+D007962,Leukocytes,leukocytes
+D007963,"Leukocytes, Mononuclear",peripheral blood mononuclear cells
+D007963,"Leukocytes, Mononuclear","leukocytes, mononuclear"
+D007985,Leydig Cells,leydig cells
+D008022,Ligaments,interosseal ligament
+D008022,Ligaments,ligaments
+D008023,"Ligaments, Articular","ligaments, articular"
+D008032,Limbic System,limbic system
+D008035,Lingual Frenum,lingual frenum
+D008036,Lingual Nerve,lingual nerve
+D008046,Lip,lip
+D008046,Lip,philtrum
+D008099,Liver,liver
+D008125,Locus Coeruleus,locus coeruleus
+D008125,Locus Coeruleus,locus ceruleus complex
+D008138,Loop of Henle,loop of henle
+D008138,Loop of Henle,ascending limb of loop of henle
+D008138,Loop of Henle,descending limb of loop of henle
+D008159,Lumbar Vertebrae,lumbar vertebrae
+D008160,Lumbosacral Plexus,lumbosacral plexus
+D008160,Lumbosacral Plexus,sacral plexus
+D008160,Lumbosacral Plexus,inferior cluneal nerves
+D008160,Lumbosacral Plexus,lumbar plexus
+D008160,Lumbosacral Plexus,posterior femoral cutaneous nerve
+D008161,Lumbosacral Region,lumbar region
+D008161,Lumbosacral Region,lumbosacral region
+D008168,Lung,lung
+D008184,Luteal Cells,large luteal cells
+D008184,Luteal Cells,small luteal cells
+D008184,Luteal Cells,luteal cells
+D008196,Lymph,lymph
+D008198,Lymph Nodes,lymph nodes
+D008208,Lymphatic System,lymphatic system
+D008214,Lymphocytes,lymphocytes
+D008214,Lymphocytes,lymphoid cells
+D008215,"Lymphocytes, Null","lymphocytes, null"
+D008221,Lymphoid Tissue,lymphoid tissue
+D008247,Lysosomes,lysosomes
+D008247,Lysosomes,autolysosomes
+D008264,Macrophages,macrophages
+D008266,Macula Lutea,macula lutea
+D008267,Acoustic Maculae,acoustic maculae
+D008307,Malleus,malleus
+D008317,Malpighian Tubules,malpighian tubules
+D008321,"Mammary Glands, Animal","mammary glands, animal"
+D008321,"Mammary Glands, Animal",udder
+D008323,Mammary Arteries,internal mammary artery
+D008323,Mammary Arteries,mammary arteries
+D008326,Mammillary Bodies,mammillary bodies
+D008334,Mandible,mandible
+D008334,Mandible,mylohyoid ridge
+D008335,Mandibular Condyle,mandibular condyle
+D008340,Mandibular Nerve,lateral pterygoid nerve
+D008340,Mandibular Nerve,mylohyoid nerve
+D008340,Mandibular Nerve,deep temporal nerve
+D008340,Mandibular Nerve,"alveolar nerve, inferior"
+D008340,Mandibular Nerve,masseteric nerve
+D008340,Mandibular Nerve,buccal nerve
+D008340,Mandibular Nerve,mandibular nerve
+D008340,Mandibular Nerve,auriculotemporal nerve
+D008340,Mandibular Nerve,mental nerve
+D008371,Manubrium,manubrium
+D008406,Masseter Muscle,masseter muscle
+D008407,Mast Cells,mast cells
+D008410,Masticatory Muscles,masticatory muscles
+D008416,Mastoid,mastoid foramen
+D008416,Mastoid,mastoid
+D008437,Maxilla,maxilla
+D008438,Maxillary Artery,maxillary artery
+D008442,Maxillary Nerve,maxillary nerve
+D008442,Maxillary Nerve,"alveolar nerve, superior"
+D008443,Maxillary Sinus,maxillary ostium
+D008443,Maxillary Sinus,maxillary sinus
+D008465,Mechanoreceptors,stretch receptors
+D008465,Mechanoreceptors,ruffini's corpuscles
+D008465,Mechanoreceptors,krause's end bulbs
+D008465,Mechanoreceptors,neurotendinous spindles
+D008465,Mechanoreceptors,meissner's corpuscle
+D008465,Mechanoreceptors,mechanoreceptors
+D008467,Meckel Diverticulum,meckel diverticulum
+D008470,Meconium,meconium
+D008473,Median Eminence,median eminence
+D008474,Medial Forebrain Bundle,medial forebrain bundle
+D008475,Median Nerve,median nerve
+D008482,Mediastinum,mediastinum
+D008526,Medulla Oblongata,medulla oblongata
+D008526,Medulla Oblongata,nucleus ambiguus
+D008526,Medulla Oblongata,arcuate nucleus of the medulla
+D008526,Medulla Oblongata,accessory cuneate nucleus
+D008533,Megakaryocytes,megakaryocytes
+D008534,Megaloblasts,megaloblasts
+D008537,Meibomian Glands,meibomian glands
+D008544,Melanocytes,melanocytes
+D008547,Melanophores,melanophores
+D008551,Melena,melena
+D008566,Membranes,membranes
+D008576,Meningeal Arteries,meningeal arteries
+D008578,Meninges,meninges
+D008592,"Menisci, Tibial","menisci, lateral"
+D008592,"Menisci, Tibial",medial menisci
+D008592,"Menisci, Tibial","menisci, tibial"
+D008636,Mesencephalon,mesencephalon
+D008638,Mesenteric Arteries,mesenteric arteries
+D008642,Mesenteric Veins,mesenteric veins
+D008643,Mesentery,mesentery
+D008646,Mesocolon,mesosigmoid
+D008646,Mesocolon,mesocolon
+D008648,Mesoderm,intermediate mesoderm
+D008648,Mesoderm,mesenchyma
+D008648,Mesoderm,mesoderm
+D008648,Mesoderm,lateral plate mesoderm
+D008648,Mesoderm,paraxial mesoderm
+D008650,Mesonephros,mesonephros
+D008662,Metacarpophalangeal Joint,metacarpophalangeal joint
+D008663,Metacarpus,metacarpus
+D008682,Metatarsal Bones,metatarsal bones
+D008683,Metatarsophalangeal Joint,metatarsophalangeal joint
+D008684,Metatarsus,metatarsus
+D008791,Metrial Gland,metrial gland
+D008830,Microbodies,glycosomes
+D008830,Microbodies,microbodies
+D008841,Actin Cytoskeleton,actin cytoskeleton
+D008861,Microsomes,microsomes
+D008862,"Microsomes, Liver","microsomes, liver"
+D008870,Microtubules,microtubules
+D008871,Microvilli,brush border
+D008871,Microvilli,microvilli
+D008892,Milk,milk
+D008892,Milk,cow milk
+D008894,Milk Proteins,milk proteins
+D008895,"Milk, Human","milk, human"
+D008928,Mitochondria,mitochondria
+D008928,Mitochondria,mitochondrial contraction
+D008929,"Mitochondria, Heart","mitochondria, heart"
+D008930,"Mitochondria, Liver","mitochondria, liver"
+D008931,"Mitochondria, Muscle","mitochondria, muscle"
+D008941,Spindle Apparatus,meiotic spindle apparatus
+D008941,Spindle Apparatus,spindle apparatus
+D008941,Spindle Apparatus,mitotic spindle apparatus
+D008943,Mitral Valve,mitral valve
+D008963,Molar,molar
+D008964,"Molar, Third","molar, third"
+D009000,Monocytes,monocytes
+D009028,Morula,morula
+D009044,Motor Cortex,brodmann area 6
+D009044,Motor Cortex,supplementary motor area
+D009044,Motor Cortex,motor cortex
+D009044,Motor Cortex,primary motor cortex
+D009044,Motor Cortex,precentral gyrus
+D009044,Motor Cortex,premotor cortex
+D009045,Motor Endplate,motor endplate
+D009046,Motor Neurons,"motor neurons, alpha"
+D009046,Motor Neurons,motor neurons
+D009047,"Motor Neurons, Gamma","motor neurons, gamma"
+D009055,Mouth,oral cavity proper
+D009055,Mouth,vestibule of the mouth
+D009055,Mouth,mouth
+D009060,Mouth Floor,mouth floor
+D009061,Mouth Mucosa,mouth mucosa
+D009061,Mouth Mucosa,buccal mucosa
+D009092,Mucous Membrane,mucous membrane
+D009092,Mucous Membrane,muscularis mucosae
+D009092,Mucous Membrane,lamina propria
+D009093,Mucus,mucus
+D009095,Mullerian Ducts,mullerian ducts
+D009130,"Muscle, Smooth","muscle, smooth"
+D009131,"Muscle, Smooth, Vascular","muscle, smooth, vascular"
+D009132,Muscles,muscles
+D009138,Musculocutaneous Nerve,musculocutaneous nerve
+D009141,Musculoskeletal System,musculoskeletal system
+D009186,Myelin Sheath,myelin sheath
+D009186,Myelin Sheath,myelin
+D009197,Myenteric Plexus,myenteric plexus
+D009206,Myocardium,myocardium
+D009210,Myofibrils,myofibrils
+D009210,Myofibrils,myofilaments
+D009215,Myometrium,myometrium
+D009262,Nails,toenails
+D009262,Nails,fingernails
+D009262,Nails,nails
+D009295,Nasal Bone,nasal bone
+D009296,Nasal Cavity,nasal cavity
+D009297,Nasal Mucosa,nasal epithelium
+D009297,Nasal Mucosa,schneiderian membrane
+D009297,Nasal Mucosa,nasal mucosa
+D009300,Nasal Septum,nasal septum
+D009301,Nasolacrimal Duct,lacrimal sac
+D009301,Nasolacrimal Duct,nasolacrimal duct
+D009305,Nasopharynx,choanae
+D009305,Nasopharynx,nasopharynx
+D009306,Natal Teeth,natal teeth
+D009333,Neck,neck
+D009334,Neck Muscles,neck muscles
+D009360,"Neoplastic Cells, Circulating","tumor cells, embolic"
+D009360,"Neoplastic Cells, Circulating","neoplastic cells, circulating"
+D009360,"Neoplastic Cells, Circulating","embolism, tumor"
+D009399,Nephrons,nephrons
+D009411,Nerve Endings,nerve endings
+D009412,Nerve Fibers,cerebellar mossy fibers
+D009412,Nerve Fibers,nerve fibers
+D009413,"Nerve Fibers, Myelinated",a fibers
+D009413,"Nerve Fibers, Myelinated","nerve fibers, myelinated"
+D009413,"Nerve Fibers, Myelinated",b fibers
+D009415,Nerve Net,neural networks (anatomic)
+D009415,Nerve Net,nerve net
+D009417,Nerve Tissue,nerve tissue
+D009420,Nervous System,nervous system
+D009430,Neural Analyzers,neural analyzers
+D009432,Neural Crest,neural fold
+D009432,Neural Crest,neural crest
+D009432,Neural Crest,neural crest cells
+D009432,Neural Crest,neural groove
+D009434,Neural Pathways,neural interconnections
+D009434,Neural Pathways,neural pathways
+D009441,Neurilemma,neurilemma
+D009451,Neuroeffector Junction,neuroeffector junction
+D009454,Neurofibrils,neurofibrils
+D009457,Neuroglia,bergmann glia
+D009457,Neuroglia,neuroglia
+D009457,Neuroglia,satellite glia
+D009469,Neuromuscular Junction,neuromuscular junction
+D009469,Neuromuscular Junction,nerve-muscle preparation
+D009470,Muscle Spindles,muscle spindles
+D009474,Neurons,neurons
+D009475,"Neurons, Afferent","neurons, afferent"
+D009476,"Neurons, Efferent","neurons, efferent"
+D009490,Neurosecretory Systems,neurosecretory systems
+D009504,Neutrophils,neutrophil band cells
+D009504,Neutrophils,le cells
+D009504,Neutrophils,neutrophils
+D009541,Nictitating Membrane,nictitating membrane
+D009558,Nipples,nipples
+D009558,Nipples,areola
+D009562,Nissl Bodies,nissl bodies
+D009619,Nociceptors,nociceptors
+D009620,Nodose Ganglion,nodose ganglion
+D009666,Nose,nose
+D009666,Nose,external nose
+D009672,Notochord,notochord
+D009672,Notochord,chordamesoderm
+D009685,Nuclear Envelope,nuclear envelope
+D009697,Nucleolus Organizer Region,nucleolus organizer region
+D009707,Nucleosomes,nucleosomes
+D009707,Nucleosomes,polynucleosomes
+D009707,Nucleosomes,dinucleosomes
+D009714,Nucleus Accumbens,nucleus accumbens
+D009754,Nuts,nuts
+D009776,Obturator Nerve,obturator nerve
+D009777,Occipital Bone,basilar bone
+D009777,Occipital Bone,occipital bone
+D009778,Occipital Lobe,occipital sulcus
+D009778,Occipital Lobe,annectant gyrus
+D009778,Occipital Lobe,cuneate lobule
+D009778,Occipital Lobe,cuneus
+D009778,Occipital Lobe,lingual gyrus
+D009778,Occipital Lobe,calcarine sulcus
+D009778,Occipital Lobe,occipital lobe
+D009778,Occipital Lobe,occipital gyrus
+D009778,Occipital Lobe,lunate sulcus
+D009801,Oculomotor Muscles,superior oblique extraocular muscle
+D009801,Oculomotor Muscles,oculomotor muscles
+D009801,Oculomotor Muscles,levator palpebrae superioris
+D009801,Oculomotor Muscles,"oblique muscles, extraocular"
+D009801,Oculomotor Muscles,musculus orbitalis
+D009801,Oculomotor Muscles,inferior oblique extraocular muscle
+D009801,Oculomotor Muscles,"rectus muscles, extraocular"
+D009802,Oculomotor Nerve,oculomotor nerve
+D009803,Sphincter of Oddi,sphincter of oddi
+D009804,Odontoblasts,odontoblasts
+D009809,Odontoid Process,odontoid process
+D009830,Olfactory Bulb,olfactory tract
+D009830,Olfactory Bulb,accessory olfactory bulb
+D009830,Olfactory Bulb,olfactory bulb
+D009830,Olfactory Bulb,olfactory glomerulus
+D009831,Olfactory Mucosa,olfactory mucosa
+D009831,Olfactory Mucosa,olfactory epithelium
+D009832,Olfactory Nerve,olfactory nerve
+D009833,Olfactory Pathways,olfactory pathways
+D009836,Oligodendroglia,perivascular oligodendroglia
+D009836,Oligodendroglia,oligodendroglia
+D009836,Oligodendroglia,perineuronal oligodendroglia
+D009836,Oligodendroglia,interfascicular oligodendroglia
+D009847,Olivary Nucleus,olivary nucleus
+D009851,Omasum,omasum
+D009852,Omentum,omentum
+D009865,Oocytes,oocytes
+D009867,Oogonia,oogonia
+D009880,Ophthalmic Artery,ophthalmic artery
+D009882,Ophthalmic Nerve,ophthalmic nerve
+D009897,Optic Chiasm,optic chiasm
+D009898,Optic Disk,optic disk
+D009898,Optic Disk,blind spot
+D009899,"Optic Lobe, Nonmammalian","optic lobe, nonmammalian"
+D009900,Optic Nerve,optic nerve
+D009915,Orbit,orbit
+D009925,Organ of Corti,basilar papilla
+D009925,Organ of Corti,organ of corti
+D009940,Organoids,organoids
+D009960,Oropharynx,oropharynx
+D010006,Osteoblasts,osteoblasts
+D010010,Osteoclasts,osteoclasts
+D010010,Osteoclasts,odontoclasts
+D010011,Osteocytes,osteocytes
+D010037,Otolithic Membrane,otolithic membrane
+D010037,Otolithic Membrane,otoconia
+D010046,"Oval Window, Ear","oval window, ear"
+D010053,Ovary,ovary
+D010057,Oviducts,oviducts
+D010063,Ovum,ovum
+D010141,Pacinian Corpuscles,pacinian corpuscles
+D010156,Palatal Muscles,palatal muscles
+D010159,Palate,palate
+D010159,Palate,incisive papilla
+D010160,"Palate, Soft","palate, soft"
+D010179,Pancreas,pancreas
+D010183,Pancreatic Ducts,pancreatic ducts
+D010183,Pancreatic Ducts,accessory pancreatic duct
+D010183,Pancreatic Ducts,"duodenal papilla, minor"
+D010183,Pancreatic Ducts,main pancreatic duct
+D010189,Pancreatic Juice,pancreatic juice
+D010210,Papillary Muscles,papillary muscles
+D010220,Para-Aortic Bodies,para-aortic bodies
+D010233,"Paraganglia, Chromaffin","paraganglia, chromaffin"
+D010234,"Paraganglia, Nonchromaffin","paraganglia, nonchromaffin"
+D010256,Paranasal Sinuses,supraorbital ethmoid cell
+D010256,Paranasal Sinuses,ostiomeatal complex
+D010256,Paranasal Sinuses,paranasal sinuses
+D010256,Paranasal Sinuses,sinonasal tract
+D010275,Parasympathetic Nervous System,parasympathetic nervous system
+D010280,Parathyroid Glands,parathyroid glands
+D010286,Paraventricular Hypothalamic Nucleus,paraventricular hypothalamic nucleus
+D010294,Parietal Bone,parietal bone
+D010295,"Parietal Cells, Gastric","parietal cells, gastric"
+D010296,Parietal Lobe,supramarginal gyrus
+D010296,Parietal Lobe,brodmann area 5
+D010296,Parietal Lobe,posterior parietal cortex
+D010296,Parietal Lobe,superior parietal lobule
+D010296,Parietal Lobe,intraparietal sulcus
+D010296,Parietal Lobe,parietal lobe
+D010296,Parietal Lobe,marginal sulcus
+D010296,Parietal Lobe,inferior parietal cortex
+D010296,Parietal Lobe,angular gyrus
+D010296,Parietal Lobe,precuneus cortex
+D010296,Parietal Lobe,parietal lobule
+D010296,Parietal Lobe,posterior paracentral lobule
+D010306,Parotid Gland,parotid gland
+D010329,Patella,patella
+D010369,Pectoralis Muscles,pectoralis major
+D010369,Pectoralis Muscles,pectoralis muscles
+D010369,Pectoralis Muscles,pectoralis minor
+D010384,Pelvic Bones,pelvic bones
+D010384,Pelvic Bones,hip bone
+D010384,Pelvic Bones,coxal bone
+D010384,Pelvic Bones,innominate bones
+D010388,Pelvis,pelvis
+D010413,Penis,glans penis
+D010413,Penis,penis
+D010481,Perianal Glands,perianal glands
+D010486,Periapical Tissue,periapical tissue
+D010487,Periaqueductal Gray,periaqueductal gray
+D010496,Pericardium,visceral pericardium
+D010496,Pericardium,pericardial cavity
+D010496,Pericardium,pericardium
+D010496,Pericardium,parietal pericardium
+D010496,Pericardium,fibrous pericardium
+D010496,Pericardium,serous pericardium
+D010498,Perilymph,perilymph
+D010502,Perineum,perineum
+D010513,Periodontal Ligament,gomphosis
+D010513,Periodontal Ligament,periodontal ligament
+D010519,Periodontium,periodontium
+D010521,Periosteum,periosteum
+D010525,Peripheral Nerves,peripheral nerves
+D010525,Peripheral Nerves,perineurium
+D010525,Peripheral Nerves,epineurium
+D010525,Peripheral Nerves,endoneurium
+D010529,Peritoneal Cavity,greater sac
+D010529,Peritoneal Cavity,lesser sac
+D010529,Peritoneal Cavity,peritoneal cavity
+D010537,Peritoneum,parametrium
+D010537,Peritoneum,"peritoneum, parietal"
+D010537,Peritoneum,"peritoneum, visceral"
+D010537,Peritoneum,peritoneum
+D010543,Peroneal Nerve,peroneal nerve
+D010579,Petrous Bone,petrous bone
+D010581,Peyer's Patches,peyer's patches
+D010586,Phagocytes,phagocytes
+D010588,Phagosomes,phagolysosomes
+D010588,Phagosomes,phagosomes
+D010609,Pharyngeal Muscles,stylopharyngeus
+D010609,Pharyngeal Muscles,palatopharyngeus
+D010609,Pharyngeal Muscles,salpingopharyngeus
+D010609,Pharyngeal Muscles,pharyngeal muscles
+D010614,Pharynx,pharynx
+D010677,Philadelphia Chromosome,philadelphia chromosome
+D010786,Photoreceptor Cells,photoreceptor cells
+D010786,Photoreceptor Cells,rhabdomeric photoreceptor cells
+D010786,Photoreceptor Cells,ciliary photoreceptor cells
+D010791,Phrenic Nerve,phrenic nerve
+D010841,Pia Mater,pia mater
+D010857,Pigment Epithelium of Eye,pigment epithelium of eye
+D010861,"Fimbriae, Bacterial",bacterial pilus
+D010861,"Fimbriae, Bacterial","fimbriae, bacterial"
+D010870,Pineal Gland,pineal gland
+D010902,Pituitary Gland,pituitary stalk
+D010902,Pituitary Gland,pituitary gland
+D010903,"Pituitary Gland, Anterior","pituitary gland, anterior"
+D010904,"Pituitary Gland, Posterior","pituitary gland, posterior"
+D010913,Pituitary-Adrenal System,pituitary-adrenal system
+D010920,Placenta,"placentoma, normal"
+D010920,Placenta,placenta
+D010949,Plasma,plasma
+D010949,Plasma,fresh frozen plasma
+D010950,Plasma Cells,plasma cells
+D010994,Pleura,parietal pleura
+D010994,Pleura,visceral pleura
+D010994,Pleura,pleura
+D011058,Pollen,pollen
+D011058,Pollen,male gametophytes
+D011058,Pollen,plant microspores
+D011058,Pollen,"male gametes, plant"
+D011132,Polyribosomes,polyribosomes
+D011149,Pons,pons
+D011150,Popliteal Artery,popliteal artery
+D011152,Popliteal Vein,popliteal vein
+D011168,Portal System,portal system
+D011169,Portal Vein,portal vein
+D011301,Preoptic Area,lateral preoptic area
+D011301,Preoptic Area,preoptic area
+D011301,Preoptic Area,medial preoptic area
+D011311,Pressoreceptors,pressoreceptors
+D011387,Prokaryotic Cells,prokaryotic cells
+D011467,Prostate,prostate
+D011523,Protoplasts,protoplasts
+D011531,Proventriculus,proventriculus
+D011554,Pseudopodia,pseudopodia
+D011554,Pseudopodia,lobopodia
+D011554,Pseudopodia,reticulopodia
+D011554,Pseudopodia,filopodia
+D011554,Pseudopodia,"microspikes, cell surface"
+D011554,Pseudopodia,axopodia
+D011554,Pseudopodia,lamellipodia
+D011626,Pterygoid Muscles,pterygoid muscles
+D011630,Pubic Bone,pubic bone
+D011631,Pubic Symphysis,pubic symphysis
+D011650,Pulmonary Alveoli,pulmonary alveoli
+D011651,Pulmonary Artery,pulmonary artery
+D011661,Pulmonary Stretch Receptors,pulmonary stretch receptors
+D011664,Pulmonary Valve,pulmonary valve
+D011667,Pulmonary Veins,pulmonary veins
+D011680,Pupil,pupil
+D011689,Purkinje Cells,purkinje cells
+D011690,Purkinje Fibers,purkinje fibers
+D011699,Putamen,putamen
+D011706,Pyloric Antrum,pyloric antrum
+D011708,Pylorus,pyloric sphincter
+D011708,Pylorus,pylorus
+D011712,Pyramidal Tracts,corticospinal tracts
+D011712,Pyramidal Tracts,pyramidal tracts
+D011712,Pyramidal Tracts,corticobulbar tracts
+D011712,Pyramidal Tracts,"decussation, pyramidal"
+D011826,Radial Nerve,radial nerve
+D011884,Radius,radial tuberosity
+D011884,Radius,radius
+D011901,Ranvier's Nodes,ranvier's nodes
+D011903,Raphe Nuclei,interfascicular nucleus
+D011903,Raphe Nuclei,raphe nuclei
+D011903,Raphe Nuclei,nucleus incertus
+D011903,Raphe Nuclei,caudal linear nucleus of the raphe
+D011903,Raphe Nuclei,superior central nucleus
+D011903,Raphe Nuclei,rostral linear nucleus of raphe
+D011984,Sensory Receptor Cells,"nerve endings, sensory"
+D011984,Sensory Receptor Cells,sensory receptor cells
+D011992,Endosomes,endosomes
+D012007,Rectum,rectum
+D012009,Recurrent Laryngeal Nerve,recurrent laryngeal nerve
+D012009,Recurrent Laryngeal Nerve,"laryngeal nerve, inferior"
+D012012,Red Nucleus,red nucleus
+D012077,Renal Artery,renal artery
+D012082,Renal Veins,renal veins
+D012125,Respiratory Center,respiratory center
+D012132,Respiratory Muscles,respiratory muscles
+D012137,Respiratory System,respiratory system
+D012152,Rete Testis,rete testis
+D012154,Reticular Formation,reticular formation
+D012156,Reticulocytes,reticulocytes
+D012157,Mononuclear Phagocyte System,mononuclear phagocyte system
+D012159,Reticulum,reticulum
+D012160,Retina,ora serrata
+D012160,Retina,retina
+D012161,Retinal Artery,retinal artery
+D012165,Retinal Ganglion Cells,retinal ganglion cells
+D012169,Retinal Vein,retinal vein
+D012171,Retinal Vessels,retinal vasculature
+D012171,Retinal Vessels,pecten oculi
+D012171,Retinal Vessels,retinal vessels
+D012187,Retroperitoneal Space,retroperitoneal space
+D012249,Rhombencephalon,rhombencephalon
+D012270,Ribosomes,ribosomes
+D012272,Ribs,ribs
+D012303,Ring Chromosomes,ring chromosomes
+D012374,Rod Cell Outer Segment,rod cell outer segment
+D012404,Round Ligament of Uterus,round ligament of uterus
+D012405,"Round Window, Ear","round window, ear"
+D012417,Rumen,rumen
+D012444,Saccule and Utricle,utricle
+D012444,Saccule and Utricle,saccule
+D012444,Saccule and Utricle,saccule and utricle
+D012445,Sacrococcygeal Region,sacral region
+D012445,Sacrococcygeal Region,sacrococcygeal region
+D012445,Sacrococcygeal Region,coccygeal region
+D012446,Sacroiliac Joint,sacroiliac joint
+D012447,Sacrum,sacrum
+D012447,Sacrum,sacral vertebrae
+D012463,Saliva,saliva
+D012469,Salivary Glands,salivary glands
+D012470,"Salivary Glands, Minor","salivary glands, minor"
+D012491,Salt Gland,salt gland
+D012501,Saphenous Vein,saphenous vein
+D012508,Sarcolemma,sarcolemma
+D012518,Sarcomeres,sarcomeres
+D012519,Sarcoplasmic Reticulum,sarcoplasmic reticulum
+D012533,Scala Tympani,scala tympani
+D012535,Scalp,scalp
+D012540,Scapula,scapula
+D012543,Scent Glands,scent glands
+D012583,Schwann Cells,schwann cells
+D012584,Sciatic Nerve,sciatic nerve
+D012590,Sclera,scleral spur
+D012590,Sclera,sclera
+D012611,Scrotum,scrotum
+D012627,Sebaceous Glands,sebaceous glands
+D012629,Sebum,sebum
+D012634,Bodily Secretions,bodily secretions
+D012639,Seeds,elaiosomes
+D012639,Seeds,diaspores
+D012639,Seeds,seeds
+D012658,Sella Turcica,sella turcica
+D012661,Semen,semen
+D012661,Semen,seminal plasma
+D012665,Semicircular Canals,semicircular canals
+D012667,Lunate Bone,lunate bone
+D012668,Trigeminal Ganglion,trigeminal ganglion
+D012669,Seminal Vesicles,seminal vesicles
+D012670,Seminiferous Epithelium,seminiferous epithelium
+D012671,Seminiferous Tubules,seminiferous tubules
+D012679,Sense Organs,sense organs
+D012679,Sense Organs,sensory system
+D012686,Septal Nuclei,septofimbrial nucleus
+D012686,Septal Nuclei,nucleus of anterior commissure
+D012686,Septal Nuclei,septal nuclei
+D012686,Septal Nuclei,dorsal septal nucleus
+D012686,Septal Nuclei,nucleus of diagonal band
+D012686,Septal Nuclei,medial septal nucleus
+D012686,Septal Nuclei,nucleus of stria terminalis
+D012686,Septal Nuclei,lateral septal nucleus
+D012686,Septal Nuclei,triangular septal nucleus
+D012688,Septum Pellucidum,septum pellucidum
+D012704,Serous Membrane,serous membrane
+D012708,Sertoli Cells,sertoli cells
+D012716,Sesamoid Bones,sesamoid bones
+D012728,Sex Chromatin,sex chromatin
+D012730,Sex Chromosomes,sex chromosomes
+D012782,Shoulder,shoulder
+D012785,Shoulder Joint,glenoid labrum
+D012785,Shoulder Joint,shoulder joint
+D012809,"Colon, Sigmoid","colon, sigmoid"
+D012849,Sinoatrial Node,sinoatrial node
+D012850,Sinus of Valsalva,sinus of valsalva
+D012863,Skeleton,skeleton
+D012867,Skin,skin
+D012886,Skull,skull
+D012886,Skull,calvaria
+D012902,Smegma,smegma
+D013003,Somatosensory Cortex,primary somatosensory cortex
+D013003,Somatosensory Cortex,postcentral gyrus
+D013003,Somatosensory Cortex,somatosensory cortex
+D013003,Somatosensory Cortex,brodmann area 1
+D013003,Somatosensory Cortex,brodmann area 2
+D013003,Somatosensory Cortex,brodmann area 3
+D013003,Somatosensory Cortex,secondary somatosensory cortex
+D013077,Sperm Head,sperm head
+D013082,Sperm Tail,sperm tail
+D013085,Spermatic Cord,spermatic cord
+D013087,Spermatids,spermatids
+D013090,Spermatocytes,spermatocytes
+D013093,Spermatogonia,spermatogonia
+D013094,Spermatozoa,x-chromosome-bearing sperm
+D013094,Spermatozoa,spermatozoa
+D013094,Spermatozoa,y-chromosome-bearing sperm
+D013100,Sphenoid Bone,greater sphenoid wing
+D013100,Sphenoid Bone,sphenoid bone
+D013101,Sphenoid Sinus,sphenoid sinus
+D013102,Spherocytes,spherocytes
+D013104,Spheroplasts,spheroplasts
+D013115,Spinal Canal,spinal canal
+D013115,Spinal Canal,vertebral foramen
+D013116,Spinal Cord,spinal cord
+D013116,Spinal Cord,sacral cord
+D013116,Spinal Cord,conus medullaris
+D013116,Spinal Cord,lumbar cord
+D013116,Spinal Cord,coccygeal cord
+D013116,Spinal Cord,thoracic cord
+D013126,Spinal Nerve Roots,dorsal roots
+D013126,Spinal Nerve Roots,spinal nerve roots
+D013126,Spinal Nerve Roots,ventral roots
+D013127,Spinal Nerves,spinal nerves
+D013131,Spine,spine
+D013131,Spine,vertebra
+D013133,Spinothalamic Tracts,spinothalamic tracts
+D013136,Spiral Ganglion,spiral ganglion
+D013137,Spiral Lamina,spiral lamina
+D013153,Splanchnic Nerves,splanchnic nerves
+D013154,Spleen,spleen
+D013157,Splenic Artery,splenic artery
+D013162,Splenic Vein,splenic vein
+D013170,Spores,spores
+D013171,"Spores, Bacterial","spores, bacterial"
+D013172,"Spores, Fungal","spores, fungal"
+D013172,"Spores, Fungal",conidia
+D013183,Sputum,"sputum, induced"
+D013183,Sputum,sputum
+D013198,Stapedius,stapedius
+D013199,Stapes,stapes
+D013233,Stellate Ganglion,stellate ganglion
+D013234,Stem Cells,stem cells
+D013234,Stem Cells,colony-forming unit
+D013247,Sternoclavicular Joint,sternoclavicular joint
+D013248,Sternocostal Joints,sternocostal joints
+D013249,Sternum,sternum
+D013264,Stifle,stifle
+D013270,Stomach,stomach
+D013278,"Stomach, Avian","stomach, avian"
+D013279,"Stomach, Ruminant","stomach, ruminant"
+D013284,Stomatognathic System,masticatory system
+D013284,Stomatognathic System,stomatognathic system
+D013316,Stria Vascularis,stria vascularis
+D013346,Subarachnoid Space,subarachnoid space
+D013347,Subcellular Fractions,subcellular fractions
+D013348,Subclavian Artery,subclavian artery
+D013350,Subclavian Vein,subclavian vein
+D013351,Subcommissural Organ,subcommissural organ
+D013355,Subdural Space,subdural space
+D013356,Subfornical Organ,subfornical organ
+D013361,Sublingual Gland,sublingual gland
+D013363,Submandibular Gland,submandibular gland
+D013367,Submitochondrial Particles,submitochondrial particles
+D013368,Submucous Plexus,submucous plexus
+D013376,Substantia Gelatinosa,substantia gelatinosa
+D013377,Substantia Innominata,substantia innominata
+D013378,Substantia Nigra,substantia nigra
+D013380,Subtalar Joint,subtalar joint
+D013477,Superior Colliculi,"optic lobe, human"
+D013477,Superior Colliculi,superior colliculi
+D013493,Suprachiasmatic Nucleus,suprachiasmatic nucleus
+D013495,Supraoptic Nucleus,accessory supraoptic group
+D013495,Supraoptic Nucleus,supraoptic nucleus
+D013497,Sural Nerve,sural nerve
+D013524,Surgical Flaps,pedicled flap
+D013524,Surgical Flaps,island flaps
+D013524,Surgical Flaps,surgical flaps
+D013542,Sweat,sweat
+D013545,Sweat Glands,sweat glands
+D013564,Sympathetic Nervous System,sympathetic nervous system
+D013569,Synapses,synapses
+D013570,Synaptic Membranes,synaptic membranes
+D013572,Synaptic Vesicles,synaptic vesicles
+D013573,Synaptonemal Complex,synaptonemal complex
+D013574,Synaptosomes,synaptosomes
+D013582,Synovial Fluid,synovial fluid
+D013583,Synovial Membrane,synovial membrane
+D013601,T-Lymphocytes,t-lymphocytes
+D013602,"T-Lymphocytes, Cytotoxic","t-lymphocytes, cytotoxic"
+D013602,"T-Lymphocytes, Cytotoxic",tc2 cells
+D013602,"T-Lymphocytes, Cytotoxic",tc1 cells
+D013623,Tail,tail
+D013628,Talus,os trigonum
+D013628,Talus,talus
+D013639,Tarsal Bones,cuboid bone
+D013639,Tarsal Bones,cuneiform bones
+D013639,Tarsal Bones,tarsal bones
+D013639,Tarsal Bones,navicular bone of foot
+D013640,Tarsal Joints,intertarsal joint
+D013640,Tarsal Joints,tarsal joints
+D013643,"Tarsus, Animal","tarsus, animal"
+D013650,Taste Buds,taste buds
+D013666,Tears,tears
+D013666,Tears,meibum
+D013680,Tectorial Membrane,tectorial membrane
+D013681,Tegmentum Mesencephali,nucleus of darkschewitsch
+D013681,Tegmentum Mesencephali,interstitial nucleus of cajal
+D013681,Tegmentum Mesencephali,ventral tegmental nucleus
+D013681,Tegmentum Mesencephali,tegmentum mesencephali
+D013681,Tegmentum Mesencephali,peripeduncular nucleus
+D013681,Tegmentum Mesencephali,accessory oculomotor nuclei
+D013681,Tegmentum Mesencephali,trochlear nucleus
+D013681,Tegmentum Mesencephali,annular nucleus
+D013681,Tegmentum Mesencephali,sagulum nucleus
+D013681,Tegmentum Mesencephali,midbrain trigeminal nucleus
+D013687,Telencephalon,telencephalon
+D013699,Temporal Arteries,temporal arteries
+D013701,Temporal Bone,stylomastoid foramen
+D013701,Temporal Bone,temporal bone
+D013702,Temporal Lobe,middle temporal gyrus
+D013702,Temporal Lobe,parainsular area
+D013702,Temporal Lobe,anterior temporal lobe
+D013702,Temporal Lobe,brodmann area 37
+D013702,Temporal Lobe,temporal gyrus
+D013702,Temporal Lobe,inferior horn of the lateral ventricle
+D013702,Temporal Lobe,brodmann area 38
+D013702,Temporal Lobe,temporal lobe
+D013702,Temporal Lobe,inferior temporal gyrus
+D013702,Temporal Lobe,temporal operculum
+D013702,Temporal Lobe,superior temporal gyrus
+D013702,Temporal Lobe,fusiform gyrus
+D013702,Temporal Lobe,temporal sulcus
+D013702,Temporal Lobe,planum polare
+D013703,Temporal Muscle,temporal muscle
+D013704,Temporomandibular Joint,temporomandibular joint
+D013710,Tendons,endotenon
+D013710,Tendons,"tendons, para-articular"
+D013710,Tendons,epotenon
+D013710,Tendons,tendons
+D013719,Tensor Tympani,tensor tympani
+D013737,Testis,testis
+D013787,Thalamic Nuclei,thalamic nuclei
+D013788,Thalamus,thalamus
+D013799,Theca Cells,theca externa
+D013799,Theca Cells,theca interna
+D013799,Theca Cells,theca cells
+D013823,Thermoreceptors,thermoreceptors
+D013848,Thigh,thigh
+D013895,Thoracic Arteries,thoracic arteries
+D013897,Thoracic Duct,cisterna chyli
+D013897,Thoracic Duct,thoracic duct
+D013900,Thoracic Nerves,thoracic nerves
+D013900,Thoracic Nerves,pectoral nerves
+D013904,Thoracic Vertebrae,thoracic vertebrae
+D013909,Thorax,thorax
+D013933,Thumb,thumb
+D013950,Thymus Gland,thymus gland
+D013957,Thyroid Cartilage,thyroid cartilage
+D013961,Thyroid Gland,thyroid gland
+D013977,Tibia,tibia
+D013979,Tibial Nerve,medial plantar nerve
+D013979,Tibial Nerve,tibial nerve
+D013979,Tibial Nerve,posterior tibial nerve
+D014024,Tissues,tissues
+D014033,Toe Joint,toe joint
+D014034,Toes,toes
+D014059,Tongue,tongue
+D014066,Palatine Tonsil,palatine tonsil
+D014070,Tooth,tooth
+D014083,Tooth Germ,tooth germ
+D014092,Tooth Root,tooth root
+D014094,"Tooth, Deciduous","tooth, deciduous"
+D014097,"Tooth, Unerupted","tooth, unerupted"
+D014129,Trabecular Meshwork,trabecular meshwork
+D014132,Trachea,trachea
+D014261,Tricuspid Valve,tricuspid valve
+D014275,Trigeminal Caudal Nucleus,trigeminal caudal nucleus
+D014276,Trigeminal Nerve,trigeminal nerve
+D014278,Trigeminal Nuclei,trigeminal nuclei
+D014279,"Trigeminal Nucleus, Spinal","trigeminal nucleus, spinal"
+D014321,Trochlear Nerve,trochlear nerve
+D014327,Trophoblasts,syncytiotrophoblasts
+D014327,Trophoblasts,cytotrophoblasts
+D014327,Trophoblasts,trophoblasts
+D014338,Truncus Arteriosus,truncus arteriosus
+D014371,Tuber Cinereum,tuber cinereum
+D014407,"Tumor Cells, Cultured","tumor cells, cultured"
+D014411,Neoplastic Stem Cells,neoplastic stem cells
+D014411,Neoplastic Stem Cells,cancer stem cells
+D014411,Neoplastic Stem Cells,neoplastic colony-forming units
+D014420,Turbinates,turbinates
+D014432,Tympanic Membrane,tympanic membrane
+D014457,Ulna,trochlear notch
+D014457,Ulna,ulnar coronoid process
+D014457,Ulna,ulna
+D014459,Ulnar Nerve,ulnar nerve
+D014460,Ultimobranchial Body,ultimobranchial body
+D014469,Umbilical Arteries,umbilical arteries
+D014470,Umbilical Cord,umbilical cord
+D014471,Umbilical Veins,umbilical veins
+D014472,Umbilicus,umbilicus
+D014497,Urachus,urachus
+D014513,Ureter,ureter
+D014521,Urethra,internal urinary sphincter
+D014521,Urethra,urethra
+D014521,Urethra,external urinary sphincter
+D014521,Urethra,urethral sphincters
+D014551,Urinary Tract,urinary tract
+D014556,Urine,urine
+D014566,Urogenital System,urogenital system
+D014599,Uterus,uterus
+D014599,Uterus,uterine fundus
+D014599,Uterus,uterus cornua
+D014602,Uvea,uvea
+D014609,Uvula,uvula
+D014617,Vacuoles,vacuoles
+D014621,Vagina,vagina
+D014630,Vagus Nerve,vagus nerve
+D014649,Vas Deferens,vas deferens
+D014650,Vasa Nervorum,vasa nervorum
+D014651,Vasa Vasorum,vasa vasorum
+D014666,Vasomotor System,vasomotor system
+D014670,Ampulla of Vater,ampulla of vater
+D014670,Ampulla of Vater,"duodenal papilla, major"
+D014680,Veins,veins
+D014682,"Vena Cava, Inferior","vena cava, inferior"
+D014683,"Vena Cava, Superior","vena cava, superior"
+D014684,Venae Cavae,venae cavae
+D014688,Venoms,venoms
+D014697,Ventromedial Hypothalamic Nucleus,ventromedial hypothalamic nucleus
+D014699,Venules,venules
+D014708,Vernix Caseosa,vernix caseosa
+D014709,Vero Cells,vero cells
+D014711,Vertebral Artery,vertebral artery
+D014722,"Vestibule, Labyrinth","vestibule, labyrinth"
+D014723,Vestibular Aqueduct,vestibular aqueduct
+D014725,Vestibular Nerve,vestibular nerve
+D014725,Vestibular Nerve,scarpa's ganglion
+D014726,Vestibular Nuclei,"vestibular nucleus, medial"
+D014726,Vestibular Nuclei,vestibular nuclei
+D014738,Vibrissae,vibrissae
+D014771,Virion,virion
+D014781,Viscera,viscera
+D014793,Visual Cortex,cortical area v4
+D014793,Visual Cortex,extrastriate cortex
+D014793,Visual Cortex,associative visual cortex
+D014793,Visual Cortex,cortical area v5
+D014793,Visual Cortex,secondary visual cortex
+D014793,Visual Cortex,cortical area v3
+D014793,Visual Cortex,visual cortex
+D014795,Visual Pathways,visual pathways
+D014816,Vitelline Duct,vitelline duct
+D014817,Vitelline Membrane,vitelline membrane
+D014822,Vitreous Body,vitreous body
+D014827,Vocal Cords,vocal ligament
+D014827,Vocal Cords,vocal cords
+D014844,Vulva,vulva
+D014921,"Wings, Animal","wings, animal"
+D014928,Wolffian Ducts,gartner ducts
+D014928,Wolffian Ducts,wolffian ducts
+D014934,Wood,wood
+D014935,Wool,wool
+D014953,Wrist,wrist
+D014955,Wrist Joint,wrist joint
+D014960,X Chromosome,x chromosome
+D014989,Xiphoid Bone,xiphoid bone
+D014998,Y Chromosome,y chromosome
+D015017,Yolk Sac,yolk sac
+D015044,Zona Pellucida,zona pellucida
+D015050,Zygoma,zygoma
+D015050,Zygoma,"arches, zygomatic"
+D015053,Zygote,zygote
+D015383,Zona Fasciculata,zona fasciculata
+D015384,Zona Glomerulosa,zona glomerulosa
+D015385,Zona Reticularis,zona reticularis
+D015388,Organelles,organelles
+D015496,CD4-Positive T-Lymphocytes,cd4-positive t-lymphocytes
+D015530,Nuclear Matrix,nuclear matrix
+D015571,Follicular Fluid,follicular fluid
+D015603,Keratinocytes,keratinocytes
+D015622,Epithelioid Cells,epithelioid cells
+D015633,Extravascular Lung Water,extravascular lung water
+D015672,Erythroid Precursor Cells,erythroid progenitor cells
+D015672,Erythroid Precursor Cells,"burst-forming units, erythroid"
+D015672,Erythroid Precursor Cells,erythroid precursor cells
+D015672,Erythroid Precursor Cells,"colony-forming units, erythroid"
+D015726,Giant Cells,giant cells
+D015743,"Giant Cells, Foreign-Body","giant cells, foreign-body"
+D015744,"Giant Cells, Langhans","giant cells, langhans"
+D015824,Blood-Air Barrier,blood-air barrier
+D015825,"Chromosomes, Fungal","chromosomes, fungal"
+D015979,"Killer Cells, Lymphokine-Activated","killer cells, lymphokine-activated"
+D016118,Anterior Cruciate Ligament,anterior cruciate ligament
+D016118,Anterior Cruciate Ligament,anterior cranial cruciate ligament
+D016119,Posterior Cruciate Ligament,posterior cruciate ligament
+D016121,Brachiocephalic Veins,brachiocephalic veins
+D016122,Brachiocephalic Trunk,brachiocephalic trunk
+D016131,Lymphocyte Subsets,lymphocyte subsets
+D016175,B-Lymphocyte Subsets,effector b cells
+D016175,B-Lymphocyte Subsets,tumor-infiltrating b cells
+D016175,B-Lymphocyte Subsets,b-lymphocyte subsets
+D016175,B-Lymphocyte Subsets,be1 cells
+D016175,B-Lymphocyte Subsets,be2 cells
+D016176,T-Lymphocyte Subsets,t-lymphocyte subsets
+D016246,"Lymphocytes, Tumor-Infiltrating","lymphocytes, tumor-infiltrating"
+D016246,"Lymphocytes, Tumor-Infiltrating",tumor-derived activated cells
+D016260,"Monocytes, Activated Killer","monocytes, activated killer"
+D016466,CHO Cells,cho cells
+D016475,3T3 Cells,3t3 cells
+D016476,"Urinary Reservoirs, Continent","urinary reservoirs, continent"
+D016501,Neurites,neurites
+D016539,Reed-Sternberg Cells,reed-sternberg cells
+D016548,Prosencephalon,prosencephalon
+D016570,Bruch Membrane,bruch membrane
+D016615,Telomere,telomere
+D016631,Lewy Bodies,lewy bodies
+D016631,Lewy Bodies,lewy neurites
+D016658,Psoas Muscles,psoas muscles
+D016667,Bacterial Capsules,bacterial capsules
+D016676,"Macrophages, Alveolar","macrophages, alveolar"
+D016716,PC12 Cells,pc12 cells
+D016850,Limbus Corneae,limbus corneae
+D016874,Neurofibrillary Tangles,neurofibrillary tangles
+D016909,Tibial Arteries,tibial arteries
+D016909,Tibial Arteries,posterior tibial artery
+D016909,Tibial Arteries,anterior tibial artery
+D017006,Rotator Cuff,supraspinatus
+D017006,Rotator Cuff,infraspinatus
+D017006,Rotator Cuff,subscapularis
+D017006,Rotator Cuff,teres minor
+D017006,Rotator Cuff,rotator cuff
+D017072,Neostriatum,neostriatum
+D017154,Stromal Cells,stromal cells
+D017358,Cell Wall Skeleton,cell wall skeleton
+D017381,Spliceosomes,spliceosomes
+D017397,Prefrontal Cortex,pars orbitalis
+D017397,Prefrontal Cortex,frontal sulcus
+D017397,Prefrontal Cortex,brodmann area 47
+D017397,Prefrontal Cortex,medial frontal gyrus
+D017397,Prefrontal Cortex,superior frontal gyrus
+D017397,Prefrontal Cortex,orbitofrontal cortex
+D017397,Prefrontal Cortex,subcallosal area
+D017397,Prefrontal Cortex,lateral orbitofrontal cortex
+D017397,Prefrontal Cortex,olfactory sulci
+D017397,Prefrontal Cortex,brodmann area 12
+D017397,Prefrontal Cortex,anterior prefrontal cortex
+D017397,Prefrontal Cortex,ventromedial prefrontal cortex
+D017397,Prefrontal Cortex,prefrontal cortex
+D017397,Prefrontal Cortex,straight gyrus
+D017397,Prefrontal Cortex,inferior frontal gyrus
+D017439,"Cicatrix, Hypertrophic","cicatrix, hypertrophic"
+D017534,Radial Artery,radial artery
+D017535,Ulnar Artery,ulnar artery
+D017536,"Carotid Artery, Common","carotid artery, common"
+D017537,"Mesenteric Artery, Inferior","mesenteric artery, inferior"
+D017538,"Mesenteric Artery, Superior","mesenteric artery, superior"
+D017539,Tunica Intima,internal elastic lamella
+D017539,Tunica Intima,tunica intima
+D017539,Tunica Intima,arterial intima
+D017539,Tunica Intima,venous intima
+D017540,Tunica Media,venous media
+D017540,Tunica Media,tunica media
+D017540,Tunica Media,arterial media
+D017552,Solitary Nucleus,solitary nucleus
+D017557,Ventral Tegmental Area,ventral tegmental area
+D017568,Rectus Abdominis,rectus abdominis
+D017615,Enteric Nervous System,enteric nervous system
+D017626,Cochlear Nucleus,cochlear nucleus
+D017628,Microglia,microglia
+D017629,Gap Junctions,gap junctions
+D017667,Adipocytes,adipocytes
+D017729,Presynaptic Terminals,presynaptic terminals
+D017734,"Bile Ducts, Extrahepatic","bile ducts, extrahepatic"
+D017737,"Macrophages, Peritoneal","macrophages, peritoneal"
+D017746,Joint Capsule,joint capsule
+D017746,Joint Capsule,synovial plica
+D017773,Pelvic Floor,pelvic floor
+D017776,Autonomic Pathways,autonomic pathways
+D017776,Autonomic Pathways,autonomic nerves
+D017777,"Parasympathetic Fibers, Postganglionic","parasympathetic fibers, postganglionic"
+D017779,"Sympathetic Fibers, Postganglionic","sympathetic fibers, postganglionic"
+D017783,Superior Cervical Ganglion,superior cervical ganglion
+D017833,Visceral Afferents,visceral afferents
+D017843,Ligamentum Flavum,ligamentum flavum
+D017844,"Lateral Ligament, Ankle",posterior inferior tibiofibular ligament
+D017844,"Lateral Ligament, Ankle",calcaneofibular ligament
+D017844,"Lateral Ligament, Ankle",external lateral ligament
+D017844,"Lateral Ligament, Ankle",internal lateral ankle ligament
+D017844,"Lateral Ligament, Ankle","lateral ligament, ankle"
+D017844,"Lateral Ligament, Ankle",posterior talofibular ligament
+D017844,"Lateral Ligament, Ankle",anterior inferior tibiofibular ligament
+D017846,Longitudinal Ligaments,posterior longitudinal ligament
+D017846,Longitudinal Ligaments,anterior longitudinal ligament
+D017846,Longitudinal Ligaments,longitudinal ligaments
+D017847,Patellar Ligament,patellar ligament
+D017885,Collateral Ligaments,collateral ligaments
+D017885,Collateral Ligaments,lateral ligaments
+D017888,"Medial Collateral Ligament, Knee","medial collateral ligament, knee"
+D017933,Peripheral Nervous System,peripheral nervous system
+D017948,Retinal Rod Photoreceptor Cells,retinal rod photoreceptor cells
+D017948,Retinal Rod Photoreceptor Cells,retinal rod cell
+D017949,Retinal Cone Photoreceptor Cells,retinal cone photoreceptor cells
+D017950,"Ganglia, Sensory","ganglia, sensory"
+D017952,"Ganglia, Invertebrate","ganglia, invertebrate"
+D017956,"Photoreceptor Cells, Invertebrate","photoreceptor cells, invertebrate"
+D017966,Pyramidal Cells,pyramidal cells
+D018034,Olfactory Receptor Neurons,olfactory receptor neurons
+D018034,Olfactory Receptor Neurons,olfactory sensory cilia
+D018069,"Hair Cells, Vestibular","hair cells, vestibular"
+D018072,"Hair Cells, Auditory, Outer","hair cells, auditory, outer"
+D018087,Plastids,leukoplasts
+D018087,Plastids,plastids
+D018087,Plastids,chromoplasts
+D018087,Plastids,amyloplasts
+D018244,"Chromosomes, Artificial, Yeast","chromosomes, artificial, yeast"
+D018374,LLC-PK1 Cells,llc-pk1 cells
+D018385,Centrosome,pericentriolar region
+D018385,Centrosome,pericentriolar matrix
+D018385,Centrosome,centrosome
+D018386,Kinetochores,kinetochores
+D018404,Isochromosomes,isochromosomes
+D018414,CD8-Positive T-Lymphocytes,"suppressor t-lymphocytes, cd8-positive"
+D018414,CD8-Positive T-Lymphocytes,cd8-positive t-lymphocytes
+D018417,Th1 Cells,th1 cells
+D018418,Th2 Cells,th2 cells
+D018441,Biofilms,biofilms
+D018482,"Muscle, Skeletal","muscle, skeletal"
+D018482,"Muscle, Skeletal",gastrocnemius muscle
+D018482,"Muscle, Skeletal",soleus muscle
+D018482,"Muscle, Skeletal",plantaris muscle
+D018482,"Muscle, Skeletal",anterior tibial muscle
+D018483,Diaphyses,diaphyses
+D018485,"Muscle Fibers, Skeletal","muscle fibers, skeletal"
+D018514,Plant Structures,plant structures
+D018514,Plant Structures,plant components
+D018515,Plant Leaves,plant leaves
+D018516,Pulvinus,pulvinus
+D018517,Plant Roots,plant roots
+D018517,Plant Roots,plant bulbs
+D018518,Plant Root Cap,plant root cap
+D018519,Meristem,root tip
+D018519,Meristem,meristem
+D018520,Plant Shoots,plant shoots
+D018530,Gastric Stump,gastric stump
+D018546,Hypocotyl,hypocotyl
+D018547,Plant Stems,plant stems
+D018548,Cotyledon,cotyledon
+D018548,Cotyledon,coleoptile
+D018656,"Muscle Fibers, Fast-Twitch","muscle fibers, white"
+D018656,"Muscle Fibers, Fast-Twitch","muscle fibers, fast-twitch"
+D018656,"Muscle Fibers, Fast-Twitch","muscle fibers, intermediate"
+D018657,"Muscle Fibers, Slow-Twitch","muscle fibers, slow-twitch"
+D018657,"Muscle Fibers, Slow-Twitch","muscle fibers, red"
+D018699,Coated Vesicles,coated vesicles
+D018717,Purple Membrane,purple membrane
+D018728,Entorhinal Cortex,brodmann area 34
+D018728,Entorhinal Cortex,entorhinal cortex
+D018728,Entorhinal Cortex,brodmann area 28
+D018858,Germinal Center,germinal center
+D018859,Hair Follicle,hair follicle
+D018862,Merkel Cells,merkel cells
+D018870,"Endoplasmic Reticulum, Rough","endoplasmic reticulum, rough"
+D018871,"Endoplasmic Reticulum, Smooth","endoplasmic reticulum, smooth"
+D018874,"Spheroids, Cellular","spheroids, cellular"
+D018878,Limb Buds,limb buds
+D018891,Dentate Gyrus,dentate gyrus
+D018891,Dentate Gyrus,"ca4 region, hippocampal"
+D018914,"Cells, Immobilized","cells, immobilized"
+D018916,Blood-Aqueous Barrier,blood-aqueous barrier
+D018922,HL-60 Cells,hl-60 cells
+D018933,"Pili, Sex","pili, sex"
+D018938,Caco-2 Cells,caco-2 cells
+D018987,Salivary Ducts,wharton's duct
+D018987,Salivary Ducts,salivary ducts
+D018987,Salivary Ducts,stensen's duct
+D019073,HT29 Cells,ht29 cells
+D019074,Epigastric Arteries,epigastric arteries
+D019108,Tight Junctions,tight junctions
+D019147,Vomeronasal Organ,vomeronasal organ
+D019147,Vomeronasal Organ,vomeronasal system
+D019147,Vomeronasal Organ,vomeronasal nerve
+D019169,Jurkat Cells,jurkat cells
+D019170,Somites,somites
+D019224,Temporomandibular Joint Disc,temporomandibular joint disc
+D019227,Tooth Apex,apical foramen
+D019227,Tooth Apex,tooth apex
+D019228,Tooth Crown,tooth crown
+D019229,"Dentition, Permanent","dentition, permanent"
+D019234,Dentinal Fluid,dentinal fluid
+D019237,Tooth Cervix,tooth cervix
+D019251,Nucleocapsid,nucleocapsid
+D019261,Epithalamus,epithalamus
+D019262,Habenula,habenular nuclei
+D019262,Habenula,habenula
+D019262,Habenula,habenular commissure
+D019276,Glycocalyx,glycocalyx
+D019291,Skull Base,skull base
+D019439,Chromaffin Cells,chromaffin cells
+D019441,Plant Epidermis,plant epidermis
+D019459,Urothelium,urothelium
+D019556,COS Cells,cos cells
+D019556,COS Cells,cos-7 cells
+D019556,COS Cells,cos-1 cells
+D019573,"Epithelium, Corneal","epithelium, corneal"
+D019579,Neocortex,neocortical multiform layer
+D019579,Neocortex,neocortical external pyramidal layer
+D019579,Neocortex,neocortical external granular layer
+D019579,Neocortex,neocortical internal granular layer
+D019579,Neocortex,neocortical internal pyramidal layer
+D019579,Neocortex,neocortical molecular layer
+D019579,Neocortex,neocortex
+D019580,Perforant Pathway,perforant pathway
+D019581,Neuropil,neuropil
+D019589,Tooth Components,tooth components
+D019599,"Mossy Fibers, Hippocampal","mossy fibers, hippocampal"
+D019600,Neuropil Threads,neuropil threads
+D019737,Transplants,transplants
+D019737,Transplants,cell transplants
+D019737,Transplants,tissue transplants
+D019737,Transplants,organ transplants
+D019738,Surgically-Created Structures,surgically-created structures
+D019739,Skeletal Muscle Ventricle,skeletal muscle ventricle
+D019842,Ciliary Arteries,ciliary arteries
+D019847,"Chromosomes, Archaeal","chromosomes, archaeal"
+D019858,Enteroendocrine Cells,intestinal secretin cells
+D019858,Enteroendocrine Cells,intestinal l cells
+D019858,Enteroendocrine Cells,enteroendocrine cells
+D019861,Enterochromaffin-like Cells,enterochromaffin-like cells
+D019863,Gastrin-Secreting Cells,gastrin-secreting cells
+D019864,Somatostatin-Secreting Cells,pancreatic delta cells
+D019864,Somatostatin-Secreting Cells,gastric delta cells
+D019864,Somatostatin-Secreting Cells,somatostatin-secreting cells
+D019872,"Chief Cells, Gastric","chief cells, gastric"
+D019879,Paneth Cells,paneth cells
+D019897,Periplasm,periplasm
+D019902,Chondrocytes,chondroblasts
+D019902,Chondrocytes,chondrocytes
+D020014,K562 Cells,k562 cells
+D020130,Bacterial Chromatophores,bacterial chromatophores
+D020286,Pericytes,pericytes
+D020298,U937 Cells,u937 cells
+D020302,Weibel-Palade Bodies,weibel-palade bodies
+D020390,Tooth Socket,tooth socket
+D020392,Entopeduncular Nucleus,entopeduncular nucleus
+D020397,Goblet Cells,goblet cells
+D020405,Dermis,dermis
+D020419,"Photoreceptor Cells, Vertebrate","photoreceptor cells, vertebrate"
+D020419,"Photoreceptor Cells, Vertebrate",retinal photoreceptor cells
+D020420,Cyst Fluid,cyst fluid
+D020439,Growth Cones,growth cones
+D020460,Melanosomes,melanosomes
+D020517,Atrial Appendage,atrial appendage
+D020524,Thylakoids,grana
+D020524,Thylakoids,thylakoids
+D020524,Thylakoids,thylakoid membrane
+D020530,Subthalamus,lenticular fasciculus
+D020530,Subthalamus,thalamic fasciculus
+D020530,Subthalamus,subthalamus
+D020530,Subthalamus,nucleus of field h
+D020530,Subthalamus,nucleus of ansa lenticularis
+D020531,Subthalamic Nucleus,subthalamic nucleus
+D020532,Basal Nucleus of Meynert,basal nucleus of meynert
+D020532,Basal Nucleus of Meynert,basal magnocellular nucleus
+D020534,Parahippocampal Gyrus,presubiculum
+D020534,Parahippocampal Gyrus,posterior parahippocampal gyrus
+D020534,Parahippocampal Gyrus,parahippocampal gyrus
+D020534,Parahippocampal Gyrus,brodmann area 48
+D020534,Parahippocampal Gyrus,"uncus, parahippocampal gyrus"
+D020540,Metencephalon,metencephalon
+D020541,Coiled Bodies,coiled bodies
+D020542,Third Ventricle,third ventricle
+D020545,Respiratory Mucosa,respiratory epithelium
+D020545,Respiratory Mucosa,respiratory mucosa
+D020546,Fourth Ventricle,fourth ventricle
+D020547,Lateral Ventricles,lateral ventricles
+D020547,Lateral Ventricles,subventricular zone
+D020566,"Dendritic Cells, Follicular","dendritic cells, follicular"
+D020643,Anterior Thalamic Nuclei,anterodorsal thalamic nucleus
+D020643,Anterior Thalamic Nuclei,anteromedial thalamic nucleus
+D020643,Anterior Thalamic Nuclei,anteroventral thalamic nucleus
+D020643,Anterior Thalamic Nuclei,anterior thalamic nuclei
+D020644,Midline Thalamic Nuclei,paraventricular thalamic nucleus
+D020644,Midline Thalamic Nuclei,reuniens thalamic nucleus
+D020644,Midline Thalamic Nuclei,paratenial thalamic nucleus
+D020644,Midline Thalamic Nuclei,subfascular thalamic nucleus
+D020644,Midline Thalamic Nuclei,rhomboid thalamic nucleus
+D020644,Midline Thalamic Nuclei,midline thalamic nuclei
+D020645,Mediodorsal Thalamic Nucleus,mediodorsal thalamic nucleus
+D020646,Intralaminar Thalamic Nuclei,reticulate nuclei of thalamus
+D020646,Intralaminar Thalamic Nuclei,paracentral thalamic nucleus
+D020646,Intralaminar Thalamic Nuclei,intralaminar thalamic nuclei
+D020646,Intralaminar Thalamic Nuclei,centromedian thalamic nucleus
+D020646,Intralaminar Thalamic Nuclei,parafascicular thalamic nucleus
+D020646,Intralaminar Thalamic Nuclei,central lateral thalamic nucleus
+D020646,Intralaminar Thalamic Nuclei,central medial thalamic nucleus
+D020646,Intralaminar Thalamic Nuclei,central dorsal thalamic nucleus
+D020646,Intralaminar Thalamic Nuclei,rostral intralaminar nuclei
+D020647,Lateral Thalamic Nuclei,lateral posterior thalamic nucleus
+D020647,Lateral Thalamic Nuclei,lateral thalamic nuclei
+D020647,Lateral Thalamic Nuclei,lateral dorsal thalamic nucleus
+D020649,Pulvinar,pulvinar
+D020649,Pulvinar,inferior pulvinar nucleus
+D020649,Pulvinar,oral pulvinar nucleus
+D020649,Pulvinar,medial pulvinar nucleus
+D020649,Pulvinar,lateral pulvinar nucleus
+D020651,Ventral Thalamic Nuclei,ventral posterior inferior thalamic nucleus
+D020651,Ventral Thalamic Nuclei,ventral posteromedial thalamic nucleus
+D020651,Ventral Thalamic Nuclei,ventral posterior thalamic nucleus
+D020651,Ventral Thalamic Nuclei,ventral thalamic nuclei
+D020651,Ventral Thalamic Nuclei,ventral lateral thalamic nucleus
+D020651,Ventral Thalamic Nuclei,ventral anterior thalamic nucleus
+D020651,Ventral Thalamic Nuclei,ventral posterolateral thalamic nucleus
+D020656,Posterior Thalamic Nuclei,submedial nucleus
+D020656,Posterior Thalamic Nuclei,posterior thalamic nuclei
+D020656,Posterior Thalamic Nuclei,suprageniculate thalamic nucleus
+D020656,Posterior Thalamic Nuclei,limitans nucleus
+D020656,Posterior Thalamic Nuclei,posterior nucleus of thalamus
+D020665,Septum of Brain,septal region
+D020665,Septum of Brain,septum of brain
+D020665,Septum of Brain,septal area
+D020667,Diagonal Band of Broca,diagonal band of broca
+D020670,Islands of Calleja,islands of calleja
+D020670,Islands of Calleja,island of calleja magna
+D020671,Posterior Horn Cells,posterior horn cells
+D020675,Peroxisomes,peroxisomes
+D020676,Glyoxysomes,glyoxysomes
+D020712,"Fornix, Brain","fornix, brain"
+D020712,"Fornix, Brain",fimbria of hippocampus
+D020712,"Fornix, Brain",hippocampal commissure
+D020768,Middle Cerebral Artery,middle cerebral artery
+D020769,Posterior Cerebral Artery,posterior cerebral artery
+D020771,Anterior Cerebral Artery,anterior cerebral artery
+D020772,Internal Capsule,internal capsule
+D020824,Spinocerebellar Tracts,spinocerebellar tracts
+D020894,Microfibrils,microfibrils
+D020895,Enterocytes,enterocytes
+D020897,"Organizers, Embryonic",hensen node
+D020897,"Organizers, Embryonic","organizers, embryonic"
+D020897,"Organizers, Embryonic",spemann organizer
+D021361,Scaphoid Bone,scaphoid bone
+D021362,"Palate, Hard","palate, hard"
+D021362,"Palate, Hard",palatine bone
+D021601,trans-Golgi Network,trans-golgi region
+D021601,trans-Golgi Network,trans-golgi network
+D021801,Zygapophyseal Joint,zygapophyseal joint
+D021941,Caveolae,caveolae
+D021961,Cell Membrane Structures,cell membrane structures
+D021962,Membrane Microdomains,membrane microdomains
+D021982,Cell-Matrix Junctions,cell-matrix junctions
+D022001,Focal Adhesions,focal adhesions
+D022002,Hemidesmosomes,hemidesmosomes
+D022003,Cell Nucleus Structures,cell nucleus structures
+D022004,Chromosome Structures,chromosome structures
+D022005,Adherens Junctions,zonula adherens
+D022005,Adherens Junctions,adherens junctions
+D022022,Nuclear Pore,nuclear pore complex
+D022022,Nuclear Pore,nuclear pore
+D022041,Euchromatin,euchromatin
+D022081,Cell Surface Extensions,cell surface extensions
+D022082,Cellular Structures,cellular structures
+D022083,Cytoplasmic Structures,cytoplasmic structures
+D022101,Microtubule-Organizing Center,microtubule-organizing center
+D022142,Secretory Vesicles,secretory granules
+D022142,Secretory Vesicles,synaptic-like microvesicles
+D022142,Secretory Vesicles,zymogen granules
+D022142,Secretory Vesicles,condensing vacuoles
+D022142,Secretory Vesicles,secretory vesicles
+D022161,Transport Vesicles,endocytic vesicles
+D022161,Transport Vesicles,transport vesicles
+D022162,Cytoplasmic Vesicles,cytoplasmic vesicles
+D022163,Clathrin-Coated Vesicles,clathrin-coated vesicles
+D022181,COP-Coated Vesicles,copii-coated vesicles
+D022181,COP-Coated Vesicles,copi-coated vesicles
+D022181,COP-Coated Vesicles,cop-coated vesicles
+D022201,"Chromosomes, Artificial","chromosomes, artificial"
+D022202,"Chromosomes, Artificial, Bacterial","chromosomes, artificial, bacterial"
+D022221,"Chromosomes, Artificial, Mammalian","chromosomes, artificial, mammalian"
+D022222,"Chromosomes, Artificial, Human","chromosomes, artificial, human"
+D022423,Myeloid Cells,myeloid cells
+D022502,Stress Fibers,stress fibers
+D022781,Hepatocytes,hepatocytes
+D023461,Myeloid Progenitor Cells,"colony-forming units, granulocyte-erythroid-macrophage-megakaryocyte"
+D023461,Myeloid Progenitor Cells,myeloid progenitor cells
+D023461,Myeloid Progenitor Cells,common myeloid progenitors
+D024301,Plant Bark,tree bark
+D024301,Plant Bark,plant bark
+D024405,Gastroepiploic Artery,gastroepiploic artery
+D024521,Mushroom Bodies,mushroom bodies
+D024862,Oxyphil Cells,hurthle cells
+D024862,Oxyphil Cells,oxyphil cells
+D025042,Amacrine Cells,amacrine cells
+D025282,Mycelium,mycelium
+D025301,Hyphae,hyphae
+D026602,Nitrergic Neurons,nitrergic neurons
+D026602,Nitrergic Neurons,nitrergic nerves
+D027042,"Chromosomes, Artificial, P1 Bacteriophage","chromosomes, artificial, p1 bacteriophage"
+D027161,"Satellite Cells, Perineuronal","satellite cells, perineuronal"
+D027343,Rhizome,rhizome
+D031425,Plasmodesmata,plasmodesmata
+D031608,Area Postrema,area postrema
+D032342,Muscle Cells,muscle cells
+D032383,"Myocytes, Cardiac","myocytes, cardiac"
+D032386,"Myoblasts, Cardiac","myoblasts, cardiac"
+D032389,"Myocytes, Smooth Muscle","myocytes, smooth muscle"
+D032390,"Myoblasts, Smooth Muscle","myoblasts, smooth muscle"
+D032446,Myoblasts,myoblasts
+D032448,"Myoblasts, Skeletal","myoblasts, skeletal"
+D032461,"Chromosomes, Plant","chromosomes, plant"
+D032496,"Satellite Cells, Skeletal Muscle","satellite cells, skeletal muscle"
+D032961,Sperm Midpiece,sperm midpiece
+D033023,Foot Joints,foot joints
+D033023,Foot Joints,intermetatarsal joint
+D033301,Deciduoma,deciduoma
+D033481,"Chromosomes, Mammalian","chromosomes, mammalian"
+D033661,Oocysts,sporocysts
+D033661,Oocysts,oocysts
+D033761,"Spores, Protozoan","spores, protozoan"
+D034101,Sporozoites,sporozoites
+D034582,Integumentary System,integumentary system
+D034841,Abdominal Cavity,abdominal cavity
+D034861,Abdominal Wall,abdominal wall
+D034881,Nuclear Lamina,nuclear lamina
+D034941,Upper Extremity,upper extremity
+D035002,Lower Extremity,lower extremity
+D035261,"Plant Components, Aerial","plant components, aerial"
+D035262,"Cranial Fossa, Anterior","cranial fossa, anterior"
+D035262,"Cranial Fossa, Anterior",olfactory groove
+D035263,Flowering Tops,flowering tops
+D035264,Flowers,plant stigma
+D035264,Flowers,pistil
+D035264,Flowers,flower filament
+D035264,Flowers,plant ovary
+D035264,Flowers,plant stamen
+D035264,Flowers,plant sepals
+D035264,Flowers,flowers
+D035264,Flowers,plant style
+D035264,Flowers,plant carpals
+D035264,Flowers,plant corolla
+D035264,Flowers,plant calyx
+D035264,Flowers,plant anther
+D035264,Flowers,plant petals
+D035281,Plant Tubers,plant tubers
+D035301,"Cranial Fossa, Middle","cranial fossa, middle"
+D035321,Telomeric Repeat Binding Protein 1,pin2 protein
+D035321,Telomeric Repeat Binding Protein 1,telomeric repeat binding protein 1
+D035341,Telomeric Repeat Binding Protein 2,telomeric repeat binding protein 2
+D035421,Parotid Region,parotid region
+D035422,Pleural Cavity,pleural cavity
+D035423,Thoracic Cavity,thoracic cavity
+D035441,Thoracic Wall,thoracic wall
+D036226,Seedlings,malted grain
+D036226,Seedlings,seedlings
+D036421,"Nerve Fibers, Unmyelinated",c fibers
+D036421,"Nerve Fibers, Unmyelinated","nerve fibers, unmyelinated"
+D036703,Blastula,blastula
+D037881,Aborted Fetus,aborted fetus
+D038821,Mycorrhizae,mycorrhizae
+D038821,Mycorrhizae,endomycorrhizae
+D038821,Mycorrhizae,ectomycorrhizae
+D039021,Colonic Pouches,j-pouch
+D039021,Colonic Pouches,ileal pouches
+D039021,Colonic Pouches,w-pouch
+D039021,Colonic Pouches,kock pouch
+D039021,Colonic Pouches,ileoanal pouches
+D039021,Colonic Pouches,colonic pouches
+D039021,Colonic Pouches,s-pouch
+D039901,Totipotent Stem Cells,totipotent stem cells
+D039902,Multipotent Stem Cells,multipotent stem cells
+D039904,Pluripotent Stem Cells,pluripotent stem cells
+D040521,Subcutaneous Tissue,subcutaneous tissue
+D041321,"Chromosomes, Human, X","chromosomes, human, x"
+D041322,"Chromosomes, Human, Y","chromosomes, human, y"
+D041681,NIH 3T3 Cells,nih 3t3 cells
+D041701,Swiss 3T3 Cells,swiss 3t3 cells
+D041702,BALB 3T3 Cells,balb 3t3 clone a31
+D041702,BALB 3T3 Cells,balb 3t3 cells
+D041721,3T3-L1 Cells,3t3-l1 cells
+D041741,Lower Gastrointestinal Tract,lower gastrointestinal tract
+D041742,Upper Gastrointestinal Tract,upper gastrointestinal tract
+D041905,Erythroid Cells,erythroid cells
+D041905,Erythroid Cells,erythron
+D041981,Gastrointestinal Tract,gastrointestinal tract
+D042361,"Mammary Glands, Human","mammary glands, human"
+D042361,"Mammary Glands, Human","mammary alveoli, human"
+D042361,"Mammary Glands, Human","mammary lobules, human"
+D042361,"Mammary Glands, Human","mammary epithelia, human"
+D042361,"Mammary Glands, Human","mammary ducts, human"
+D042381,Granulocyte Precursor Cells,granulocyte progenitor cells
+D042381,Granulocyte Precursor Cells,metamyelocytes
+D042381,Granulocyte Precursor Cells,myeloblasts
+D042381,Granulocyte Precursor Cells,promyelocytes
+D042381,Granulocyte Precursor Cells,myelocytes
+D042381,Granulocyte Precursor Cells,granulocyte precursor cells
+D042541,Intracellular Space,intracellular space
+D042541,Intracellular Space,subcellular space
+D042581,Intranuclear Space,subnuclear space
+D042581,Intranuclear Space,intranuclear space
+D042601,Lymphatic Vessels,lymphatic vessels
+D042601,Lymphatic Vessels,lymphatic venules
+D042601,Lymphatic Vessels,lymphatic capillaries
+D042783,Endothelial Cells,capillary endothelial cells
+D042783,Endothelial Cells,lymphatic endothelial cells
+D042783,Endothelial Cells,vascular endothelial cells
+D042783,Endothelial Cells,endothelial cells
+D043143,Hepatopancreas,hepatopancreas
+D043485,Glomus Tympanicum,glomus tympanicum
+D044603,Cellulosomes,cellulosomes
+D044622,Dental Pellicle,dental pellicle
+D044682,"Colon, Ascending",right colic flexure
+D044682,"Colon, Ascending","colon, ascending"
+D044683,"Colon, Descending","colon, descending"
+D044684,"Colon, Transverse","colon, transverse"
+D044684,"Colon, Transverse",left colic flexure
+D044967,Serum,serum
+D045042,Pedunculopontine Tegmental Nucleus,pedunculopontine tegmental nucleus
+D045325,HCT116 Cells,hct116 cells
+D045524,Phycobilisomes,phycobilisomes
+D045586,Intranuclear Inclusion Bodies,intranuclear inclusion bodies
+D045604,Extracellular Fluid,interstitial fluid
+D045604,Extracellular Fluid,extracellular fluid
+D045744,"Cell Line, Tumor","cell line, tumor"
+D046568,Neuroepithelial Bodies,neuroepithelial bodies
+D046569,Neuroepithelial Cells,neuroepithelial cells
+D046790,"Pancreas, Exocrine","pancreas, exocrine"
+D048629,"Micronuclei, Chromosome-Defective","micronuclei, chromosome-defective"
+D048629,"Micronuclei, Chromosome-Defective","micronuclei, genotoxicant-induced"
+D048631,"Micronucleus, Germline","micronucleus, germline"
+D048648,Macronucleus,macronucleus
+D048690,"Fruiting Bodies, Fungal",basidiocarp
+D048690,"Fruiting Bodies, Fungal","fruiting bodies, fungal"
+D049033,Chorioallantoic Membrane,chorioallantoic membrane
+D049229,Dendritic Spines,dendritic spines
+D049428,Blood-Nerve Barrier,blood-nerve barrier
+D049630,"Esophageal Sphincter, Lower","esophageal sphincter, lower"
+D049631,"Esophageal Sphincter, Upper",cricopharyngeus
+D049631,"Esophageal Sphincter, Upper",thyropharyngeus
+D049631,"Esophageal Sphincter, Upper","esophageal sphincter, upper"
+D049631,"Esophageal Sphincter, Upper",inferior pharyngeal constrictor
+D050151,Subcutaneous Fat,subcutaneous fat
+D050152,Intra-Abdominal Fat,visceral fat
+D050152,Intra-Abdominal Fat,intra-abdominal fat
+D050152,Intra-Abdominal Fat,retroperitoneal fat
+D050153,Abdominal Fat,abdominal fat
+D050199,Podocytes,podocytes
+D050276,Hand Bones,hand bones
+D050277,Toe Phalanges,toe phalanges
+D050278,Finger Phalanges,finger phalanges
+D050279,Metacarpal Bones,metacarpal bones
+D050280,Arm Bones,arm bones
+D050281,Bones of Lower Extremity,bones of lower extremity
+D050378,"T-Lymphocytes, Regulatory",th3 cells
+D050378,"T-Lymphocytes, Regulatory","suppressor t-lymphocytes, naturally-occurring"
+D050378,"T-Lymphocytes, Regulatory",tr1 cells
+D050378,"T-Lymphocytes, Regulatory","t-lymphocytes, regulatory"
+D050416,Glucagon-Secreting Cells,glucagon-secreting cells
+D050417,Insulin-Secreting Cells,insulin-secreting cells
+D050418,Pancreatic Polypeptide-Secreting Cells,pancreatic polypeptide-secreting cells
+D050476,Bowman Capsule,bowman capsule
+D050507,"Subcutaneous Fat, Abdominal","subcutaneous fat, abdominal"
+D050527,Mesangial Cells,glomerular mesangial cells
+D050527,Mesangial Cells,mesangial cells
+D050527,Mesangial Cells,extraglomerular mesangial cells
+D050533,Glomerular Basement Membrane,glomerular basement membrane
+D050541,Bowman Membrane,bowman membrane
+D050823,Hand Joints,intermetacarpal joints
+D050823,Hand Joints,hand joints
+D050824,Carpal Joints,carpal joints
+D051220,Pisiform Bone,pisiform bone
+D051221,Triquetrum Bone,triquetrum bone
+D051222,Trapezium Bone,trapezium bone
+D051223,Trapezoid Bone,trapezoid bone
+D051224,Capitate Bone,capitate bone
+D051225,Hamate Bone,hamate bone
+D051225,Hamate Bone,hook of the hamate
+D051245,Retinal Bipolar Cells,retinal bipolar cells
+D051248,Retinal Horizontal Cells,retinal horizontal cells
+D051336,Mitochondrial Membranes,"mitochondrial membrane, inner"
+D051336,Mitochondrial Membranes,"mitochondrial membrane, outer"
+D051336,Mitochondrial Membranes,mitochondrial membranes
+D051445,Fibrocartilage,fibrocartilage
+D051457,Hyaline Cartilage,hyaline cartilage
+D051472,Elastic Cartilage,elastic cartilage
+D051478,Triangular Fibrocartilage,triangular fibrocartilage complex
+D051478,Triangular Fibrocartilage,triangular fibrocartilage
+D052097,Quadriceps Muscle,rectus femoris
+D052097,Quadriceps Muscle,vastus intermedius
+D052097,Quadriceps Muscle,quadriceps muscle
+D052097,Quadriceps Muscle,vastus medialis
+D052097,Quadriceps Muscle,vastus lateralis
+D052436,"Adipose Tissue, White","adipose tissue, white"
+D052437,"Adipocytes, Brown","adipocytes, brown"
+D052438,"Adipocytes, White","adipocytes, white"
+D052584,Xylem,xylem
+D052585,Phloem,phloem
+D052680,Corticotrophs,corticotrophs
+D052681,Gonadotrophs,lh cells
+D052681,Gonadotrophs,gonadotrophs
+D052681,Gonadotrophs,fsh cells
+D052682,Lactotrophs,lactotrophs
+D052683,Somatotrophs,somatotrophs
+D052684,Thyrotrophs,thyrotrophs
+D052716,"Pituitary Gland, Intermediate","pituitary gland, intermediate"
+D052717,Melanotrophs,melanotrophs
+D052737,Carpometacarpal Joints,carpometacarpal joints
+D052816,Foreskin,foreskin
+D052939,Schizonts,schizonts
+D052940,Merozoites,merozoites
+D053058,Trophozoites,trophozoites
+D053204,"Root Nodules, Plant","root nodules, plant"
+D053205,Pollen Tube,pollen tube
+D053400,High Vocal Center,high vocal center
+D053401,Palmar Plate,"volar plate, finger"
+D053401,Palmar Plate,palmar plate
+D053401,Palmar Plate,"volar plate, thumb"
+D053403,Lateral Line System,lateral line system
+D053403,Lateral Line System,lateral line canal
+D053595,Embryonic Stem Cells,embryonic stem cells
+D053624,Blastocyst Inner Cell Mass,blastocyst inner cell mass
+D053657,Platelet-Rich Plasma,platelet-rich plasma
+D053686,Fetal Stem Cells,fetal stem cells
+D053687,Adult Stem Cells,adult stem cells
+D054022,Cerebrum,cerebrum
+D054022,Cerebrum,right cerebral hemisphere
+D054022,Cerebrum,cerebral hemispheres
+D054022,Cerebrum,left cerebral hemisphere
+D054024,Myelencephalon,myelencephalon
+D054046,Plant Stomata,plant stomata
+D054047,Surgical Stomas,surgical stomas
+D054048,Peritoneal Stomata,peritoneal stomata
+D054063,Superior Sagittal Sinus,superior sagittal sinus
+D054064,Transverse Sinuses,transverse sinuses
+D054085,Foramen Ovale,foramen ovale
+D054087,Atrial Septum,atrial septum
+D054088,Ventricular Septum,ventricular septum
+D054089,Endocardial Cushions,endocardial cushions
+D054089,Endocardial Cushions,atrioventricular canals
+D054239,Blastodisc,blastodisc
+D054240,Primitive Streak,primitive streak
+D054258,Neural Plate,neuroectoderm
+D054258,Neural Plate,neural plate
+D054259,Neural Tube,neural canal
+D054259,Neural Tube,neural tube
+D054278,Embryonal Carcinoma Stem Cells,f9 teratocarcinoma stem cells
+D054278,Embryonal Carcinoma Stem Cells,embryonal carcinoma stem cells
+D054326,Coronary Sinus,coronary sinus
+D054351,Electrical Synapses,electrical synapses
+D054351,Electrical Synapses,neuronal gap junctions
+D054448,"Precursor Cells, B-Lymphoid",pro-b lymphocytes
+D054448,"Precursor Cells, B-Lymphoid",pre-b lymphocytes
+D054448,"Precursor Cells, B-Lymphoid","precursor cells, b-lymphoid"
+D054468,Axoneme,axoneme
+D054503,Lymphoid Progenitor Cells,common lymphoid progenitors
+D054503,Lymphoid Progenitor Cells,lymphoid progenitor cells
+D054504,"Precursor Cells, T-Lymphoid","precursor cells, t-lymphoid"
+D054644,Ear Auricle,ear auricle
+D054657,Ribosome Subunits,ribosome subunits
+D054658,"Ribosome Subunits, Large","ribosome subunits, large"
+D054679,"Ribosome Subunits, Small","ribosome subunits, small"
+D054680,"Ribosome Subunits, Small, Bacterial","ribosome subunits, small, bacterial"
+D054681,"Ribosome Subunits, Large, Bacterial","ribosome subunits, large, bacterial"
+D054682,"Ribosome Subunits, Small, Eukaryotic","ribosome subunits, small, eukaryotic"
+D054683,"Ribosome Subunits, Large, Eukaryotic","ribosome subunits, large, eukaryotic"
+D054738,Scala Vestibuli,scala vestibuli
+D054748,"Ribosome Subunits, Large, Archaeal","ribosome subunits, large, archaeal"
+D054749,"Ribosome Subunits, Small, Archaeal","ribosome subunits, small, archaeal"
+D054776,Semicircular Ducts,ampullary crest
+D054776,Semicircular Ducts,semicircular ducts
+D054777,"Hair Cells, Ampulla","hair cells, ampulla"
+D054792,"Muscle, Striated","muscle, striated"
+D054838,von Ebner Glands,von ebner glands
+D054885,Cumulus Cells,cumulus cells
+D054910,"Compound Eye, Arthropod","compound eye, arthropod"
+D054974,Costameres,costameres
+D054992,Immunological Synapses,immunological synapses
+D055014,Granulocyte-Macrophage Progenitor Cells,granulocyte-macrophage colony forming units
+D055014,Granulocyte-Macrophage Progenitor Cells,granulocyte-macrophage progenitor cells
+D055015,Megakaryocyte-Erythroid Progenitor Cells,megakaryocyte-erythroid progenitor cells
+D055016,Megakaryocyte Progenitor Cells,megakaryoblasts
+D055016,Megakaryocyte Progenitor Cells,megakaryocyte progenitor cells
+D055016,Megakaryocyte Progenitor Cells,promegakaryocytes
+D055017,Monocyte-Macrophage Precursor Cells,monocyte-macrophage precursor cells
+D055017,Monocyte-Macrophage Precursor Cells,promonocytes
+D055017,Monocyte-Macrophage Precursor Cells,monocyte-macrophage progenitor cells
+D055017,Monocyte-Macrophage Precursor Cells,monoblasts
+D055018,Hemangioblasts,hemangioblasts
+D055018,Hemangioblasts,hemogenic endothelial cells
+D055098,Endocrine Cells,endocrine cells
+D055099,Neuroendocrine Cells,neuroendocrine cells
+D055158,Velopharyngeal Sphincter,velopharyngeal sphincter
+D055166,Hepatic Stellate Cells,hepatic stellate cells
+D055166,Hepatic Stellate Cells,ito cells
+D055171,Nasal Cartilages,lateral nasal cartilages
+D055171,Nasal Cartilages,nasal cartilages
+D055171,Nasal Cartilages,alar nasal cartilages
+D055171,Nasal Cartilages,septal nasal cartilage
+D055172,Vomer,vomer
+D055211,Retinal Photoreceptor Cell Inner Segment,retinal photoreceptor cell inner segment
+D055211,Retinal Photoreceptor Cell Inner Segment,rod cell inner segment
+D055211,Retinal Photoreceptor Cell Inner Segment,cone cell inner segment
+D055212,Photoreceptor Connecting Cilium,photoreceptor connecting cilium
+D055213,Retinal Pigment Epithelium,retinal pigment epithelium
+D055214,Retinal Photoreceptor Cell Outer Segment,retinal photoreceptor cell outer segment
+D055252,Cell-Derived Microparticles,circulating cell-derived microparticles
+D055252,Cell-Derived Microparticles,cell-derived microparticles
+D055351,Retinal Neurons,retinal neurons
+D055354,Exosomes,exosomes
+D055422,Venous Valves,venous valves
+D055493,Spiral Ligament of Cochlea,spiral ligament of cochlea
+D055531,Gemini of Coiled Bodies,gemini of coiled bodies
+D055611,Natural Killer T-Cells,invariant natural killer t-cells
+D055611,Natural Killer T-Cells,natural killer t-cells
+D055612,Cytokine-Induced Killer Cells,lymphocyte-activated killer cells
+D055612,Cytokine-Induced Killer Cells,cytokine-induced killer cells
+D055745,Bronchioles,respiratory bronchioles
+D055745,Bronchioles,terminal bronchioles
+D055745,Bronchioles,bronchioles
+D055762,Cranial Fontanelles,cranial fontanelles
+D055762,Cranial Fontanelles,posterior fontanelle
+D055762,Cranial Fontanelles,sphenoidal fontanelle
+D055762,Cranial Fontanelles,anterior fontanelle
+D055762,Cranial Fontanelles,mastoid fontanelle
+D055806,Microvessels,microvasculature
+D055806,Microvessels,microvessels
+D055944,Magnetosomes,magnetosomes
+D055966,Nipple Aspirate Fluid,nipple aspirate fluid
+D055988,Uterine Artery,uterine artery
+D055993,"Germ Cells, Plant","gametes, plant"
+D055993,"Germ Cells, Plant",gametophytes
+D055993,"Germ Cells, Plant","generative cells, plant"
+D055993,"Germ Cells, Plant","germ cells, plant"
+D056144,Pyriform Sinus,pyriform sinus
+D056224,Viral Structures,viral components
+D056224,Viral Structures,viral structures
+D056226,Bacterial Structures,bacterial structures
+D056229,Fungal Structures,fungal components
+D056229,Fungal Structures,fungal structures
+D056547,"CA1 Region, Hippocampal","ca1 region, hippocampal"
+D056547,"CA1 Region, Hippocampal",ca1 pyramidal cell area
+D056547,"CA1 Region, Hippocampal",ca1 stratum radiatum
+D056625,Endosperm,endosperm
+D056626,Inflorescence,inflorescence types
+D056626,Inflorescence,tassel
+D056626,Inflorescence,flower head
+D056626,Inflorescence,inflorescence
+D056651,"CA2 Region, Hippocampal",ca2 stratum radiatum
+D056651,"CA2 Region, Hippocampal",ca2 pyramidal cell area
+D056651,"CA2 Region, Hippocampal","ca2 region, hippocampal"
+D056654,"CA3 Region, Hippocampal","ca3 region, hippocampal"
+D056654,"CA3 Region, Hippocampal",ca3 stratum radiatum
+D056654,"CA3 Region, Hippocampal",ca3 stratum lucidum
+D056654,"CA3 Region, Hippocampal",ca3 pyramidal cell area
+D056739,Pterygopalatine Fossa,pterygopalatine fossa
+D056740,Olecranon Process,olecranon process
+D056771,Ovule,"megaspores, plant"
+D056771,Ovule,female gametophytes
+D056771,Ovule,ovule
+D056771,Ovule,"female gametes, plant"
+D056809,Alveolar Epithelial Cells,alveolar epithelial cells
+D056809,Alveolar Epithelial Cells,type-ii pneumocytes
+D056809,Alveolar Epithelial Cells,type-i pneumocytes
+D056885,Interstitial Cells of Cajal,interstitial cells of cajal
+D056945,Hep G2 Cells,hep g2 cells
+D057026,Induced Pluripotent Stem Cells,human induced pluripotent stem cells
+D057026,Induced Pluripotent Stem Cells,fibroblast-derived induced pluripotent stem cells
+D057026,Induced Pluripotent Stem Cells,induced pluripotent stem cells
+D057070,Cervical Rib,cervical rib
+D057071,Patellofemoral Joint,patellofemoral joint
+D057146,Multivesicular Bodies,multivesicular bodies
+D057506,Arthropod Antennae,insect antennae
+D057506,Arthropod Antennae,arthropod antennae
+D057645,Deltoid Muscle,deltoid muscle
+D057809,HEK293 Cells,hek293 cells
+D057852,Posterior Capsule of the Lens,posterior capsule of the lens
+D057866,Anterior Capsule of the Lens,anterior capsule of the lens
+D057892,Lesser Pelvis,lesser pelvis
+D057907,Post-Synaptic Density,post-synaptic density
+D057972,Posterior Eye Segment,posterior eye segment
+D058430,Humeral Head,humeral head
+D058432,Sporangia,sporangia
+D058452,"Axial Length, Eye","axial length, eye"
+D058471,Subretinal Fluid,subretinal fluid
+D058471,Subretinal Fluid,intraretinal fluid
+D058475,Tenon Capsule,tenon capsule
+D058500,Animal Fins,animal fins
+D058503,Mesophyll Cells,spongy mesophyll cells
+D058503,Mesophyll Cells,palisade parenchyma cells
+D058503,Mesophyll Cells,mesophyll cells
+D058504,Th17 Cells,th17 cells
+D058506,Cambium,cambium
+D058526,Plant Vascular Bundle,plant vascular bundle
+D058618,Sensilla,olfactory sensilla
+D058618,Sensilla,sensilla
+D058618,Sensilla,setae
+D058621,Blood Buffy Coat,blood buffy coat
+D058628,Myofibroblasts,myofibroblasts
+D058732,Embryoid Bodies,embryoid bodies
+D058746,Gestational Sac,gestational sac
+D058752,Free Tissue Flaps,free tissue flaps
+D058894,Nematocyst,nematocyst
+D058953,Neural Stem Cells,neural stem cells
+D058954,Pancreatic Stellate Cells,pancreatic stellate cells
+D058958,Organs at Risk,organs at risk
+D058985,Side-Population Cells,side-population cells
+D059006,"Chromosomes, Insect","chromosomes, insect"
+D059007,Polytene Chromosomes,polytene chromosomes
+D059045,Chromosomal Puffs,chromosomal puffs
+D059045,Chromosomal Puffs,balbiani rings
+D059167,Mirror Neurons,mirror neurons
+D059290,Dopaminergic Neurons,dopaminergic neurons
+D059326,Serotonergic Neurons,serotonergic neurons
+D059329,Cholinergic Neurons,cholinergic neurons
+D059330,GABAergic Neurons,gabaergic neurons
+D059331,Adrenergic Neurons,noradrenergic neurons
+D059331,Adrenergic Neurons,adrenergic neurons
+D059547,Stereocilia,stereocilia
+D059609,Mallory Bodies,mallory bodies
+D059630,Mesenchymal Stem Cells,bone marrow mesenchymal stem cells
+D059630,Mesenchymal Stem Cells,adipose-derived mesenchymal stem cells
+D059630,Mesenchymal Stem Cells,"bone marrow stromal cells, multipotent"
+D059630,Mesenchymal Stem Cells,mesenchymal stromal cells
+D059630,Mesenchymal Stem Cells,mesenchymal stem cells
+D059630,Mesenchymal Stem Cells,mesenchymal progenitor cell
+D059630,Mesenchymal Stem Cells,bone marrow stromal stem cells
+D059630,Mesenchymal Stem Cells,wharton jelly cells
+D059630,Mesenchymal Stem Cells,multipotent mesenchymal stromal cells
+D059630,Mesenchymal Stem Cells,bone marrow stromal cells
+D059631,Wharton Jelly,wharton jelly
+D059705,Polar Bodies,polar bodies
+D059828,Plant Cells,plant cells
+D059925,Anatomic Landmarks,anatomic landmarks
+D060052,Nasolabial Fold,nasolabial fold
+D060053,Transplant Donor Site,transplant donor site
+D060105,Animal Shells,seashells
+D060105,Animal Shells,animal shells
+D060151,"B-Lymphocytes, Regulatory","b-lymphocytes, regulatory"
+D060168,Thymocytes,thymocytes
+D060226,Head Kidney,head kidney
+D060227,Imaginal Discs,imaginal discs
+D060525,Pudendal Nerve,perineal nerve
+D060525,Pudendal Nerve,dorsal clitoris nerve
+D060525,Pudendal Nerve,dorsal penile nerve
+D060525,Pudendal Nerve,pudendal nerve
+D060525,Pudendal Nerve,inferior hemorrhoidal nerve
+D060527,Corneal Keratocytes,corneal keratocytes
+D060726,Torso,torso
+D060730,Glomerular Filtration Barrier,glomerular filtration barrier
+D060910,Pronephros,pronephros
+D061028,Trigger Points,trigger area
+D061028,Trigger Points,trigger points
+D061165,Glenoid Cavity,glenoid cavity
+D061252,Feeder Cells,feeder cell layers
+D061252,Feeder Cells,feeder cells
+D061252,Feeder Cells,feeder layer cells
+D061307,Human Umbilical Vein Endothelial Cells,human umbilical vein endothelial cells
+D061354,Acinar Cells,acinar cells
+D061525,Perforator Flap,perforator flap
+D061985,Madin Darby Canine Kidney Cells,madin darby canine kidney cells
+D061986,MCF-7 Cells,mcf-7 cells
+D061987,Sf9 Cells,sf21 cells
+D061987,Sf9 Cells,sf9 cells
+D062088,Acellular Dermis,decellularized dermal scaffold
+D062088,Acellular Dermis,acellular dermal matrix
+D062088,Acellular Dermis,acellular dermis
+D062088,Acellular Dermis,acellular dermal transplant tissue
+D062607,Fungal Capsules,fungal capsules
+D063194,Adventitia,adventitial tissue
+D063194,Adventitia,adventitia
+D063226,Central Pattern Generators,central pattern generators
+D063226,Central Pattern Generators,central pattern generator neurons
+D063546,Apicoplasts,apicoplasts
+D063607,Dander,dander
+D063928,Ependymoglial Cells,radial glial cells
+D063928,Ependymoglial Cells,muller cells
+D063928,Ependymoglial Cells,tanycytes
+D063928,Ependymoglial Cells,ependymoglial cells
+D064047,Spindle Poles,spindle poles
+D064048,Spindle Pole Bodies,spindle pole bodies
+D064131,Back Muscles,back muscles
+D064131,Back Muscles,lumbar fascia
+D064169,Intermediate Back Muscles,serratus posterior superior
+D064169,Intermediate Back Muscles,intermediate back muscles
+D064169,Intermediate Back Muscles,serratus posterior inferior
+D064170,Paraspinal Muscles,semispinalis
+D064170,Paraspinal Muscles,rotatores
+D064170,Paraspinal Muscles,splenius
+D064170,Paraspinal Muscles,multifidus
+D064170,Paraspinal Muscles,interspinales
+D064170,Paraspinal Muscles,sacrospinalis iliocostalis
+D064170,Paraspinal Muscles,paraspinal muscles
+D064170,Paraspinal Muscles,intertransversales
+D064171,Superficial Back Muscles,levator scapulae
+D064171,Superficial Back Muscles,superficial back muscles
+D064171,Superficial Back Muscles,rhomboid minor
+D064171,Superficial Back Muscles,rhomboid major
+D064171,Superficial Back Muscles,trapezius
+D064171,Superficial Back Muscles,latissimus dorsi
+D064201,Trichomes,trichomes
+D064448,Filamins,filamin a
+D064448,Filamins,filamin c
+D064448,Filamins,filamin b
+D064448,Filamins,filamins
+D064448,Filamins,merofilamins
+D064591,Allografts,allografts
+D064592,Autografts,autografts
+D064593,Heterografts,heterografts
+D064594,Bone-Patellar Tendon-Bone Grafts,bone-patellar tendon-bone grafts
+D064595,Composite Tissue Allografts,composite tissue allografts
+D064596,Isografts,isografts
+D064652,Basal Bodies,basal bodies
+D064652,Basal Bodies,kinetosomes
+D064827,Myocutaneous Flap,myocutaneous flap
+D065206,Extracellular Traps,extracellular traps
+D065206,Extracellular Traps,eosinophil extracellular traps
+D065206,Extracellular Traps,neutrophil extracellular traps
+D065309,Atypical Squamous Cells of the Cervix,atypical squamous cells of the cervix
+D065309,Atypical Squamous Cells of the Cervix,atypical squamous cells of undetermined significance
+D065309,Atypical Squamous Cells of the Cervix,atypical squamous cells
+D065309,Atypical Squamous Cells of the Cervix,"atypical squamous cells, cannot rule out high-grade squamous intra-epithelial lesion"
+D065711,Broca Area,broca area
+D065711,Broca Area,pars opercularis
+D065711,Broca Area,pars triangularis
+D065726,Limbic Lobe,indusium griseum
+D065726,Limbic Lobe,paraterminal gyrus
+D065726,Limbic Lobe,supracallosal gyrus
+D065726,Limbic Lobe,limbic lobe
+D065726,Limbic Lobe,fasciolar gyrus
+D065813,Wernicke Area,left posterior superior temporal gyrus
+D065813,Wernicke Area,wernicke area
+D065814,Cerebellar Vermis,cerebellar vermis
+D065814,Cerebellar Vermis,uvula of cerebellum
+D065820,Zona Incerta,medial zona inserta
+D065820,Zona Incerta,rostral zona incerta
+D065820,Zona Incerta,zona incerta
+D065820,Zona Incerta,caudal zona incerta
+D065821,Pontine Tegmentum,central tegmental tract
+D065821,Pontine Tegmentum,accessory abducens nucleus
+D065821,Pontine Tegmentum,pontine reticular formation
+D065821,Pontine Tegmentum,nuclei of the lateral lemniscus
+D065821,Pontine Tegmentum,nucleus subceruleus
+D065821,Pontine Tegmentum,pontine tegmentum
+D065821,Pontine Tegmentum,dorsal acoustic stria
+D065823,Parabrachial Nucleus,lateral parabrachial nucleus
+D065823,Parabrachial Nucleus,waist subnucleus of the parabrachial nucleus
+D065823,Parabrachial Nucleus,medial parabrachial nucleus
+D065823,Parabrachial Nucleus,parabrachial nucleus
+D065823,Parabrachial Nucleus,subparabrachial nucleus
+D065827,Abducens Nucleus,abducens nucleus
+D065828,Facial Nucleus,facial nucleus
+D065832,Superior Olivary Complex,preolivary nucleus
+D065832,Superior Olivary Complex,trapezoid nuclear complex
+D065832,Superior Olivary Complex,periolivary nucleus
+D065832,Superior Olivary Complex,superior paraolivary nucleus
+D065832,Superior Olivary Complex,superior olivary complex
+D065833,Trapezoid Body,trapezoid body
+D065835,Barrington's Nucleus,barrington's nucleus
+D065836,Kolliker-Fuse Nucleus,kolliker-fuse nucleus
+D065837,Middle Cerebellar Peduncle,middle cerebellar peduncle
+D065838,Oculomotor Nuclear Complex,anterior median oculomotor nucleus
+D065838,Oculomotor Nuclear Complex,central oculomotor nucleus
+D065838,Oculomotor Nuclear Complex,oculomotor nuclear complex
+D065838,Oculomotor Nuclear Complex,ventral oculomotor nucleus
+D065838,Oculomotor Nuclear Complex,medial oculomotor nucleus
+D065838,Oculomotor Nuclear Complex,caudal central oculomotor nucleus
+D065838,Oculomotor Nuclear Complex,dorsal oculomotor nucleus
+D065838,Oculomotor Nuclear Complex,intermediate oculomotor nucleus
+D065839,Edinger-Westphal Nucleus,edinger-westphal nucleus
+D065841,Pars Reticulata,pars reticulata
+D065841,Pars Reticulata,pars lateralis
+D065842,Pars Compacta,pars compacta
+D065843,Cerebral Crus,cerebral crus
+D065844,Tectospinal Fibers,tectospinal fibers
+D065846,Nucleus Raphe Magnus,nucleus raphe pontis
+D065846,Nucleus Raphe Magnus,nucleus raphe magnus
+D065847,Dorsal Raphe Nucleus,nucleus linearis
+D065847,Dorsal Raphe Nucleus,dorsal raphe nucleus
+D065847,Dorsal Raphe Nucleus,medial raphe nucleus
+D065848,Nucleus Raphe Pallidus,nucleus raphe pallidus
+D065849,Nucleus Raphe Obscurus,nucleus raphe obscurus
+D065850,Cerebral Peduncle,cerebral peduncle
+D065866,Optic Tract,optic tract
+D066026,Endothelial Progenitor Cells,endothelial progenitor cells
+D066127,White Matter,white matter
+D066127,White Matter,cerebellar white matter
+D066128,Gray Matter,cerebellar gray matter
+D066128,Gray Matter,gray matter
+D066146,Cell Body,cell body
+D066148,Spinal Cord Dorsal Horn,lamina i
+D066148,Spinal Cord Dorsal Horn,clarke's nucleus
+D066148,Spinal Cord Dorsal Horn,spinal cord dorsal horn
+D066148,Spinal Cord Dorsal Horn,lamina iv
+D066148,Spinal Cord Dorsal Horn,lamina iii
+D066151,Spinal Cord Ventral Horn,lamina viii
+D066151,Spinal Cord Ventral Horn,lamina ix
+D066151,Spinal Cord Ventral Horn,spinal cord ventral horn
+D066152,Spinal Cord Lateral Horn,intermediolateral nucleus
+D066152,Spinal Cord Lateral Horn,spinal cord lateral horn
+D066186,Costal Cartilage,costal cartilage
+D066187,Basal Forebrain,ventral pallidum
+D066187,Basal Forebrain,basal forebrain
+D066191,Sensorimotor Cortex,sensorimotor cortex
+D066193,Cervical Cord,cervical cord
+D066193,Cervical Cord,accessory nucleus
+D066193,Cervical Cord,phrenic nucleus
+D066194,Olfactory Cortex,lateral entorhineal cortex
+D066194,Olfactory Cortex,anterior olfactory nucleus
+D066194,Olfactory Cortex,olfactory cortex
+D066194,Olfactory Cortex,cortical amygdala
+D066194,Olfactory Cortex,olfactory peduncle
+D066195,Piriform Cortex,piriform cortex
+D066208,Olfactory Tubercle,olfactory tubercle
+D066240,"Anterior Commissure, Brain","anterior commissure, brain"
+D066243,Posterior Cerebellar Commissure,posterior cerebellar commissure
+D066245,Telencephalic Commissures,anterior commissural nucleus
+D066245,Telencephalic Commissures,telencephalic commissures
+D066250,Pretectal Region,nucleus of the pretectal area
+D066250,Pretectal Region,pretectal region
+D066250,Pretectal Region,olivary pretectal nucleus
+D066250,Pretectal Region,nucleus of the optic tract
+D066250,Pretectal Region,sublentiform nucleus
+D066250,Pretectal Region,principal pretectal nucleus
+D066265,Midbrain Reticular Formation,midbrain reticular formation
+D066265,Midbrain Reticular Formation,subcuneiform nucleus
+D066265,Midbrain Reticular Formation,cuneiform nucleus
+D066266,Trigeminal Motor Nucleus,principal sensory nucleus of trigeminal nerve
+D066266,Trigeminal Motor Nucleus,trigeminal motor nucleus
+D066267,Midbrain Raphe Nuclei,midbrain raphe nuclei
+D066268,Interpeduncular Nucleus,interpeduncular nucleus
+D066271,External Capsule,external capsule
+D066272,Basolateral Nuclear Complex,lateral amygdaloid nucleus
+D066272,Basolateral Nuclear Complex,accessory basal amygdaloid nucleus
+D066272,Basolateral Nuclear Complex,paralaminar nucleus
+D066272,Basolateral Nuclear Complex,basolateral nuclear complex
+D066272,Basolateral Nuclear Complex,basal amygdaloid nucleus
+D066274,Central Amygdaloid Nucleus,central amygdaloid nucleus
+D066276,Corticomedial Nuclear Complex,medial amygdaloid nucleus
+D066276,Corticomedial Nuclear Complex,corticomedial nuclear complex
+D066276,Corticomedial Nuclear Complex,posterior cortical amygdaloid nucleus
+D066276,Corticomedial Nuclear Complex,cortical amygdaloid nucleus
+D066276,Corticomedial Nuclear Complex,anterior amygdaloid area
+D066276,Corticomedial Nuclear Complex,nucleus of lateral olfactory tract
+D066277,Periamygdaloid Cortex,periamygdaloid cortex
+D066277,Periamygdaloid Cortex,cortical amygdalar nucleus
+D066278,Organum Vasculosum,organum vasculosum
+D066280,Circumventricular Organs,circumventricular organs
+D066280,Circumventricular Organs,sensory circumventricular organs
+D066280,Circumventricular Organs,secretory circumventricular organs
+D066292,Lipid Droplets,lipid droplets
+D066292,Lipid Droplets,spherosomes
+D066293,Renshaw Cells,ia inhibitory interneurons
+D066293,Renshaw Cells,v1-derived interneurons
+D066293,Renshaw Cells,renshaw cells
+D066294,Commissural Interneurons,commissural interneurons
+D066328,Ventral Striatum,ventral striatum
+D000066449,Human Embryonic Stem Cells,human embryonic stem cells
+D000066450,Mouse Embryonic Stem Cells,mouse embryonic stem cells
+D000066473,Embryonic Germ Cells,embryonic germ cells
+D000067128,Extracellular Vesicles,exovesicles
+D000067128,Extracellular Vesicles,extracellular vesicles
+D000067128,Extracellular Vesicles,apoptotic bodies
+D000067170,Telocytes,telocytes
+D000067617,Telopodes,telopodes
+D000067617,Telopodes,podomers
+D000067617,Telopodes,podoms
+D000067796,Whey,whey
+D000067816,Whey Proteins,whey proteins
+D000067996,RAW 264.7 Cells,raw 264.7 cells
+D000069236,Pericardial Fluid,pericardial fluid
+D000069259,Superficial Musculoaponeurotic System,superficial musculoaponeurotic system
+D000069259,Superficial Musculoaponeurotic System,platysma muscle
+D000069261,Podosomes,podosomes
+D000069262,Plantar Plate,plantar plate
+D000069343,Bone-Implant Interface,bone-implant interface
+D000069396,Mitochondrial Ribosomes,mitochondrial ribosomes
+D000069590,Round Ligaments,round ligament of elbow
+D000069590,Round Ligaments,round ligaments
+D000069592,Round Ligament of Liver,round ligament of liver
+D000069593,Round Ligament of Femur,round ligament of femur
+D000069796,"Adipose Tissue, Beige","adipose tissue, beige"
+D000069797,"Adipocytes, Beige","adipocytes, beige"
+D000070559,"Gizzard, Non-avian",gastric mill
+D000070559,"Gizzard, Non-avian","gizzard, non-avian"
+D000070597,Coracoid Process,coracoid process
+D000070602,Rib Cage,costal margin
+D000070602,Rib Cage,rib cage
+D000070606,Aponeurosis,aponeurosis
+D000070614,Nucleus Pulposus,nucleus pulposus
+D000070616,Annulus Fibrosus,annulus fibrosus
+D000070632,Hamstring Tendons,hamstring tendons
+D000070632,Hamstring Tendons,biceps femoris tendon
+D000070632,Hamstring Tendons,semimembranosus tendon
+D000070632,Hamstring Tendons,semitendinosus tendon
+D000070633,Hamstring Muscles,hamstring muscles
+D000070633,Hamstring Muscles,semimembranosus
+D000070633,Hamstring Muscles,biceps femoris
+D000070633,Hamstring Muscles,semitendinosus
+D000070637,"Collateral Ligament, Ulnar","collateral ligament, ulnar"
+D000070696,Buttermilk,buttermilk
+D000070716,Kefir,kefir grains
+D000070716,Kefir,kefir
+D000070736,Koumiss,koumiss
+D000070916,Tenocytes,tenocytes
+D000070918,Synoviocytes,synoviocytes
+D000071036,Sentinel Lymph Node,sentinel lymph node
+D000071037,Place Cells,place cells
+D000071038,Grid Cells,grid cells
+D000071039,Perirhinal Cortex,brodmann area 36
+D000071039,Perirhinal Cortex,perirhinal cortex
+D000071040,Axon Initial Segment,axon hillock
+D000071040,Axon Initial Segment,axon initial segment
+D000071040,Axon Initial Segment,axonal trigger zone
+D000071041,Esophageal Mucosa,esophageal mucosa
+D000071182,Autophagosomes,phagophores
+D000071182,Autophagosomes,autophagosomes
+D000071439,Pseudoautosomal Regions,pseudoautosomal regions
+D000071477,Gubernaculum,gubernaculum
+D000071538,Cortical Bone,cortical bone
+D000071556,Cancellous Bone,cancellous bone
+D000071596,Abdominal Oblique Muscles,internal abdominal oblique muscle
+D000071596,Abdominal Oblique Muscles,abdominal oblique muscles
+D000071596,Abdominal Oblique Muscles,external abdominal oblique muscle
+D000071936,Nipple Discharge,nipple discharge
+D000071976,Gracilis Muscle,gracilis muscle
+D000072283,A549 Cells,a549 cells
+D000072336,Mucosal-Associated Invariant T Cells,mucosal-associated invariant t cells
+D000072356,Parenchymal Tissue,parenchymal tissue
+D000072600,Meniscus,meniscus
+D000072637,Thyroid Epithelial Cells,thyroid epithelial cells
+D000072645,Cancer-Associated Fibroblasts,cancer-associated fibroblasts
+D000072662,Margins of Excision,positive surgical margins
+D000072662,Margins of Excision,margins of excision
+D000072662,Margins of Excision,negative surgical margins
+D000072717,Tertiary Lymphoid Structures,tertiary lymphoid structures
+D000072737,Myeloid-Derived Suppressor Cells,myeloid-derived suppressor cells
+D000072916,Peripheral Blood Stem Cells,peripheral blood stem cells
+D000072956,Adult Germline Stem Cells,adult germline stem cells
+D000072977,Oogonial Stem Cells,oogonial stem cells
+D000073183,Platelet-Rich Fibrin,platelet-rich fibrin
+D000073637,Oligodendrocyte Precursor Cells,oligodendrocyte precursor cells
+D000074084,THP-1 Cells,thp-1 cells
+D000074523,Suprachiasmatic Nucleus Neurons,suprachiasmatic nucleus cells
+D000074523,Suprachiasmatic Nucleus Neurons,suprachiasmatic nucleus neurons
+D000075342,Animal Scales,animal scales
+D000075942,Intraepithelial Lymphocytes,dendritic epithelial t cells
+D000075942,Intraepithelial Lymphocytes,intraepithelial lymphocytes
+D000076203,Animal Fur,animal fur
+D000077317,Extracellular Polymeric Substance Matrix,extracellular polymeric substance matrix
+D000077317,Extracellular Polymeric Substance Matrix,extracellular polymeric substances
+D000077426,Gastric Artery,left gastric artery
+D000077426,Gastric Artery,gastric artery
+D000077426,Gastric Artery,right gastric artery
+D000077502,Glymphatic System,brain perivascular spaces
+D000077502,Glymphatic System,meningeal lymphatic vessels
+D000077502,Glymphatic System,glymphatic system
+D000078404,Epidermal Cells,epidermal cells
+D000078422,Allogeneic Cells,allogeneic cells
+D000078722,PC-3 Cells,pc-3 cells
+D000079482,Claustrum,endopiriform claustrum
+D000079482,Claustrum,claustrum
+D000079482,Claustrum,insular claustrum
+D000080383,Mental Foramen,mental foramen
+D000080869,Jugular Foramina,jugular foramina
+D000080882,Ribosomal Protein L10,ribosomal protein l10
+D000080884,Infratemporal Fossa,infratemporal fossa
+D000080886,Parapharyngeal Space,parapharyngeal space
+D000080886,Parapharyngeal Space,prestyloid compartment
+D000080886,Parapharyngeal Space,poststyloid compartment
+D000080906,Cerebellar Golgi Cells,cerebellar golgi cells
+D000080943,Bacterial Outer Membrane,bacterial outer membrane
+D000080944,Interosseous Membrane,interosseous membrane
+D000081363,"Occlusion Bodies, Viral","occlusion bodies, viral"
+D000081363,"Occlusion Bodies, Viral",occlusion-derived virion
+D000081363,"Occlusion Bodies, Viral",polyhedral occlusion body
+D000082702,Default Mode Network,default mode network
+D000083382,Uncinate Fasciculus,uncinate fasciculus
+D000083442,Vertebral Body,vertebral body
+D000083442,Vertebral Body,transverse processes
+D000083442,Vertebral Body,cancellous centrum
+D000083442,Vertebral Body,vertebral lamina
+D000083442,Vertebral Body,spinous processes
+D000083442,Vertebral Body,vertebral pedicles
+D000084282,HaCaT Cells,hacat cells
+D000084522,T Follicular Helper Cells,t follicular helper cells
+D000084582,Tumor-Associated Macrophages,tumor-associated macrophages
+D000084602,Sympathoadrenal System,sympathoadrenal system
+D000084602,Sympathoadrenal System,sympatho-adrenal medullary system
+D000086942,Viral Envelope,viral envelope
+D000086969,Viral Replication Compartments,coronavirus replication-transcription compartments
+D000086969,Viral Replication Compartments,coronavirus replication-transcription complexes
+D000086969,Viral Replication Compartments,virus-induced double-membrane vesicles
+D000086969,Viral Replication Compartments,positive-strand rna virus replication-transcription compartments
+D000086969,Viral Replication Compartments,viral replication compartments
+D000086969,Viral Replication Compartments,virogenic stroma
+D000086969,Viral Replication Compartments,positive strand rna virus replication-transcription complexes
+D000086969,Viral Replication Compartments,zippered endoplasmic reticulum double-membrane spherules
+D000087511,Artificial Virus-Like Particles,artificial virus-like particles
+D000087623,Insular Cortex,brodmann area 13
+D000087623,Insular Cortex,gustatory cortex
+D000087623,Insular Cortex,brodmann area 15
+D000087623,Insular Cortex,opercular cortex
+D000087623,Insular Cortex,visceral cortex
+D000087623,Insular Cortex,brodmann area 16
+D000087623,Insular Cortex,brodmann area 14
+D000087623,Insular Cortex,primary gustatory cortex
+D000087623,Insular Cortex,insular cortex
+D000087642,Primary Visual Cortex,primary visual cortex
+D000087643,Dorsolateral Prefrontal Cortex,brodmann area 9
+D000087643,Dorsolateral Prefrontal Cortex,brodmann's areas 9 and 46
+D000087643,Dorsolateral Prefrontal Cortex,brodmann area 46
+D000087643,Dorsolateral Prefrontal Cortex,dorsolateral prefrontal cortex
+D000088123,Cytoplasmic Ribonucleoprotein Granules,cytoplasmic ribonucleoprotein granules
+D000088123,Cytoplasmic Ribonucleoprotein Granules,neuronal ribonucleoprotein granules
+D000088142,Processing Bodies,processing bodies
+D000088142,Processing Bodies,gw-bodies
+D000088162,Stress Granules,stress granules
+D000088182,Promyelocytic Leukemia Nuclear Bodies,promyelocytic leukemia nuclear bodies
+D000088202,Nuclear Bodies,histone locus bodies
+D000088202,Nuclear Bodies,transcriptional condensates
+D000088202,Nuclear Bodies,nuclear dicing bodies
+D000088202,Nuclear Bodies,interchromatin granules
+D000088202,Nuclear Bodies,nuclear bodies
+D000088202,Nuclear Bodies,sphere organelles
+D000088202,Nuclear Bodies,cleavage bodies
+D000088203,Nuclear Speckles,omega speckles
+D000088203,Nuclear Speckles,nuclear speckles
+D000088242,Paraspeckles,paraspeckles
+D000088262,Germ Cell Ribonucleoprotein Granules,chromatoid bodies
+D000088262,Germ Cell Ribonucleoprotein Granules,z granules
+D000088262,Germ Cell Ribonucleoprotein Granules,p granules
+D000088262,Germ Cell Ribonucleoprotein Granules,primordial germ cell granules
+D000088262,Germ Cell Ribonucleoprotein Granules,germ cell ribonucleoprotein granules
+D000088262,Germ Cell Ribonucleoprotein Granules,sponge bodies
+D000088262,Germ Cell Ribonucleoprotein Granules,germ granules
+D000088263,Mandibular Canal,trifid mandibular canals
+D000088263,Mandibular Canal,inferior alveolar foramen
+D000088263,Mandibular Canal,bifid mandibular canal
+D000088263,Mandibular Canal,mandibular canal
+D000088343,Respiratory Aerosols and Droplets,respiratory aerosols and droplets
+D000088343,Respiratory Aerosols and Droplets,expiratory droplet nuclei
+D000088343,Respiratory Aerosols and Droplets,infectious aerosols
+D000088343,Respiratory Aerosols and Droplets,respiratory aerosols
+D000088343,Respiratory Aerosols and Droplets,respiratory droplets
+D000088343,Respiratory Aerosols and Droplets,exhaled bio-aerosols
+D000088462,Microneme,microneme
+D000088482,Dense Core Vesicles,large dense core vesicles
+D000088482,Dense Core Vesicles,dense core vesicles
+D000088482,Dense Core Vesicles,small dense core vesicles
+D000088502,Lamellar Bodies,lamellar bodies
+D000089282,Secretome,protein secretome
+D000089282,Secretome,secretome
+D000089804,Shelterin Complex,telomeric stn1-ten1 capping complex
+D000089804,Shelterin Complex,cst complex
+D000089804,Shelterin Complex,telomere cap complex
+D000089804,Shelterin Complex,shelterin complex
+D000090002,Stromal Vascular Fraction,stromal vascular fraction
+D000090002,Stromal Vascular Fraction,autologous adipose stromal vascular fraction
+D000090043,Abdominal Core,abdominal core
+D000090342,Plant Cone,strobilus
+D000090342,Plant Cone,pine cone
+D000090342,Plant Cone,spore cones
+D000090342,Plant Cone,microstrobilus
+D000090342,Plant Cone,seed cones
+D000090342,Plant Cone,plant cone
+D000091083,Decellularized Extracellular Matrix,decellularized extracellular matrix
+D000091244,Immunological Memory Cells,immunological memory cells
+D000091245,Memory B Cells,memory b cells
+D000091246,Memory T Cells,central memory t cells
+D000091246,Memory T Cells,tissue resident memory t cells
+D000091246,Memory T Cells,virtual memory t cells
+D000091246,Memory T Cells,effector memory t cells
+D000091246,Memory T Cells,memory t cells
+D000091282,Vestibular System,vestibular system
+D000091582,Biomolecular Condensates,biomolecular condensates
+D000092302,MDA-MB-231 Cells,mda-mb-231 cells
+D000092303,M Cells,"m cells, bronchiolar"
+D000092303,M Cells,colonic m cells
+D000092303,M Cells,m cells
+D000092303,M Cells,"m cells, intestinal"
+D000092303,M Cells,intestinal villous m cells
+D000092303,M Cells,bronchus-associated lymphoid tissue m cells
+D000092303,M Cells,gut-associated lymphoid tissue m cells
+D000092303,M Cells,nasopharynx-associated lymphoid tissue m cells
+D000092303,M Cells,airway m cells
+D000092303,M Cells,mucosa-associated lymphoid tissue m cells
+D000092303,M Cells,tonsillar m cells
+D000092303,M Cells,peyer's patch m cells
+D000092662,Schlemm's Canal,schlemm's canal
+D000093282,Limbal Stem Cells,limbal stem cells
+D000094182,Microphysiological Systems,microphysiological systems
+D000094242,Medium Spiny Neurons,medium spiny neurons
+D000094282,Schaffer Collaterals,schaffer collaterals
+D000094364,Myotendinous Junction,myotendinous junction
+D000094365,Hypothalamic-Pituitary-Gonadal Axis,hypothalamic-pituitary-gonadal axis
+D000095491,Tuft Cells,tuft cells
+D000095543,Epicardial Adipose Tissue,epicardial adipocytes
+D000095543,Epicardial Adipose Tissue,epicardial adipose tissue
+D000095543,Epicardial Adipose Tissue,pericoronary adipose tissue
+D000095543,Epicardial Adipose Tissue,intrapericardial adipose tissue
+D000095746,Inferior Olivary Complex,dorsal accessory olivary nucleus
+D000095746,Inferior Olivary Complex,inferior olivary complex
+D000095746,Inferior Olivary Complex,principal olivary nucleus
+D000095746,Inferior Olivary Complex,medial accessory olivary nucleus
+D000096322,Mitochondria Associated Membranes,mitochondria associated membranes
+D000096322,Mitochondria Associated Membranes,mitochondrial organizing structure
+D000096322,Mitochondria Associated Membranes,er mitochondria encounter structure
+D000096322,Mitochondria Associated Membranes,mitochondrial inner membrane organizing system
+D000096322,Mitochondria Associated Membranes,mitochondrial contact site
+D000097547,Tibiofemoral Joint,tibiofemoral joint
+D000097803,Ganglionic Eminence,ganglionic eminence
+D000097862,Extravillous Trophoblasts,extravillous trophoblasts
+D000097863,Ectodermal Placodes,adenohypophyseal placodes
+D000097863,Ectodermal Placodes,olfactory placodes
+D000097863,Ectodermal Placodes,ectodermal placodes
+D000097863,Ectodermal Placodes,otic placodes
+D000097863,Ectodermal Placodes,optic placodes
+D000097863,Ectodermal Placodes,neural placodes
+D000098559,Mesolimbic System,mesolimbic system

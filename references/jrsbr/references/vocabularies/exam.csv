@@ -1,0 +1,1330 @@
+mesh_ui,canonical,synonym
+D000158,Acoustic Impedance Tests,"audiometry, impedance"
+D000158,Acoustic Impedance Tests,electroacoustic impedance tests
+D000158,Acoustic Impedance Tests,tympanometry
+D000158,Acoustic Impedance Tests,acoustic impedance tests
+D000304,Adrenal Cortex Function Tests,adrenal cortex function tests
+D000365,Age Determination by Skeleton,skeletal age measurement
+D000365,Age Determination by Skeleton,skeletal maturation index
+D000365,Age Determination by Skeleton,bone age measurement
+D000365,Age Determination by Skeleton,age determination by skeleton
+D000366,Age Determination by Teeth,age determination by teeth
+D000372,Agglutination Tests,agglutination tests
+D000403,Airway Resistance,airway resistance
+D000513,Alpha Rhythm,alpha rhythm
+D000649,Amniocentesis,amniocentesis
+D000790,Angiocardiography,angiocardiography
+D000792,Angiography,angiography
+D000792,Angiography,angiogram
+D000792,Angiography,arteriography
+D000886,Anthropometry,anthropometry
+D000919,"Antibody-Coated Bacteria Test, Urinary","antibody-coated bacteria test, urinary"
+D001027,Aortography,aortography
+D001034,Apgar Score,apgar score
+D001175,Arthrography,arthrography
+D001182,Arthroscopy,arthroscopic surgical procedures
+D001182,Arthroscopy,arthroscopy
+D001299,Audiometry,audiometry
+D001300,"Audiometry, Evoked Response","audiometry, evoked response"
+D001300,"Audiometry, Evoked Response",electrocochleography
+D001301,"Audiometry, Pure-Tone","audiometry, pure-tone"
+D001301,"Audiometry, Pure-Tone","audiometry, bekesy"
+D001302,"Audiometry, Speech","audiometry, speech"
+D001314,Auscultation,auscultation
+D001344,Autopsy,autopsy
+D001345,Autoradiography,autoradiography
+D001405,"Reflex, Babinski","reflex, babinski"
+D001405,"Reflex, Babinski",babinski sign absent
+D001431,Bacteriological Techniques,bacteriological techniques
+D001434,Bacteriophage Typing,bacteriophage typing
+D001450,Ballistocardiography,ballistocardiography
+D001611,Beta Rhythm,beta rhythm
+D001706,Biopsy,biopsy
+D001707,"Biopsy, Needle",aspiration biopsy
+D001707,"Biopsy, Needle","biopsy, needle"
+D001724,Birth Weight,birth weight
+D001760,Bleeding Time,template bleeding time
+D001760,Bleeding Time,aspirin tolerance test
+D001760,Bleeding Time,duke method
+D001760,Bleeding Time,ivy method
+D001760,Bleeding Time,bleeding time
+D001772,Blood Cell Count,"blood count, complete"
+D001772,Blood Cell Count,blood cell count
+D001774,Blood Chemical Analysis,blood chemical analysis
+D001776,Blood Circulation Time,blood circulation time
+D001780,Blood Coagulation Tests,blood coagulation tests
+D001783,Blood Flow Velocity,blood flow velocity
+D001784,Blood Gas Analysis,blood gas analysis
+D001785,"Blood Gas Monitoring, Transcutaneous",ptco2
+D001785,"Blood Gas Monitoring, Transcutaneous",transcutaneous capnometry
+D001785,"Blood Gas Monitoring, Transcutaneous",cutaneous oximetry
+D001785,"Blood Gas Monitoring, Transcutaneous","blood gas monitoring, transcutaneous"
+D001785,"Blood Gas Monitoring, Transcutaneous",tcpco2
+D001788,Blood Grouping and Crossmatching,blood typing
+D001788,Blood Grouping and Crossmatching,"crossmatching, blood"
+D001788,Blood Grouping and Crossmatching,blood grouping and crossmatching
+D001794,Blood Pressure,systolic pressure
+D001794,Blood Pressure,blood pressure
+D001794,Blood Pressure,diastolic pressure
+D001794,Blood Pressure,pulse pressure
+D001795,Blood Pressure Determination,blood pressure determination
+D001797,Blood Protein Electrophoresis,blood protein electrophoresis
+D001797,Blood Protein Electrophoresis,hemoglobin electrophoresis
+D001799,Blood Sedimentation,erythrocyte sedimentation rate
+D001799,Blood Sedimentation,blood sedimentation
+D001800,Blood Specimen Collection,blood specimen collection
+D001806,Blood Urea Nitrogen,blood urea nitrogen
+D001811,Blood Volume Determination,blood volume determination
+D001824,Body Constitution,body constitution
+D001827,Body Height,body height
+D001830,Body Surface Area,body surface area
+D001831,Body Temperature,body temperature
+D001831,Body Temperature,organ temperature
+D001835,Body Weight,body weight
+D001837,Body Weights and Measures,body measures
+D001837,Body Weights and Measures,body weights and measures
+D001856,Bone Marrow Examination,bone marrow examination
+D001931,Brain Mapping,topographic brain mapping
+D001931,Brain Mapping,brain electrical activity mapping
+D001931,Brain Mapping,brain mapping
+D001931,Brain Mapping,functional cerebral localization
+D001944,Breath Tests,breath tests
+D001944,Breath Tests,breathalyzer tests
+D001985,Bronchial Provocation Tests,bronchial provocation tests
+D001995,Bronchography,bronchography
+D001999,Bronchoscopy,bronchoscopic surgical procedures
+D001999,Bronchoscopy,bronchoscopy
+D002000,Bronchospirometry,bronchospirometry
+D002150,Caloric Tests,caloric tests
+D002150,Caloric Tests,barany's test
+D002198,Capillary Fragility,capillary fragility
+D002302,Cardiac Output,cardiac output
+D002307,"Cardiography, Impedance","cardiography, impedance"
+D002407,"Catheterization, Swan-Ganz",pulmonary artery catheterization
+D002407,"Catheterization, Swan-Ganz","catheterization, swan-ganz"
+D002452,Cell Count,cell count
+D002452,Cell Count,cell density
+D002469,Cell Separation,cell separation
+D002508,Cephalometry,craniometry
+D002508,Cephalometry,cephalometry
+D002533,Cerebral Angiography,cerebral angiography
+D002758,Cholangiography,cholangiography
+D002760,"Cholangiopancreatography, Endoscopic Retrograde","cholangiopancreatography, endoscopic retrograde"
+D002765,Cholecystography,cholecystography
+D002871,Chromosome Banding,chromosome banding
+D002932,Cineangiography,cineangiography
+D002933,Cineradiography,cineradiography
+D003011,Closing Volume,closing volume
+D003018,Clot Retraction,clot retraction
+D003113,Colonoscopy,colonoscopic surgical procedures
+D003113,Colonoscopy,colonoscopy
+D003114,Colony-Forming Units Assay,colony-forming units assay
+D003119,Color Perception Tests,color perception tests
+D003127,Colposcopy,colposcopy
+D003127,Colposcopy,colposcopic surgical procedures
+D003168,Complement Fixation Tests,conglutinating complement absorption test
+D003168,Complement Fixation Tests,complement fixation tests
+D003298,Coombs Test,coombs test
+D003298,Coombs Test,anti-human globulin consumption test
+D003298,Coombs Test,direct coombs test
+D003298,Coombs Test,indirect coombs test
+D003321,Cornell Medical Index,cornell medical index
+D003344,Cortical Synchronization,cortical synchronization
+D003344,Cortical Synchronization,cortical desynchronization
+D003378,Counterimmunoelectrophoresis,counterimmunoelectrophoresis
+D003464,Culdoscopy,culdoscopic surgical procedures
+D003464,Culdoscopy,culdoscopy
+D003558,Cystoscopy,cystoscopic surgical procedures
+D003558,Cystoscopy,cystoscopy
+D003581,Cytodiagnosis,cytodiagnosis
+D003584,Cytological Techniques,cytological techniques
+D003588,"Cytopathogenic Effect, Viral","cytopathogenic effect, viral"
+D003592,Cytophotometry,cytophotometry
+D003601,"Cytotoxicity Tests, Immunologic","cytotoxicity tests, immunologic"
+D003601,"Cytotoxicity Tests, Immunologic",microcytotoxicity test
+D003601,"Cytotoxicity Tests, Immunologic",anti-human globulin complement-dependent cytotoxicity tests
+D003601,"Cytotoxicity Tests, Immunologic","lymphocytotoxicity tests, antiglobulin-augmented"
+D003648,Decalcification Technique,decalcification technique
+D003700,Delta Rhythm,delta rhythm
+D003933,Diagnosis,diagnosis
+D003933,Diagnosis,postmortem diagnosis
+D003933,Diagnosis,antemortem diagnosis
+D003933,Diagnosis,diagnoses and examinations
+D003935,"Diagnostic Techniques, Cardiovascular","diagnostic techniques, cardiovascular"
+D003936,"Diagnosis, Computer-Assisted","diagnosis, computer-assisted"
+D003937,"Diagnosis, Differential","diagnosis, differential"
+D003938,"Diagnostic Techniques, Digestive System","diagnostic techniques, digestive system"
+D003939,"Diagnostic Techniques, Otological","diagnostic techniques, otological"
+D003940,"Diagnostic Techniques, Endocrine","diagnostic techniques, endocrine"
+D003941,"Diagnostic Techniques, Ophthalmological","diagnostic techniques, ophthalmological"
+D003943,"Diagnostic Techniques, Neurological","diagnostic techniques, neurological"
+D003944,"Diagnostic Techniques, Obstetrical and Gynecological","diagnostic techniques, obstetrical and gynecological"
+D003947,"Diagnostic Techniques, Radioisotope","diagnostic techniques, radioisotope"
+D003948,"Diagnostic Techniques, Respiratory System","diagnostic techniques, respiratory system"
+D003949,"Diagnostic Techniques, Surgical","diagnostic techniques, surgical"
+D003950,"Diagnostic Techniques, Urological","diagnostic techniques, urological"
+D003951,Diagnostic Errors,misdiagnosis
+D003951,Diagnostic Errors,diagnostic errors
+D003951,Diagnostic Errors,diagnostic blind spots
+D003952,Diagnostic Imaging,diagnostic imaging
+D003952,Diagnostic Imaging,medical imaging
+D003955,"Diagnostic Tests, Routine",diagnostic tests
+D003955,"Diagnostic Tests, Routine","physical examination, preadmission"
+D003955,"Diagnostic Tests, Routine","admission tests, routine"
+D003955,"Diagnostic Tests, Routine","diagnostic tests, routine"
+D003955,"Diagnostic Tests, Routine",hospital admission tests
+D004007,Dichotic Listening Tests,dichotic listening tests
+D004185,Disability Evaluation,disability evaluation
+D004210,Dissection,dissection
+D004354,"Drug Screening Assays, Antitumor","dye exclusion assays, antitumor"
+D004354,"Drug Screening Assays, Antitumor","drug screening assays, antitumor"
+D004384,Duodenoscopy,duodenoscopic surgical procedures
+D004384,Duodenoscopy,duodenoscopy
+D004452,Echocardiography,echocardiography
+D004452,Echocardiography,"echocardiography, m-mode"
+D004452,Echocardiography,"echocardiography, contrast"
+D004452,Echocardiography,"echocardiography, cross-sectional"
+D004452,Echocardiography,2d echocardiography
+D004453,Echoencephalography,echoencephalography
+D004562,Electrocardiography,electrocardiograph
+D004562,Electrocardiography,electrocardiogram
+D004562,Electrocardiography,12-lead ecg
+D004562,Electrocardiography,electrocardiography
+D004568,Electrodiagnosis,electrodiagnosis
+D004569,Electroencephalography,electroencephalogram
+D004569,Electroencephalography,electroencephalography
+D004571,Electrokymography,photokymography
+D004571,Electrokymography,electrokymography
+D004576,Electromyography,electromyography
+D004576,Electromyography,surface electromyography
+D004576,Electromyography,electromyogram
+D004577,Electron Probe Microanalysis,electron probe microanalysis
+D004584,Electronystagmography,electronystagmography
+D004585,Electrooculography,electrooculography
+D004585,Electrooculography,electrooculograms
+D004596,Electroretinography,electroretinography
+D004724,Endoscopy,"surgical procedures, endoscopic"
+D004724,Endoscopy,endoscopy
+D004796,Clinical Enzyme Tests,clinical enzyme tests
+D004903,Erythrocyte Aggregation,"erythrocyte aggregation, intravascular"
+D004903,Erythrocyte Aggregation,"rouleaux formation, erythrocyte"
+D004903,Erythrocyte Aggregation,"agglutination, intravascular"
+D004903,Erythrocyte Aggregation,erythrocyte aggregation
+D004906,Erythrocyte Count,erythrocyte count
+D004909,Erythrocyte Indices,mean corpuscular hemoglobin
+D004909,Erythrocyte Indices,erythrocyte diameter
+D004909,Erythrocyte Indices,mean corpuscular volume
+D004909,Erythrocyte Indices,erythrocyte indices
+D004909,Erythrocyte Indices,mean corpuscular hemoglobulin concentration
+D004909,Erythrocyte Indices,erythrocyte thickness
+D004909,Erythrocyte Indices,erythrocyte size determination
+D004909,Erythrocyte Indices,red cell distribution width
+D004945,Esophagoscopy,esophagoscopic surgical procedures
+D004945,Esophagoscopy,esophagoscopy
+D005080,Exercise Test,fitness testing
+D005080,Exercise Test,eurofit test battery
+D005080,Exercise Test,treadmill test
+D005080,Exercise Test,step test
+D005080,Exercise Test,stress test
+D005080,Exercise Test,exercise test
+D005080,Exercise Test,bicycle ergometry test
+D005080,Exercise Test,physical fitness testing
+D005080,Exercise Test,cardiopulmonary exercise test
+D005080,Exercise Test,arm ergometry test
+D005105,Expiratory Reserve Volume,expiratory reserve volume
+D005149,Facial Expression,facial expression
+D005186,Fallopian Tube Patency Tests,fallopian tube patency tests
+D005188,False Negative Reactions,false negative reactions
+D005189,False Positive Reactions,false positive reactions
+D005323,Fetal Monitoring,fetal monitoring
+D005332,Fetoscopy,amnioscopy
+D005332,Fetoscopy,embryoscopic surgical procedures
+D005332,Fetoscopy,fetoscopy
+D005332,Fetoscopy,amnioscopic surgical procedures
+D005332,Fetoscopy,embryoscopy
+D005332,Fetoscopy,fetoscopic surgical procedures
+D005365,FIGLU Test,figlu test
+D005425,Flicker Fusion,flicker fusion
+D005428,Flocculation Tests,flocculation tests
+D005434,Flow Cytometry,flow cytometry
+D005434,Flow Cytometry,fluorescence-activated cell sorting
+D005451,Fluorescein Angiography,"fluorescence photography, fundus"
+D005451,Fluorescein Angiography,fluorescein angiography
+D005451,Fluorescein Angiography,fluorescence angiography
+D005455,Fluorescent Antibody Technique,immunofluorescence
+D005455,Fluorescent Antibody Technique,fluorescent antibody technique
+D005455,Fluorescent Antibody Technique,fluorescent protein tracing
+D005471,Fluoroscopy,fluoroscopy
+D005540,Forced Expiratory Flow Rates,forced expiratory flow rates
+D005541,Forced Expiratory Volume,forced expiratory volume
+D005612,Freeze Drying,freeze drying
+D005613,Freeze Etching,freeze etching
+D005614,Freeze Fracturing,freeze fracturing
+D005629,Frozen Sections,frozen sections
+D005652,Functional Residual Capacity,functional residual capacity
+D005684,Gait,gait
+D005745,Gastric Acidity Determination,gastric acidity determination
+D005772,Gastrointestinal Transit,gastrointestinal transit
+D005773,Gastroscopy,gastroscopic surgical procedures
+D005773,Gastroscopy,gastroscopy
+D005779,Immunodiffusion,immunodiffusion
+D005820,Genetic Testing,genetic testing
+D005820,Genetic Testing,genetic screening
+D005820,Genetic Testing,"testing, genetic predisposition"
+D005919,Glomerular Filtration Rate,glomerular filtration rate
+D005951,Glucose Tolerance Test,oral glucose tolerance test
+D005951,Glucose Tolerance Test,intravenous glucose tolerance test
+D005951,Glucose Tolerance Test,glucose tolerance test
+D006068,Gonioscopy,gonioscopy
+D006320,Hearing Tests,hearing in noise test
+D006320,Hearing Tests,hearing tests
+D006326,Heart Auscultation,heart auscultation
+D006328,Cardiac Catheterization,cardiac catheterization
+D006334,Heart Function Tests,heart function tests
+D006339,Heart Rate,"chronotropism, cardiac"
+D006339,Heart Rate,heart rate
+D006339,Heart Rate,cardiac chronotropy
+D006339,Heart Rate,pulse rate
+D006383,Hemadsorption Inhibition Tests,hemadsorption inhibition tests
+D006385,Hemagglutination Inhibition Tests,hemagglutination inhibition tests
+D006386,Hemagglutination Tests,hemagglutination tests
+D006400,Hematocrit,hematocrit
+D006403,Hematologic Tests,hematologic tests
+D006452,Hemoglobinometry,hemoglobinometry
+D006462,Hemolytic Plaque Technique,hemolytic plaque technique
+D006580,Genetic Carrier Screening,genetic carrier screening
+D006650,Histocompatibility Testing,histocompatibility testing
+D006650,Histocompatibility Testing,hla typing
+D006651,Histocytochemistry,histocytochemistry
+D006651,Histocytochemistry,cytochemistry
+D006652,Histological Techniques,histological techniques
+D006696,Holography,holography
+D007047,Hysterosalpingography,hysterosalpingography
+D007047,Hysterosalpingography,salpingography
+D007089,Image Enhancement,image enhancement
+D007090,"Image Interpretation, Computer-Assisted","image interpretation, computer-assisted"
+D007104,Immune Adherence Reaction,immune adherence reaction
+D007122,Immunoelectrophoresis,immunoelectrophoresis
+D007123,"Immunoelectrophoresis, Two-Dimensional","immunoelectrophoresis, two-dimensional"
+D007150,Immunohistochemistry,immunogold techniques
+D007150,Immunohistochemistry,immunogold-silver techniques
+D007150,Immunohistochemistry,immunocytochemistry
+D007150,Immunohistochemistry,immunohistocytochemistry
+D007150,Immunohistochemistry,immunohistochemistry
+D007150,Immunohistochemistry,immunolabeling techniques
+D007159,Immunologic Tests,immunologic tests
+D007159,Immunologic Tests,immunodiagnosis
+D007320,Inspiratory Capacity,inspiratory capacity
+D007321,Inspiratory Reserve Volume,inspiratory reserve volume
+D007327,Insufflation,insufflation
+D007428,Intradermal Tests,passive transfer test
+D007428,Intradermal Tests,intradermal tests
+D007620,Karyometry,karyometric image analysis
+D007620,Karyometry,karyometry
+D007621,Karyotyping,karyotyping
+D007677,Kidney Function Tests,kidney function tests
+D007702,Kinetocardiography,kinetocardiography
+D007702,Kinetocardiography,apex cardiography
+D007702,Kinetocardiography,accelography
+D007731,Kveim Test,kveim test
+D007734,Kymography,kymography
+D007789,Lactose Tolerance Test,lactose tolerance test
+D007828,Laryngoscopy,laryngoscopic surgical procedures
+D007828,Laryngoscopy,laryngoscopy
+D007841,Latex Fixation Tests,latex fixation tests
+D007957,Leukocyte Adherence Inhibition Test,leukocyte adherence inhibition test
+D007958,Leukocyte Count,"leukocyte count, differential"
+D007958,Leukocyte Count,leukocyte count
+D007959,"Lymphocyte Culture Test, Mixed","lymphocyte culture test, mixed"
+D008033,Limulus Test,limulus test
+D008111,Liver Function Tests,liver function tests
+D008170,Lung Compliance,lung compliance
+D008176,Lung Volume Measurements,lung volumes
+D008176,Lung Volume Measurements,lung volume measurements
+D008176,Lung Volume Measurements,lung capacities
+D008213,Lymphocyte Activation,lymphocyte activation
+D008220,Lymphography,lymphography
+D008220,Lymphography,lymphangiography
+D008279,Magnetic Resonance Imaging,mri scans
+D008279,Magnetic Resonance Imaging,"imaging, chemical shift"
+D008279,Magnetic Resonance Imaging,magnetization transfer contrast imaging
+D008279,Magnetic Resonance Imaging,magnetic resonance imaging
+D008279,Magnetic Resonance Imaging,magnetic resonance image
+D008279,Magnetic Resonance Imaging,spin echo imaging
+D008279,Magnetic Resonance Imaging,"tomography, proton spin"
+D008279,Magnetic Resonance Imaging,fmri
+D008327,Mammography,digital breast tomosynthesis
+D008327,Mammography,digital mammography
+D008327,Mammography,mammography
+D008400,Mass Chest X-Ray,mass chest x-ray
+D008403,Mass Screening,mass screening
+D008403,Mass Screening,screening
+D008448,Maximal Expiratory Flow Rate,maximal expiratory flow rate
+D008449,Maximal Expiratory Flow-Volume Curves,maximal expiratory flow-volume curves
+D008450,Maximal Midexpiratory Flow Rate,maximal midexpiratory flow rate
+D008451,Maximal Voluntary Ventilation,maximal voluntary ventilation
+D008481,Mediastinoscopy,mediastinoscopy
+D008481,Mediastinoscopy,mediastinoscopic surgical procedures
+D008487,Medical History Taking,family medical history
+D008487,Medical History Taking,previous medical history
+D008487,Medical History Taking,medical history taking
+D008657,Metabolic Clearance Rate,total body clearance rate
+D008657,Metabolic Clearance Rate,metabolic clearance rate
+D008826,Microbial Sensitivity Tests,"breakpoint determination, antibacterial susceptibility"
+D008826,Microbial Sensitivity Tests,antimicrobial susceptibility breakpoint determination
+D008826,Microbial Sensitivity Tests,microbial sensitivity tests
+D008826,Microbial Sensitivity Tests,minimum inhibitory concentration
+D008826,Microbial Sensitivity Tests,virus drug sensitivity tests
+D008826,Microbial Sensitivity Tests,bacterial sensitivity tests
+D008826,Microbial Sensitivity Tests,antibiogram
+D008826,Microbial Sensitivity Tests,fungus drug sensitivity tests
+D008828,Microbiological Techniques,microbiological techniques
+D008852,Microradiography,microradiography
+D008853,Microscopy,microscopy
+D008853,Microscopy,optical microscopy
+D008854,"Microscopy, Electron","microscopy, electron"
+D008855,"Microscopy, Electron, Scanning","microscopy, electron, scanning"
+D008856,"Microscopy, Fluorescence","microscopy, fluorescence"
+D008856,"Microscopy, Fluorescence",immunofluorescence microscopy
+D008857,"Microscopy, Interference","microscopy, interference reflection"
+D008857,"Microscopy, Interference","microscopy, interference"
+D008857,"Microscopy, Interference","microscopy, differential interference contrast"
+D008858,"Microscopy, Phase-Contrast","microscopy, phase-contrast"
+D008859,"Microscopy, Polarization","microscopy, polarization"
+D008860,"Microscopy, Ultraviolet","microscopy, ultraviolet"
+D008867,Microtomy,ultramicrotomy
+D008867,Microtomy,microtomy
+D008940,Mitotic Index,mitotic index
+D008991,"Monitoring, Physiologic","monitoring, physiologic"
+D008991,"Monitoring, Physiologic",patient monitoring
+D009079,Mucociliary Clearance,mucociliary clearance
+D009098,Multiphasic Screening,multiphasic screening
+D009098,Multiphasic Screening,automated multiphasic health testing
+D009192,Myelography,"cisternography, myelographic"
+D009192,Myelography,myelography
+D009213,Myography,myography
+D009299,Nasal Provocation Tests,nasal provocation tests
+D009367,Neoplasm Staging,neoplasm staging
+D009367,Neoplasm Staging,tnm staging
+D009403,"Nephrostomy, Percutaneous","nephrostomy, percutaneous"
+D009460,Neurologic Examination,neurologic examination
+D009485,Neuroradiography,neuroradiography
+D009500,Neutralization Tests,neutralization tests
+D009780,Occult Blood,occult blood
+D009780,Occult Blood,fecal occult blood test
+D009811,Odontometry,odontometry
+D009884,Ophthalmodynamometry,ophthalmodynamometry
+D009887,Ophthalmoscopy,ophthalmoscopy
+D009929,Organ Size,organ volume
+D009929,Organ Size,organ weight
+D009929,Organ Size,organ size
+D009996,Osmotic Fragility,saline fragility
+D009996,Osmotic Fragility,osmotic fragility
+D010050,Ovarian Function Tests,ovarian function tests
+D010061,Ovulation Detection,"ovulation detection, cervical mucus method"
+D010061,Ovulation Detection,"ovulation detection, basal body temperature method"
+D010061,Ovulation Detection,ovulation detection
+D010061,Ovulation Detection,"ovulation detection, sympto-thermal method"
+D010092,Oximetry,"oximetry, pulse"
+D010092,Oximetry,oximetry
+D010147,Pain Measurement,mcgill pain questionnaire
+D010147,Pain Measurement,pain intensity
+D010147,Pain Measurement,pain measurement
+D010147,Pain Measurement,tourniquet pain test
+D010147,Pain Measurement,formalin test
+D010147,Pain Measurement,visual analog pain scale
+D010147,Pain Measurement,analogue pain scale
+D010173,Palpation,palpation
+D010186,Pancreatic Function Tests,pancreatic function tests
+D010270,Parasite Egg Count,parasite egg count
+D010314,Partial Thromboplastin Time,kaolin-cephalin coagulation time
+D010314,Partial Thromboplastin Time,partial thromboplastin time
+D010323,Passive Cutaneous Anaphylaxis,passive cutaneous anaphylaxis
+D010328,Patch Tests,patch testing
+D010328,Patch Tests,patch tests
+D010366,Peak Expiratory Flow Rate,peak expiratory flow rate
+D010387,Pelvimetry,cephalopelvimetry
+D010387,Pelvimetry,pelvimetry
+D010387,Pelvimetry,cephalopelvic proportion
+D010474,Percussion,percussion
+D010503,Periodic Acid-Schiff Reaction,periodic acid-schiff reaction
+D010535,Laparoscopy,"surgical procedures, laparoscopic"
+D010535,Laparoscopy,laparoscopy
+D010690,Phlebography,phlebography
+D010701,Phonocardiography,phonocardiography
+D010779,Photofluorography,photofluorography
+D010780,Photogrammetry,stereophotogrammetry
+D010780,Photogrammetry,photogrammetry
+D010781,Photography,photography
+D010784,Photomicrography,photomicrography
+D010808,Physical Examination,physical examinations and diagnoses
+D010808,Physical Examination,physical examination
+D010858,Pigmentation,pigmentation
+D010901,Pituitary Function Tests,pituitary function tests
+D010912,Pituitary-Adrenal Function Tests,pituitary-adrenal function tests
+D010925,Placental Function Tests,placental function tests
+D010948,Viral Plaque Assay,viral plaque assay
+D010948,Viral Plaque Assay,bacteriophage plaque assay
+D010976,Platelet Count,platelet count
+D010979,Platelet Function Tests,platelet function tests
+D010991,Plethysmography,plethysmography
+D010992,"Plethysmography, Impedance","plethysmography, impedance"
+D010993,"Plethysmography, Whole Body","plethysmography, whole body"
+D011011,Pneumoencephalography,"cisternography, pneumoencephalographic"
+D011011,Pneumoencephalography,pneumoencephalography
+D011012,"Pneumomediastinum, Diagnostic","pneumomediastinum, diagnostic"
+D011028,"Pneumoperitoneum, Artificial","pneumoperitoneum, artificial"
+D011029,Pneumoradiography,pneumoradiography
+D011172,Portography,portography
+D011172,Portography,splenoportography
+D011233,Precipitin Tests,precipitin tests
+D011256,Pregnancy Outcome,pregnancy outcome
+D011258,Pregnancy Tests,pregnancy tests
+D011259,"Pregnancy Tests, Immunologic","pregnancy tests, immunologic"
+D011291,Premarital Examinations,premarital examinations
+D011296,Prenatal Diagnosis,fetal diagnosis
+D011296,Prenatal Diagnosis,prenatal diagnosis
+D011296,Prenatal Diagnosis,fetal imaging
+D011296,Prenatal Diagnosis,fetal screening
+D011296,Prenatal Diagnosis,prenatal screening
+D011351,Proctoscopy,proctoscopic surgical procedures
+D011351,Proctoscopy,rectoscopy
+D011351,Proctoscopy,proctoscopy
+D011351,Proctoscopy,anoscopy
+D011379,Prognosis,prognostic factors
+D011379,Prognosis,prognosis
+D011517,Prothrombin Time,thrombotest
+D011517,Prothrombin Time,russell's viper venom time
+D011517,Prothrombin Time,prothrombin time
+D011517,Prothrombin Time,quick test
+D011540,Prussian Blue Reaction,prussian blue reaction
+D011571,Psychoacoustics,psychoacoustics
+D011601,Psychophysics,psychophysics
+D011653,Pulmonary Diffusing Capacity,pulmonary diffusing capacity
+D011659,Pulmonary Gas Exchange,pulmonary gas exchange
+D011852,Radioallergosorbent Test,radioallergosorbent test
+D011856,Radiographic Image Enhancement,radiographic image enhancement
+D011856,Radiographic Image Enhancement,digital radiography
+D011857,"Radiographic Image Interpretation, Computer-Assisted","radiographic image interpretation, computer-assisted"
+D011858,Radiographic Magnification,radiographic magnification
+D011859,Radiography,radiography
+D011859,Radiography,diagnostic x-ray
+D011860,"Radiography, Abdominal","radiography, abdominal"
+D011861,"Radiography, Dental","radiography, dental"
+D011862,"Radiography, Panoramic","radiography, panoramic"
+D011863,Radioimmunoassay,radioimmunoassay
+D011865,Radioisotope Dilution Technique,radioisotope dilution technique
+D011866,Radioisotope Renography,radioisotope renography
+D011866,Radioisotope Renography,renography
+D011869,Radioligand Assay,radioligand assay
+D011875,Radionuclide Angiography,radionuclide angiography
+D011877,Radionuclide Imaging,scintiphotography
+D011877,Radionuclide Imaging,radionuclide imaging
+D012000,"Recruitment Detection, Audiologic",short increment sensitivity index
+D012000,"Recruitment Detection, Audiologic","recruitment detection, audiologic"
+D012000,"Recruitment Detection, Audiologic",alternate binaural loudness balance test
+D012018,Reflex,reflex
+D012020,"Reflex, Abdominal","reflex, abdominal"
+D012021,"Reflex, Abnormal","reflex, knee, abnormal"
+D012021,"Reflex, Abnormal","reflex, anal, absent"
+D012021,"Reflex, Abnormal",hyperreflexia
+D012021,"Reflex, Abnormal","reflex, deep tendon, absent"
+D012021,"Reflex, Abnormal","reflex, anal, decreased"
+D012021,"Reflex, Abnormal","reflex, triceps, decreased"
+D012021,"Reflex, Abnormal","reflex, ankle, absent"
+D012021,"Reflex, Abnormal","reflex, biceps, abnormal"
+D012021,"Reflex, Abnormal","reflex, triceps, abnormal"
+D012021,"Reflex, Abnormal",abnormal deep tendon reflex
+D012021,"Reflex, Abnormal",hyporeflexia
+D012021,"Reflex, Abnormal","reflex, moro, asymmetric"
+D012021,"Reflex, Abnormal","reflex, ankle, abnormal"
+D012021,"Reflex, Abnormal","reflex, gag, decreased"
+D012021,"Reflex, Abnormal","bulbocavernosus reflex, decreased"
+D012021,"Reflex, Abnormal","reflex, corneal, absent"
+D012021,"Reflex, Abnormal","reflex, acoustic, abnormal"
+D012021,"Reflex, Abnormal","reflex, biceps, absent"
+D012021,"Reflex, Abnormal","reflex, absent"
+D012021,"Reflex, Abnormal","reflex, gag, absent"
+D012021,"Reflex, Abnormal","reflex, knee, decreased"
+D012021,"Reflex, Abnormal","reflex, abnormal"
+D012021,"Reflex, Abnormal","reflex, corneal, decreased"
+D012021,"Reflex, Abnormal",hoffman's reflex
+D012021,"Reflex, Abnormal",palmo-mental reflex
+D012021,"Reflex, Abnormal","reflex, ankle, decreased"
+D012021,"Reflex, Abnormal",bulbocavernousus reflex absent
+D012021,"Reflex, Abnormal","reflex, pendular"
+D012021,"Reflex, Abnormal","reflex, biceps, decreased"
+D012021,"Reflex, Abnormal","reflex, triceps, absent"
+D012022,"Reflex, Acoustic","reflex, acoustic"
+D012025,"Reflex, Pupillary","reflex, pupillary"
+D012026,"Reflex, Stretch","reflex, stretch"
+D012026,"Reflex, Stretch","reflex, tendon"
+D012029,"Refraction, Ocular","refraction, ocular"
+D012115,Residual Volume,residual volume
+D012123,Pulmonary Ventilation,pulmonary ventilation
+D012123,Pulmonary Ventilation,expiratory airflow
+D012123,Pulmonary Ventilation,ventilation tests
+D012129,Respiratory Function Tests,pulmonary function tests
+D012129,Respiratory Function Tests,respiratory function tests
+D012135,Respiratory Sounds,respiratory sounds
+D012135,Respiratory Sounds,pleural rub
+D012135,Respiratory Sounds,rales
+D012135,Respiratory Sounds,stridor
+D012135,Respiratory Sounds,rhonchi
+D012135,Respiratory Sounds,wheezing
+D012397,Rosette Formation,rosette formation
+D012546,Schilling Test,schilling test
+D012692,Serial Passage,serial passage
+D012698,Serologic Tests,serologic tests
+D012698,Serologic Tests,serodiagnosis
+D012703,Serotyping,serotyping
+D012732,Sex Determination Analysis,sex determination analysis
+D012796,Sialography,sialography
+D012812,Sigmoidoscopy,sigmoidoscopy
+D012812,Sigmoidoscopy,sigmoidoscopic surgical procedures
+D012880,Skin Pigmentation,skin pigmentation
+D012882,Skin Tests,skin tests
+D012884,Skin Window Technique,rebuck skin window technique
+D012884,Skin Window Technique,skin window technique
+D012885,Skinfold Thickness,skinfold thickness
+D013008,Somatotypes,endomorph
+D013008,Somatotypes,body shape
+D013008,Somatotypes,ectomorph
+D013008,Somatotypes,somatotypes
+D013008,Somatotypes,mesomorph
+D013048,Specimen Handling,specimen handling
+D013048,Specimen Handling,specimen collection
+D013062,Speech Articulation Tests,speech articulation tests
+D013063,Speech Discrimination Tests,speech discrimination tests
+D013068,Speech Production Measurement,speech production measurement
+D013069,Speech Reception Threshold Test,speech reception threshold test
+D013076,Sperm Count,sperm number
+D013076,Sperm Count,sperm count
+D013081,Sperm Motility,sperm motility
+D013129,Spinal Puncture,spinal puncture
+D013147,Spirometry,spirometry
+D013194,Staining and Labeling,staining and labeling
+D013194,Staining and Labeling,staining
+D013194,Staining and Labeling,histological labeling
+D013216,"Reflex, Startle","reflex, moro"
+D013216,"Reflex, Startle",acoustic startle reflex
+D013216,"Reflex, Startle","reflex, startle"
+D013318,Stroke Volume,ventricular end-systolic volume
+D013318,Stroke Volume,ventricular ejection fraction
+D013318,Stroke Volume,stroke volume
+D013318,Stroke Volume,ventricular end-diastolic volume
+D013382,Subtraction Technique,subtraction technique
+D013588,Syphilis Serodiagnosis,wassermann reaction
+D013588,Syphilis Serodiagnosis,syphilis serodiagnosis
+D013588,Syphilis Serodiagnosis,kahn test
+D013686,Telemetry,telemetry
+D013817,Thermography,thermography
+D013826,Theta Rhythm,theta rhythm
+D013851,Thinness,underweight
+D013851,Thinness,thinness
+D013902,"Radiography, Thoracic","radiography, thoracic"
+D013906,Thoracoscopy,thoracoscopy
+D013906,Thoracoscopy,"surgical procedures, thoracoscopic"
+D013916,Thrombelastography,thrombelastography
+D013916,Thrombelastography,thromboelastometry
+D013918,Thrombin Time,thrombin time
+D013960,Thyroid Function Tests,jostel's tsh index
+D013960,Thyroid Function Tests,thyrotroph thyroid hormone sensitivity index
+D013960,Thyroid Function Tests,secretory capacity of the thyroid gland
+D013960,Thyroid Function Tests,protein-bound iodine test
+D013960,Thyroid Function Tests,thyroid function tests
+D013960,Thyroid Function Tests,sum activity of peripheral deiodinases
+D013990,Tidal Volume,tidal volume
+D014021,Tissue Preservation,tissue preservation
+D014054,Tomography,tomography
+D014055,"Tomography, Emission-Computed","tomography, emission-computed"
+D014056,"Tomography, X-Ray","tomography, x-ray"
+D014057,"Tomography, X-Ray Computed",electron beam computed tomography
+D014057,"Tomography, X-Ray Computed",cine-ct
+D014057,"Tomography, X-Ray Computed","tomography, x-ray computerized axial"
+D014057,"Tomography, X-Ray Computed","tomography, x-ray computed"
+D014065,"Tonometry, Ocular","tonometry, ocular"
+D014109,Total Lung Capacity,total lung capacity
+D014172,Transillumination,diaphanography
+D014172,Transillumination,transillumination
+D014209,Treponema Immobilization Test,treponema immobilization test
+D014374,Tuberculin Test,tuberculin test
+D014410,Tumor Stem Cell Assay,tumor stem cell assay
+D014463,Ultrasonography,"tomography, ultrasonic"
+D014463,Ultrasonography,ultrasonography
+D014463,Ultrasonography,"diagnosis, ultrasonic"
+D014463,Ultrasonography,"echotomography, computer"
+D014546,Urinary Catheterization,"catheterization, urethral"
+D014546,Urinary Catheterization,foley catheterization
+D014546,Urinary Catheterization,urinary catheterization
+D014546,Urinary Catheterization,"catheterization, ureteral"
+D014567,Urography,urography
+D014567,Urography,pyelogram
+D014626,Vaginal Smears,vaginal smears
+D014636,Valsalva Maneuver,valsalva maneuver
+D014672,Vectorcardiography,vectorcardiography
+D014672,Vectorcardiography,polarcardiography
+D014692,Ventilation-Perfusion Ratio,ventilation-perfusion ratio
+D014695,Cerebral Ventriculography,cerebral ventriculography
+D014724,Vestibular Function Tests,vestibular function tests
+D014776,Virus Cultivation,virus cultivation
+D014787,Vision Tests,vision tests
+D014792,Visual Acuity,visual acuity
+D014797,Vital Capacity,forced vital capacity
+D014797,Vital Capacity,vital capacity
+D014914,Whole Blood Coagulation Time,whole blood coagulation time
+D014938,Work Capacity Evaluation,work capacity evaluation
+D014939,Work of Breathing,work of breathing
+D014984,Xeromammography,xeromammography
+D014986,Xeroradiography,xeroradiography
+D015148,Cardiotocography,internal cardiotocography
+D015148,Cardiotocography,external cardiotocography
+D015148,Cardiotocography,cardiotocography
+D015148,Cardiotocography,cardiotocogram
+D015150,"Echocardiography, Doppler","echocardiography, doppler"
+D015150,"Echocardiography, Doppler",2d doppler echocardiography
+D015150,"Echocardiography, Doppler","echocardiography, continuous doppler"
+D015166,"Monitoring, Immunologic","monitoring, immunologic"
+D015166,"Monitoring, Immunologic",radioimmunologic monitoring
+D015169,"Colony Count, Microbial",spore count
+D015169,"Colony Count, Microbial",fungal count
+D015169,"Colony Count, Microbial",agar dilution count
+D015169,"Colony Count, Microbial","colony count, microbial"
+D015169,"Colony Count, Microbial",pour plate count
+D015169,"Colony Count, Microbial",spread plate count
+D015169,"Colony Count, Microbial",streak plate count
+D015190,Blood Glucose Self-Monitoring,blood glucose self-monitoring
+D015193,Chorionic Villi Sampling,chorionic villi sampling
+D015200,Fluoroimmunoassay,time-resolved immunofluorometric assay
+D015200,Fluoroimmunoassay,fluoroimmunoassay
+D015225,Magnetoencephalography,magnetoencephalography
+D015309,Glucose Clamp Technique,glucose clamping
+D015309,Glucose Clamp Technique,euglycemic clamp
+D015309,Glucose Clamp Technique,glucose clamp technique
+D015350,Contrast Sensitivity,contrast sensitivity
+D015351,Vision Screening,vision screening
+D015373,Bacterial Typing Techniques,bacteriocin typing
+D015373,Bacterial Typing Techniques,bacterial typing techniques
+D015373,Bacterial Typing Techniques,bacterial typing
+D015373,Bacterial Typing Techniques,"biotyping, bacterial"
+D015492,AIDS Serodiagnosis,aids serodiagnosis
+D015502,"Absorptiometry, Photon","absorptiometry, x-ray"
+D015502,"Absorptiometry, Photon","radiographic absorptiometry, dual-energy"
+D015502,"Absorptiometry, Photon","densitometry, x-ray"
+D015502,"Absorptiometry, Photon",dual-energy x-ray absorptiometry
+D015502,"Absorptiometry, Photon",dual-energy x-ray absorptiometry scan
+D015502,"Absorptiometry, Photon","absorptiometry, photon"
+D015502,"Absorptiometry, Photon",single-photon absorptiometry
+D015502,"Absorptiometry, Photon",dual-photon absorptiometry
+D015531,Radioimmunoprecipitation Assay,radioimmunoprecipitation assay
+D015549,Basophil Degranulation Test,basophil degranulation test
+D015588,Observer Variation,interobserver variation
+D015588,Observer Variation,intraobserver variation
+D015588,Observer Variation,observer variation
+D015590,Fluorophotometry,fluorophotometry
+D015610,Serum Bactericidal Test,serum bactericidal test
+D015635,Radionuclide Ventriculography,radionuclide ventriculography
+D015637,Gated Blood-Pool Imaging,gated blood-pool imaging
+D015641,"Radiography, Interventional","radiography, interventional"
+D015646,"Ventriculography, First-Pass","ventriculography, first-pass"
+D015716,"Electrocardiography, Ambulatory",holter electrocardiography
+D015716,"Electrocardiography, Ambulatory","electrocardiography, ambulatory"
+D015899,"Tomography, Emission-Computed, Single-Photon","tomography, emission-computed, single-photon"
+D015900,"Radiography, Dual-Energy Scanned Projection","radiography, dual-energy scanned projection"
+D015901,"Angiography, Digital Subtraction","angiography, digital subtraction"
+D015903,Moire Topography,moire photographs
+D015903,Moire Topography,moire patterns
+D015903,Moire Topography,moire topography
+D015907,Hysteroscopy,hysteroscopic surgical procedures
+D015907,Hysteroscopy,hysteroscopy
+D015925,Cryopreservation,cryopreservation
+D015925,Cryopreservation,cryonic suspension
+D015927,Skin Test End-Point Titration,skin test end-point titration
+D015927,Skin Test End-Point Titration,rinkel serial dilution titration
+D015941,Complement Hemolytic Activity Assay,complement hemolytic activity assay
+D015941,Complement Hemolytic Activity Assay,serum complement titer
+D015941,Complement Hemolytic Activity Assay,whole complement titer
+D015941,Complement Hemolytic Activity Assay,complement h50
+D015941,Complement Hemolytic Activity Assay,total hemolytic complement
+D015992,Body Mass Index,body mass index
+D015997,Neonatal Screening,neonatal screening
+D016059,"Range of Motion, Articular",passive range of motion
+D016059,"Range of Motion, Articular","range of motion, articular"
+D016099,"Endoscopy, Gastrointestinal","endoscopy, gastrointestinal"
+D016099,"Endoscopy, Gastrointestinal","surgical procedures, endoscopic gastrointestinal"
+D016130,Immunophenotyping,lymphocyte immunophenotyping
+D016130,Immunophenotyping,immunophenotyping
+D016130,Immunophenotyping,lymphocyte subtyping
+D016145,"Endoscopy, Digestive System",digestive system endoscopic surgical procedures
+D016145,"Endoscopy, Digestive System",esophagogastroduodenoscopy
+D016145,"Endoscopy, Digestive System","endoscopy, digestive system"
+D016216,"Ultrasonography, Prenatal",fetal ultrasonography
+D016216,"Ultrasonography, Prenatal","ultrasonography, prenatal"
+D016217,"Ultrasonography, Mammary","ultrasonography, mammary"
+D016231,Fluorescence Polarization Immunoassay,fluorescence polarization immunoassay
+D016252,"Microscopy, Scanning Tunneling","microscopy, scanning tunneling"
+D016253,"Microscopy, Immunoelectron","microscopy, immunoelectron"
+D016300,"Radiography, Bitewing","radiography, bitewing"
+D016319,Corrosion Casting,corrosion casting
+D016343,"Monitoring, Intraoperative","monitoring, intraoperative"
+D016353,Self-Examination,self-examination
+D016482,Urinalysis,urinalysis
+D016504,Breast Self-Examination,breast self-examination
+D016508,Fluorescent Treponemal Antibody-Absorption Test,fluorescent treponemal antibody-absorption test
+D016516,CD4-CD8 Ratio,cd4-cd8 ratio
+D016533,Mycological Typing Techniques,"biotyping, mycological"
+D016533,Mycological Typing Techniques,"typing, fungal"
+D016533,Mycological Typing Techniques,mycological typing techniques
+D016591,Histocytological Preparation Techniques,histocytological preparation techniques
+D016610,Tissue Embedding,tissue embedding
+D016612,Paraffin Embedding,paraffin embedding
+D016613,Plastic Embedding,plastic embedding
+D016616,Cryoultramicrotomy,cryoultramicrotomy
+D016622,Silver Staining,silver staining
+D016622,Silver Staining,silver nitrate staining
+D016624,Negative Staining,negative staining
+D016626,"Shadowing Technique, Histology","shadowing technique, histology"
+D016628,Replica Techniques,replica techniques
+D016707,Tissue Fixation,tissue fixation
+D016719,Radioimmunodetection,radioimmunodetection
+D016896,Treatment Outcome,clinical effectiveness
+D016896,Treatment Outcome,rehabilitation outcome
+D016896,Treatment Outcome,patient-relevant outcome
+D016896,Treatment Outcome,treatment efficacy
+D016896,Treatment Outcome,treatment outcome
+D016903,Drug Monitoring,drug monitoring
+D016903,Drug Monitoring,therapeutic drug monitoring
+D017023,Coronary Angiography,coronary angiography
+D017078,Laser-Doppler Flowmetry,laser-doppler flowmetry
+D017078,Laser-Doppler Flowmetry,"velocimetry, laser-doppler"
+D017110,Freeze Substitution,freeze substitution
+D017156,Photoplethysmography,photoplethysmography
+D017211,Treatment Failure,treatment failure
+D017218,Cordocentesis,cordocentesis
+D017286,Polysomnography,polysomnography
+D017348,"Microscopy, Electron, Scanning Transmission","microscopy, electron, scanning transmission"
+D017352,Echo-Planar Imaging,echo-planar imaging
+D017352,Echo-Planar Imaging,echo-planar mr tomography
+D017403,In Situ Hybridization,in situ hybridization
+D017404,"In Situ Hybridization, Fluorescence","in situ hybridization, fluorescence"
+D017546,Angioscopy,angioscopic surgical procedures
+D017546,Angioscopy,angioscopy
+D017548,"Echocardiography, Transesophageal","echocardiography, transesophageal"
+D017584,Reproductive History,birth history
+D017584,Reproductive History,contraceptive history
+D017584,Reproductive History,pregnancy history
+D017584,Reproductive History,reproductive history
+D017585,"Ultrasonography, Doppler, Transcranial","ultrasonography, doppler, transcranial"
+D017585,"Ultrasonography, Doppler, Transcranial",neurosonology
+D017591,Petrosal Sinus Sampling,petrosal sinus sampling
+D017603,"Signal Detection, Psychological","signal detection, psychological"
+D017701,Reticulocyte Count,reticulocyte count
+D017831,"Diagnosis, Dual (Psychiatry)","diagnosis, dual (psychiatry)"
+D018084,"Ultrasonography, Interventional","ultrasonography, intravascular"
+D018084,"Ultrasonography, Interventional","ultrasonography, interventional"
+D018447,Medical Futility,futility
+D018447,Medical Futility,futile treatment
+D018447,Medical Futility,treatment futility
+D018447,Medical Futility,medical futility
+D018568,Crown-Rump Length,crown-rump length
+D018572,Disease-Free Survival,disease-free survival
+D018590,Uterine Monitoring,tocograms
+D018590,Uterine Monitoring,uterine monitoring
+D018608,"Ultrasonography, Doppler","ultrasonography, doppler"
+D018608,"Ultrasonography, Doppler",doppler ultrasound imaging
+D018613,"Microscopy, Confocal","microscopy, confocal"
+D018613,"Microscopy, Confocal",laser scanning microscopy
+D018613,"Microscopy, Confocal","microscopy, confocal, laser scanning"
+D018613,"Microscopy, Confocal",laser microscopy
+D018615,"Ultrasonography, Doppler, Color","ultrasonography, doppler, color"
+D018616,"Ultrasonography, Doppler, Duplex","ultrasonography, doppler, duplex"
+D018617,"Ultrasonography, Doppler, Pulsed","ultrasonography, doppler, pulsed"
+D018618,"Echocardiography, Doppler, Color","echocardiography, doppler, color"
+D018619,"Echocardiography, Doppler, Pulsed","echocardiography, doppler, pulsed"
+D018625,"Microscopy, Atomic Force","microscopy, atomic force"
+D018655,Lymphocyte Count,lymphocyte count
+D018660,"Blood Pressure Monitoring, Ambulatory","blood pressure monitoring, self"
+D018660,"Blood Pressure Monitoring, Ambulatory","blood pressure monitoring, home"
+D018660,"Blood Pressure Monitoring, Ambulatory","blood pressure monitoring, ambulatory"
+D018666,Ureteroscopy,"surgical procedures, ureteroscopic"
+D018666,Ureteroscopy,ureteroscopy
+D018667,Tilt-Table Test,tilt-table test
+D018670,"Monitoring, Ambulatory","monitoring, ambulatory"
+D018715,"Microscopy, Video","microscopy, video"
+D018737,Hand Strength,hand strength
+D018737,Hand Strength,grip
+D018780,Body Surface Potential Mapping,body surface potential mapping
+D018791,CD4 Lymphocyte Count,cd4 lymphocyte count
+D018810,Magnetic Resonance Angiography,time of flight mra
+D018810,Magnetic Resonance Angiography,contrast enhanced mra
+D018810,Magnetic Resonance Angiography,magnetic resonance angiography
+D018929,Cell Culture Techniques,cell culture techniques
+D018962,Phlebotomy,phlebotomy
+D018962,Phlebotomy,venipuncture
+D019028,"Magnetic Resonance Imaging, Cine","magnetic resonance imaging, cine"
+D019044,Image Cytometry,image cytometry
+D019066,Facies,facies
+D019084,"Fluorescent Antibody Technique, Indirect",indirect immunofluorescence
+D019084,"Fluorescent Antibody Technique, Indirect","fluorescent antibody technique, indirect"
+D019085,"Fluorescent Antibody Technique, Direct",direct immunofluorescence
+D019085,"Fluorescent Antibody Technique, Direct","fluorescent antibody technique, direct"
+D019092,Conization,conization
+D019152,Paracentesis,paracentesis
+D019152,Paracentesis,culdocentesis
+D019160,Endosonography,endosonography
+D019160,Endosonography,"ultrasonography, endoscopic"
+D019252,"Radiography, Dental, Digital",digora
+D019252,"Radiography, Dental, Digital",dental radiovisiography
+D019252,"Radiography, Dental, Digital","radiography, dental, digital"
+D019252,"Radiography, Dental, Digital",scanora
+D019252,"Radiography, Dental, Digital","digital dental radiography, direct"
+D019252,"Radiography, Dental, Digital",sens-a-ray
+D019252,"Radiography, Dental, Digital",visualix
+D019265,"Spectroscopy, Near-Infrared","spectroscopy, near-infrared"
+D019296,Capnography,capnography
+D019411,Clinical Laboratory Techniques,clinical laboratory testings
+D019411,Clinical Laboratory Techniques,clinical laboratory tests
+D019411,Clinical Laboratory Techniques,clinical laboratory techniques
+D019411,Clinical Laboratory Techniques,clinical laboratory diagnoses
+D019411,Clinical Laboratory Techniques,laboratory examinations and diagnoses
+D019411,Clinical Laboratory Techniques,laboratory diagnosis
+D019560,"Echocardiography, Three-Dimensional","echocardiography, three-dimensional"
+D019561,"Echocardiography, Four-Dimensional","echocardiography, four-dimensional"
+D019562,Viral Load,viral load
+D019562,Viral Load,virus titer
+D019781,Corneal Topography,corneal topography
+D019781,Corneal Topography,videokeratography
+D019836,Preimplantation Diagnosis,preimplantation screening
+D019836,Preimplantation Diagnosis,preimplantation diagnosis
+D019841,Defecography,defecography
+D019934,International Normalized Ratio,international normalized ratio
+D019937,Diagnostic Techniques and Procedures,diagnostic techniques and procedures
+D019963,Clinical Chemistry Tests,clinical chemistry tests
+D020223,Chromosome Painting,chromosome painting
+D020285,Cryoelectron Microscopy,cryoelectron microscopy
+D020401,Primed In Situ Labeling,primed in situ labeling
+D020519,Pericardiocentesis,pericardiocentesis
+D020525,Xenodiagnosis,xenodiagnosis
+D020527,"Microscopy, Scanning Probe","microscopy, scanning probe"
+D020535,Video-Assisted Surgery,video-assisted surgery
+D020567,Fetal Weight,fetal weight
+D020678,Microscopic Angioscopy,microscopic angioscopy
+D020678,Microscopic Angioscopy,nailfold capillaroscopy
+D020678,Microscopic Angioscopy,videocapillaroscopy
+D020732,Cytogenetic Analysis,cytogenetic analysis
+D020775,"Thoracic Surgery, Video-Assisted","thoracic surgery, video-assisted"
+D021261,Parasitic Sensitivity Tests,parasitic sensitivity tests
+D021261,Parasitic Sensitivity Tests,protozoal drug sensitivity tests
+D021261,Parasitic Sensitivity Tests,helminth drug sensitivity tests
+D021521,Ribotyping,ribotyping
+D021521,Ribotyping,ribotype
+D021521,Ribotyping,riboprint
+D021521,Ribotyping,riboprinting
+D021621,"Imaging, Three-Dimensional",3-d image
+D021621,"Imaging, Three-Dimensional","imaging, three-dimensional"
+D021621,"Imaging, Three-Dimensional","imaging, three-dimensional, computer assisted"
+D021701,Sentinel Lymph Node Biopsy,sentinel lymph node biopsy
+D022062,"Electrophysiologic Techniques, Cardiac","programmed electrostimulation, cardiac"
+D022062,"Electrophysiologic Techniques, Cardiac",intracardiac electrogram
+D022062,"Electrophysiologic Techniques, Cardiac",intra-atrial electrogram
+D022062,"Electrophysiologic Techniques, Cardiac","electrophysiological techniques, intracardiac"
+D022062,"Electrophysiologic Techniques, Cardiac","electrophysiologic techniques, cardiac"
+D022062,"Electrophysiologic Techniques, Cardiac","electrophysiologic study, cardiac"
+D022062,"Electrophysiologic Techniques, Cardiac",his bundle electrogram
+D022062,"Electrophysiologic Techniques, Cardiac",transesophageal electrophysiologic study
+D023441,Local Lymph Node Assay,local lymph node assay
+D023842,"Rhinometry, Acoustic","rhinometry, acoustic"
+D023861,"Photography, Dental","photography, intraoral"
+D023861,"Photography, Dental","photography, orthodontic"
+D023861,"Photography, Dental","photography, dental"
+D023881,"Colonography, Computed Tomographic","colonography, computed tomographic"
+D025202,Molecular Diagnostic Techniques,molecular diagnostic techniques
+D025202,Molecular Diagnostic Techniques,molecular diagnostic testing
+D025363,Rhinomanometry,rhinomanometry
+D025401,"Echocardiography, Stress","echocardiography, stress, dobutamine"
+D025401,"Echocardiography, Stress","echocardiography, stress"
+D032681,Spectral Karyotyping,spectral karyotyping
+D033162,Incidental Findings,incidental discovery
+D033162,Incidental Findings,incidental findings
+D033401,"Microscopy, Acoustic","microscopy, acoustic"
+D033401,"Microscopy, Acoustic","microscopy, scanning acoustic"
+D033401,"Microscopy, Acoustic",ultrasound biomicroscopy
+D035041,Anonymous Testing,anonymous testing
+D036542,"Tomography, Spiral Computed","tomography, spiral computed"
+D036641,"Microscopy, Fluorescence, Multiphoton","microscopy, fluorescence, multiphoton"
+D038301,Virus Inactivation,virus inactivation
+D038524,Diffusion Magnetic Resonance Imaging,diffusion magnetic resonance imaging
+D038781,Otoscopy,otoscopy
+D041622,"Tomography, Optical","tomography, optical"
+D041623,"Tomography, Optical Coherence","tomography, optical coherence"
+D042241,Early Diagnosis,early diagnosis
+D042241,Early Diagnosis,early detection of disease
+D042262,Retinoscopy,retinoscopy
+D042282,Microdissection,microdissection
+D044384,Ovulation Prediction,ovulation prediction
+D044583,Neuroendoscopy,neuroendoscopy
+D044963,"Biopsy, Fine-Needle","biopsy, fine-needle"
+D044963,"Biopsy, Fine-Needle","aspiration biopsy, fine-needle"
+D046032,"Microscopy, Energy-Filtering Transmission Electron","microscopy, energy-filtering transmission electron"
+D046169,Dermoscopy,dermoscopy
+D046529,"Microscopy, Electron, Transmission","microscopy, electron, transmission"
+D046529,"Microscopy, Electron, Transmission",electron diffraction microscopy
+D047569,Laser Scanning Cytometry,laser scanning cytometry
+D048208,Nuchal Translucency Measurement,nuchal translucency measurement
+D048208,Nuchal Translucency Measurement,nuchal translucency
+D049268,Positron-Emission Tomography,positron-emission tomography
+D049448,"Cholangiopancreatography, Magnetic Resonance","cholangiopancreatography, magnetic resonance"
+D049451,Nomograms,nomograms
+D049451,Nomograms,partin tables
+D049489,Stroboscopy,stroboscopy
+D049628,Body Size,body size
+D049629,Waist-Hip Ratio,waist-hip ratio
+D050154,Adiposity,adiposity
+D050177,Overweight,overweight
+D050218,Body Fat Distribution,body fat distribution
+D050782,Esophageal pH Monitoring,esophageal ph monitoring
+D050782,Esophageal pH Monitoring,ambulatory esophageal ph monitoring
+D051517,Digital Rectal Examination,digital rectal examination
+D051598,Whole Body Imaging,whole body imaging
+D051598,Whole Body Imaging,whole body screening
+D052581,Pinch Strength,pinch strength
+D052978,Disk Diffusion Antimicrobial Tests,epsilometer test
+D052978,Disk Diffusion Antimicrobial Tests,kirby-bauer disk-diffusion method
+D052978,Disk Diffusion Antimicrobial Tests,disk diffusion antimicrobial tests
+D053483,Eye Movement Measurements,eye movement measurements
+D053580,Muscle Strength,muscle strength
+D053580,Muscle Strength,arthrogenic muscle inhibition
+D053587,"Arthrometry, Articular","arthrometry, articular"
+D053704,Capsule Endoscopy,capsule endoscopy
+D053798,Magnetocardiography,magnetocardiography
+D054441,"Cell Migration Assays, Leukocyte","migration inhibitory tests, leukocyte"
+D054441,"Cell Migration Assays, Leukocyte",leukocyte migration agarose test
+D054441,"Cell Migration Assays, Leukocyte","cell migration assays, leukocyte"
+D054441,"Cell Migration Assays, Leukocyte",leukocyte migration capillary tube technique
+D054442,"Cell Migration Assays, Macrophage","cell migration assays, macrophage"
+D054442,"Cell Migration Assays, Macrophage",macrophage migration inhibition test
+D054443,Cell Migration Assays,cell migration assays
+D054443,Cell Migration Assays,cell motility assays
+D054459,Elasticity Imaging Techniques,magnetic resonance elastography
+D054459,Elasticity Imaging Techniques,sonoelastography
+D054459,Elasticity Imaging Techniques,acoustic radiation force impulse imaging
+D054459,Elasticity Imaging Techniques,elasticity imaging techniques
+D054459,Elasticity Imaging Techniques,vibro-acoustography
+D054459,Elasticity Imaging Techniques,elastograms
+D054791,Cervical Length Measurement,cervical length measurement
+D054881,Sex Determination by Skeleton,sex determination by skeleton
+D054893,Cone-Beam Computed Tomography,cone-beam computed tomography
+D054894,Spiral Cone-Beam Computed Tomography,spiral cone-beam computed tomography
+D055032,Electron Microscope Tomography,electron microscope tomography
+D055032,Electron Microscope Tomography,transmission electron microscopy tomography
+D055032,Electron Microscope Tomography,stem tomography
+D055069,Terahertz Imaging,terahertz imaging
+D055088,Early Detection of Cancer,cancer screening tests
+D055088,Early Detection of Cancer,cancer screening
+D055088,Early Detection of Cancer,early detection of cancer
+D055088,Early Detection of Cancer,early diagnosis of cancer
+D055101,Semen Analysis,semen quality
+D055101,Semen Analysis,semen analysis
+D055105,Waist Circumference,waist circumference
+D055109,Ankle Brachial Index,toe brachial index
+D055109,Ankle Brachial Index,ankle brachial index
+D055114,X-Ray Microtomography,x-ray microtomography
+D055414,Myocardial Perfusion Imaging,myocardial perfusion imaging
+D055414,Myocardial Perfusion Imaging,myocardial scintigraphy
+D055420,Perfusion Imaging,perfusion imaging
+D055420,Perfusion Imaging,perfusion scintigraphy
+D055424,Cardiac-Gated Imaging Techniques,ekg-triggered imaging techniques
+D055424,Cardiac-Gated Imaging Techniques,cardiac-gated imaging techniques
+D055425,Respiratory-Gated Imaging Techniques,respiratory-gated imaging techniques
+D055426,Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography,cardiac-gated single-photon emission computer-assisted tomography
+D055686,Metabolic Equivalent,metabolic equivalent
+D055986,Vital Signs,vital signs
+D056044,Actigraphy,actigraphy
+D056149,Epicardial Mapping,percutaneous epicardial mapping
+D056149,Epicardial Mapping,epicardial mapping
+D056152,Respiratory Rate,respiratory rate
+D056324,Diffusion Tensor Imaging,diffusion tensor imaging
+D056324,Diffusion Tensor Imaging,diffusion tractography
+D056347,Neuroanatomical Tract-Tracing Techniques,neuroanatomical tract-tracing techniques
+D056865,Ideal Body Weight,ideal body weight
+D056865,Ideal Body Weight,ideal body weight formula
+D056865,Ideal Body Weight,ideal body weight chart
+D056969,Voltage-Sensitive Dye Imaging,optical action potential mapping
+D056969,Voltage-Sensitive Dye Imaging,voltage-sensitive dye imaging
+D056973,Four-Dimensional Computed Tomography,four-dimensional computed tomography
+D057054,Molecular Imaging,molecular imaging
+D057109,Scanning Laser Polarimetry,scanning laser polarimetry
+D057128,Aberrometry,aberrometry
+D057210,Delayed Diagnosis,late diagnosis
+D057210,Delayed Diagnosis,delayed diagnosis
+D057210,Delayed Diagnosis,diagnosis delay
+D057239,Early Termination of Clinical Trials,early termination of clinical trials
+D057605,Natural Orifice Endoscopic Surgery,natural orifice transluminal endoscopy
+D057605,Natural Orifice Endoscopic Surgery,natural orifice endoscopic surgery
+D057605,Natural Orifice Endoscopic Surgery,natural orifice transluminal endoscopic surgery
+D057791,Cardiac Imaging Techniques,intracardiac imaging techniques
+D057791,Cardiac Imaging Techniques,cardiac imaging techniques
+D057897,"Reflex, Righting","reflex, righting"
+D058248,Serum Bactericidal Antibody Assay,serum bactericidal antibody assay
+D058248,Serum Bactericidal Antibody Assay,bactericidal antibody assay
+D058256,Brain Waves,brain waves
+D058407,Electroencephalography Phase Synchronization,electroencephalography phase synchronization
+D058407,Electroencephalography Phase Synchronization,electroencephalography phase desynchronization
+D058452,"Axial Length, Eye","axial length, eye"
+D058453,Emmetropia,emmetropia
+D058491,Bacterial Load,bacterial count
+D058491,Bacterial Load,bacterial load
+D058501,Enzyme-Linked Immunospot Assay,enzyme-linked immunospot assay
+D058582,Double-Balloon Enteroscopy,double-balloon enteroscopy
+D058609,Visual Field Tests,visual field tests
+D058609,Visual Field Tests,perimetry
+D058609,Visual Field Tests,tangent screen exam
+D058609,Visual Field Tests,campimetry
+D058609,Visual Field Tests,automated perimetry exam
+D058733,Hand-Assisted Laparoscopy,hand-assisted laparoscopy
+D058869,Gynecological Examination,pelvic examination
+D058869,Gynecological Examination,vaginal examinations
+D058869,Gynecological Examination,gynecological examination
+D058885,Multilocus Sequence Typing,multilocus sequence typing
+D058889,Molecular Typing,molecular typing
+D058948,Cell Tracking,cell tracking
+D058998,Remote Sensing Technology,remote sensing technology
+D059008,Time-Lapse Imaging,time-lapse imaging
+D059018,DNA Contamination,dna contamination
+D059026,Diagnostic Self Evaluation,self-appraisal
+D059026,Diagnostic Self Evaluation,self-evaluation
+D059026,Diagnostic Self Evaluation,diagnostic self evaluation
+D059168,Carotid Intima-Media Thickness,carotid intima-media thickness
+D059208,Parasite Load,parasite load
+D059349,Urine Specimen Collection,urine specimen collection
+D059425,Interferon-gamma Release Tests,interferon-gamma release tests
+D059788,Dried Blood Spot Testing,dried blood spot testing
+D059869,Radiostereometric Analysis,radiostereometric analysis
+D059906,Neuroimaging,neuroimaging
+D059906,Neuroimaging,brain imaging
+D059907,Functional Neuroimaging,functional neuroimaging
+D059907,Functional Neuroimaging,functional brain imaging
+D060787,Neoplasm Grading,gleason grading
+D060787,Neoplasm Grading,gleason score
+D060787,Neoplasm Grading,neoplasm grading
+D061088,Photoacoustic Techniques,photoacoustic techniques
+D061245,Axenic Culture,axenic culture
+D061251,Primary Cell Culture,primary cell culture
+D061305,Lymphoscintigraphy,lymphoscintigraphy
+D061330,Multidetector Computed Tomography,multidetector computed tomography
+D061346,Laser Capture Microdissection,laser capture microdissection
+D061705,Image-Guided Biopsy,image-guided biopsy
+D061765,Endoscopic Ultrasound-Guided Fine Needle Aspiration,endoscopic ultrasound-guided fine needle aspiration
+D061809,Human Papillomavirus DNA Tests,human papillomavirus dna tests
+D061848,Optical Imaging,optical imaging
+D061848,Optical Imaging,autofluorescence imaging
+D061848,Optical Imaging,fundus autofluorescence imaging
+D061848,Optical Imaging,fluorescence imaging
+D061886,Neuromuscular Monitoring,train-of-four monitoring
+D061886,Neuromuscular Monitoring,neuromuscular blockade monitoring
+D061886,Neuromuscular Monitoring,neuromuscular monitoring
+D062005,"Biopsy, Large-Core Needle","biopsy, large-core needle"
+D062048,Narrow Band Imaging,narrow band imaging
+D062145,Maternal Serum Screening Tests,maternal serum triple test
+D062145,Maternal Serum Screening Tests,maternal serum screening tests
+D062345,Nuclear Microscopy,nuclear microscopy
+D062706,Prodromal Symptoms,prodromal period
+D062706,Prodromal Symptoms,prodromal states
+D062706,Prodromal Symptoms,prodromal stage
+D062706,Prodromal Symptoms,prodromal symptoms
+D063132,Connectome,human connectome project
+D063132,Connectome,connectome
+D063132,Connectome,connectomics
+D063132,Connectome,human connectome
+D063171,Corneal Pachymetry,corneal pachymetry
+D063177,Pulse Wave Analysis,pulse wave velocity
+D063177,Pulse Wave Analysis,pulse wave transit time
+D063177,Pulse Wave Analysis,pulse transit time
+D063177,Pulse Wave Analysis,pulse wave analysis
+D063189,Symptom Assessment,symptom evaluation
+D063189,Symptom Assessment,symptom assessment
+D063285,Fibrin Clot Lysis Time,plasma clot lysis time
+D063285,Fibrin Clot Lysis Time,fibrin clot lysis time
+D063285,Fibrin Clot Lysis Time,euglobulin lysis time
+D063285,Fibrin Clot Lysis Time,whole blood clot lysis time
+D063847,Mean Platelet Volume,mean platelet volume
+D064087,Head Impulse Test,head impulse test
+D064232,Visual Analog Scale,visual analog scale
+D064237,Lipid Accumulation Product,lipid accumulation product
+D064346,Sagittal Abdominal Diameter,abdominal diameter index
+D064346,Sagittal Abdominal Diameter,sagittal abdominal diameter
+D064347,"Microscopy, Electrochemical, Scanning","microscopy, electrochemical, scanning"
+D064367,Olfactometry,olfactometry
+D064688,Metabolic Flux Analysis,metabolic flux analysis
+D064795,Intraoperative Neurophysiological Monitoring,intraoperative neurophysiological monitoring
+D064847,Multimodal Imaging,hybrid imaging
+D064847,Multimodal Imaging,multimodal imaging
+D064926,Neurophysiological Monitoring,neurophysiological monitoring
+D065006,Papanicolaou Test,papanicolaou test
+D065508,Diving Reflex,diving reflex
+D065508,Diving Reflex,mammalian diving reflex
+D065818,Gamma Rhythm,gamma rhythm
+D065927,Waist-Height Ratio,waist-height ratio
+D066066,Response Evaluation Criteria in Solid Tumors,response evaluation criteria in solid tumors
+D066235,Fluorine-19 Magnetic Resonance Imaging,fluorine-19 magnetic resonance imaging
+D000066491,Clinical Decision-Making,clinical decision-making
+D000067029,"Physical Appearance, Body","physical appearance, body"
+D000067108,Direct-To-Consumer Screening and Testing,direct-to-consumer screening and testing
+D000067248,"Failure to Rescue, Health Care","failure to rescue, health care"
+D000067368,Transanal Endoscopic Surgery,transanal minimally invasive surgery
+D000067368,Transanal Endoscopic Surgery,transanal endoscopic surgery
+D000067369,Transanal Endoscopic Microsurgery,transanal endoscopic microsurgery
+D000067399,Abnormal Involuntary Movement Scale,abnormal involuntary movement scale
+D000068436,Surgical Clearance,surgical clearance
+D000068936,Theranostic Nanomedicine,theranostic nanomedicine
+D000068936,Theranostic Nanomedicine,photothermal theranostics
+D000069237,Arthrocentesis,"arthrocentesis,temporomandibular joint"
+D000069237,Arthrocentesis,arthrocentesis
+D000069258,Thoracentesis,thoracentesis
+D000069280,Electrocorticography,intraoperative electrocorticography
+D000069280,Electrocorticography,electrocorticography
+D000069280,Electrocorticography,extraoperative electrocorticography
+D000069356,Tympanocentesis,tympanocentesis
+D000069416,Intravital Microscopy,intravital imaging
+D000069416,Intravital Microscopy,intravital microscopy
+D000069916,Endoscopic Mucosal Resection,endoscopic full thickness resection
+D000069916,Endoscopic Mucosal Resection,endoscopic mucosal resection
+D000069916,Endoscopic Mucosal Resection,endoscopic submucosal dissection
+D000069916,Endoscopic Mucosal Resection,submucosal tunneling endoscopic resection
+D000070276,Heart Rate Determination,heart rate determination
+D000070496,Kinanthropometry,kinanthropometry
+D000070621,Cystography,cystogram
+D000070621,Cystography,cystography
+D000070857,Walk Test,endurance shuttle walk test
+D000070857,Walk Test,incremental shuttle walk test
+D000070857,Walk Test,6-minute walk test
+D000070857,Walk Test,walk test
+D000071060,Breast Density,mammographic breast density
+D000071060,Breast Density,breast density
+D000071061,Traditional Pulse Diagnosis,traditional pulse diagnosis
+D000071085,Single-Balloon Enteroscopy,single-balloon enteroscopy
+D000071087,Balloon Enteroscopy,balloon enteroscopy
+D000071117,Laboratory Critical Values,laboratory critical values
+D000071185,Pharmacogenomic Testing,pharmacogenomic testing
+D000071185,Pharmacogenomic Testing,pharmacogenomic analysis
+D000071941,Barium Enema,barium enema
+D000071997,Blood Culture,blood culture
+D000072078,Positron Emission Tomography Computed Tomography,positron emission tomography computed tomography
+D000072098,Single Photon Emission Computed Tomography Computed Tomography,single photon emission computed tomography computed tomography
+D000072226,Computed Tomography Angiography,computed tomography angiography
+D000072230,Sustained Virologic Response,sustained virologic response
+D000072277,Maximal Respiratory Pressures,maximal inspiratory pressure
+D000072277,Maximal Respiratory Pressures,maximal expiratory pressure
+D000072277,Maximal Respiratory Pressures,maximal respiratory pressures
+D000072776,Slit Lamp Microscopy,slit lamp microscopy
+D000072797,Walking Speed,walking speed
+D000073623,Pre-Analytical Phase,pre-analytical phase
+D000073758,Nonlinear Optical Microscopy,coherent anti-stokes raman microscopy
+D000073758,Nonlinear Optical Microscopy,nonlinear optical microscopy
+D000073758,Nonlinear Optical Microscopy,vibrational sum frequency generation microscopy
+D000073758,Nonlinear Optical Microscopy,spontaneous raman microscopy
+D000073758,Nonlinear Optical Microscopy,stimulated raman microscopy
+D000073798,Second Harmonic Generation Microscopy,third harmonic generation microscopy
+D000073798,Second Harmonic Generation Microscopy,second harmonic generation microscopy
+D000073890,Liquid Biopsy,liquid biopsy
+D000074389,"Therapeutic Index, Drug","therapeutic index, drug"
+D000074743,Hemodynamic Monitoring,hemodynamic monitoring
+D000076162,Therapeutic Index,therapeutic index
+D000076665,Ventilation-Perfusion Scan,ventilation-perfusion scan
+D000077107,Gait Analysis,gait analysis
+D000077564,Focused Assessment with Sonography for Trauma,extended focused assessment with sonography for trauma
+D000077564,Focused Assessment with Sonography for Trauma,focused abdominal sonography for trauma
+D000077564,Focused Assessment with Sonography for Trauma,focused assessment with sonography for trauma
+D000077982,Progression-Free Survival,progression-free survival
+D000077982,Progression-Free Survival,event-free survival
+D000080308,Cardio Ankle Vascular Index,cardio ankle vascular index
+D000080909,Carotid-Femoral Pulse Wave Velocity,carotid-femoral pulse wave velocity
+D000080925,Microwave Imaging,microwave imaging
+D000080945,Lymph Node Ratio,lymph node ratio
+D000081182,Noninvasive Prenatal Testing,prenatal cell-free dna screening
+D000081182,Noninvasive Prenatal Testing,noninvasive prenatal testing
+D000081205,Hair Analysis,hair mineral analysis
+D000081205,Hair Analysis,hair analysis
+D000081282,Perfusion Index,perfusion index
+D000081364,Multiparametric Magnetic Resonance Imaging,multiparametric magnetic resonance imaging
+D000081982,Laser Speckle Contrast Imaging,laser speckle contrast imaging
+D000082642,Brain Cortical Thickness,brain cortical thickness
+D000082922,HIV Testing,hiv testing
+D000082922,HIV Testing,hiv infection diagnosis
+D000082922,HIV Testing,aids testing
+D000084542,Eye-Tracking Technology,gaze-tracking
+D000084542,Eye-Tracking Technology,gaze-tracking technology
+D000084542,Eye-Tracking Technology,eye-tracking technology
+D000084542,Eye-Tracking Technology,eye movement data analysis
+D000084542,Eye-Tracking Technology,eye-tracking
+D000084542,Eye-Tracking Technology,eye-tracking system
+D000084542,Eye-Tracking Technology,gaze-tracking system
+D000086723,Clinical Reasoning,clinical reasoning
+D000086742,COVID-19 Testing,covid-19 testing
+D000087123,COVID-19 Nucleic Acid Testing,covid-19 nucleic acid testing
+D000087123,COVID-19 Nucleic Acid Testing,covid-19 rt-pcr testing
+D000087124,COVID-19 Serological Testing,sars-cov-2 antigen testing
+D000087124,COVID-19 Serological Testing,covid-19 serological testing
+D000087124,COVID-19 Serological Testing,covid-19 antibody testing
+D000087124,COVID-19 Serological Testing,covid-19 serodiagnosis
+D000087603,"Cell Culture Techniques, Three Dimensional",scaffold cell culture techniques
+D000087603,"Cell Culture Techniques, Three Dimensional","cell culture techniques, three dimensional"
+D000088522,Overdiagnosis,overdiagnosis
+D000089142,Fractional Exhaled Nitric Oxide Testing,fractional exhaled nitric oxide testing
+D000089142,Fractional Exhaled Nitric Oxide Testing,fractional exhaled nitric oxide
+D000089942,Viral Pseudotyping,viropexis
+D000089942,Viral Pseudotyping,pseudotyped viruses
+D000089942,Viral Pseudotyping,viral pseudotyping
+D000090104,Dacryocystography,dacryocystography
+D000090402,Digit Ratios,finger length ratio
+D000090402,Digit Ratios,digit ratios
+D000092025,Rapid Diagnostic Tests,rapid diagnostic tests
+D000092184,Nerve Conduction Studies,"f-wave recording, electroneurographic"
+D000092184,Nerve Conduction Studies,nerve conduction velocity tests
+D000092184,Nerve Conduction Studies,nerve conduction studies
+D000092224,Dopaminergic Imaging,dopamine receptor imaging
+D000092224,Dopaminergic Imaging,dopamine transporter imaging
+D000092224,Dopaminergic Imaging,vesicular monoamine transporter type 2 imaging
+D000092224,Dopaminergic Imaging,dopaminergic imaging
+D000092262,"Ultrasonography, Carotid Arteries","ultrasonography, carotid arteries"
+D000092522,Clinical Relevance,clinical relevance
+D000092682,Motion Capture,optical motion capture
+D000092682,Motion Capture,magnetic motion capture
+D000092682,Motion Capture,biomechanical movement capture
+D000092682,Motion Capture,motion capture
+D000093182,Comprehensive Metabolic Panel,comprehensive metabolic panel
+D000094182,Microphysiological Systems,microphysiological systems
+D000094382,Local Field Potential Measurement,local field potential measurement
+D000094443,Volume Electron Microscopy,serial block-face scanning electron microscopy
+D000094443,Volume Electron Microscopy,focused ion beam scanning electron microscopy
+D000094443,Volume Electron Microscopy,volume electron microscopy
+D000094443,Volume Electron Microscopy,serial sectioning transmission electron microscopy
+D000095025,Urinary Sediment Analysis,urinary sediment analysis
+D000095384,Pathologic Complete Response,in full remission
+D000095384,Pathologic Complete Response,pathologic complete response
+D000095497,Magnetic Resonance Myelography,magnetic resonance myelography
+D000095497,Magnetic Resonance Myelography,heavily t2-weighted magnetic resonance myelography
+D000095583,Continuous Glucose Monitoring,continuous glucose monitoring device
+D000095583,Continuous Glucose Monitoring,continuous glucose monitoring
+D000097188,Radiomics,radiomics
+D000097785,Forensic Imaging,forensic imaging
+D000097785,Forensic Imaging,forensic radiology
+D000097873,Postmortem Imaging,postmortem magnetic resonance imaging
+D000097873,Postmortem Imaging,postmortem imaging
+D000097873,Postmortem Imaging,postmortem radiological imaging
+D000097873,Postmortem Imaging,postmortem computed tomography
+D000097913,Quantitative Phase Imaging,digital holography
+D000097913,Quantitative Phase Imaging,holographic microscopy
+D000097913,Quantitative Phase Imaging,quantitative phase imaging
+D000097913,Quantitative Phase Imaging,digital holographic microscopy
+D000097913,Quantitative Phase Imaging,quantitative phase contrast microscopy
+D000098302,Pooled Testing,pooled sample
+D000098302,Pooled Testing,pooled testing
+D000098302,Pooled Testing,data pooling
+D000098543,Dynamic Contrast Enhanced Magnetic Resonance Imaging,dynamic contrast enhanced magnetic resonance imaging
+D000098642,Perfusion Magnetic Resonance Imaging,arterial spin labeling perfusion weighted imaging
+D000098642,Perfusion Magnetic Resonance Imaging,dynamic susceptibility contrast perfusion weighted imaging
+D000098642,Perfusion Magnetic Resonance Imaging,perfusion magnetic resonance imaging
+D000099055,Treatment Expectations,treatment expectations
+D000099055,Treatment Expectations,post-treatment expectations
+D000099055,Treatment Expectations,pre-treatment expectations

@@ -1,0 +1,1065 @@
+node_id,case_id,type,label,attributes,evidence,sentence_id
+PMC5137649_01_PATIENT,PMC5137649_01,Patient,Patient PMC5137649_01,"{""age"": ""44.0"", ""gender"": ""Female""}",,
+PMC5137649_01_N0001,PMC5137649_01,AnatomicalSite,flank,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",flank,0
+PMC5137649_01_N0002,PMC5137649_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,0
+PMC5137649_01_N0003,PMC5137649_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nausea,0
+PMC5137649_01_N0004,PMC5137649_01,Symptom,constipation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",constipation,0
+PMC5137649_01_N0005,PMC5137649_01,Exam,contrast-enhanced CT,"{""measurements"": [{""value"": 6.0, ""unit"": ""cm"", ""surface_form"": ""6cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",contrast enhanced computed tomography,2
+PMC5137649_01_N0006,PMC5137649_01,Finding,cystic lesion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",cystic lesion,2
+PMC5137649_01_N0007,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,2
+PMC5137649_01_N0008,PMC5137649_01,AnatomicalSite,pancreas,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreas,2
+PMC5137649_01_N0009,PMC5137649_01,Finding,cyst,"{""measurements"": [{""value"": 6.0, ""unit"": ""cm"", ""surface_form"": ""6cm""}, {""value"": 9.0, ""unit"": ""cm"", ""surface_form"": ""9cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,3
+PMC5137649_01_N0010,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,3
+PMC5137649_01_N0011,PMC5137649_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,4
+PMC5137649_01_N0012,PMC5137649_01,Diagnosis,mucinous pancreatic cystic neoplasm,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mucinous pancreatic cystic neoplasm,5
+PMC5137649_01_N0013,PMC5137649_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,6
+PMC5137649_01_N0014,PMC5137649_01,Treatment,pancreatectomy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreatectomy,7
+PMC5137649_01_N0015,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,8
+PMC5137649_01_N0016,PMC5137649_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,8
+PMC5137649_01_N0017,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,8
+PMC5137649_01_N0018,PMC5137649_01,AnatomicalSite,pancreas,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreas,8
+PMC5137649_01_N0019,PMC5137649_01,AnatomicalSite,pancreas,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreas,9
+PMC5137649_01_N0020,PMC5137649_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",cyst,9
+PMC5137649_01_N0021,PMC5137649_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",lesion,9
+PMC5137649_01_N0022,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,9
+PMC5137649_01_N0023,PMC5137649_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endoscopy,10
+PMC5137649_01_N0024,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",stomach,10
+PMC5137649_01_N0025,PMC5137649_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,11
+PMC5137649_01_N0026,PMC5137649_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,11
+PMC5137649_01_N0027,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,12
+PMC5137649_01_N0028,PMC5137649_01,Diagnosis,gastric duplication cyst,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",gastric duplication cyst,12
+PMC5137649_01_N0029,PMC5137649_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,13
+PMC5137649_01_N0030,PMC5137649_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,13
+PMC5137649_01_N0031,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,13
+PMC5137649_01_N0032,PMC5137649_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,14
+PMC5137649_01_N0033,PMC5137649_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,19
+PMC5137649_01_N0034,PMC5137649_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,19
+PMC5137649_01_N0035,PMC5137649_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nausea,21
+PMC9387390_01_PATIENT,PMC9387390_01,Patient,Patient PMC9387390_01,"{""age"": ""57.0"", ""gender"": ""Male""}",,
+PMC9387390_01_N0001,PMC9387390_01,Symptom,abdominal fullness,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal fullness,0
+PMC9387390_01_N0002,PMC9387390_01,Symptom,diarrhea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diarrhea,0
+PMC9387390_01_N0003,PMC9387390_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",Computed tomography,1
+PMC9387390_01_N0004,PMC9387390_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,1
+PMC9387390_01_N0005,PMC9387390_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,3
+PMC9387390_01_N0006,PMC9387390_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,3
+PMC9387390_01_N0007,PMC9387390_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,3
+PMC9387390_01_N0008,PMC9387390_01,AnatomicalSite,pancreas,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreas,3
+PMC9387390_01_N0009,PMC9387390_01,AnatomicalSite,duodenum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",duodenum,3
+PMC9387390_01_N0010,PMC9387390_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,4
+PMC9387390_01_N0011,PMC9387390_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,4
+PMC9387390_01_N0012,PMC9387390_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,4
+PMC9387390_01_N0013,PMC9387390_01,Diagnosis,adenocarcinoma,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",adenocarcinoma,4
+PMC9387390_01_N0014,PMC9387390_01,Treatment,chemotherapy,"{""measurements"": [{""value"": 11.0, ""unit"": ""months"", ""surface_form"": ""11 months""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chemotherapy,5
+PMC9387390_01_N0015,PMC9387390_01,Treatment,chemotherapy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chemotherapy,6
+PMC9387390_01_N0016,PMC9387390_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nausea,6
+PMC9387390_01_N0017,PMC9387390_01,Symptom,vomiting,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",emesis,6
+PMC9387390_01_N0018,PMC9387390_01,Symptom,abdominal distention,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal distention,6
+PMC9387390_01_N0019,PMC9387390_01,Finding,obstruction,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,7
+PMC9387390_01_N0020,PMC9387390_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,7
+PMC9387390_01_N0021,PMC9387390_01,AnatomicalSite,duodenum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",duodenum,12
+PMC9387390_01_N0022,PMC9387390_01,AnatomicalSite,jejunum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",jejunum,12
+PMC9387390_01_N0023,PMC9387390_01,Exam,computed tomography,"{""measurements"": [{""value"": 7.0, ""unit"": ""days"", ""surface_form"": ""7 days""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,13
+PMC9387390_01_N0024,PMC9387390_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,13
+PMC9387390_01_N0025,PMC9387390_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,14
+PMC9387390_01_N0026,PMC9387390_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagogastroduodenoscopy,15
+PMC9387390_01_N0027,PMC9387390_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EGD,15
+PMC9387390_01_N0028,PMC9387390_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,16
+PMC9387390_01_N0029,PMC9387390_01,Finding,obstruction,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,18
+PMC9387390_01_N0030,PMC9387390_01,AnatomicalSite,jejunum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",jejunum,19
+PMC9387390_01_N0031,PMC9387390_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,22
+PMC9387390_01_N0032,PMC9387390_01,AnatomicalSite,duodenum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",duodenum,22
+PMC9387390_01_N0033,PMC9387390_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EGD,24
+PMC9387390_01_N0034,PMC9387390_01,AnatomicalSite,jejunum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",jejunum,24
+PMC9387390_01_N0035,PMC9387390_01,Finding,obstruction,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,26
+PMC9387390_01_N0036,PMC9387390_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endoscopy,28
+PMC9387390_01_N0037,PMC9387390_01,Treatment,drainage,"{""measurements"": [{""value"": 20.0, ""unit"": ""mm"", ""surface_form"": ""20 mm""}, {""value"": 10.0, ""unit"": ""mm"", ""surface_form"": ""10 mm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,28
+PMC9387390_01_N0038,PMC9387390_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,32
+PMC3437073_01_PATIENT,PMC3437073_01,Patient,Patient PMC3437073_01,"{""age"": ""55.0"", ""gender"": ""Male""}",,
+PMC3437073_01_N0001,PMC3437073_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,0
+PMC3437073_01_N0002,PMC3437073_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,0
+PMC3437073_01_N0003,PMC3437073_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,0
+PMC3437073_01_N0004,PMC3437073_01,Finding,mass,"{""measurements"": [{""value"": 7.0, ""unit"": ""cm"", ""surface_form"": ""7 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,2
+PMC3437073_01_N0005,PMC3437073_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",chest,2
+PMC3437073_01_N0006,PMC3437073_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,2
+PMC3437073_01_N0007,PMC3437073_01,AnatomicalSite,spleen,"{""measurements"": [{""value"": 8.0, ""unit"": ""cm"", ""surface_form"": ""8 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,3
+PMC3437073_01_N0008,PMC3437073_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Chest,5
+PMC3437073_01_N0009,PMC3437073_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,5
+PMC3437073_01_N0010,PMC3437073_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,5
+PMC3437073_01_N0011,PMC3437073_01,Exam,ultrasound,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Ultrasound,7
+PMC3437073_01_N0012,PMC3437073_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,7
+PMC3437073_01_N0013,PMC3437073_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,7
+PMC3437073_01_N0014,PMC3437073_01,Finding,calcification,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",calcification,7
+PMC3437073_01_N0015,PMC3437073_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,8
+PMC3437073_01_N0016,PMC3437073_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,8
+PMC3437073_01_N0017,PMC3437073_01,Diagnosis,splenic abscess,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",splenic abscess,8
+PMC3437073_01_N0018,PMC3437073_01,Finding,subcutaneous abscess,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",subcutaneous abscess,8
+PMC3437073_01_N0019,PMC3437073_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,8
+PMC3437073_01_N0020,PMC3437073_01,Diagnosis,tuberculous splenic abscess,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",tuberculous splenic abscess,9
+PMC3437073_01_N0021,PMC3437073_01,Finding,subcutaneous abscess,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",subcutaneous abscess,10
+PMC3437073_01_N0022,PMC3437073_01,Treatment,splenectomy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",splenectomy,10
+PMC3437073_01_N0023,PMC3437073_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,11
+PMC3437073_01_N0024,PMC3437073_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,11
+PMC3437073_01_N0025,PMC3437073_01,Finding,abscess,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abscess,12
+PMC3437073_01_N0026,PMC3437073_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,12
+PMC3437073_01_N0027,PMC3437073_01,Finding,subcutaneous abscess,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",subcutaneous abscess,12
+PMC3437073_01_N0028,PMC3437073_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,12
+PMC3437073_01_N0029,PMC3437073_01,Exam,histopathology,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Histopathology,14
+PMC3437073_01_N0030,PMC3437073_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,14
+PMC3437073_01_N0031,PMC3437073_01,Finding,necrosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",necrosis,14
+PMC3437073_01_N0032,PMC3437073_01,Treatment,isoniazid,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Isoniazid,16
+PMC3437073_01_N0033,PMC3437073_01,Treatment,rifampin,"{""measurements"": [{""value"": 600.0, ""unit"": ""mg"", ""surface_form"": ""600 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Rifampin,16
+PMC3437073_01_N0034,PMC3437073_01,Treatment,ethambutol,"{""measurements"": [{""value"": 600.0, ""unit"": ""mg"", ""surface_form"": ""600 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Ethambutol,16
+PMC3437073_01_N0035,PMC3437073_01,Treatment,pyrazinamide,"{""measurements"": [{""value"": 500.0, ""unit"": ""mg"", ""surface_form"": ""500 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Pyrazinamide,16
+PMC7102447_01_PATIENT,PMC7102447_01,Patient,Patient PMC7102447_01,"{""age"": ""65.0"", ""gender"": ""Male""}",,
+PMC7102447_01_N0001,PMC7102447_01,History,hypertension,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,0
+PMC7102447_01_N0002,PMC7102447_01,History,asthma,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",asthma,0
+PMC7102447_01_N0003,PMC7102447_01,AnatomicalSite,mitral valve,"{""measurements"": [{""value"": 33.0, ""unit"": ""mm"", ""surface_form"": ""33 mm""}], ""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mitral valve,0
+PMC7102447_01_N0004,PMC7102447_01,Symptom,respiratory distress,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",respiratory distress,0
+PMC7102447_01_N0005,PMC7102447_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",electrocardiogram,1
+PMC7102447_01_N0006,PMC7102447_01,Treatment,heparin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heparin,8
+PMC7102447_01_N0007,PMC7102447_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,8
+PMC7102447_01_N0008,PMC7102447_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,8
+PMC7102447_01_N0009,PMC7102447_01,Exam,transesophageal echocardiogram,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",Transesophageal echocardiogram,9
+PMC7102447_01_N0010,PMC7102447_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,9
+PMC7102447_01_N0011,PMC7102447_01,AnatomicalSite,mitral valve,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mitral valve,9
+PMC7102447_01_N0012,PMC7102447_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,9
+PMC7102447_01_N0013,PMC7102447_01,Finding,regurgitation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",regurgitation,9
+PMC7102447_01_N0014,PMC7102447_01,AnatomicalSite,mitral valve,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mitral valve,12
+PMC7102447_01_N0015,PMC7102447_01,AnatomicalSite,mitral valve,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mitral valve,13
+PMC7102447_01_N0016,PMC7102447_01,Treatment,surgery,"{""measurements"": [{""value"": 33.0, ""unit"": ""mm"", ""surface_form"": ""33 mm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,13
+PMC7102447_01_N0017,PMC7102447_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,15
+PMC7102447_01_N0018,PMC7102447_01,AnatomicalSite,mitral valve,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mitral valve,16
+PMC7102447_01_N0019,PMC7102447_01,Treatment,warfarin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",warfarin,17
+PMC6354154_01_PATIENT,PMC6354154_01,Patient,Patient PMC6354154_01,"{""age"": ""30.0"", ""gender"": ""Female""}",,
+PMC6354154_01_N0001,PMC6354154_01,History,infertility,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",infertility,4
+PMC6354154_01_N0002,PMC6354154_01,Diagnosis,cancer,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cancer,4
+PMC6354154_01_N0003,PMC6354154_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,5
+PMC6354154_01_N0004,PMC6354154_01,Exam,ultrasonography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasonography,7
+PMC6354154_01_N0005,PMC6354154_01,AnatomicalSite,uterus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",uterus,7
+PMC6354154_01_N0006,PMC6354154_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,7
+PMC6354154_01_N0007,PMC6354154_01,AnatomicalSite,ovary,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",ovary,7
+PMC6354154_01_N0008,PMC6354154_01,Exam,hysterosalpingography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hysterosalpingography,8
+PMC6354154_01_N0009,PMC6354154_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,11
+PMC6354154_01_N0010,PMC6354154_01,AnatomicalSite,ovary,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",ovary,11
+PMC6354154_01_N0011,PMC6354154_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,12
+PMC6354154_01_N0012,PMC6354154_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,14
+PMC6354154_01_N0013,PMC6354154_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,16
+PMC6354154_01_N0014,PMC6354154_01,Exam,immunohistochemical study,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",Immunohistochemical study,18
+PMC6354154_01_N0015,PMC6354154_01,Diagnosis,ovarian steroid cell tumor,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ovarian steroid cell tumor,19
+PMC6354154_01_N0016,PMC6354154_01,Exam,ultrasound,"{""measurements"": [{""value"": 24.0, ""unit"": ""months"", ""surface_form"": ""24 months""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasound,20
+PMC4782471_01_PATIENT,PMC4782471_01,Patient,Patient PMC4782471_01,"{""age"": ""10.0"", ""gender"": ""Female""}",,
+PMC4782471_01_N0001,PMC4782471_01,Finding,regurgitation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",regurgitation,0
+PMC4782471_01_N0002,PMC4782471_01,Finding,pulmonary hypertension,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",pulmonary hypertension,0
+PMC4782471_01_N0003,PMC4782471_01,Symptom,breathlessness,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",breathlessness,1
+PMC4782471_01_N0004,PMC4782471_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,7
+PMC4782471_01_N0005,PMC4782471_01,AnatomicalSite,heart,"{""measurements"": [{""value"": 60.0, ""unit"": ""mm"", ""surface_form"": ""60 mm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,9
+PMC4782471_01_N0006,PMC4782471_01,Treatment,blood transfusion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",blood transfusion,11
+PMC4782471_01_N0007,PMC4782471_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Echocardiography,13
+PMC4782471_01_N0008,PMC4782471_01,Finding,vegetation,"{""measurements"": [{""value"": 5.0, ""unit"": ""mm"", ""surface_form"": ""5 mm""}, {""value"": 6.0, ""unit"": ""mm"", ""surface_form"": ""6 mm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",vegetation,13
+PMC4782471_01_N0009,PMC4782471_01,AnatomicalSite,tricuspid valve,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",tricuspid valve,13
+PMC4782471_01_N0010,PMC4782471_01,AnatomicalSite,tricuspid valve,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",tricuspid valve,13
+PMC4782471_01_N0011,PMC4782471_01,Finding,regurgitation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",regurgitation,13
+PMC4782471_01_N0012,PMC4782471_01,Finding,pulmonary hypertension,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",pulmonary hypertension,14
+PMC4782471_01_N0013,PMC4782471_01,Diagnosis,infective endocarditis,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",infective endocarditis,16
+PMC4782471_01_N0014,PMC4782471_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,18
+PMC4782471_01_N0015,PMC4782471_01,AnatomicalSite,right atrium,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",right atrium,20
+PMC4782471_01_N0016,PMC4782471_01,AnatomicalSite,tricuspid valve,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",tricuspid valve,20
+PMC4782471_01_N0017,PMC4782471_01,AnatomicalSite,tricuspid valve,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",tricuspid valve,22
+PMC4782471_01_N0018,PMC4782471_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,24
+PMC4782471_01_N0019,PMC4782471_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,24
+PMC4782471_01_N0020,PMC4782471_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,27
+PMC4835621_01_PATIENT,PMC4835621_01,Patient,Patient PMC4835621_01,"{""age"": ""81.0"", ""gender"": ""Female""}",,
+PMC4835621_01_N0001,PMC4835621_01,Finding,rash,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rash,0
+PMC4835621_01_N0002,PMC4835621_01,Symptom,fatigue,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fatigue,1
+PMC4835621_01_N0003,PMC4835621_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",fever,2
+PMC4835621_01_N0004,PMC4835621_01,Symptom,diarrhea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diarrhea,3
+PMC4835621_01_N0005,PMC4835621_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nausea,3
+PMC4835621_01_N0006,PMC4835621_01,Symptom,vomiting,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",vomiting,3
+PMC4835621_01_N0007,PMC4835621_01,History,hypertension,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,5
+PMC4835621_01_N0008,PMC4835621_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",fever,9
+PMC4835621_01_N0009,PMC4835621_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,12
+PMC4835621_01_N0010,PMC4835621_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,12
+PMC4835621_01_N0011,PMC4835621_01,Symptom,hematochezia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",hematochezia,13
+PMC4835621_01_N0012,PMC4835621_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,15
+PMC4835621_01_N0013,PMC4835621_01,AnatomicalSite,liver,"{""measurements"": [{""value"": 405.0, ""unit"": ""iu/l"", ""surface_form"": ""405 IU/L""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,22
+PMC4835621_01_N0014,PMC4835621_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,28
+PMC4835621_01_N0015,PMC4835621_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,32
+PMC4835621_01_N0016,PMC4835621_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,32
+PMC4835621_01_N0017,PMC4835621_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,32
+PMC4835621_01_N0018,PMC4835621_01,AnatomicalSite,abdomen,"{""measurements"": [{""value"": 3.5, ""unit"": ""cm"", ""surface_form"": ""3.5 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,32
+PMC4835621_01_N0019,PMC4835621_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,33
+PMC4835621_01_N0020,PMC4835621_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,34
+PMC4835621_01_N0021,PMC4835621_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,34
+PMC4835621_01_N0022,PMC4835621_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,36
+PMC4835621_01_N0023,PMC4835621_01,Treatment,heparin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heparin,36
+PMC4835621_01_N0024,PMC4835621_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,37
+PMC4835621_01_N0025,PMC4835621_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,37
+PMC4835621_01_N0026,PMC4835621_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,38
+PMC4835621_01_N0027,PMC4835621_01,Exam,colonoscopy,"{""measurements"": [{""value"": 10.0, ""unit"": ""days"", ""surface_form"": ""10 days""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Colonoscopy,40
+PMC8627357_01_PATIENT,PMC8627357_01,Patient,Patient PMC8627357_01,"{""age"": ""36.0"", ""gender"": ""Male""}",,
+PMC8627357_01_N0001,PMC8627357_01,Symptom,dyspnea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dyspnea,0
+PMC8627357_01_N0002,PMC8627357_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,1
+PMC8627357_01_N0003,PMC8627357_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,1
+PMC8627357_01_N0004,PMC8627357_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,6
+PMC8627357_01_N0005,PMC8627357_01,Finding,swelling,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",swelling,6
+PMC8627357_01_N0006,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Chest,7
+PMC8627357_01_N0007,PMC8627357_01,Symptom,respiratory distress,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",respiratory distress,9
+PMC8627357_01_N0008,PMC8627357_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,10
+PMC8627357_01_N0009,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,10
+PMC8627357_01_N0010,PMC8627357_01,Finding,lymphadenopathy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lymphadenopathy,10
+PMC8627357_01_N0011,PMC8627357_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,11
+PMC8627357_01_N0012,PMC8627357_01,Exam,transthoracic echocardiogram,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",Transthoracic echocardiogram,12
+PMC8627357_01_N0013,PMC8627357_01,Exam,transesophageal echocardiogram,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",transesophageal echocardiogram,13
+PMC8627357_01_N0014,PMC8627357_01,Treatment,gentamicin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",gentamicin,14
+PMC8627357_01_N0015,PMC8627357_01,Treatment,linezolid,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",linezolid,14
+PMC8627357_01_N0016,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,15
+PMC8627357_01_N0017,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,16
+PMC8627357_01_N0018,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,16
+PMC8627357_01_N0019,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,17
+PMC8627357_01_N0020,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,17
+PMC8627357_01_N0021,PMC8627357_01,AnatomicalSite,lung,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",lung,18
+PMC8627357_01_N0022,PMC8627357_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,18
+PMC5833205_01_PATIENT,PMC5833205_01,Patient,Patient PMC5833205_01,"{""age"": ""0.0"", ""gender"": ""Male""}",,
+PMC5833205_01_N0001,PMC5833205_01,Finding,swelling,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",swelling,0
+PMC5833205_01_N0002,PMC5833205_01,Finding,swelling,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",swelling,1
+PMC5833205_01_N0003,PMC5833205_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endoscopy,14
+PMC5833205_01_N0004,PMC5833205_01,Exam,colonoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colonoscopy,14
+PMC5833205_01_N0005,PMC5833205_01,Finding,inflammation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",inflammation,15
+PMC5833205_01_N0006,PMC5833205_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,15
+PMC5833205_01_N0007,PMC5833205_01,AnatomicalSite,duodenum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",duodenum,15
+PMC5833205_01_N0008,PMC5833205_01,AnatomicalSite,colon,"{""measurements"": [{""value"": 20.0, ""unit"": ""ml"", ""surface_form"": ""20 mL""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,15
+PMC5833205_01_N0009,PMC5833205_01,Symptom,diarrhea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",diarrhea,19
+PMC3917415_01_PATIENT,PMC3917415_01,Patient,Patient PMC3917415_01,"{""age"": ""47.0"", ""gender"": ""Female""}",,
+PMC3917415_01_N0001,PMC3917415_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,0
+PMC3917415_01_N0002,PMC3917415_01,Symptom,headache,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",headache,0
+PMC3917415_01_N0003,PMC3917415_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,5
+PMC3917415_01_N0004,PMC3917415_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",Computed tomography,9
+PMC3917415_01_N0005,PMC3917415_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,9
+PMC3917415_01_N0006,PMC3917415_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,10
+PMC7718649_01_PATIENT,PMC7718649_01,Patient,Patient PMC7718649_01,"{""age"": ""65.0"", ""gender"": ""Female""}",,
+PMC7718649_01_N0001,PMC7718649_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,0
+PMC7718649_01_N0002,PMC7718649_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,1
+PMC7718649_01_N0003,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 10.0, ""unit"": ""mg"", ""surface_form"": ""10 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,1
+PMC7718649_01_N0004,PMC7718649_01,Treatment,hydroxychloroquine,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,3
+PMC7718649_01_N0005,PMC7718649_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,9
+PMC7718649_01_N0006,PMC7718649_01,Symptom,chills,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chills,9
+PMC7718649_01_N0007,PMC7718649_01,Symptom,rigor,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rigor,9
+PMC7718649_01_N0008,PMC7718649_01,Symptom,myalgia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",muscular soreness,9
+PMC7718649_01_N0009,PMC7718649_01,Symptom,fatigue,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fatigue,9
+PMC7718649_01_N0010,PMC7718649_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nausea,12
+PMC7718649_01_N0011,PMC7718649_01,Symptom,heartburn,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heartburn,12
+PMC7718649_01_N0012,PMC7718649_01,Symptom,diarrhea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diarrhea,12
+PMC7718649_01_N0013,PMC7718649_01,Treatment,oseltamivir,"{""measurements"": [{""value"": 75.0, ""unit"": ""mg"", ""surface_form"": ""75 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",oseltamivir,13
+PMC7718649_01_N0014,PMC7718649_01,Treatment,arbidol,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",arbidol,13
+PMC7718649_01_N0015,PMC7718649_01,Treatment,moxifloxacin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",moxifloxacin,14
+PMC7718649_01_N0016,PMC7718649_01,Treatment,prednisone,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,17
+PMC7718649_01_N0017,PMC7718649_01,Treatment,hydroxychloroquine,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,17
+PMC7718649_01_N0018,PMC7718649_01,Exam,rRT-PCR,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",real-time reverse transcription polymerase chain reaction,19
+PMC7718649_01_N0019,PMC7718649_01,Exam,rRT-PCR,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rRT-PCR,19
+PMC7718649_01_N0020,PMC7718649_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,20
+PMC7718649_01_N0021,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 25.0, ""unit"": ""mg"", ""surface_form"": ""25 mg""}, {""value"": 5.0, ""unit"": ""days"", ""surface_form"": ""5 days""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,21
+PMC7718649_01_N0022,PMC7718649_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,23
+PMC7718649_01_N0023,PMC7718649_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,28
+PMC7718649_01_N0024,PMC7718649_01,Symptom,cough,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mild coughing,29
+PMC7718649_01_N0025,PMC7718649_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,35
+PMC7718649_01_N0026,PMC7718649_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,35
+PMC7718649_01_N0027,PMC7718649_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,42
+PMC7718649_01_N0028,PMC7718649_01,History,diabetes mellitus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diabetes mellitus,43
+PMC7718649_01_N0029,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 25.0, ""unit"": ""mg"", ""surface_form"": ""25 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Prednisone,44
+PMC7718649_01_N0030,PMC7718649_01,Treatment,hydroxychloroquine,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,46
+PMC7718649_01_N0031,PMC7718649_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,49
+PMC7718649_01_N0032,PMC7718649_01,Treatment,pantoprazole,"{""measurements"": [{""value"": 40.0, ""unit"": ""mg"", ""surface_form"": ""40 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Pantoprazole,50
+PMC7718649_01_N0033,PMC7718649_01,Finding,injury,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",injury,52
+PMC7718649_01_N0034,PMC7718649_01,Treatment,prednisone,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,52
+PMC7718649_01_N0035,PMC7718649_01,Treatment,levofloxacin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Levofloxacin,53
+PMC7718649_01_N0036,PMC7718649_01,Treatment,acarbose,"{""measurements"": [{""value"": 50.0, ""unit"": ""mg"", ""surface_form"": ""50 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",acarbose,58
+PMC7718649_01_N0037,PMC7718649_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,60
+PMC7718649_01_N0038,PMC7718649_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,60
+PMC7718649_01_N0039,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 15.0, ""unit"": ""mg"", ""surface_form"": ""15 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,62
+PMC7718649_01_N0040,PMC7718649_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,68
+PMC7718649_01_N0041,PMC7718649_01,Treatment,prednisone,"{""measurements"": [{""value"": 10.0, ""unit"": ""mg"", ""surface_form"": ""10 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,69
+PMC7718649_01_N0042,PMC7718649_01,Exam,rRT-PCR,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rRT-PCR,70
+PMC7718649_01_N0043,PMC7718649_01,Symptom,wrist pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",wrist pain,71
+PMC7718649_01_N0044,PMC7718649_01,Treatment,loxoprofen,"{""measurements"": [{""value"": 60.0, ""unit"": ""mg"", ""surface_form"": ""60 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",loxoprofen,71
+PMC7718649_01_N0045,PMC7718649_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,75
+PMC7718649_01_N0046,PMC7718649_01,Exam,rRT-PCR,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rRT-PCR,76
+PMC7718649_01_N0047,PMC7718649_01,Exam,rRT-PCR,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rRT-PCR,80
+PMC6134951_01_PATIENT,PMC6134951_01,Patient,Patient PMC6134951_01,"{""age"": ""49.0"", ""gender"": ""Female""}",,
+PMC6134951_01_N0001,PMC6134951_01,History,asthma,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",asthma,0
+PMC6134951_01_N0002,PMC6134951_01,History,atrial myxoma,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",atrial myxoma,0
+PMC6134951_01_N0003,PMC6134951_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,0
+PMC6134951_01_N0004,PMC6134951_01,Finding,lymphadenopathy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lymphadenopathy,0
+PMC6134951_01_N0005,PMC6134951_01,Finding,pleural effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pleural effusion,0
+PMC6134951_01_N0006,PMC6134951_01,Finding,pleural effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pleural effusion,1
+PMC6134951_01_N0007,PMC6134951_01,Diagnosis,pulmonary adenocarcinoma,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pulmonary adenocarcinoma,1
+PMC6134951_01_N0008,PMC6134951_01,Treatment,carboplatin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",carboplatin,4
+PMC6134951_01_N0009,PMC6134951_01,Treatment,pemetrexed,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",pemetrexed,4
+PMC6134951_01_N0010,PMC6134951_01,Treatment,pembrolizumab,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pembrolizumab,4
+PMC6134951_01_N0011,PMC6134951_01,Finding,pleural effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pleural effusion,8
+PMC6134951_01_N0012,PMC6134951_01,Treatment,alectinib,"{""measurements"": [{""value"": 600.0, ""unit"": ""mg"", ""surface_form"": ""600 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",alectinib,9
+PMC6134951_01_N0013,PMC6134951_01,Symptom,chest pain,"{""measurements"": [{""value"": 10.0, ""unit"": ""days"", ""surface_form"": ""10 days""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest pain,9
+PMC6134951_01_N0014,PMC6134951_01,Finding,morbilliform rash,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",morbilliform rash,10
+PMC6134951_01_N0015,PMC6134951_01,Finding,swelling,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",swelling,10
+PMC6134951_01_N0016,PMC6134951_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,12
+PMC6134951_01_N0017,PMC6134951_01,Diagnosis,drug eruption,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drug eruption,12
+PMC6134951_01_N0018,PMC6134951_01,Diagnosis,delayed type IV hypersensitivity,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",delayed type IV hypersensitivity,12
+PMC6134951_01_N0019,PMC6134951_01,Treatment,alectinib,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Alectinib,15
+PMC6134951_01_N0020,PMC6134951_01,Treatment,prednisone,"{""measurements"": [{""value"": 30.0, ""unit"": ""mg"", ""surface_form"": ""30 mg""}, {""value"": 20.0, ""unit"": ""mg"", ""surface_form"": ""20 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,16
+PMC6134951_01_N0021,PMC6134951_01,Treatment,diphenhydramine,"{""measurements"": [{""value"": 50.0, ""unit"": ""mg"", ""surface_form"": ""50 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diphenhydramine,18
+PMC6134951_01_N0022,PMC6134951_01,Treatment,prednisone,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,18
+PMC6134951_01_N0023,PMC6134951_01,Treatment,triamcinolone,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",triamcinolone,18
+PMC6134951_01_N0024,PMC6134951_01,Finding,rash,"{""measurements"": [{""value"": 1.0, ""unit"": ""day"", ""surface_form"": ""1 day""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rash,20
+PMC6134951_01_N0025,PMC6134951_01,Treatment,prednisone,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,20
+PMC6134951_01_N0026,PMC6134951_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,21
+PMC6134951_01_N0027,PMC6134951_01,Treatment,brigatinib,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",brigatinib,22
+PMC6134951_01_N0028,PMC6134951_01,Treatment,prednisone,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,22
+PMC6134951_01_N0029,PMC6134951_01,Finding,rash,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",rash,23
+PMC6134951_01_N0030,PMC6134951_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",fever,23
+PMC6134951_01_N0031,PMC6134951_01,Finding,pleural effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pleural effusion,24
+PMC6343374_01_PATIENT,PMC6343374_01,Patient,Patient PMC6343374_01,"{""age"": ""0.0"", ""gender"": ""Male""}",,
+PMC6343374_01_N0001,PMC6343374_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Echocardiography,1
+PMC6343374_01_N0002,PMC6343374_01,Finding,regurgitation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",regurgitation,1
+PMC6343374_01_N0003,PMC6343374_01,Finding,obstruction,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,8
+PMC6343374_01_N0004,PMC6343374_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",echocardiography,11
+PMC6343374_01_N0005,PMC6343374_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,13
+PMC6343374_01_N0006,PMC6343374_01,AnatomicalSite,bronchus,"{""measurements"": [{""value"": 7.0, ""unit"": ""months"", ""surface_form"": ""7 months""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,13
+PMC6343374_01_N0007,PMC6343374_01,Exam,echocardiography,"{""measurements"": [{""value"": 36.0, ""unit"": ""months"", ""surface_form"": ""36 months""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",echocardiography,17
+PMC6343374_01_N0008,PMC6343374_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",stenosis,17
+PMC6343374_01_N0009,PMC6343374_01,Finding,regurgitation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",regurgitation,17
+PMC6343374_01_N0010,PMC6343374_01,Finding,regurgitation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",regurgitation,17
+PMC6343374_01_N0011,PMC6343374_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,20
+PMC6343374_01_N0012,PMC6343374_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,24
+PMC6343374_01_N0013,PMC6343374_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,24
+PMC6343374_01_N0014,PMC6343374_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,30
+PMC6343374_01_N0015,PMC6343374_01,Exam,ultrasound,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasound,33
+PMC6343374_01_N0016,PMC6343374_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,42
+PMC6343374_01_N0017,PMC6343374_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,42
+PMC6343374_01_N0018,PMC6343374_01,Finding,obstruction,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,43
+PMC6343374_01_N0019,PMC6343374_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,44
+PMC6343374_01_N0020,PMC6343374_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,44
+PMC9529523_01_PATIENT,PMC9529523_01,Patient,Patient PMC9529523_01,"{""age"": ""41.0"", ""gender"": ""Female""}",,
+PMC9529523_01_N0001,PMC9529523_01,History,postpartum cardiomyopathy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",postpartum cardiomyopathy,0
+PMC9529523_01_N0002,PMC9529523_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,0
+PMC9529523_01_N0003,PMC9529523_01,Symptom,finger pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",finger pain,1
+PMC9529523_01_N0004,PMC9529523_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,1
+PMC9529523_01_N0005,PMC9529523_01,Exam,transthoracic echocardiogram,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",transthoracic echocardiogram,2
+PMC9529523_01_N0006,PMC9529523_01,Diagnosis,infective endocarditis,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",infective endocarditis,2
+PMC9529523_01_N0007,PMC9529523_01,Finding,abscess,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abscess,3
+PMC9529523_01_N0008,PMC9529523_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,3
+PMC9529523_01_N0009,PMC9529523_01,History,systemic lupus erythematosus,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",systemic lupus erythematosus,10
+PMC9529523_01_N0010,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}, {""value"": 3.9, ""unit"": ""mg"", ""surface_form"": ""3.9 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,11
+PMC9529523_01_N0011,PMC9529523_01,Treatment,mycophenolate mofetil,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mycophenolate mofetil,12
+PMC9529523_01_N0012,PMC9529523_01,Symptom,weight loss,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",weight loss,14
+PMC9529523_01_N0013,PMC9529523_01,Symptom,alopecia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",alopecia,15
+PMC9529523_01_N0014,PMC9529523_01,Finding,rash,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rash,15
+PMC9529523_01_N0015,PMC9529523_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,15
+PMC9529523_01_N0016,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 1232.1, ""unit"": ""ng/ml"", ""surface_form"": ""1232.1 ng/ml""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,21
+PMC9529523_01_N0017,PMC9529523_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,22
+PMC9529523_01_N0018,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 1000.0, ""unit"": ""ng/ml"", ""surface_form"": ""1000 ng/mL""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,22
+PMC9529523_01_N0019,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}, {""value"": 3.1, ""unit"": ""mg"", ""surface_form"": ""3.1 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,24
+PMC9529523_01_N0020,PMC9529523_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,26
+PMC9529523_01_N0021,PMC9529523_01,Finding,injury,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",injury,26
+PMC9529523_01_N0022,PMC9529523_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,26
+PMC9529523_01_N0023,PMC9529523_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,26
+PMC9529523_01_N0024,PMC9529523_01,History,hypertension,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,26
+PMC9529523_01_N0025,PMC9529523_01,Exam,pulmonary function testing,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pulmonary function testing,27
+PMC9529523_01_N0026,PMC9529523_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,29
+PMC9529523_01_N0027,PMC9529523_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,29
+PMC9529523_01_N0028,PMC9529523_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",lung,29
+PMC9529523_01_N0029,PMC9529523_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,30
+PMC9529523_01_N0030,PMC9529523_01,Finding,injury,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",injury,30
+PMC9529523_01_N0031,PMC9529523_01,Treatment,mycophenolate mofetil,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Mycophenolate mofetil,33
+PMC9529523_01_N0032,PMC9529523_01,Finding,pulmonary hypertension,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pulmonary hypertension,34
+PMC9529523_01_N0033,PMC9529523_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",echocardiography,35
+PMC9529523_01_N0034,PMC9529523_01,Exam,magnetic resonance imaging,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",magnetic resonance imaging,35
+PMC9529523_01_N0035,PMC9529523_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,35
+PMC9529523_01_N0036,PMC9529523_01,Symptom,shortness of breath,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",shortness of breath,37
+PMC9529523_01_N0037,PMC9529523_01,Symptom,dyspnea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dyspnea,37
+PMC9529523_01_N0038,PMC9529523_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,38
+PMC9529523_01_N0039,PMC9529523_01,Finding,pericardial effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",pericardial effusion,38
+PMC9529523_01_N0040,PMC9529523_01,Treatment,mycophenolate mofetil,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mycophenolate mofetil,40
+PMC9529523_01_N0041,PMC9529523_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Electrocardiogram,41
+PMC9529523_01_N0042,PMC9529523_01,Exam,transthoracic echocardiogram,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",transthoracic echocardiogram,41
+PMC9529523_01_N0043,PMC9529523_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,43
+PMC9529523_01_N0044,PMC9529523_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,43
+PMC9529523_01_N0045,PMC9529523_01,Finding,pulmonary hypertension,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",pulmonary hypertension,43
+PMC9529523_01_N0046,PMC9529523_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,44
+PMC9529523_01_N0047,PMC9529523_01,Treatment,hydroxychloroquine,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,44
+PMC9529523_01_N0048,PMC9529523_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 274.0, ""unit"": ""ng/ml"", ""surface_form"": ""274 ng/ml""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,45
+PMC9529523_01_N0049,PMC9529523_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,45
+PMC9529523_01_N0050,PMC9529523_01,Treatment,hydroxychloroquine,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Hydroxychloroquine,46
+PMC9529523_01_N0051,PMC9529523_01,Treatment,prednisone,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,46
+PMC9532611_01_PATIENT,PMC9532611_01,Patient,Patient PMC9532611_01,"{""age"": ""12.0"", ""gender"": ""Female""}",,
+PMC9532611_01_N0001,PMC9532611_01,History,hypertension,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,1
+PMC9532611_01_N0002,PMC9532611_01,History,hypertension,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",hypertension,7
+PMC9532611_01_N0003,PMC9532611_01,History,hypertension,"{""measurements"": [{""value"": 4.0, ""unit"": ""years"", ""surface_form"": ""4 years""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,8
+PMC9532611_01_N0004,PMC9532611_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,9
+PMC9532611_02_PATIENT,PMC9532611_02,Patient,Patient PMC9532611_02,"{""age"": ""6.0"", ""gender"": ""Female""}",,
+PMC9532611_02_N0001,PMC9532611_02,Finding,mass,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",mass,7
+PMC5875137_01_PATIENT,PMC5875137_01,Patient,Patient PMC5875137_01,"{""age"": ""83.0"", ""gender"": ""Female""}",,
+PMC5875137_01_N0001,PMC5875137_01,Diagnosis,cancer,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cancer,0
+PMC5875137_01_N0002,PMC5875137_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,0
+PMC5875137_01_N0003,PMC5875137_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,0
+PMC5875137_01_N0004,PMC5875137_01,Exam,computed tomography,"{""measurements"": [{""value"": 6.5, ""unit"": ""cm"", ""surface_form"": ""6.5 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,0
+PMC5875137_01_N0005,PMC5875137_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,2
+PMC5875137_01_N0006,PMC5875137_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,4
+PMC5875137_01_N0007,PMC5875137_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,5
+PMC5875137_01_N0008,PMC5875137_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,5
+PMC5875137_01_N0009,PMC5875137_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,5
+PMC5875137_01_N0010,PMC5875137_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,6
+PMC5875137_01_N0011,PMC5875137_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",echocardiography,6
+PMC6949661_01_PATIENT,PMC6949661_01,Patient,Patient PMC6949661_01,"{""age"": ""23.0"", ""gender"": ""Male""}",,
+PMC6949661_01_N0001,PMC6949661_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",fever,1
+PMC6949661_01_N0002,PMC6949661_01,Symptom,headache,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",headache,1
+PMC6949661_01_N0003,PMC6949661_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",chest pain,1
+PMC6949661_01_N0004,PMC6949661_01,Symptom,shortness of breath,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",shortness of breath,1
+PMC6949661_01_N0005,PMC6949661_01,Symptom,palpitations,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",palpitations,1
+PMC6949661_01_N0006,PMC6949661_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",chest,2
+PMC6949661_01_N0007,PMC6949661_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",Computed tomography,5
+PMC6949661_01_N0008,PMC6949661_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,5
+PMC6949661_01_N0009,PMC6949661_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,5
+PMC6949661_01_N0010,PMC6949661_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Echocardiography,6
+PMC6949661_01_N0011,PMC6949661_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nausea,7
+PMC6949661_01_N0012,PMC6949661_01,Symptom,vomiting,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",vomiting,7
+PMC6949661_01_N0013,PMC6949661_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,7
+PMC6949661_01_N0014,PMC6949661_01,Symptom,tachycardia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",tachycardia,8
+PMC6949661_01_N0015,PMC6949661_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,9
+PMC6949661_01_N0016,PMC6949661_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Esophagogastroduodenoscopy,17
+PMC6949661_01_N0017,PMC6949661_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EGD,17
+PMC6949661_01_N0018,PMC6949661_01,AnatomicalSite,duodenum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",duodenum,17
+PMC6949661_01_N0019,PMC6949661_01,Exam,colonoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Colonoscopy,18
+PMC6949661_01_N0020,PMC6949661_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,20
+PMC6949661_01_N0021,PMC6949661_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,20
+PMC6949661_01_N0022,PMC6949661_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Endoscopy,22
+PMC6949661_01_N0023,PMC6949661_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,22
+PMC6949661_01_N0024,PMC6949661_01,AnatomicalSite,jejunum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",jejunum,23
+PMC6949661_01_N0025,PMC6949661_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,24
+PMC6949661_01_N0026,PMC6949661_01,AnatomicalSite,jejunum,"{""measurements"": [{""value"": 30.0, ""unit"": ""cm"", ""surface_form"": ""30 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",jejunum,24
+PMC6949661_01_N0027,PMC6949661_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,27
+PMC6949661_01_N0028,PMC6949661_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,27
+PMC6949661_01_N0029,PMC6949661_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,28
+PMC6949661_01_N0030,PMC6949661_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,29
+PMC6949661_01_N0031,PMC6949661_01,AnatomicalSite,jejunum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",jejunum,31
+PMC10405809_01_PATIENT,PMC10405809_01,Patient,Patient PMC10405809_01,"{""age"": ""55.0"", ""gender"": ""Female""}",,
+PMC10405809_01_N0001,PMC10405809_01,Symptom,dysphagia,"{""measurements"": [{""value"": 10.0, ""unit"": ""kg"", ""surface_form"": ""10 kg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dysphagia,0
+PMC10405809_01_N0002,PMC10405809_01,Symptom,heartburn,"{""measurements"": [{""value"": 5.0, ""unit"": ""years"", ""surface_form"": ""5 years""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heartburn,1
+PMC10405809_01_N0003,PMC10405809_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,7
+PMC10405809_01_N0004,PMC10405809_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,13
+PMC10405809_01_N0005,PMC10405809_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,13
+PMC10405809_01_N0006,PMC10405809_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,15
+PMC10405809_01_N0007,PMC10405809_01,Symptom,weight loss,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",weight loss,15
+PMC10405809_01_N0008,PMC10405809_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,16
+PMC10405809_01_N0009,PMC10405809_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,16
+PMC10405809_01_N0010,PMC10405809_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,16
+PMC10405809_01_N0011,PMC10405809_01,Exam,esophagogastroduodenoscopy,"{""measurements"": [{""value"": 20.0, ""unit"": ""cm"", ""surface_form"": ""20 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Esophagogastroduodenoscopy,18
+PMC10405809_01_N0012,PMC10405809_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,18
+PMC10405809_01_N0013,PMC10405809_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,23
+PMC10405809_01_N0014,PMC10405809_01,Symptom,weight loss,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",weight loss,24
+PMC10405809_01_N0015,PMC10405809_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,24
+PMC10405809_01_N0016,PMC10405809_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,24
+PMC10405809_01_N0017,PMC10405809_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endoscopy,25
+PMC10405809_01_N0018,PMC10405809_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,26
+PMC10405809_01_N0019,PMC10405809_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,26
+PMC7519975_01_PATIENT,PMC7519975_01,Patient,Patient PMC7519975_01,"{""age"": ""33.0"", ""gender"": ""Female""}",,
+PMC7519975_01_N0001,PMC7519975_01,History,diabetes mellitus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diabetes mellitus,0
+PMC7519975_01_N0002,PMC7519975_01,Symptom,vomiting,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",emesis,0
+PMC7519975_01_N0003,PMC7519975_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",Computed tomography,1
+PMC7519975_01_N0004,PMC7519975_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,1
+PMC7519975_01_N0005,PMC7519975_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,1
+PMC7519975_01_N0006,PMC7519975_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,1
+PMC7519975_01_N0007,PMC7519975_01,Finding,inflammation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",inflammation,1
+PMC7519975_01_N0008,PMC7519975_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,2
+PMC7519975_01_N0009,PMC7519975_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,3
+PMC7519975_01_N0010,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,5
+PMC7519975_01_N0011,PMC7519975_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,5
+PMC7519975_01_N0012,PMC7519975_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,6
+PMC7519975_01_N0013,PMC7519975_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",electrocardiogram,8
+PMC7519975_01_N0014,PMC7519975_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,8
+PMC7519975_01_N0015,PMC7519975_01,Treatment,surgery,"{""measurements"": [{""value"": 30.0, ""unit"": ""days"", ""surface_form"": ""30 days""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,17
+PMC7519975_01_N0016,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,17
+PMC7519975_01_N0017,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,18
+PMC7519975_01_N0018,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,19
+PMC7519975_01_N0019,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,19
+PMC7519975_01_N0020,PMC7519975_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,23
+PMC7519975_01_N0021,PMC7519975_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,24
+PMC7519975_01_N0022,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,25
+PMC7519975_01_N0023,PMC7519975_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",heart,33
+PMC7519975_01_N0024,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Surgery,36
+PMC7519975_01_N0025,PMC7519975_01,AnatomicalSite,ileum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ileum,37
+PMC7519975_01_N0026,PMC7519975_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,37
+PMC7519975_01_N0027,PMC7519975_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Surgery,38
+PMC3950436_01_PATIENT,PMC3950436_01,Patient,Patient PMC3950436_01,"{""age"": ""19.0"", ""gender"": ""Female""}",,
+PMC3950436_01_N0001,PMC3950436_01,Finding,obstruction,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,1
+PMC3950436_01_N0002,PMC3950436_01,Symptom,shortness of breath,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",shortness of breath,2
+PMC3950436_01_N0003,PMC3950436_01,Symptom,dysphagia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dysphagia,2
+PMC3950436_01_N0004,PMC3950436_01,Treatment,chemotherapy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chemotherapy,4
+PMC3950436_01_N0005,PMC3950436_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,9
+PMC3950436_01_N0006,PMC3950436_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,9
+PMC3950436_01_N0007,PMC3950436_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",electrocardiogram,16
+PMC3950436_01_N0008,PMC3950436_01,Exam,ultrasound,"{""measurements"": [{""value"": 5.0, ""unit"": ""ml"", ""surface_form"": ""5 ml""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasound,18
+PMC10434843_01_PATIENT,PMC10434843_01,Patient,Patient PMC10434843_01,"{""age"": ""49.0"", ""gender"": ""Male""}",,
+PMC10434843_01_N0001,PMC10434843_01,Exam,magnetic resonance imaging,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",Magnetic resonance imaging,4
+PMC10434843_01_N0002,PMC10434843_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,4
+PMC10434843_01_N0003,PMC10434843_01,Exam,ultrasonography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasonography,27
+PMC10434843_01_N0004,PMC10434843_01,Finding,swelling,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",swelling,27
+PMC10434843_01_N0005,PMC10434843_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,29
+PMC10434843_01_N0006,PMC10434843_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,30
+PMC10434843_01_N0007,PMC10434843_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",computed tomography,30
+PMC10434843_01_N0008,PMC10434843_01,Exam,computed tomography,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",CT,30
+PMC4630775_01_PATIENT,PMC4630775_01,Patient,Patient PMC4630775_01,"{""age"": ""39.0"", ""gender"": ""Female""}",,
+PMC2700431_01_PATIENT,PMC2700431_01,Patient,Patient PMC2700431_01,"{""age"": ""35.0"", ""gender"": ""Male""}",,
+PMC2700431_01_N0001,PMC2700431_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,3
+PMC2700431_01_N0002,PMC2700431_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,3
+PMC2700431_01_N0003,PMC2700431_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,3
+PMC2700431_01_N0004,PMC2700431_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,3
+PMC2700431_01_N0005,PMC2700431_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Chest,10
+PMC2700431_01_N0006,PMC2700431_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,10
+PMC2700431_01_N0007,PMC2700431_01,Exam,bronchoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Bronchoscopy,11
+PMC2700431_01_N0008,PMC2700431_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,11
+PMC2700431_01_N0009,PMC2700431_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,14
+PMC2700431_01_N0010,PMC2700431_01,Finding,aspiration pneumonia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",aspiration pneumonia,15
+PMC10106591_01_PATIENT,PMC10106591_01,Patient,Patient PMC10106591_01,"{""age"": ""44.0"", ""gender"": ""Female""}",,
+PMC10106591_01_N0001,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest pain,0
+PMC10106591_01_N0002,PMC10106591_01,Symptom,chest tightness,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest tightness,0
+PMC10106591_01_N0003,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest pain,1
+PMC10106591_01_N0004,PMC10106591_01,Symptom,shortness of breath,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",shortness of breath,1
+PMC10106591_01_N0005,PMC10106591_01,Symptom,palpitations,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",palpitations,1
+PMC10106591_01_N0006,PMC10106591_01,Symptom,diaphoresis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",diaphoresis,1
+PMC10106591_01_N0007,PMC10106591_01,History,hypertension,"{""measurements"": [{""value"": 7.0, ""unit"": ""years"", ""surface_form"": ""7 years""}, {""value"": 150.0, ""unit"": ""mg"", ""surface_form"": ""150 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,4
+PMC10106591_01_N0008,PMC10106591_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,8
+PMC10106591_01_N0009,PMC10106591_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,9
+PMC10106591_01_N0010,PMC10106591_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,10
+PMC10106591_01_N0011,PMC10106591_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",electrocardiogram,12
+PMC10106591_01_N0012,PMC10106591_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,12
+PMC10106591_01_N0013,PMC10106591_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",echocardiography,12
+PMC10106591_01_N0014,PMC10106591_01,Finding,regurgitation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",regurgitation,12
+PMC10106591_01_N0015,PMC10106591_01,Treatment,aspirin,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",aspirin,20
+PMC10106591_01_N0016,PMC10106591_01,Treatment,clopidogrel,"{""measurements"": [{""value"": 300.0, ""unit"": ""mg"", ""surface_form"": ""300 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",clopidogrel,20
+PMC10106591_01_N0017,PMC10106591_01,Exam,coronary angiography,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",coronary angiography,20
+PMC10106591_01_N0018,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest pain,22
+PMC10106591_01_N0019,PMC10106591_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,22
+PMC10106591_01_N0020,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest pain,23
+PMC10106591_01_N0021,PMC10106591_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,23
+PMC10106591_01_N0022,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest pain,23
+PMC10106591_01_N0023,PMC10106591_01,Treatment,diltiazem,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diltiazem,24
+PMC10106591_01_N0024,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest pain,24
+PMC10106591_01_N0025,PMC10106591_01,Treatment,diltiazem,"{""measurements"": [{""value"": 5.0, ""unit"": ""ml"", ""surface_form"": ""5 mL""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diltiazem,25
+PMC10106591_01_N0026,PMC10106591_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,26
+PMC10106591_01_N0027,PMC10106591_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,26
+PMC10106591_01_N0028,PMC10106591_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,26
+PMC10106591_01_N0029,PMC10106591_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,26
+PMC10106591_01_N0030,PMC10106591_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,27
+PMC10106591_01_N0031,PMC10106591_01,Exam,electrocardiogram,"{""measurements"": [{""value"": 0.031, ""unit"": ""ng/ml"", ""surface_form"": ""0.031 ng/mL""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,28
+PMC10106591_01_N0032,PMC10106591_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,30
+PMC10106591_01_N0033,PMC10106591_01,Treatment,diltiazem,"{""measurements"": [{""value"": 90.0, ""unit"": ""mg"", ""surface_form"": ""90 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diltiazem,31
+PMC10106591_01_N0034,PMC10106591_01,Treatment,aspirin,"{""measurements"": [{""value"": 100.0, ""unit"": ""mg"", ""surface_form"": ""100 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",aspirin,31
+PMC10106591_01_N0035,PMC10106591_01,Treatment,atorvastatin,"{""measurements"": [{""value"": 20.0, ""unit"": ""mg"", ""surface_form"": ""20 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",atorvastatin,31
+PMC10106591_01_N0036,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",chest pain,32
+PMC10106591_01_N0037,PMC10106591_01,Symptom,chest pain,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",chest pain,33
+PMC4073451_01_PATIENT,PMC4073451_01,Patient,Patient PMC4073451_01,"{""age"": ""14.0"", ""gender"": ""Female""}",,
+PMC4073451_01_N0001,PMC4073451_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Surgery,0
+PMC4073451_01_N0002,PMC4073451_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,0
+PMC4073451_01_N0003,PMC4073451_01,AnatomicalSite,mandible,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mandible,0
+PMC4073451_01_N0004,PMC4073451_01,Finding,swelling,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",swelling,1
+PMC4073451_01_N0005,PMC4073451_01,AnatomicalSite,mandible,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mandible,1
+PMC4073451_01_N0006,PMC4073451_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,2
+PMC4073451_01_N0007,PMC4073451_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,2
+PMC4073451_01_N0008,PMC4073451_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,2
+PMC4073451_01_N0009,PMC4073451_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,3
+PMC4073451_01_N0010,PMC4073451_01,Finding,cystic lesion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",cystic lesion,3
+PMC4073451_01_N0011,PMC4073451_01,Diagnosis,keratocystic odontogenic tumor,"{""measurements"": [{""value"": 14.0, ""unit"": ""months"", ""surface_form"": ""14 months""}], ""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",keratocystic odontogenic tumor,4
+PMC4073451_01_N0012,PMC4073451_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,5
+PMC4073451_01_N0013,PMC4073451_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,6
+PMC4073451_01_N0014,PMC4073451_01,Diagnosis,keratocystic odontogenic tumor,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",keratocystic odontogenic tumor,6
+PMC4073451_01_N0015,PMC4073451_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,8
+PMC4073451_01_N0016,PMC4073451_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,8
+PMC4073451_01_N0017,PMC4073451_01,AnatomicalSite,mandible,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mandible,9
+PMC4073451_01_N0018,PMC4073451_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,10
+PMC4073451_01_N0019,PMC4073451_01,AnatomicalSite,mandible,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mandible,10
+PMC6083636_01_PATIENT,PMC6083636_01,Patient,Patient PMC6083636_01,"{""age"": ""9.0"", ""gender"": ""Male""}",,
+PMC6083636_01_N0001,PMC6083636_01,Symptom,reduced vision,"{""measurements"": [{""value"": 10.0, ""unit"": ""mg"", ""surface_form"": ""10 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",poor vision,5
+PMC6083636_02_PATIENT,PMC6083636_02,Patient,Patient PMC6083636_02,"{""age"": """", ""gender"": ""Unknown""}",,
+PMC6083636_02_N0001,PMC6083636_02,Exam,optical coherence tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",OCT,1
+PMC6083636_02_N0002,PMC6083636_02,Exam,optical coherence tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",OCT,1
+PMC6083636_02_N0003,PMC6083636_02,AnatomicalSite,retina,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",retina,7
+PMC6083636_02_N0004,PMC6083636_02,AnatomicalSite,retina,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",retina,12
+PMC6083636_02_N0005,PMC6083636_02,AnatomicalSite,retina,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",retina,12
+PMC6083636_02_N0006,PMC6083636_02,Diagnosis,fovea plana,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fovea plana,13
+PMC6083636_03_PATIENT,PMC6083636_03,Patient,Patient PMC6083636_03,"{""age"": """", ""gender"": ""Unknown""}",,
+PMC6083636_03_N0001,PMC6083636_03,Finding,nystagmus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nystagmus,6
+PMC6083636_03_N0002,PMC6083636_03,Finding,nystagmus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nystagmus,7
+PMC6083636_03_N0003,PMC6083636_03,Exam,optical coherence tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",OCT,7
+PMC9969157_01_PATIENT,PMC9969157_01,Patient,Patient PMC9969157_01,"{""age"": ""7.0"", ""gender"": ""Male""}",,
+PMC9969157_01_N0001,PMC9969157_01,History,gestational diabetes,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",gestational diabetes,0
+PMC9969157_01_N0002,PMC9969157_01,History,gestational hypertension,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",gestational hypertension,0
+PMC9969157_01_N0003,PMC9969157_01,Diagnosis,LCHADD,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",LCHADD,0
+PMC9969157_01_N0004,PMC9969157_01,Diagnosis,LCHADD,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",LCHADD,9
+PMC9969157_01_N0005,PMC9969157_01,Diagnosis,LCHADD,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",LCHADD,10
+PMC9969157_01_N0006,PMC9969157_01,Symptom,bradycardia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bradycardia,18
+PMC9969157_01_N0007,PMC9969157_01,Symptom,vomiting,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",emesis,20
+PMC9969157_01_N0008,PMC9969157_01,Symptom,hematochezia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hematochezia,20
+PMC9969157_01_N0009,PMC9969157_01,Finding,pneumatosis intestinalis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumatosis intestinalis,21
+PMC9969157_01_N0010,PMC9969157_01,Diagnosis,necrotizing enterocolitis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",NEC,21
+PMC9969157_01_N0011,PMC9969157_01,Treatment,ampicillin-sulbactam,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ampicillin-sulbactam,22
+PMC9969157_01_N0012,PMC9969157_01,Treatment,gentamicin,"{""measurements"": [{""value"": 7.0, ""unit"": ""days"", ""surface_form"": ""7 days""}, {""value"": 5.0, ""unit"": ""days"", ""surface_form"": ""5 days""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",gentamicin,22
+PMC4828947_01_PATIENT,PMC4828947_01,Patient,Patient PMC4828947_01,"{""age"": ""61.0"", ""gender"": ""Male""}",,
+PMC4828947_01_N0001,PMC4828947_01,History,drug-resistant seizures,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drug-resistant seizures,0
+PMC4828947_01_N0002,PMC4828947_01,Exam,electroencephalogram,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",electroencephalogram,1
+PMC4828947_01_N0003,PMC4828947_01,Exam,electroencephalogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EEG,1
+PMC4828947_01_N0004,PMC4828947_01,Symptom,seizure,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",seizures,1
+PMC4828947_01_N0005,PMC4828947_01,AnatomicalSite,temporal lobe,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",temporal lobe,1
+PMC4828947_01_N0006,PMC4828947_01,Symptom,seizure,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",seizures,2
+PMC4828947_01_N0007,PMC4828947_01,Symptom,dysphasia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dysphasia,3
+PMC4828947_01_N0008,PMC4828947_01,Symptom,dysphasia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dysphasia,4
+PMC4828947_01_N0009,PMC4828947_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,5
+PMC4828947_01_N0010,PMC4828947_01,Symptom,seizure,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",seizures,5
+PMC4828947_01_N0011,PMC4828947_01,Symptom,seizure,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",seizures,6
+PMC4828947_01_N0012,PMC4828947_01,Treatment,oxcarbazepine,"{""measurements"": [{""value"": 1200.0, ""unit"": ""mg"", ""surface_form"": ""1200 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",oxcarbazepine,6
+PMC4828947_01_N0013,PMC4828947_01,Treatment,valproic acid,"{""measurements"": [{""value"": 1500.0, ""unit"": ""mg"", ""surface_form"": ""1500 mg""}], ""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",valproic acid,6
+PMC4828947_01_N0014,PMC4828947_01,Symptom,seizure,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",seizures,7
+PMC4828947_01_N0015,PMC4828947_01,Exam,magnetic resonance imaging,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",magnetic resonance imaging,10
+PMC4828947_01_N0016,PMC4828947_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,10
+PMC4828947_01_N0017,PMC4828947_01,Finding,cortical lesion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",cortical lesion,10
+PMC4828947_01_N0018,PMC4828947_01,AnatomicalSite,temporal lobe,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",temporal lobe,10
+PMC4828947_01_N0019,PMC4828947_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,11
+PMC4828947_01_N0020,PMC4828947_01,Finding,calcification,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",calcification,12
+PMC4828947_01_N0021,PMC4828947_01,Finding,cyst,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyst,12
+PMC4828947_01_N0022,PMC4828947_01,Exam,electroencephalogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EEG,13
+PMC4828947_01_N0023,PMC4828947_01,AnatomicalSite,temporal lobe,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",temporal lobe,13
+PMC4828947_01_N0024,PMC4828947_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,13
+PMC4828947_01_N0025,PMC4828947_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,13
+PMC4828947_01_N0026,PMC4828947_01,Diagnosis,mixed ganglioglioma-DNET,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",mixed ganglioglioma-DNET,15
+PMC4828947_01_N0027,PMC4828947_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,16
+PMC4828947_01_N0028,PMC4828947_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,18
+PMC4828947_01_N0029,PMC4828947_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,20
+PMC4828947_01_N0030,PMC4828947_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,21
+PMC4828947_01_N0031,PMC4828947_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,24
+PMC7086412_01_PATIENT,PMC7086412_01,Patient,Patient PMC7086412_01,"{""age"": ""34.0"", ""gender"": ""Female""}",,
+PMC7086412_01_N0001,PMC7086412_01,History,diabetes mellitus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diabetes,9
+PMC7086412_01_N0002,PMC7086412_01,History,diabetes mellitus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Diabetes,9
+PMC7086412_02_PATIENT,PMC7086412_02,Patient,Patient PMC7086412_02,"{""age"": ""31.0"", ""gender"": ""Female""}",,
+PMC7086412_02_N0001,PMC7086412_02,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,2
+PMC7086412_02_N0002,PMC7086412_02,History,diabetes mellitus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diabetes,12
+PMC7086412_02_N0003,PMC7086412_02,History,diabetes mellitus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Diabetes,12
+PMC3557982_01_PATIENT,PMC3557982_01,Patient,Patient PMC3557982_01,"{""age"": ""1.0"", ""gender"": ""Female""}",,
+PMC3557982_01_N0001,PMC3557982_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,6
+PMC3557982_01_N0002,PMC3557982_01,Finding,necrosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",necrosis,7
+PMC9815523_01_PATIENT,PMC9815523_01,Patient,Patient PMC9815523_01,"{""age"": ""40.0"", ""gender"": ""Unknown""}",,
+PMC9815523_01_N0001,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,2
+PMC9815523_01_N0002,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,5
+PMC9815523_01_N0003,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,8
+PMC9815523_01_N0004,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,18
+PMC9815523_01_N0005,PMC9815523_01,Symptom,menorrhagia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",menorrhagia,20
+PMC9815523_01_N0006,PMC9815523_01,Treatment,blood transfusion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",blood transfusion,20
+PMC9815523_01_N0007,PMC9815523_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,24
+PMC9815523_01_N0008,PMC9815523_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",surgery,25
+PMC9815523_01_N0009,PMC9815523_01,Treatment,heparin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heparin,27
+PMC9815523_01_N0010,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,29
+PMC9815523_01_N0011,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",thrombosis,29
+PMC9815523_01_N0012,PMC9815523_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,31
+PMC9815523_01_N0013,PMC9815523_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,35
+PMC9815523_01_N0014,PMC9815523_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,39
+PMC9815523_01_N0015,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,42
+PMC9815523_01_N0016,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",thrombosis,42
+PMC9815523_01_N0017,PMC9815523_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,46
+PMC9815523_01_N0018,PMC9815523_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,49
+PMC4310058_01_PATIENT,PMC4310058_01,Patient,Patient PMC4310058_01,"{""age"": ""16.0"", ""gender"": ""Male""}",,
+PMC4310058_01_N0001,PMC4310058_01,AnatomicalSite,parietal bone,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",parietal bone,4
+PMC4310058_01_N0002,PMC4310058_01,AnatomicalSite,parietal bone,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",parietal bone,7
+PMC4310058_01_N0003,PMC4310058_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,8
+PMC4310058_01_N0004,PMC4310058_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,8
+PMC4310058_01_N0005,PMC4310058_01,Exam,magnetic resonance imaging,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",magnetic resonance imaging,10
+PMC4310058_01_N0006,PMC4310058_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,10
+PMC4310058_01_N0007,PMC4310058_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,10
+PMC4310058_01_N0008,PMC4310058_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,20
+PMC4310058_01_N0009,PMC4310058_01,Finding,inflammation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",inflammation,23
+PMC4310058_01_N0010,PMC4310058_01,Diagnosis,benign fibro-osseous lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",benign fibro-osseous lesion,24
+PMC3859158_01_PATIENT,PMC3859158_01,Patient,Patient PMC3859158_01,"{""age"": ""44.0"", ""gender"": ""Male""}",,
+PMC3859158_01_N0001,PMC3859158_01,Symptom,epigastric pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",epigastric pain,0
+PMC3859158_01_N0002,PMC3859158_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",nausea,1
+PMC3859158_01_N0003,PMC3859158_01,Symptom,vomiting,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",vomiting,1
+PMC3859158_01_N0004,PMC3859158_01,Finding,ulcer,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ulcer,2
+PMC3859158_01_N0005,PMC3859158_01,Diagnosis,pancreatitis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreatitis,2
+PMC3859158_01_N0006,PMC3859158_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,3
+PMC3859158_01_N0007,PMC3859158_01,Symptom,weight loss,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",weight loss,3
+PMC3859158_01_N0008,PMC3859158_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Abdomen,6
+PMC3859158_01_N0009,PMC3859158_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",mass,7
+PMC3859158_01_N0010,PMC3859158_01,Diagnosis,cancer,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cancer,8
+PMC3859158_01_N0011,PMC3859158_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,9
+PMC3859158_01_N0012,PMC3859158_01,Exam,computed tomography,"{""measurements"": [{""value"": 11.5, ""unit"": ""cm"", ""surface_form"": ""11.5 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,9
+PMC3859158_01_N0013,PMC3859158_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,12
+PMC3859158_01_N0014,PMC3859158_01,AnatomicalSite,pancreas,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreas,12
+PMC3859158_01_N0015,PMC3859158_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,13
+PMC3859158_01_N0016,PMC3859158_01,Finding,lymphadenopathy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",lymphadenopathy,14
+PMC3859158_01_N0017,PMC3859158_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,15
+PMC3859158_01_N0018,PMC3859158_01,AnatomicalSite,pancreatic tail,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pancreatic tail,15
+PMC3859158_01_N0019,PMC3859158_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,16
+PMC3859158_01_N0020,PMC3859158_01,AnatomicalSite,pancreatic tail,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pancreatic tail,16
+PMC3859158_01_N0021,PMC3859158_01,Treatment,splenectomy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",splenectomy,16
+PMC3859158_01_N0022,PMC3859158_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,17
+PMC3859158_01_N0023,PMC3859158_01,Finding,mass,"{""measurements"": [{""value"": 6.2, ""unit"": ""cm"", ""surface_form"": ""6.2 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,18
+PMC3859158_01_N0024,PMC3859158_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,21
+PMC3859158_01_N0025,PMC3859158_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,22
+PMC3859158_01_N0026,PMC3859158_01,Diagnosis,ancient schwannoma,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ancient schwannoma,25
+PMC3859158_01_N0027,PMC3859158_01,Finding,necrosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",necrosis,26
+PMC3859158_01_N0028,PMC3859158_01,Diagnosis,ancient schwannoma,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ancient schwannoma,29
+PMC3859158_01_N0029,PMC3859158_01,AnatomicalSite,pancreatic tail,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pancreatic tail,29
+PMC3859158_01_N0030,PMC3859158_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,30
+PMC3859158_01_N0031,PMC3859158_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,32
+PMC9650410_01_PATIENT,PMC9650410_01,Patient,Patient PMC9650410_01,"{""age"": ""67.0"", ""gender"": ""Female""}",,
+PMC9650410_01_N0001,PMC9650410_01,Diagnosis,cancer,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cancer,77
+PMC9650410_01_N0002,PMC9650410_01,Diagnosis,cancer,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cancer,84
+PMC5804616_01_PATIENT,PMC5804616_01,Patient,Patient PMC5804616_01,"{""age"": ""77.0"", ""gender"": ""Male""}",,
+PMC5804616_01_N0001,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,0
+PMC5804616_01_N0002,PMC5804616_01,Treatment,chemotherapy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chemotherapy,1
+PMC5804616_01_N0003,PMC5804616_01,History,esophageal cancer,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",esophageal cancer,1
+PMC5804616_01_N0004,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,1
+PMC5804616_01_N0005,PMC5804616_01,History,hypertension,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,3
+PMC5804616_01_N0006,PMC5804616_01,History,diabetes mellitus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diabetes mellitus,3
+PMC5804616_01_N0007,PMC5804616_01,History,bladder cancer,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bladder cancer,3
+PMC5804616_01_N0008,PMC5804616_01,History,cerebral infarction,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",cerebral infarction,3
+PMC5804616_01_N0009,PMC5804616_01,Exam,computed tomography,"{""measurements"": [{""value"": 3.0, ""unit"": ""mm"", ""surface_form"": ""3 mm""}], ""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,8
+PMC5804616_01_N0010,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,8
+PMC5804616_01_N0011,PMC5804616_01,Finding,pleural effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pleural effusion,8
+PMC5804616_01_N0012,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,12
+PMC5804616_01_N0013,PMC5804616_01,Exam,bronchoscopy,"{""measurements"": [{""value"": 35.0, ""unit"": ""mg"", ""surface_form"": ""35 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchoscopy,12
+PMC5804616_01_N0014,PMC5804616_01,Exam,bronchoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchoscopy,15
+PMC5804616_01_N0015,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",lung,16
+PMC5804616_01_N0016,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,16
+PMC5804616_01_N0017,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",lung,17
+PMC5804616_01_N0018,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,18
+PMC5804616_01_N0019,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",lung,20
+PMC5804616_01_N0020,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,20
+PMC5804616_01_N0021,PMC5804616_01,Treatment,surgery,"{""measurements"": [{""value"": 6.0, ""unit"": ""ml"", ""surface_form"": ""6 ml""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,25
+PMC5804616_01_N0022,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,35
+PMC5804616_01_N0023,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,37
+PMC5804616_01_N0024,PMC5804616_01,Finding,obstruction,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,38
+PMC5804616_01_N0025,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,38
+PMC5804616_01_N0026,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,44
+PMC5804616_01_N0027,PMC5804616_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,44
+PMC5804616_01_N0028,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,44
+PMC5804616_01_N0029,PMC5804616_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,46
+PMC5804616_01_N0030,PMC5804616_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,46
+PMC5804616_01_N0031,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,46
+PMC5804616_01_N0032,PMC5804616_01,Finding,pleural effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pleural effusion,49
+PMC5804616_01_N0033,PMC5804616_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,50
+PMC5804616_01_N0034,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,51
+PMC5804616_01_N0035,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,52
+PMC5804616_01_N0036,PMC5804616_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",computed tomography,53
+PMC5804616_01_N0037,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,53
+PMC5804616_01_N0038,PMC5804616_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,56
+PMC5804616_01_N0039,PMC5804616_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,56
+PMC5804616_01_N0040,PMC5804616_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,56
+PMC5804616_01_N0041,PMC5804616_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,57
+PMC5804616_01_N0042,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",lung,57
+PMC5804616_01_N0043,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,57
+PMC5804616_01_N0044,PMC5804616_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,58
+PMC5804616_01_N0045,PMC5804616_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,59
+PMC5804616_01_N0046,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,60
+PMC5804616_01_N0047,PMC5804616_01,Finding,fistula,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fistula,62
+PMC5804616_01_N0048,PMC5804616_01,AnatomicalSite,bronchus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",bronchus,62
+PMC5804616_01_N0049,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,65
+PMC5804616_01_N0050,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,66
+PMC5804616_01_N0051,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,66
+PMC5804616_01_N0052,PMC5804616_01,Finding,injury,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",injury,67
+PMC5804616_01_N0053,PMC5804616_01,AnatomicalSite,pleura,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pleura,67
+PMC5804616_01_N0054,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,67
+PMC5804616_01_N0055,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,68
+PMC5804616_01_N0056,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,68
+PMC5804616_01_N0057,PMC5804616_01,AnatomicalSite,pleura,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",pleura,68
+PMC5804616_01_N0058,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,69
+PMC5804616_01_N0059,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,69
+PMC5804616_01_N0060,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Surgery,71
+PMC5804616_01_N0061,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,72
+PMC5804616_01_N0062,PMC5804616_01,AnatomicalSite,esophagus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagus,72
+PMC5804616_01_N0063,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,73
+PMC5804616_01_N0064,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,73
+PMC5804616_01_N0065,PMC5804616_01,AnatomicalSite,lung,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",lung,74
+PMC5804616_01_N0066,PMC5804616_01,Finding,pneumothorax,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pneumothorax,74
+PMC5804616_01_N0067,PMC5804616_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,74
+PMC3897989_01_PATIENT,PMC3897989_01,Patient,Patient PMC3897989_01,"{""age"": ""65.0"", ""gender"": ""Male""}",,
+PMC3897989_01_N0001,PMC3897989_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,0
+PMC3897989_01_N0002,PMC3897989_01,Treatment,aspirin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",aspirin,1
+PMC3897989_01_N0003,PMC3897989_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,3
+PMC3897989_01_N0004,PMC3897989_01,Exam,computed tomography,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",computed tomography,12
+PMC3897989_01_N0005,PMC3897989_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,12
+PMC3897989_01_N0006,PMC3897989_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,12
+PMC3897989_01_N0007,PMC3897989_01,AnatomicalSite,pancreas,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreas,12
+PMC3897989_01_N0008,PMC3897989_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,13
+PMC3897989_01_N0009,PMC3897989_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,14
+PMC3897989_01_N0010,PMC3897989_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,14
+PMC3897989_01_N0011,PMC3897989_01,Treatment,meropenem,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",meropenem,20
+PMC3897989_01_N0012,PMC3897989_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,22
+PMC3897989_01_N0013,PMC3897989_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,22
+PMC3897989_01_N0014,PMC3897989_01,Exam,computed tomography,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",CT,27
+PMC3897989_01_N0015,PMC3897989_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,27
+PMC3897989_01_N0016,PMC3897989_01,AnatomicalSite,liver,"{""measurements"": [{""value"": 32.0, ""unit"": ""mg"", ""surface_form"": ""32 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,37
+PMC3897989_01_N0017,PMC3897989_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,40
+PMC3897989_01_N0018,PMC3897989_01,AnatomicalSite,pancreas,"{""measurements"": [{""value"": 40.0, ""unit"": ""days"", ""surface_form"": ""40 days""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",pancreas,40
+PMC3897989_01_N0019,PMC3897989_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,47
+PMC3897989_01_N0020,PMC3897989_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest,49
+PMC3897989_01_N0021,PMC3897989_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,49
+PMC3897989_01_N0022,PMC3897989_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Chest,50
+PMC3897989_01_N0023,PMC3897989_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,50
+PMC3897989_01_N0024,PMC3897989_01,Exam,computed tomography,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",CT,51
+PMC3897989_01_N0025,PMC3897989_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,51
+PMC3897989_01_N0026,PMC3897989_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,51
+PMC3897989_01_N0027,PMC3897989_01,Finding,abscess,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abscess,52
+PMC3897989_01_N0028,PMC3897989_01,Treatment,moxifloxacin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",moxifloxacin,52
+PMC3897989_01_N0029,PMC3897989_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,54
+PMC2817501_01_PATIENT,PMC2817501_01,Patient,Patient PMC2817501_01,"{""age"": ""53.0"", ""gender"": ""Male""}",,
+PMC2817501_01_N0001,PMC2817501_01,Symptom,dyspnea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dyspnea,0
+PMC2817501_01_N0002,PMC2817501_01,AnatomicalSite,heart,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heart,2
+PMC2817501_01_N0003,PMC2817501_01,Exam,echocardiography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",echocardiography,4
+PMC2817501_01_N0004,PMC2817501_01,AnatomicalSite,mitral valve,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mitral valve,4
+PMC2817501_01_N0005,PMC2817501_01,Finding,stenosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stenosis,6
+PMC2817501_01_N0006,PMC2817501_01,AnatomicalSite,mitral valve,"{""measurements"": [{""value"": 29.0, ""unit"": ""mm"", ""surface_form"": ""29 mm""}], ""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",mitral valve,9
+PMC11131390_01_PATIENT,PMC11131390_01,Patient,Patient PMC11131390_01,"{""age"": """", ""gender"": ""Male""}",,
+PMC11131390_01_N0001,PMC11131390_01,Symptom,weight loss,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",weight loss,0
+PMC10521634_01_PATIENT,PMC10521634_01,Patient,Patient PMC10521634_01,"{""age"": ""38.0"", ""gender"": ""Male""}",,
+PMC10521634_01_N0001,PMC10521634_01,Symptom,diarrhea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diarrhea,2
+PMC10521634_01_N0002,PMC10521634_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,2
+PMC10521634_01_N0003,PMC10521634_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,2
+PMC10521634_01_N0004,PMC10521634_01,Exam,colonoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colonoscopy,3
+PMC10521634_01_N0005,PMC10521634_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,8
+PMC10521634_01_N0006,PMC10521634_01,Treatment,heparin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",heparin,8
+PMC10521634_01_N0007,PMC10521634_01,Exam,colonoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colonoscopy,13
+PMC10521634_01_N0008,PMC10521634_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,15
+PMC10521634_01_N0009,PMC10521634_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,15
+PMC10521634_01_N0010,PMC10521634_01,Treatment,splenectomy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",splenectomy,16
+PMC10521634_01_N0011,PMC10521634_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,17
+PMC10521634_01_N0012,PMC10521634_01,Exam,histopathology,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",histopathology,18
+PMC10521634_01_N0013,PMC10521634_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,18
+PMC10521634_01_N0014,PMC10521634_01,Finding,inflammation,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",inflammation,18
+PMC10521634_01_N0015,PMC10521634_01,Treatment,splenectomy,"{""measurements"": [{""value"": 5.0, ""unit"": ""mg"", ""surface_form"": ""5mg""}], ""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",splenectomy,19
+PMC10521634_01_N0016,PMC10521634_01,Finding,abscess,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abscess,22
+PMC10521634_01_N0017,PMC10521634_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT scan,23
+PMC10521634_01_N0018,PMC10521634_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,23
+PMC10521634_01_N0019,PMC10521634_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,23
+PMC10521634_01_N0020,PMC10521634_01,Finding,abscess,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abscess,23
+PMC10521634_01_N0021,PMC10521634_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endoscopy,24
+PMC10710131_01_PATIENT,PMC10710131_01,Patient,Patient PMC10710131_01,"{""age"": ""26.0"", ""gender"": ""Female""}",,
+PMC10488652_01_PATIENT,PMC10488652_01,Patient,Patient PMC10488652_01,"{""age"": ""22.0"", ""gender"": ""Female""}",,
+PMC10488652_01_N0001,PMC10488652_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,0
+PMC10488652_01_N0002,PMC10488652_01,Symptom,headache,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",headache,0
+PMC10488652_01_N0003,PMC10488652_01,Finding,rash,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",rash,0
+PMC10488652_01_N0004,PMC10488652_01,Symptom,diarrhea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",diarrhea,0
+PMC10488652_01_N0005,PMC10488652_01,Symptom,vomiting,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",emesis,0
+PMC10488652_01_N0006,PMC10488652_01,History,systemic lupus erythematosus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",SLE,3
+PMC10488652_01_N0007,PMC10488652_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,4
+PMC10488652_01_N0008,PMC10488652_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,4
+PMC10488652_01_N0009,PMC10488652_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,9
+PMC10488652_01_N0010,PMC10488652_01,Treatment,prednisone,"{""measurements"": [{""value"": 5.0, ""unit"": ""mg"", ""surface_form"": ""5 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",prednisone,11
+PMC10488652_01_N0011,PMC10488652_01,Treatment,hydroxychloroquine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydroxychloroquine,11
+PMC10488652_01_N0012,PMC10488652_01,Treatment,mycophenolate mofetil,"{""measurements"": [{""value"": 500.0, ""unit"": ""mg"", ""surface_form"": ""500 mg""}, {""value"": 500.0, ""unit"": ""mg"", ""surface_form"": ""500 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mycophenolate mofetil,11
+PMC11420039_01_PATIENT,PMC11420039_01,Patient,Patient PMC11420039_01,"{""age"": ""74.0"", ""gender"": ""Female""}",,
+PMC11420039_01_N0001,PMC11420039_01,Symptom,fatigue,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fatigue,17
+PMC11420039_01_N0002,PMC11420039_01,Symptom,dyspnea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dyspnea,17
+PMC11420039_01_N0003,PMC11420039_01,AnatomicalSite,chest,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Chest,19
+PMC11420039_01_N0004,PMC11420039_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,19
+PMC11420039_01_N0005,PMC11420039_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,19
+PMC11420039_01_N0006,PMC11420039_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,19
+PMC11420039_01_N0007,PMC11420039_01,Finding,rash,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",rash,22
+PMC11420039_01_N0008,PMC11420039_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,28
+PMC11420039_01_N0009,PMC11420039_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,30
+PMC11420039_01_N0010,PMC11420039_01,Treatment,meropenem,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",meropenem,31
+PMC11420039_01_N0011,PMC11420039_01,Treatment,linezolid,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",linezolid,31
+PMC11259348_01_PATIENT,PMC11259348_01,Patient,Patient PMC11259348_01,"{""age"": """", ""gender"": ""Female""}",,
+PMC11259348_01_N0001,PMC11259348_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,0
+PMC11259348_01_N0002,PMC11259348_01,Treatment,blood transfusion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",blood transfusion,4
+PMC11259348_02_PATIENT,PMC11259348_02,Patient,Patient PMC11259348_02,"{""age"": """", ""gender"": ""Unknown""}",,
+PMC11368112_01_PATIENT,PMC11368112_01,Patient,Patient PMC11368112_01,"{""age"": ""35.0"", ""gender"": ""Male""}",,
+PMC11368112_01_N0001,PMC11368112_01,Symptom,chest tightness,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chest tightness,0
+PMC11368112_01_N0002,PMC11368112_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,0
+PMC11368112_01_N0003,PMC11368112_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,1
+PMC11368112_01_N0004,PMC11368112_01,History,pulmonary nodules,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pulmonary nodules,1
+PMC11368112_01_N0005,PMC11368112_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,1
+PMC11368112_01_N0006,PMC11368112_01,History,hypertension,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hypertension,1
+PMC11368112_01_N0007,PMC11368112_01,Symptom,dyspnea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",dyspnea,2
+PMC11368112_01_N0008,PMC11368112_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,2
+PMC11368112_01_N0009,PMC11368112_01,Symptom,chills,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chills,2
+PMC11368112_01_N0010,PMC11368112_01,Exam,ultrasound,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasound,8
+PMC11368112_01_N0011,PMC11368112_01,Finding,thrombosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",thrombosis,8
+PMC11368112_01_N0012,PMC11368112_01,Exam,electrocardiogram,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ECG,9
+PMC11368112_01_N0013,PMC11368112_01,Symptom,tachycardia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",tachycardia,9
+PMC11368112_01_N0014,PMC11368112_01,Diagnosis,pulmonary embolism,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pulmonary embolism,11
+PMC11368112_01_N0015,PMC11368112_01,Symptom,chills,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chills,13
+PMC11368112_01_N0016,PMC11368112_01,Treatment,meropenem,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",meropenem,14
+PMC11368112_01_N0017,PMC11368112_01,Treatment,linezolid,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",linezolid,14
+PMC11368112_01_N0018,PMC11368112_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,14
+PMC11368112_01_N0019,PMC11368112_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,17
+PMC11368112_01_N0020,PMC11368112_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,17
+PMC11368112_01_N0021,PMC11368112_01,AnatomicalSite,right atrium,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",right atrium,18
+PMC11368112_01_N0022,PMC11368112_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,19
+PMC11368112_01_N0023,PMC11368112_01,Finding,mass,"{""measurements"": [{""value"": 3.0, ""unit"": ""cm"", ""surface_form"": ""3 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,19
+PMC11368112_01_N0024,PMC11368112_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,20
+PMC11368112_01_N0025,PMC11368112_01,AnatomicalSite,right atrium,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",right atrium,20
+PMC11368112_01_N0026,PMC11368112_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,22
+PMC11368112_01_N0027,PMC11368112_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,27
+PMC11368112_01_N0028,PMC11368112_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,28
+PMC11368112_01_N0029,PMC11368112_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,28
+PMC11368112_01_N0030,PMC11368112_01,Exam,ultrasonography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasonography,28
+PMC11368112_01_N0031,PMC11368112_01,Treatment,cyclosporine,"{""measurements"": [{""value"": 200.0, ""unit"": ""mg"", ""surface_form"": ""200 mg""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",cyclosporine,29
+PMC11368112_01_N0032,PMC11368112_01,Treatment,warfarin,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",warfarin,29
+PMC11345641_01_PATIENT,PMC11345641_01,Patient,Patient PMC11345641_01,"{""age"": ""48.0"", ""gender"": ""Female""}",,
+PMC11345641_01_N0001,PMC11345641_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,0
+PMC11345641_01_N0002,PMC11345641_01,Exam,ultrasonography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasonography,0
+PMC11345641_01_N0003,PMC11345641_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,2
+PMC11345641_01_N0004,PMC11345641_01,Exam,ultrasonography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Ultrasonography,6
+PMC11345641_01_N0005,PMC11345641_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,6
+PMC11345641_01_N0006,PMC11345641_01,AnatomicalSite,uterus,"{""measurements"": [{""value"": 8.4, ""unit"": ""cm"", ""surface_form"": ""8.4cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",uterus,6
+PMC11345641_01_N0007,PMC11345641_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,11
+PMC11345641_01_N0008,PMC11345641_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,15
+PMC11345641_01_N0009,PMC11345641_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,16
+PMC11345641_01_N0010,PMC11345641_01,Treatment,hysterectomy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hysterectomy,17
+PMC11345641_01_N0011,PMC11345641_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,18
+PMC11345641_01_N0012,PMC11345641_01,AnatomicalSite,uterus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",uterus,18
+PMC11345641_01_N0013,PMC11345641_01,AnatomicalSite,uterus,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",uterus,19
+PMC11345641_01_N0014,PMC11345641_01,Treatment,surgery,"{""pos"": ""UNKNOWN"", ""lexicon_source"": ""manual""}",surgery,21
+PMC11345641_01_N0015,PMC11345641_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,21
+PMC11345641_01_N0016,PMC11345641_01,Exam,ultrasonography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasonography,23
+PMC11345641_01_N0017,PMC11345641_01,Exam,ultrasonography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasonography,25
+PMC11345641_01_N0018,PMC11345641_01,Exam,magnetic resonance imaging,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",MRI,29
+PMC11345641_01_N0019,PMC11345641_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,30
+PMC11345641_01_N0020,PMC11345641_01,Symptom,abdominal distention,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal distention,33
+PMC11345641_01_N0021,PMC11345641_01,Finding,mass,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,33
+PMC11345641_01_N0022,PMC11345641_01,Finding,mass,"{""measurements"": [{""value"": 5.0, ""unit"": ""cm"", ""surface_form"": ""5 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,34
+PMC11345641_01_N0023,PMC11345641_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,35
+PMC11345641_01_N0024,PMC11345641_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,35
+PMC11345641_01_N0025,PMC11345641_01,Treatment,surgery,"{""measurements"": [{""value"": 20.0, ""unit"": ""cm"", ""surface_form"": ""20 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,36
+PMC11345641_01_N0026,PMC11345641_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,37
+PMC11345641_01_N0027,PMC11345641_01,AnatomicalSite,ileum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ileum,37
+PMC11345641_01_N0028,PMC11345641_01,AnatomicalSite,colon,"{""measurements"": [{""value"": 7.0, ""unit"": ""cm"", ""surface_form"": ""7 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,38
+PMC11345641_01_N0029,PMC11345641_01,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",surgery,41
+PMC11345641_01_N0030,PMC11345641_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,43
+PMC11345641_01_N0031,PMC11345641_01,AnatomicalSite,ileum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ileum,43
+PMC11345641_01_N0032,PMC11345641_01,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,43
+PMC11345641_01_N0033,PMC11345641_01,Finding,pleural effusion,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",pleural effusion,44
+PMC11345641_01_N0034,PMC11345641_01,Finding,hydronephrosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hydronephrosis,44
+PMC11345641_01_N0035,PMC11345641_01,Treatment,chemotherapy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",chemotherapy,46
+PMC11723754_01_PATIENT,PMC11723754_01,Patient,Patient PMC11723754_01,"{""age"": ""0.0"", ""gender"": ""Male""}",,
+PMC11723754_01_N0001,PMC11723754_01,Finding,injury,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",injury,0
+PMC11723754_01_N0002,PMC11723754_01,Finding,injury,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",injury,0
+PMC11723754_01_N0003,PMC11723754_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,15
+PMC11783470_01_PATIENT,PMC11783470_01,Patient,Patient PMC11783470_01,"{""age"": ""22.0"", ""gender"": ""Female""}",,
+PMC11783470_01_N0001,PMC11783470_01,Symptom,menorrhagia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",menorrhagia,1
+PMC11783470_01_N0002,PMC11783470_01,Symptom,dysphagia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",dysphagia,2
+PMC11783470_01_N0003,PMC11783470_01,Symptom,odynophagia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",odynophagia,2
+PMC11783470_01_N0004,PMC11783470_01,Symptom,heartburn,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",heartburn,2
+PMC11783470_01_N0005,PMC11783470_01,Symptom,nausea,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",nausea,2
+PMC11783470_01_N0006,PMC11783470_01,Symptom,vomiting,"{""pos"": ""VERB"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",vomiting,2
+PMC11783470_01_N0007,PMC11783470_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,2
+PMC11783470_01_N0008,PMC11783470_01,Symptom,hematochezia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",hematochezia,2
+PMC11783470_01_N0009,PMC11783470_01,Symptom,weight loss,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",weight loss,2
+PMC11783470_01_N0010,PMC11783470_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",esophagogastroduodenoscopy,8
+PMC11783470_01_N0011,PMC11783470_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EGD,8
+PMC11783470_01_N0012,PMC11783470_01,Exam,colonoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colonoscopy,8
+PMC11783470_01_N0013,PMC11783470_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,9
+PMC11783470_01_N0014,PMC11783470_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EGD,9
+PMC11783470_01_N0015,PMC11783470_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,9
+PMC11783470_01_N0016,PMC11783470_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,9
+PMC11783470_01_N0017,PMC11783470_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Biopsy,10
+PMC11783470_01_N0018,PMC11783470_01,Finding,lesion,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lesion,10
+PMC11783470_01_N0019,PMC11783470_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EGD,13
+PMC11783470_01_N0020,PMC11783470_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,13
+PMC11783470_01_N0021,PMC11783470_01,Symptom,menorrhagia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",menorrhagia,15
+PMC11783470_01_N0022,PMC11783470_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endoscopy,15
+PMC11783470_01_N0023,PMC11783470_01,Exam,video capsule endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",video capsule endoscopy,15
+PMC11783470_01_N0024,PMC11783470_01,Exam,esophagogastroduodenoscopy,"{""measurements"": [{""value"": 3.0, ""unit"": ""months"", ""surface_form"": ""3 months""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",EGD,16
+PMC11722600_01_PATIENT,PMC11722600_01,Patient,Patient PMC11722600_01,"{""age"": ""41.0"", ""gender"": ""Female""}",,
+PMC11722600_01_N0001,PMC11722600_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,0
+PMC11722600_01_N0002,PMC11722600_01,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",fever,1
+PMC11722600_01_N0003,PMC11722600_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,4
+PMC11722600_01_N0004,PMC11722600_01,Exam,ultrasound,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasound,7
+PMC11722600_01_N0005,PMC11722600_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,8
+PMC11722600_01_N0006,PMC11722600_01,AnatomicalSite,appendix,"{""measurements"": [{""value"": 8.0, ""unit"": ""mm"", ""surface_form"": ""8 mm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,8
+PMC11722600_01_N0007,PMC11722600_01,AnatomicalSite,ovary,"{""measurements"": [{""value"": 4.0, ""unit"": ""cm"", ""surface_form"": ""4 cm""}], ""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",ovary,8
+PMC11722600_01_N0008,PMC11722600_01,Diagnosis,appendicitis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendicitis,9
+PMC11722600_01_N0009,PMC11722600_01,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",appendix,9
+PMC11722600_01_N0010,PMC11722600_01,AnatomicalSite,fallopian tube,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fallopian tube,9
+PMC11722600_01_N0011,PMC11722600_01,Treatment,laparoscopic appendectomy,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",laparoscopic appendectomy,10
+PMC11722600_01_N0012,PMC11722600_01,Diagnosis,endometriosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",endometriosis,11
+PMC11722600_01_N0013,PMC11722600_01,Exam,histopathology,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Histopathology,13
+PMC11722600_01_N0014,PMC11722600_01,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,13
+PMC11722600_01_N0015,PMC11722600_01,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,13
+PMC11722600_01_N0016,PMC11722600_01,Diagnosis,endometriosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endometriosis,13
+PMC11722600_01_N0017,PMC11722600_01,AnatomicalSite,fallopian tube,"{""measurements"": [{""value"": 6.0, ""unit"": ""month"", ""surface_form"": ""6 month""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fallopian tube,14
+PMC11722600_02_PATIENT,PMC11722600_02,Patient,Patient PMC11722600_02,"{""age"": ""44.0"", ""gender"": ""Female""}",,
+PMC11722600_02_N0001,PMC11722600_02,Diagnosis,endometriosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endometriosis,0
+PMC11722600_02_N0002,PMC11722600_02,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,0
+PMC11722600_02_N0003,PMC11722600_02,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,0
+PMC11722600_02_N0004,PMC11722600_02,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",fever,1
+PMC11722600_02_N0005,PMC11722600_02,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",abdominal pain,2
+PMC11722600_02_N0006,PMC11722600_02,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,3
+PMC11722600_02_N0007,PMC11722600_02,Diagnosis,appendicitis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendicitis,6
+PMC11722600_02_N0008,PMC11722600_02,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,6
+PMC11722600_02_N0009,PMC11722600_02,AnatomicalSite,appendix,"{""measurements"": [{""value"": 17.0, ""unit"": ""mm"", ""surface_form"": ""17 mm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,6
+PMC11722600_02_N0010,PMC11722600_02,AnatomicalSite,ileum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ileum,6
+PMC11722600_02_N0011,PMC11722600_02,Diagnosis,appendicitis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendicitis,7
+PMC11722600_02_N0012,PMC11722600_02,Symptom,fever,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fever,8
+PMC11722600_02_N0013,PMC11722600_02,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,8
+PMC11722600_02_N0014,PMC11722600_02,Symptom,tachycardia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",tachycardia,8
+PMC11722600_02_N0015,PMC11722600_02,AnatomicalSite,ileum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ileum,8
+PMC11722600_02_N0016,PMC11722600_02,Finding,abscess,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abscess,9
+PMC11722600_02_N0017,PMC11722600_02,Treatment,surgery,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",surgery,10
+PMC11722600_02_N0018,PMC11722600_02,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,13
+PMC11722600_02_N0019,PMC11722600_02,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,13
+PMC11722600_02_N0020,PMC11722600_02,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,14
+PMC11722600_02_N0021,PMC11722600_02,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,14
+PMC11722600_02_N0022,PMC11722600_02,Treatment,laparoscopic appendectomy,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",laparoscopic appendectomy,15
+PMC11722600_02_N0023,PMC11722600_02,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,15
+PMC11722600_02_N0024,PMC11722600_02,Treatment,laparoscopic appendectomy,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",Laparoscopic appendectomy,16
+PMC11722600_02_N0025,PMC11722600_02,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,16
+PMC11722600_02_N0026,PMC11722600_02,AnatomicalSite,appendix,"{""measurements"": [{""value"": 2.5, ""unit"": ""cm"", ""surface_form"": ""2.5 cm""}, {""value"": 45.0, ""unit"": ""mm"", ""surface_form"": ""45 mm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,17
+PMC11722600_02_N0027,PMC11722600_02,AnatomicalSite,appendix,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",appendix,20
+PMC11722600_02_N0028,PMC11722600_02,Diagnosis,endometriosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",endometriosis,20
+PMC12215201_01_PATIENT,PMC12215201_01,Patient,Patient PMC12215201_01,"{""age"": ""56.0"", ""gender"": ""Male""}",,
+PMC12215201_01_N0001,PMC12215201_01,Symptom,fatigue,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",fatigue,0
+PMC12215201_01_N0002,PMC12215201_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,0
+PMC12215201_01_N0003,PMC12215201_01,Symptom,weight loss,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",weight loss,0
+PMC12215201_01_N0004,PMC12215201_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,1
+PMC12215201_01_N0005,PMC12215201_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,7
+PMC12215201_01_N0006,PMC12215201_01,Exam,ultrasound,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",ultrasound,12
+PMC12215201_01_N0007,PMC12215201_01,AnatomicalSite,liver,"{""measurements"": [{""value"": 2.1, ""unit"": ""cm"", ""surface_form"": ""2.1 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,12
+PMC12215201_01_N0008,PMC12215201_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,16
+PMC12215201_01_N0009,PMC12215201_01,Finding,mass,"{""measurements"": [{""value"": 4.6, ""unit"": ""cm"", ""surface_form"": ""4.6 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",mass,16
+PMC12215201_01_N0010,PMC12215201_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,20
+PMC12215201_01_N0011,PMC12215201_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,20
+PMC12215201_01_N0012,PMC12215201_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,20
+PMC12215201_01_N0013,PMC12215201_01,AnatomicalSite,spleen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",spleen,20
+PMC12215201_01_N0014,PMC12215201_01,AnatomicalSite,lung,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",lung,22
+PMC12215201_01_N0015,PMC12215201_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,22
+PMC12215201_01_N0016,PMC12215201_01,Exam,colonoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colonoscopy,30
+PMC12215201_01_N0017,PMC12215201_01,Exam,esophagogastroduodenoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Esophagogastroduodenoscopy,31
+PMC12215201_01_N0018,PMC12215201_01,AnatomicalSite,duodenum,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",duodenum,32
+PMC12215201_01_N0019,PMC12215201_01,Exam,video capsule endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Video capsule endoscopy,35
+PMC12215201_01_N0020,PMC12215201_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,35
+PMC12215201_01_N0021,PMC12215201_01,AnatomicalSite,liver,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",liver,37
+PMC12215201_01_N0022,PMC12215201_01,Exam,biopsy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",biopsy,37
+PMC12215201_01_N0023,PMC12215201_01,Treatment,drainage,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",drainage,43
+PMC12832199_01_PATIENT,PMC12832199_01,Patient,Patient PMC12832199_01,"{""age"": ""57.0"", ""gender"": ""Female""}",,
+PMC12832199_01_N0001,PMC12832199_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,0
+PMC12832199_01_N0002,PMC12832199_01,Symptom,vomiting,"{""pos"": ""VERB"", ""lexicon_source"": ""manual""}",vomiting,0
+PMC12832199_01_N0003,PMC12832199_01,Symptom,vomiting,"{""measurements"": [{""value"": 2.0, ""unit"": ""days"", ""surface_form"": ""2 days""}], ""pos"": ""VERB"", ""lexicon_source"": ""manual""}",vomiting,1
+PMC12832199_01_N0004,PMC12832199_01,AnatomicalSite,abdomen,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",abdomen,6
+PMC12832199_01_N0005,PMC12832199_01,Finding,aspiration pneumonia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",aspiration pneumonia,7
+PMC12832199_01_N0006,PMC12832199_01,AnatomicalSite,kidney,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",kidney,10
+PMC12832199_01_N0007,PMC12832199_01,Finding,injury,"{""measurements"": [{""value"": 2.2, ""unit"": ""mg/dl"", ""surface_form"": ""2.2 mg/dL""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",injury,10
+PMC12832199_01_N0008,PMC12832199_01,Exam,computed tomography,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,12
+PMC12832199_01_N0009,PMC12832199_01,Finding,obstruction,"{""measurements"": [{""value"": 6.5, ""unit"": ""cm"", ""surface_form"": ""6.5 cm""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",obstruction,12
+PMC12832199_01_N0010,PMC12832199_01,Finding,aspiration pneumonia,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",aspiration pneumonia,17
+PMC12832199_01_N0011,PMC12832199_01,Symptom,abdominal pain,"{""pos"": ""ADJ"", ""lexicon_source"": ""manual""}",abdominal pain,20
+PMC12832199_01_N0012,PMC12832199_01,Finding,necrosis,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",necrosis,22
+PMC12832199_01_N0013,PMC12832199_01,Treatment,resection,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",resection,24
+PMC12832199_01_N0014,PMC12832199_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,24
+PMC12832199_01_N0015,PMC12832199_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,25
+PMC12832199_01_N0016,PMC12832199_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,28
+PMC12832199_01_N0017,PMC12832199_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,30
+PMC12832199_01_N0018,PMC12832199_01,AnatomicalSite,stomach,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",stomach,31
+PMC12832199_01_N0019,PMC12832199_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,31
+PMC12832199_01_N0020,PMC12832199_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,36
+PMC12832199_01_N0021,PMC12832199_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,36
+PMC12832199_01_N0022,PMC12832199_01,Exam,endoscopy,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",Endoscopy,40
+PMC12832199_01_N0023,PMC12832199_01,Exam,computed tomography,"{""measurements"": [{""value"": 2.0, ""unit"": ""months"", ""surface_form"": ""2 months""}], ""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",CT,43
+PMC12832199_01_N0024,PMC12832199_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual""}",colon,45
+PMC12832199_01_N0025,PMC12832199_01,AnatomicalSite,colon,"{""pos"": ""NOUN"", ""lexicon_source"": ""manual"", ""negated"": true, ""status"": ""absent""}",colon,46

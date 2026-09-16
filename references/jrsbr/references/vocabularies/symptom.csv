@@ -1,0 +1,2138 @@
+mesh_ui,canonical,synonym
+D000006,"Abdomen, Acute","abdomen, acute"
+D000038,Abscess,abscess
+D000051,Acantholysis,acantholysis
+D000208,Acute Disease,acute disease
+D000210,Acute-Phase Reaction,acute-phase reaction
+D000219,Adams-Stokes Syndrome,adams-stokes syndrome
+D000267,Tissue Adhesions,surgical adhesions
+D000267,Tissue Adhesions,tissue adhesions
+D000334,Aerophagy,aerophagy
+D000343,Afferent Loop Syndrome,afferent loop syndrome
+D000370,Ageusia,"ageusia, hysterical"
+D000370,Ageusia,ageusia
+D000370,Ageusia,hypogeusia
+D000370,Ageusia,taste-blindness
+D000377,Agnosia,tactile agnosia
+D000377,Agnosia,time agnosia
+D000377,Agnosia,anosognosia
+D000377,Agnosia,auditory agnosia
+D000377,Agnosia,finger agnosia
+D000377,Agnosia,position agnosia
+D000377,Agnosia,visuospatial agnosia
+D000377,Agnosia,agnosia
+D000377,Agnosia,agnosia for taste
+D000377,Agnosia,agnosia for pain
+D000377,Agnosia,agnosia for smell
+D000377,Agnosia,body-image agnosia
+D000377,Agnosia,ideational agnosia
+D000377,Agnosia,visual agnosia
+D000377,Agnosia,agnosia for temperature
+D000377,Agnosia,visual agnosia for objects
+D000377,Agnosia,developmental agnosia
+D000377,Agnosia,somatosensory agnosia
+D000377,Agnosia,topographical agnosia
+D000377,Agnosia,"auditory agnosia, congenital"
+D000377,Agnosia,sensory agnosia
+D000381,Agraphia,pure agraphia
+D000381,Agraphia,dysgraphia
+D000381,Agraphia,agraphia
+D000381,Agraphia,constructional agraphia
+D000381,Agraphia,developmental agraphia
+D000381,Agraphia,acquired agraphia
+D000419,Albuminuria,albuminuria
+D000505,Alopecia,alopecia
+D000505,Alopecia,female pattern baldness
+D000505,Alopecia,pseudopelade
+D000505,Alopecia,androgenetic alopecia
+D000505,Alopecia,"alopecia, male pattern"
+D000550,Amblyopia,"amblyopia, developmental"
+D000550,Amblyopia,amblyopia
+D000550,Amblyopia,lazy eye
+D000550,Amblyopia,anisometropic amblyopia
+D000550,Amblyopia,"amblyopia, suppression"
+D000568,Amenorrhea,postpartum amenorrhea
+D000568,Amenorrhea,amenorrhea
+D000647,Amnesia,amnesia
+D000647,Amnesia,"amnesia, global"
+D000647,Amnesia,"amnesia, tactile"
+D000647,Amnesia,"amnesia, hysterical"
+D000647,Amnesia,amnestic state
+D000647,Amnesia,"amnesia, dissociative"
+D000647,Amnesia,"amnesia, temporary"
+D000648,"Amnesia, Retrograde","amnesia, pre-ictal"
+D000648,"Amnesia, Retrograde","amnesia, retrograde"
+D000648,"Amnesia, Retrograde",pre-ictal memory loss
+D000648,"Amnesia, Retrograde","memory loss, retrograde"
+D000708,Anaplasia,anaplasia
+D000782,Aneuploidy,aneuploid cell
+D000782,Aneuploidy,aneuploidy
+D000787,Angina Pectoris,angina pectoris
+D000788,"Angina Pectoris, Variant","angina pectoris, variant"
+D000789,"Angina, Unstable","angina, unstable"
+D000789,"Angina, Unstable",myocardial preinfarction syndrome
+D000849,Anomia,anomia
+D000849,Anomia,color anomia
+D000855,Anorexia,anorexia
+D000857,Olfaction Disorders,impaired olfaction
+D000857,Olfaction Disorders,paraosmia
+D000857,Olfaction Disorders,cacosmia
+D000857,Olfaction Disorders,smell dysfunction
+D000857,Olfaction Disorders,olfaction disorders
+D000857,Olfaction Disorders,phantosmia
+D000857,Olfaction Disorders,olfactory impairment
+D000860,Hypoxia,anoxia
+D000860,Hypoxia,hypoxemia
+D000860,Hypoxia,anoxemia
+D000860,Hypoxia,hypoxia
+D001037,Aphasia,"aphasia, functional"
+D001037,Aphasia,"aphasia, graphomotor"
+D001037,Aphasia,"aphasia, semantic"
+D001037,Aphasia,aphasia
+D001037,Aphasia,"aphasia, acquired"
+D001037,Aphasia,"aphasia, auditory discriminatory"
+D001037,Aphasia,"aphasia, ageusic"
+D001037,Aphasia,"aphasia, mixed"
+D001037,Aphasia,dysphasia
+D001037,Aphasia,"aphasia, post-ictal"
+D001037,Aphasia,"aphasia, commisural"
+D001037,Aphasia,dejerine-lichtheim phenomenon
+D001037,Aphasia,"aphasia, global"
+D001037,Aphasia,"aphasia, syntactical"
+D001037,Aphasia,"aphasia, post-traumatic"
+D001037,Aphasia,"aphasia, progressive"
+D001037,Aphasia,"aphasia, intellectual"
+D001039,"Aphasia, Broca","aphasia, expressive"
+D001039,"Aphasia, Broca","aphasia, broca"
+D001039,"Aphasia, Broca","aphasia, ataxic"
+D001039,"Aphasia, Broca","aphasia, anterior"
+D001041,"Aphasia, Wernicke","aphasia, posterior"
+D001041,"Aphasia, Wernicke",receptive aphasia
+D001041,"Aphasia, Wernicke","aphasia, wernicke"
+D001041,"Aphasia, Wernicke","aphasia, jargon"
+D001044,Aphonia,aphonia paralytica
+D001044,Aphonia,functional aphonia
+D001044,Aphonia,aphonia
+D001044,Aphonia,spastic aphonia
+D001049,Apnea,apnea
+D001068,Feeding and Eating Disorders,feeding disorders
+D001068,Feeding and Eating Disorders,feeding and eating disorders
+D001068,Feeding and Eating Disorders,eating disorders
+D001068,Feeding and Eating Disorders,appetite disorders
+D001072,Apraxias,"apraxia, gestural"
+D001072,Apraxias,"apraxia, verbal"
+D001072,Apraxias,apraxia of phonation
+D001072,Apraxias,apraxias
+D001072,Apraxias,"apraxia, facial-oral"
+D001072,Apraxias,"apraxia, motor"
+D001072,Apraxias,ideational apraxia
+D001072,Apraxias,"apraxia, articulatory"
+D001072,Apraxias,"apraxia, oral"
+D001072,Apraxias,dressing apraxia
+D001072,Apraxias,"apraxia, developmental verbal"
+D001145,"Arrhythmias, Cardiac","arrhythmias, cardiac"
+D001146,"Arrhythmia, Sinus","arrhythmia, sinus"
+D001159,Arterio-Arterial Fistula,arterio-arterial fistula
+D001164,Arteriovenous Fistula,arteriovenous aneurysm
+D001164,Arteriovenous Fistula,arteriovenous fistula
+D001184,Articulation Disorders,"articulation disorders, developmental"
+D001184,Articulation Disorders,unintelligible articulation
+D001184,Articulation Disorders,articulation disorders
+D001201,Ascites,ascites
+D001237,Asphyxia,asphyxia
+D001247,Asthenia,asthenia
+D001259,Ataxia,"ataxia, truncal"
+D001259,Ataxia,"ataxia, motor"
+D001259,Ataxia,"ataxia, sensory"
+D001259,Ataxia,ataxia
+D001259,Ataxia,"tremor, rubral"
+D001259,Ataxia,dyscoordination
+D001259,Ataxia,"ataxia, appendicular"
+D001264,Athetosis,athetosis
+D001281,Atrial Fibrillation,persistent atrial fibrillation
+D001281,Atrial Fibrillation,paroxysmal atrial fibrillation
+D001281,Atrial Fibrillation,familial atrial fibrillation
+D001281,Atrial Fibrillation,atrial fibrillation
+D001282,Atrial Flutter,atrial flutter
+D001284,Atrophy,atrophy
+D001308,Auditory Perceptual Disorders,auditory perceptual disorders
+D001308,Auditory Perceptual Disorders,auditory inattention
+D001329,Autolysis,autolysis
+D001416,Back Pain,back pain with radiation
+D001416,Back Pain,vertebrogenic pain syndrome
+D001416,Back Pain,back pain
+D001416,Back Pain,back pain without radiation
+D001658,Biliary Fistula,biliary fistula
+D001724,Birth Weight,birth weight
+D001744,Urinary Bladder Calculi,urinary bladder calculi
+D001747,Urinary Bladder Fistula,urinary bladder fistula
+D001750,"Urinary Bladder, Neurogenic","urinary bladder, neurogenic"
+D001750,"Urinary Bladder, Neurogenic",urinary bladder neurogenesis
+D001750,"Urinary Bladder, Neurogenic","neurogenic urinary bladder, atonic"
+D001750,"Urinary Bladder, Neurogenic","neurogenic urinary bladder, spastic"
+D001750,"Urinary Bladder, Neurogenic","neurogenic urinary bladder, uninhibited"
+D001752,Blast Crisis,blast crisis
+D001766,Blindness,"blindness, legal"
+D001766,Blindness,"blindness, monocular"
+D001766,Blindness,"blindness, unilateral"
+D001766,Blindness,"blindness, acquired"
+D001766,Blindness,"blindness, hysterical"
+D001766,Blindness,"blindness, transient"
+D001766,Blindness,"blindness, bilateral"
+D001766,Blindness,amaurosis
+D001766,Blindness,blindness
+D001766,Blindness,sudden visual loss
+D001768,Blister,blister
+D001832,Body Temperature Changes,body temperature changes
+D001835,Body Weight,body weight
+D001836,Body Weight Changes,body weight changes
+D001919,Bradycardia,bradycardia
+D001925,"Brain Damage, Chronic","brain damage, chronic"
+D001926,Brain Death,brain death
+D001926,Brain Death,irreversible coma
+D001983,Bronchial Fistula,bronchial fistula
+D002032,Bulimia,bulimia
+D002037,Bundle-Branch Block,fascicular block
+D002037,Bundle-Branch Block,right bundle-branch block
+D002037,Bundle-Branch Block,posterior fascicular block
+D002037,Bundle-Branch Block,bundle-branch block
+D002037,Bundle-Branch Block,left bundle-branch block
+D002037,Bundle-Branch Block,anterior fascicular block
+D002100,Cachexia,cachexia
+D002102,Cadaver,cadaver
+D002137,Calculi,calculi
+D002178,"Candidiasis, Chronic Mucocutaneous","candidiasis, chronic mucocutaneous"
+D002303,"Cardiac Output, Low",low cardiac output syndrome
+D002303,"Cardiac Output, Low","cardiac output, low"
+D002375,Catalepsy,cerea flexibilitas
+D002375,Catalepsy,catalepsy
+D002388,Catastrophic Illness,catastrophic illness
+D002389,Catatonia,schizophreniform catatonia
+D002389,Catatonia,"catatonia, malignant"
+D002389,Catatonia,catatonia
+D002389,Catatonia,"catatonia, organic"
+D002471,"Cell Transformation, Neoplastic","cell transformation, neoplastic"
+D002472,"Cell Transformation, Viral","cell transformation, viral"
+D002481,Cellulitis,cellulitis
+D002481,Cellulitis,phlegmon
+D002524,Cerebellar Ataxia,hypermetria
+D002524,Cerebellar Ataxia,adiadochokinesis
+D002524,Cerebellar Ataxia,cerebellar dysmetria
+D002524,Cerebellar Ataxia,cerebellar ataxia
+D002524,Cerebellar Ataxia,cerebellar hemiataxia
+D002534,"Hypoxia, Brain","anoxia, brain"
+D002534,"Hypoxia, Brain",anoxic brain damage
+D002534,"Hypoxia, Brain",hypoxic brain damage
+D002534,"Hypoxia, Brain","hypoxia, brain"
+D002543,Cerebral Hemorrhage,cerebral hemorrhage
+D002544,Cerebral Infarction,"cerebral infarction, right hemisphere"
+D002544,Cerebral Infarction,anterior choroidal artery infarction
+D002544,Cerebral Infarction,"cerebral infarction, left hemisphere"
+D002544,Cerebral Infarction,subcortical infarction
+D002544,Cerebral Infarction,cerebral infarction
+D002544,Cerebral Infarction,posterior choroidal artery infarction
+D002558,Cerebrospinal Fluid Otorrhea,cerebrospinal fluid otorrhea
+D002558,Cerebrospinal Fluid Otorrhea,"cerebrospinal fluid otorrhea, traumatic"
+D002558,Cerebrospinal Fluid Otorrhea,"cerebrospinal fluid otorrhea, spontaneous"
+D002559,Cerebrospinal Fluid Rhinorrhea,cerebrospinal fluid rhinorrhea
+D002559,Cerebrospinal Fluid Rhinorrhea,"cerebrospinal fluid rhinorrhea, post-traumatic"
+D002559,Cerebrospinal Fluid Rhinorrhea,"cerebrospinal fluid rhinorrhea, spontaneous"
+D002637,Chest Pain,precordial catch syndrome
+D002637,Chest Pain,chest pain
+D002639,Cheyne-Stokes Respiration,cheyne-stokes respiration
+D002819,Chorea,"chorea, benign hereditary"
+D002819,Chorea,chorea
+D002819,Chorea,"dyskinesias, paroxysmal"
+D002819,Chorea,"chorea, rheumatic"
+D002819,Chorea,"chorea, chronic progressive"
+D002819,Chorea,"chorea, senile"
+D002819,Chorea,hereditary chorea
+D002828,Choristoma,choristoma
+D002832,Choroid Hemorrhage,choroid hemorrhage
+D002869,Chromosome Aberrations,autosome abnormalities
+D002869,Chromosome Aberrations,chromosome aberrations
+D002872,Chromosome Deletion,partial monosomy
+D002872,Chromosome Deletion,chromosome deletion
+D002873,Chromosome Fragility,chromosome fragility
+D002908,Chronic Disease,chronic disease
+D002908,Chronic Disease,chronic condition
+D002908,Chronic Disease,chronically ill
+D002921,Cicatrix,cicatrization
+D002921,Cicatrix,cicatrix
+D003043,Cocarcinogenesis,cocarcinogenesis
+D003111,Colonic Polyps,colonic polyps
+D003117,Color Vision Defects,"color blindness, red-green"
+D003117,Color Vision Defects,monochromatopsia
+D003117,Color Vision Defects,"color blindness, inherited"
+D003117,Color Vision Defects,color blindness
+D003117,Color Vision Defects,color vision defects
+D003117,Color Vision Defects,"color blindness, green"
+D003117,Color Vision Defects,"color blindness, acquired"
+D003117,Color Vision Defects,"color blindness, red"
+D003117,Color Vision Defects,achromatopsia
+D003117,Color Vision Defects,"color blindness, blue"
+D003128,Coma,pseudocoma
+D003128,Coma,coma
+D003141,Communicable Diseases,communicable diseases
+D003147,Communication Disorders,communication disabilities
+D003147,Communication Disorders,acquired communication disorders
+D003147,Communication Disorders,neurogenic communication disorders
+D003147,Communication Disorders,"communication disorders, developmental"
+D003147,Communication Disorders,communication disorders
+D003147,Communication Disorders,communicative dysfunction
+D003147,Communication Disorders,childhood communication disorders
+D003218,Condylomata Acuminata,condylomata acuminata
+D003221,Confusion,confusion
+D003221,Confusion,bewilderment
+D003221,Confusion,"confusion, post-ictal"
+D003221,Confusion,"confusion, reactive"
+D003221,Confusion,disorientation
+D003244,Consciousness Disorders,"consciousness, level depressed"
+D003244,Consciousness Disorders,semiconsciousness
+D003244,Consciousness Disorders,consciousness disorders
+D003244,Consciousness Disorders,"consciousness, level altered"
+D003248,Constipation,constipation
+D003248,Constipation,dyschezia
+D003248,Constipation,colonic inertia
+D003251,"Constriction, Pathologic","constriction, pathologic"
+D003289,Convalescence,convalescence
+D003294,"Seizures, Febrile","seizure, febrile, simple"
+D003294,"Seizures, Febrile","seizure, febrile, complex"
+D003294,"Seizures, Febrile","seizures, febrile"
+D003371,Cough,cough
+D003428,Cross Infection,"infections, hospital"
+D003428,Cross Infection,cross infection
+D003490,Cyanosis,cyanosis
+D003560,Cysts,cysts
+D003638,Deafness,"hearing loss, extreme"
+D003638,Deafness,deafness
+D003638,Deafness,"deafness, acquired"
+D003638,Deafness,deafness permanent
+D003638,Deafness,prelingual deafness
+D003638,Deafness,"hearing loss, complete"
+D003638,Deafness,deaf mutism
+D003639,"Hearing Loss, Sudden","deafness, sudden"
+D003639,"Hearing Loss, Sudden","hearing loss, sudden"
+D003643,Death,death
+D003643,Death,cardiac death
+D003643,Death,determination of death
+D003643,Death,near-death experience
+D003645,"Death, Sudden","death, sudden"
+D003655,Decerebrate State,decorticate state
+D003655,Decerebrate State,decorticate rigidity
+D003655,Decerebrate State,decerebrate posturing
+D003655,Decerebrate State,decerebrate state
+D003681,Dehydration,dehydration
+D003681,Dehydration,water stress
+D003693,Delirium,delirium of mixed origin
+D003693,Delirium,subacute delirium
+D003693,Delirium,delirium
+D003728,Dental Calculus,dental calculus
+D003751,Dental Fistula,dental fistula
+D003790,Dental Pulp Necrosis,dental pulp necrosis
+D003790,Dental Pulp Necrosis,dental pulp autolysis
+D003790,Dental Pulp Necrosis,pulp mummification
+D003790,Dental Pulp Necrosis,"gangrene, dental pulp"
+D003967,Diarrhea,diarrhea
+D003968,"Diarrhea, Infantile","diarrhea, infantile"
+D004108,"Dilatation, Pathologic","dilatation, pathologic"
+D004172,Diplopia,"diplopia, unilateral"
+D004172,Diplopia,"diplopia, cortical"
+D004172,Diplopia,polyopsia
+D004172,Diplopia,"diplopia, vertical"
+D004172,Diplopia,"diplopia, refractive"
+D004172,Diplopia,diplopia
+D004172,Diplopia,"diplopia, horizontal"
+D004172,Diplopia,"diplopia, intermittent"
+D004194,Disease,disease
+D004198,Disease Susceptibility,disease susceptibility
+D004200,Diseases in Twins,diseases in twins
+D004240,Diverticulum,diverticulum
+D004240,Diverticulum,diverticulosis
+D004241,"Diverticulum, Colon","diverticulum, colon"
+D004244,Dizziness,dizziness
+D004244,Dizziness,orthostasis
+D004244,Dizziness,lightheadedness
+D004332,Drowning,drowning
+D004377,Dumping Syndrome,dumping syndrome
+D004401,Dysarthria,"dysarthria, spastic"
+D004401,Dysarthria,"dysarthria, guttural"
+D004401,Dysarthria,"dysarthria, flaccid"
+D004401,Dysarthria,hyperkinetic dysarthria
+D004401,Dysarthria,hypokinetic dysarthria
+D004401,Dysarthria,dysarthria
+D004401,Dysarthria,"dysarthria, mixed"
+D004401,Dysarthria,"dysarthria, scanning"
+D004408,Dysgeusia,"taste, altered"
+D004408,Dysgeusia,dysgeusia
+D004409,"Dyskinesia, Drug-Induced","dyskinesia, drug-induced"
+D004409,"Dyskinesia, Drug-Induced","dyskinesia, medication-induced"
+D004410,Dyslexia,reading disorder
+D004410,Dyslexia,dyslexia
+D004410,Dyslexia,"reading disorder, developmental"
+D004410,Dyslexia,alexia
+D004411,"Dyslexia, Acquired",acquired spelling dyslexia
+D004411,"Dyslexia, Acquired",acquired global dyslexia
+D004411,"Dyslexia, Acquired","alexia, acquired"
+D004411,"Dyslexia, Acquired","dyslexia, acquired"
+D004412,Dysmenorrhea,dysmenorrhea
+D004415,Dyspepsia,dyspepsia
+D004417,Dyspnea,trepopnea
+D004417,Dyspnea,rest dyspnea
+D004417,Dyspnea,dyspnea
+D004417,Dyspnea,platypnea
+D004417,Dyspnea,orthopnea
+D004418,"Dyspnea, Paroxysmal","dyspnea, paroxysmal"
+D004418,"Dyspnea, Paroxysmal",paroxysmal nocturnal dyspnea
+D004418,"Dyspnea, Paroxysmal","asthma, cardiac"
+D004421,Dystonia,"dystonia, diurnal"
+D004421,Dystonia,"dystonia, limb"
+D004421,Dystonia,dystonia
+D004421,Dystonia,"dystonia, paroxysmal"
+D004433,Earache,earache
+D004438,Ecchymosis,ecchymosis
+D004454,Echolalia,echolalia
+D004487,Edema,edema
+D004487,Edema,anasarca
+D004489,"Edema, Cardiac","edema, cardiac"
+D004614,Emaciation,emaciation
+D004630,Emergencies,emergencies
+D004646,Emphysema,emphysema
+D004653,Empyema,empyema
+D004654,"Empyema, Tuberculous","empyema, tuberculous"
+D004673,"Encephalomyelitis, Acute Disseminated","encephalomyelitis, postexanthem"
+D004673,"Encephalomyelitis, Acute Disseminated",postinfectious encephalomyelitis
+D004673,"Encephalomyelitis, Acute Disseminated","encephalomyelitis, acute disseminated"
+D004673,"Encephalomyelitis, Acute Disseminated","encephalitis, post-vaccinal"
+D004677,Encephalocele,acquired encephalocele
+D004677,Encephalocele,cerebellar herniation
+D004677,Encephalocele,encephalocele
+D004677,Encephalocele,frontal encephalocele
+D004677,Encephalocele,occipital encephalocele
+D004677,Encephalocele,"encephalocele, sincipital"
+D004688,Encopresis,encopresis
+D004803,Eosinophilic Granuloma,eosinophilic granuloma
+D004844,Epistaxis,epistaxis
+D004884,Eructation,eructation
+D004890,Erythema,erythema
+D004936,"Diverticulum, Esophageal","diverticulum, esophageal"
+D004937,Esophageal Fistula,esophageal fistula
+D005117,"Cardiac Complexes, Premature","cardiac complexes, premature"
+D005119,Extravasation of Diagnostic and Therapeutic Materials,extravasation of contrast media
+D005119,Extravasation of Diagnostic and Therapeutic Materials,extravasation of diagnostic and therapeutic materials
+D005130,Eye Hemorrhage,eye hemorrhage
+D005132,Eye Manifestations,eye manifestations
+D005146,Facial Asymmetry,facial asymmetry
+D005157,Facial Pain,orofacial pain
+D005157,Facial Pain,neuralgic facial pain
+D005157,Facial Pain,facial pain
+D005157,Facial Pain,craniofacial pain
+D005157,Facial Pain,myofacial pain
+D005158,Facial Paralysis,facial paralysis
+D005158,Facial Paralysis,hemifacial paralysis
+D005158,Facial Paralysis,"facial palsy, lower motor neuron"
+D005158,Facial Paralysis,"facial palsy, upper motor neuron"
+D005158,Facial Paralysis,facial paresis
+D005183,Failure to Thrive,failure to thrive
+D005207,Fasciculation,"fasciculation, tongue"
+D005207,Fasciculation,"fasciculation, benign"
+D005207,Fasciculation,"fasciculation, skeletal muscle"
+D005207,Fasciculation,fasciculation
+D005218,Fat Necrosis,fat necrosis
+D005221,Fatigue,lassitude
+D005221,Fatigue,fatigue
+D005222,Mental Fatigue,mental fatigue
+D005262,Feminization,feminization
+D005271,Femur Head Necrosis,femur head necrosis
+D005271,Femur Head Necrosis,"necrosis, avascular, of femur head"
+D005271,Femur Head Necrosis,aseptic necrosis of femur head
+D005311,Fetal Hypoxia,fetal anoxia
+D005311,Fetal Hypoxia,fetal hypoxia
+D005313,Fetal Death,fetal death
+D005313,Fetal Death,fetal mummification
+D005316,Fetal Distress,fetal distress
+D005317,Fetal Growth Retardation,fetal growth retardation
+D005320,Fetal Macrosomia,fetal macrosomia
+D005327,Fetal Resorption,fetal resorption
+D005334,Fever,fever
+D005335,Fever of Unknown Origin,fever of unknown origin
+D005355,Fibrosis,cirrhosis
+D005355,Fibrosis,fibrosis
+D005402,Fistula,fistula
+D005414,Flatulence,flatulence
+D005483,Flushing,flushing
+D005549,Foreign-Body Reaction,foreign-body reaction
+D005683,Gagging,gagging
+D005734,Gangrene,gangrene
+D005747,Gastric Fistula,gastric fistula
+D005862,Gerstmann Syndrome,developmental gerstmann's syndrome
+D005862,Gerstmann Syndrome,gerstmann syndrome 2
+D005862,Gerstmann Syndrome,gerstmann syndrome
+D005862,Gerstmann Syndrome,acquired gerstmann syndrome
+D005884,Gingival Hemorrhage,gingival hemorrhage
+D005911,Gliosis,glial scar
+D005911,Gliosis,gliosis
+D005911,Gliosis,astrocytosis
+D005926,Glossalgia,glossalgia
+D005926,Glossalgia,glossopyrosis
+D006083,"Graft Occlusion, Vascular","graft occlusion, vascular"
+D006099,Granuloma,granuloma
+D006101,"Granuloma, Giant Cell","granuloma, giant cell"
+D006101,"Granuloma, Giant Cell","epulis, giant cell"
+D006101,"Granuloma, Giant Cell","granuloma, giant cell reparative"
+D006102,"Granuloma, Laryngeal","granuloma, laryngeal"
+D006104,"Granuloma, Plasma Cell","granuloma, plasma cell"
+D006104,"Granuloma, Plasma Cell",inflammatory pseudotumor
+D006105,"Granulomatous Disease, Chronic","granulomatous disease, chronic"
+D006105,"Granulomatous Disease, Chronic",autosomal recessive chronic granulomatous disease
+D006105,"Granulomatous Disease, Chronic","granulomatous disease, chronic, x-linked"
+D006130,Growth Disorders,growth disorders
+D006209,Halitosis,halitosis
+D006212,Hallucinations,"hallucinations, visual, unformed"
+D006212,Hallucinations,hallucinations
+D006212,Hallucinations,"hallucinations, hypnapompic"
+D006212,Hallucinations,"hallucinations, visual"
+D006212,Hallucinations,"hallucinations, olfactory"
+D006212,Hallucinations,hallucination of body sensation
+D006212,Hallucinations,"hallucinations, kinesthetic"
+D006212,Hallucinations,"hallucinations, gustatory"
+D006212,Hallucinations,"hallucinations, tactile"
+D006212,Hallucinations,"hallucinations, auditory"
+D006212,Hallucinations,"hallucinations, mood incongruent"
+D006212,Hallucinations,"hallucinations, mood congruent"
+D006212,Hallucinations,"hallucinations, dissociative"
+D006212,Hallucinations,"hallucinations, hypnagogic"
+D006212,Hallucinations,"hallucinations, organic"
+D006212,Hallucinations,"hallucinations, elementary"
+D006212,Hallucinations,"hallucinations, visual, formed"
+D006212,Hallucinations,"hallucinations, somatic"
+D006212,Hallucinations,"hallucinations, formed, of people"
+D006212,Hallucinations,"hallucinations, internal body sensation"
+D006212,Hallucinations,"hallucinations, sensory"
+D006212,Hallucinations,"hallucinations, reflex"
+D006212,Hallucinations,"hallucinations, verbal auditory"
+D006261,Headache,retro-ocular headache
+D006261,Headache,periorbital headache
+D006261,Headache,headache
+D006261,Headache,generalized headache
+D006261,Headache,vertex headache
+D006261,Headache,ocular headache
+D006261,Headache,unilateral headache
+D006261,Headache,sharp headache
+D006261,Headache,throbbing headache
+D006261,Headache,orthostatic headache
+D006261,Headache,bilateral headache
+D006311,Hearing Disorders,dysacusis
+D006311,Hearing Disorders,distorted hearing
+D006311,Hearing Disorders,paracousis
+D006311,Hearing Disorders,hearing disorders
+D006312,"Hearing Loss, Bilateral","hearing loss, bilateral"
+D006312,"Hearing Loss, Bilateral",bilateral deafness
+D006313,"Hearing Loss, Central",cortical deafness
+D006313,"Hearing Loss, Central","hearing loss, central"
+D006314,"Hearing Loss, Conductive","hearing loss, conductive"
+D006315,"Hearing Loss, Functional","hearing loss, functional"
+D006316,"Hearing Loss, High-Frequency","hearing loss, high-frequency"
+D006317,"Hearing Loss, Noise-Induced","hearing loss, noise-induced"
+D006317,"Hearing Loss, Noise-Induced",acoustic trauma
+D006319,"Hearing Loss, Sensorineural","hearing loss, cochlear"
+D006319,"Hearing Loss, Sensorineural","hearing loss, sensorineural"
+D006327,Heart Block,auriculo-ventricular dissociation
+D006327,Heart Block,heart block
+D006332,Cardiomegaly,cardiac hypertrophy
+D006332,Cardiomegaly,cardiomegaly
+D006337,Heart Murmurs,heart murmurs
+D006337,Heart Murmurs,innocent murmurs
+D006337,Heart Murmurs,diastolic murmurs
+D006356,Heartburn,heartburn
+D006395,Hemarthrosis,hemarthrosis
+D006396,Hematemesis,hematemesis
+D006398,Hematocele,testicular hematocele
+D006398,Hematocele,hematocele
+D006406,Hematoma,hematoma
+D006407,"Hematoma, Epidural, Cranial","hematoma, epidural, cranial"
+D006408,"Hematoma, Subdural","hematoma, subdural"
+D006408,"Hematoma, Subdural","subdural hematoma, traumatic"
+D006417,Hematuria,hematuria
+D006423,Hemianopsia,binasal hemianopia
+D006423,Hemianopsia,bitemporal hemianopia
+D006423,Hemianopsia,hemianopsia
+D006423,Hemianopsia,altidudinal hemianopia
+D006423,Hemianopsia,"hemianopsia, homonymous"
+D006423,Hemianopsia,quadrantanopsia
+D006429,Hemiplegia,"hemiplegia, flaccid"
+D006429,Hemiplegia,monoplegia
+D006429,Hemiplegia,"hemiplegia, post-ictal"
+D006429,Hemiplegia,"hemiplegia, transient"
+D006429,Hemiplegia,"hemiplegia, crossed"
+D006429,Hemiplegia,"hemiplegia, infantile"
+D006429,Hemiplegia,hemiplegia
+D006429,Hemiplegia,"hemiplegia, spastic"
+D006431,Hemobilia,hemobilia
+D006456,Hemoglobinuria,hemoglobinuria
+D006461,Hemolysis,intravascular hemolysis
+D006461,Hemolysis,hemolysis
+D006461,Hemolysis,extravascular hemolysis
+D006465,Hemoperitoneum,hemoperitoneum
+D006468,Hemopneumothorax,hemopneumothorax
+D006469,Hemoptysis,hemoptysis
+D006470,Hemorrhage,hemorrhage
+D006471,Gastrointestinal Hemorrhage,gastrointestinal hemorrhage
+D006471,Gastrointestinal Hemorrhage,hematochezia
+D006472,Oral Hemorrhage,oral hemorrhage
+D006473,Postpartum Hemorrhage,postpartum hemorrhage
+D006473,Postpartum Hemorrhage,immediate postpartum hemorrhage
+D006473,Postpartum Hemorrhage,delayed postpartum hemorrhage
+D006483,Hemorrhagic Septicemia,hemorrhagic septicemia
+D006483,Hemorrhagic Septicemia,hemorrhagic bacteremia
+D006491,Hemothorax,hemothorax
+D006521,"Hepatitis, Chronic","hepatitis, chronic persistent"
+D006521,"Hepatitis, Chronic",cryptogenic chronic hepatitis
+D006521,"Hepatitis, Chronic","hepatitis, chronic active"
+D006521,"Hepatitis, Chronic","hepatitis, chronic"
+D006529,Hepatomegaly,hepatomegaly
+D006547,Hernia,enterocele
+D006547,Hernia,hernia
+D006548,"Hernia, Diaphragmatic","hernia, diaphragmatic"
+D006549,"Hernia, Diaphragmatic, Traumatic","hernia, diaphragmatic, traumatic"
+D006550,"Hernia, Femoral","hernia, femoral"
+D006551,"Hernia, Hiatal",sliding hiatal hernia
+D006551,"Hernia, Hiatal",paraesophageal hiatal hernia
+D006551,"Hernia, Hiatal","hernia, hiatal"
+D006552,"Hernia, Inguinal","hernia, inguinal"
+D006552,"Hernia, Inguinal","inguinal hernia, direct"
+D006552,"Hernia, Inguinal","inguinal hernia, indirect"
+D006553,"Hernia, Obturator","hernia, obturator"
+D006554,"Hernia, Umbilical",omphalocele
+D006554,"Hernia, Umbilical","hernia, umbilical"
+D006555,"Hernia, Ventral","hernia, ventral"
+D006606,Hiccup,hiccup
+D006628,Hirsutism,hirsutism
+D006685,Hoarseness,hoarseness
+D006685,Hoarseness,neurogenic hoarseness
+D006732,Horner Syndrome,horner syndrome
+D006732,Horner Syndrome,ptosis sympathetic
+D006732,Horner Syndrome,"horner syndrome, acquired"
+D006732,Horner Syndrome,"horner syndrome, central"
+D006732,Horner Syndrome,"horner's syndrome, pupil"
+D006732,Horner Syndrome,"miosis, innervational defect"
+D006930,Hyperalgesia,"hyperalgesia, secondary"
+D006930,Hyperalgesia,tactile allodynia
+D006930,Hyperalgesia,"hyperalgesia, primary"
+D006930,Hyperalgesia,hyperalgesia
+D006930,Hyperalgesia,allodynia
+D006930,Hyperalgesia,"hyperalgesia, thermal"
+D006930,Hyperalgesia,mechanical allodynia
+D006932,Hyperbilirubinemia,hyperbilirubinemia
+D006935,Hypercapnia,hypercapnia
+D006939,Hyperemesis Gravidarum,hyperemesis gravidarum
+D006941,Hyperesthesia,"hyperesthesia, thermal"
+D006941,Hyperesthesia,hyperesthesia
+D006941,Hyperesthesia,"hyperesthesia, tactile"
+D006942,Hypergammaglobulinemia,hypergammaglobulinemia
+D006948,Hyperkinesis,"hyperkinesia, generalized"
+D006948,Hyperkinesis,hyperkinesis
+D006963,Hyperphagia,hyperphagia
+D006965,Hyperplasia,hyperplasia
+D006984,Hypertrophy,hypertrophy
+D006985,Hyperventilation,hyperventilation
+D006987,Hypesthesia,hypesthesia
+D006987,Hypesthesia,"hypesthesia, thermal"
+D006988,Hyphema,hyphema
+D007035,Hypothermia,"hypothermia, accidental"
+D007035,Hypothermia,hypothermia
+D007040,Hypoventilation,hypoventilation
+D007049,Iatrogenic Disease,iatrogenic disease
+D007088,Illusions,"illusions, kinesthetic"
+D007088,Illusions,"illusions, tactile"
+D007088,Illusions,"illusions, auditory"
+D007088,Illusions,autokinetic illusions
+D007088,Illusions,autokinetic effect
+D007088,Illusions,"illusions, visual"
+D007088,Illusions,illusions
+D007238,Infarction,infarction
+D007249,Inflammation,innate inflammatory response
+D007249,Inflammation,inflammation
+D007383,Intermittent Claudication,intermittent claudication
+D007405,Intervertebral Disc Displacement,intervertebral disc displacement
+D007412,Intestinal Fistula,colovesical fistula
+D007412,Intestinal Fistula,intestinal fistula
+D007412,Intestinal Fistula,cholecystoduodenal fistula
+D007412,Intestinal Fistula,enterocutaneous fistula
+D007417,Intestinal Polyps,intestinal polyps
+D007431,Intraoperative Complications,intraoperative complications
+D007431,Intraoperative Complications,"injuries, surgical"
+D007446,Chromosome Inversion,chromosome inversion
+D007511,Ischemia,ischemia
+D007565,Jaundice,jaundice
+D007565,Jaundice,"jaundice, hemolytic"
+D007566,"Jaundice, Chronic Idiopathic","jaundice, chronic idiopathic"
+D007567,"Jaundice, Neonatal",physiological neonatal jaundice
+D007567,"Jaundice, Neonatal","jaundice, neonatal"
+D007567,"Jaundice, Neonatal",severe jaundice in newborn
+D007625,Kearns-Sayre Syndrome,kearns-sayre syndrome
+D007627,Keloid,keloid
+D007647,Kernicterus,kernicterus
+D007669,Kidney Calculi,kidney calculi
+D007676,"Kidney Failure, Chronic","kidney failure, chronic"
+D007805,Language Development Disorders,semantic-pragmatic disorder
+D007805,Language Development Disorders,language delay
+D007805,Language Development Disorders,language development disorders
+D007805,Language Development Disorders,"auditory processing disorder, central"
+D007805,Language Development Disorders,speech delay
+D007806,Language Disorders,language disorders
+D007806,Language Disorders,acquired language disorders
+D007859,Learning Disabilities,developmental academic disability
+D007859,Learning Disabilities,learning disturbance
+D007859,Learning Disabilities,adult learning disabilities
+D007859,Learning Disabilities,learning disabilities
+D007859,Learning Disabilities,learning disorders
+D007859,Learning Disabilities,"learning disabilities, child"
+D007859,Learning Disabilities,"learning disabilities, adolescent"
+D007870,Leg Length Inequality,leg length inequality
+D007964,Leukocytosis,pleocytosis
+D007964,Leukocytosis,leukocytosis
+D007971,Leukoplakia,leukoplakia
+D007971,Leukoplakia,leukokeratosis
+D007972,"Leukoplakia, Oral","leukoplakia, oral"
+D008103,Liver Cirrhosis,"fibrosis, liver"
+D008103,Liver Cirrhosis,liver cirrhosis
+D008104,"Liver Cirrhosis, Alcoholic","liver cirrhosis, alcoholic"
+D008105,"Liver Cirrhosis, Biliary",primary biliary cholangitis
+D008105,"Liver Cirrhosis, Biliary","liver cirrhosis, biliary"
+D008105,"Liver Cirrhosis, Biliary","biliary cirrhosis, primary, 1"
+D008105,"Liver Cirrhosis, Biliary",secondary biliary cholangitis
+D008106,"Liver Cirrhosis, Experimental","liver cirrhosis, experimental"
+D008133,Long QT Syndrome,long qt syndrome
+D008133,Long QT Syndrome,electrocardiogram qt prolonged
+D008207,Lymphatic Metastasis,lymph node metastasis
+D008207,Lymphatic Metastasis,lymphatic metastasis
+D008287,Malacoplakia,malacoplakia
+D008305,Malignant Hyperthermia,malignant hyperthermia
+D008467,Meckel Diverticulum,meckel diverticulum
+D008478,Mediastinal Emphysema,mediastinal emphysema
+D008478,Mediastinal Emphysema,pulmonary interstitial emphysema
+D008551,Melena,melena
+D008569,Memory Disorders,memory loss
+D008569,Memory Disorders,"memory disorder, semantic"
+D008569,Memory Disorders,"memory disorder, spatial"
+D008569,Memory Disorders,age-related memory disorders
+D008569,Memory Disorders,memory disorders
+D008569,Memory Disorders,memory deficits
+D008580,Meningism,meningism
+D008588,Meningocele,"meningocele, traumatic"
+D008588,Meningocele,rudimentary meningocele
+D008588,Meningocele,meningocele
+D008588,Meningocele,acquired meningocele
+D008595,Menorrhagia,menorrhagia
+D008599,Menstruation Disturbances,polymenorrhea
+D008599,Menstruation Disturbances,hypomenorrhea
+D008599,Menstruation Disturbances,"menstruation, retrograde"
+D008599,Menstruation Disturbances,menstruation disturbances
+D008599,Menstruation Disturbances,menstrual irregularity
+D008607,Intellectual Disability,intellectual disability
+D008607,Intellectual Disability,"deficiency, mental"
+D008607,Intellectual Disability,"mental retardation, psychosocial"
+D008607,Intellectual Disability,idiocy
+D008679,Metaplasia,metaplasia
+D008796,Metrorrhagia,metrorrhagia
+D009006,Monosomy,monosomy
+D009041,Motion Sickness,seasickness
+D009041,Motion Sickness,airsickness
+D009041,Motion Sickness,carsickness
+D009041,Motion Sickness,motion sickness
+D009058,Mouth Breathing,mouth breathing
+D009102,Multiple Organ Failure,multiple organ failure
+D009120,Muscle Cramp,limb cramp
+D009120,Muscle Cramp,muscle cramp
+D009122,Muscle Hypertonia,muscle hypertonia
+D009122,Muscle Hypertonia,"hypertonia, detrusor muscle"
+D009122,Muscle Hypertonia,"hypertonia, neonatal"
+D009122,Muscle Hypertonia,"hypertonia, sphincter"
+D009122,Muscle Hypertonia,"hypertonia, transient"
+D009122,Muscle Hypertonia,"hypertonia, infantile"
+D009123,Muscle Hypotonia,unilateral hypotonia
+D009123,Muscle Hypotonia,flaccid muscle tone
+D009123,Muscle Hypotonia,muscle tone atonic
+D009123,Muscle Hypotonia,muscle hypotonia
+D009123,Muscle Hypotonia,floppy muscles
+D009123,Muscle Hypotonia,neonatal hypotonia
+D009127,Muscle Rigidity,extrapyramidal rigidity
+D009127,Muscle Rigidity,cogwheel rigidity
+D009127,Muscle Rigidity,extensor rigidity
+D009127,Muscle Rigidity,muscle rigidity
+D009127,Muscle Rigidity,nuchal rigidity
+D009127,Muscle Rigidity,gegenhalten
+D009127,Muscle Rigidity,catatonic rigidity
+D009128,Muscle Spasticity,clasp-knife spasticity
+D009128,Muscle Spasticity,spastic
+D009128,Muscle Spasticity,muscle spasticity
+D009133,Muscular Atrophy,muscular atrophy
+D009133,Muscular Atrophy,neurogenic muscular atrophy
+D009155,Mutism,"mutism, conversion"
+D009155,Mutism,mutism
+D009155,Mutism,selective mutism
+D009155,Mutism,kussmaul aphasia
+D009155,Mutism,"mutism, organic"
+D009203,Myocardial Infarction,myocardial infarction
+D009207,Myoclonus,"myoclonus, eyelid"
+D009207,Myoclonus,"myoclonus, lower extremity"
+D009207,Myoclonus,"myoclonus, intention"
+D009207,Myoclonus,"myoclonus, upper extremity"
+D009207,Myoclonus,myoclonus
+D009207,Myoclonus,myoclonus simplex
+D009207,Myoclonus,polymyoclonus
+D009207,Myoclonus,"myoclonus, palatal"
+D009207,Myoclonus,"myoclonus, segmental"
+D009207,Myoclonus,"myoclonus, oculopalatal"
+D009207,Myoclonus,"myoclonus, nocturnal"
+D009207,Myoclonus,"myoclonus, action"
+D009222,Myotonia,percussion myotonia
+D009222,Myotonia,myotonic phenomenon
+D009222,Myotonia,myotonia
+D009264,"Nails, Malformed",onychauxis
+D009264,"Nails, Malformed",onychogryposis
+D009264,"Nails, Malformed","nails, abnormal"
+D009264,"Nails, Malformed",pachyonychia
+D009264,"Nails, Malformed","nails, malformed"
+D009298,Nasal Polyps,nasal polyps
+D009325,Nausea,nausea
+D009336,Necrosis,necrosis
+D009360,"Neoplastic Cells, Circulating","tumor cells, embolic"
+D009360,"Neoplastic Cells, Circulating","neoplastic cells, circulating"
+D009360,"Neoplastic Cells, Circulating","embolism, tumor"
+D009361,Neoplasm Invasiveness,neoplasm invasiveness
+D009362,Neoplasm Metastasis,neoplasm metastasis
+D009364,"Neoplasm Recurrence, Local","neoplasm recurrence, local"
+D009365,"Neoplasm Regression, Spontaneous","neoplasm regression, spontaneous"
+D009366,Neoplasm Seeding,neoplasm seeding
+D009382,"Neoplasms, Unknown Primary",unknown primary tumors
+D009382,"Neoplasms, Unknown Primary","neoplasm metastasis, unknown primary"
+D009382,"Neoplasms, Unknown Primary","neoplasms, unknown primary"
+D009385,Neoplastic Processes,neoplastic processes
+D009389,"Neovascularization, Pathologic","neovascularization, pathologic"
+D009410,Nerve Degeneration,nerve degeneration
+D009437,Neuralgia,"neuralgia, ilioinguinal"
+D009437,Neuralgia,"neuralgia, perineal"
+D009437,Neuralgia,paroxysmal nerve pain
+D009437,Neuralgia,nerve pain
+D009437,Neuralgia,"neuralgia, stump"
+D009437,Neuralgia,"neuralgia, supraorbital"
+D009437,Neuralgia,"neuralgia, iliohypogastric nerve"
+D009437,Neuralgia,"neuralgia, vidian"
+D009437,Neuralgia,neuralgia
+D009437,Neuralgia,"neuralgia, atypical"
+D009461,Neurologic Manifestations,neurologic deficits
+D009461,Neurologic Manifestations,neurologic findings
+D009461,Neurologic Manifestations,neurologic signs
+D009461,Neurologic Manifestations,focal neurologic deficits
+D009461,Neurologic Manifestations,neurologic dysfunction
+D009461,Neurologic Manifestations,neurologic symptoms
+D009461,Neurologic Manifestations,neurologic manifestations
+D009630,"Nondisjunction, Genetic","nondisjunction, genetic"
+D009765,Obesity,obesity
+D009767,"Obesity, Morbid","obesity, morbid"
+D009794,Ochronosis,ochronosis
+D009839,Oligomenorrhea,oligomenorrhea
+D009846,Oliguria,oliguria
+D009886,Ophthalmoplegia,external ophthalmoplegia
+D009886,Ophthalmoplegia,ophthalmoplegia
+D009886,Ophthalmoplegia,ophthalmoparesis
+D009886,Ophthalmoplegia,internal ophthalmoplegia
+D009912,Oral Manifestations,oral manifestations
+D009957,Oroantral Fistula,oroantral fistula
+D009999,"Ossification, Heterotopic","ossification, heterotopic"
+D010020,Osteonecrosis,kienbock disease
+D010020,Osteonecrosis,"necrosis, avascular, of bone"
+D010020,Osteonecrosis,osteonecrosis
+D010020,Osteonecrosis,"necrosis, aseptic, of bone"
+D010146,Pain,"pain, migratory"
+D010146,Pain,"suffering, physical"
+D010146,Pain,"pain, splitting"
+D010146,Pain,"pain, crushing"
+D010146,Pain,ache
+D010146,Pain,"pain, radiating"
+D010146,Pain,pain
+D010146,Pain,"pain, burning"
+D010148,"Pain, Intractable","pain, intractable"
+D010149,"Pain, Postoperative","pain, postoperative"
+D010149,"Pain, Postoperative","postoperative pain, chronic"
+D010149,"Pain, Postoperative","postoperative pain, acute"
+D010167,Pallor,pallor
+D010185,Pancreatic Fistula,pancreatic fistula
+D010243,Paralysis,paralysis
+D010243,Paralysis,todd paralysis
+D010264,Paraplegia,"paraplegia, ataxic"
+D010264,Paraplegia,paraplegia
+D010264,Paraplegia,"paraplegia, flaccid"
+D010264,Paraplegia,"paraplegia, cerebral"
+D010264,Paraplegia,"paraplegia, spinal"
+D010264,Paraplegia,"paraplegia, spastic"
+D010291,Paresis,paresis
+D010291,Paresis,monoparesis
+D010291,Paresis,upper extremity paresis
+D010291,Paresis,hemiparesis
+D010291,Paresis,lower extremity paresis
+D010292,Paresthesia,"paresthesia, painful"
+D010292,Paresthesia,"paresthesia, distal"
+D010292,Paresthesia,paresthesia
+D010292,Paresthesia,formication
+D010292,Paresthesia,dysesthesia
+D010310,Parovarian Cyst,hydatid of morgagni
+D010310,Parovarian Cyst,parovarian cyst
+D010310,Parovarian Cyst,paratubal cyst
+D010335,Pathologic Processes,pathologic processes
+D010438,Peptic Ulcer Hemorrhage,peptic ulcer hemorrhage
+D010468,Perceptual Disorders,perceptual disorders
+D010468,Perceptual Disorders,somatosensory discrimination disorder
+D010468,Perceptual Disorders,hemispatial neglect
+D010468,Perceptual Disorders,sensory neglect
+D010468,Perceptual Disorders,hemisensory neglect
+D010591,Phantom Limb,phantom limb pain
+D010591,Phantom Limb,phantom limb
+D010677,Philadelphia Chromosome,philadelphia chromosome
+D010842,Pica,trichophagia
+D010842,Pica,allotriophagy
+D010842,Pica,pica
+D010842,Pica,geophagia
+D010842,Pica,pagophagia
+D010859,Pigmentation Disorders,ito syndrome
+D010859,Pigmentation Disorders,pigmentation disorders
+D010859,Pigmentation Disorders,schamberg disease
+D011123,Polyploidy,polyploidy
+D011123,Polyploidy,polyploid cell
+D011127,Polyps,polyps
+D011141,Polyuria,polyuria
+D011178,Postgastrectomy Syndromes,postgastrectomy syndromes
+D011180,Postmortem Changes,adipocere
+D011180,Postmortem Changes,algor mortis
+D011180,Postmortem Changes,cruor
+D011180,Postmortem Changes,postmortem changes
+D011180,Postmortem Changes,livor mortis
+D011183,Postoperative Complications,postoperative complications
+D011185,Postpericardiotomy Syndrome,postpericardiotomy syndrome
+D011185,Postpericardiotomy Syndrome,postcommissurotomy syndrome
+D011293,Premenstrual Syndrome,premenstrual syndrome
+D011293,Premenstrual Syndrome,premenstrual tension
+D011304,Presbycusis,presbycusis
+D011391,Prolapse,prolapse
+D011475,Prosthesis Failure,prosthesis loosening
+D011475,Prosthesis Failure,prosthesis failure
+D011475,Prosthesis Failure,prosthesis survival
+D011475,Prosthesis Failure,prosthesis migration
+D011475,Prosthesis Failure,prosthesis durability
+D011507,Proteinuria,proteinuria
+D011537,Pruritus,pruritus
+D011595,Psychomotor Agitation,akathisia
+D011595,Psychomotor Agitation,psychomotor agitation
+D011596,Psychomotor Disorders,psychomotor disorders
+D011596,Psychomotor Disorders,psychomotor impairment
+D011596,Psychomotor Disorders,developmental psychomotor disorders
+D011602,Psychophysiologic Disorders,psychophysiologic disorders
+D011656,Pulmonary Emphysema,focal emphysema
+D011656,Pulmonary Emphysema,panacinar emphysema
+D011656,Pulmonary Emphysema,pulmonary emphysema
+D011656,Pulmonary Emphysema,centriacinar emphysema
+D011658,Pulmonary Fibrosis,pulmonary fibrosis
+D011658,Pulmonary Fibrosis,"alveolitis, fibrosing"
+D011681,Pupil Disorders,pupil reaction absent
+D011681,Pupil Disorders,occluded pupils
+D011681,Pupil Disorders,deformed pupil
+D011681,Pupil Disorders,keyhole pupil
+D011681,Pupil Disorders,non-syphilitic argyll-robertson pupil
+D011681,Pupil Disorders,pupil disorders
+D011681,Pupil Disorders,efferent pupillary defect
+D011681,Pupil Disorders,pupillary sector paralysis
+D011681,Pupil Disorders,"pupillary functions, abnormal"
+D011681,Pupil Disorders,fixed pupils
+D011681,Pupil Disorders,pupillary sphincter rupture
+D011681,Pupil Disorders,ectopic pupil
+D011681,Pupil Disorders,pupil malformations
+D011681,Pupil Disorders,pupillary paralysis
+D011681,Pupil Disorders,afferent pupillary defect
+D011681,Pupil Disorders,wernicke hemianopic pupil
+D011693,Purpura,purpura
+D011693,Purpura,petechiae
+D011694,"Purpura, Hyperglobulinemic",hypergammaglobulinemic purpura of waldenstrom
+D011694,"Purpura, Hyperglobulinemic","purpura, hyperglobulinemic"
+D011695,IgA Vasculitis,rheumatoid purpura
+D011695,IgA Vasculitis,"purpura, nonthrombocytopenic"
+D011695,IgA Vasculitis,purpura hemorrhagica
+D011695,IgA Vasculitis,iga vasculitis
+D011695,IgA Vasculitis,"vasculitis, hemorrhagic"
+D011696,"Purpura, Thrombocytopenic","purpura, thrombocytopenic"
+D011697,"Purpura, Thrombotic Thrombocytopenic",familial thrombotic thrombocytopenic purpura
+D011697,"Purpura, Thrombotic Thrombocytopenic","purpura, thrombotic thrombocytopenic"
+D011697,"Purpura, Thrombotic Thrombocytopenic",congenital thrombotic thrombocytopenic purpura
+D011782,Quadriplegia,quadriplegia
+D011782,Quadriplegia,quadriparesis
+D011782,Quadriplegia,flaccid quadriplegia
+D011782,Quadriplegia,"paralysis, spinal, quadriplegic"
+D011782,Quadriplegia,spastic quadriplegia
+D012001,Hyperacusis,phonophobia
+D012001,Hyperacusis,auditory hyperesthesia
+D012001,Hyperacusis,hyperacusis
+D012003,Rectal Fistula,anal fistula
+D012003,Rectal Fistula,rectal fistula
+D012005,Rectal Prolapse,anus prolapse
+D012005,Rectal Prolapse,rectal prolapse
+D012006,Rectovaginal Fistula,rectovaginal fistula
+D012008,Recurrence,recrudescence
+D012008,Recurrence,relapse
+D012008,Recurrence,recurrence
+D012021,"Reflex, Abnormal","reflex, knee, abnormal"
+D012021,"Reflex, Abnormal","reflex, anal, absent"
+D012021,"Reflex, Abnormal",hyperreflexia
+D012021,"Reflex, Abnormal","reflex, deep tendon, absent"
+D012021,"Reflex, Abnormal","reflex, anal, decreased"
+D012021,"Reflex, Abnormal","reflex, triceps, decreased"
+D012021,"Reflex, Abnormal","reflex, ankle, absent"
+D012021,"Reflex, Abnormal","reflex, biceps, abnormal"
+D012021,"Reflex, Abnormal","reflex, triceps, abnormal"
+D012021,"Reflex, Abnormal",abnormal deep tendon reflex
+D012021,"Reflex, Abnormal",hyporeflexia
+D012021,"Reflex, Abnormal","reflex, moro, asymmetric"
+D012021,"Reflex, Abnormal","reflex, ankle, abnormal"
+D012021,"Reflex, Abnormal","reflex, gag, decreased"
+D012021,"Reflex, Abnormal","bulbocavernosus reflex, decreased"
+D012021,"Reflex, Abnormal","reflex, corneal, absent"
+D012021,"Reflex, Abnormal","reflex, acoustic, abnormal"
+D012021,"Reflex, Abnormal","reflex, biceps, absent"
+D012021,"Reflex, Abnormal","reflex, absent"
+D012021,"Reflex, Abnormal","reflex, gag, absent"
+D012021,"Reflex, Abnormal","reflex, knee, decreased"
+D012021,"Reflex, Abnormal","reflex, abnormal"
+D012021,"Reflex, Abnormal","reflex, corneal, decreased"
+D012021,"Reflex, Abnormal",hoffman's reflex
+D012021,"Reflex, Abnormal",palmo-mental reflex
+D012021,"Reflex, Abnormal","reflex, ankle, decreased"
+D012021,"Reflex, Abnormal",bulbocavernousus reflex absent
+D012021,"Reflex, Abnormal","reflex, pendular"
+D012021,"Reflex, Abnormal","reflex, biceps, decreased"
+D012021,"Reflex, Abnormal","reflex, triceps, absent"
+D012075,"Remission, Spontaneous","remission, spontaneous"
+D012080,Chronic Kidney Disease-Mineral and Bone Disorder,chronic kidney disease-mineral and bone disorder
+D012080,Chronic Kidney Disease-Mineral and Bone Disorder,renal osteodystrophy
+D012080,Chronic Kidney Disease-Mineral and Bone Disorder,renal rickets
+D012133,Respiratory Paralysis,respiratory paralysis
+D012135,Respiratory Sounds,respiratory sounds
+D012135,Respiratory Sounds,pleural rub
+D012135,Respiratory Sounds,rales
+D012135,Respiratory Sounds,stridor
+D012135,Respiratory Sounds,rhonchi
+D012135,Respiratory Sounds,wheezing
+D012166,Retinal Hemorrhage,retinal hemorrhage
+D012183,Retrograde Degeneration,retrograde degeneration
+D012183,Retrograde Degeneration,"retrograde degeneration, transneuronal"
+D012185,Retroperitoneal Fibrosis,"periaortitis, chronic"
+D012185,Retroperitoneal Fibrosis,retroperitoneal fibrosis
+D012188,Retropneumoperitoneum,retropneumoperitoneum
+D012298,Rigor Mortis,rigor mortis
+D012303,Ring Chromosomes,ring chromosomes
+D012422,"Rupture, Spontaneous","rupture, spontaneous"
+D012465,Salivary Duct Calculi,salivary duct calculi
+D012467,Salivary Gland Fistula,salivary gland fistula
+D012585,Sciatica,"sciatica, bilateral"
+D012585,Sciatica,sciatica
+D012598,Sclerosis,sclerosis
+D012607,Scotoma,"scotoma, centrocecal"
+D012607,Scotoma,"scotoma, central"
+D012607,Scotoma,"scotoma, bjerrum"
+D012607,Scotoma,"scotoma, sector"
+D012607,Scotoma,"scotoma, altitudinal"
+D012607,Scotoma,"scotoma, paracecal"
+D012607,Scotoma,"scotoma, paracentral"
+D012607,Scotoma,"scotoma, ring"
+D012607,Scotoma,"scotoma, scintillating"
+D012607,Scotoma,"scotoma, arcuate"
+D012607,Scotoma,scotoma
+D012607,Scotoma,"scotoma, peripheral"
+D012640,Seizures,"seizures, olfactory"
+D012640,Seizures,"seizures, visual"
+D012640,Seizures,myoclonic seizures
+D012640,Seizures,"seizures, gustatory"
+D012640,Seizures,"seizures, vertiginous"
+D012640,Seizures,absence seizures
+D012640,Seizures,epileptic seizures
+D012640,Seizures,"seizures, generalized"
+D012640,Seizures,clonic seizures
+D012640,Seizures,seizures
+D012640,Seizures,"seizures, focal"
+D012640,Seizures,convulsions
+D012640,Seizures,convulsive seizures
+D012640,Seizures,"convulsion, non-epileptic"
+D012640,Seizures,tonic seizures
+D012640,Seizures,single seizure
+D012640,Seizures,"seizures, somatosensory"
+D012640,Seizures,atonic seizures
+D012640,Seizures,jacksonian seizure
+D012640,Seizures,nonepileptic seizures
+D012640,Seizures,generalized absence seizures
+D012640,Seizures,complex partial seizures
+D012640,Seizures,tonic-clonic seizures
+D012640,Seizures,"seizures, auditory"
+D012640,Seizures,"seizures, sensory"
+D012640,Seizures,atonic absence seizures
+D012678,Sensation Disorders,sensation disorders
+D012678,Sensation Disorders,sensory disorders
+D012678,Sensation Disorders,special senses disorders
+D012700,Serositis,serositis
+D012729,Sex Chromosome Aberrations,sex chromosome aberrations
+D012749,Sexually Transmitted Diseases,sexually transmitted diseases
+D012769,Shock,shock
+D012769,Shock,hypovolemic shock
+D012770,"Shock, Cardiogenic","shock, cardiogenic"
+D012771,"Shock, Hemorrhagic","shock, hemorrhagic"
+D012772,"Shock, Septic","shock, endotoxic"
+D012772,"Shock, Septic","shock, septic"
+D012772,"Shock, Septic","shock, toxic"
+D012773,"Shock, Surgical","shock, surgical"
+D012774,"Shock, Traumatic","shock, traumatic"
+D012778,Short Bowel Syndrome,short bowel syndrome
+D012804,Sick Sinus Syndrome,sinus node dysfunction
+D012804,Sick Sinus Syndrome,sick sinus syndrome
+D012816,Signs and Symptoms,signs and symptoms
+D012817,"Signs and Symptoms, Digestive","signs and symptoms, digestive"
+D012818,"Signs and Symptoms, Respiratory","signs and symptoms, respiratory"
+D012848,Sinoatrial Block,sinoatrial block
+D012877,Skin Manifestations,skin manifestations
+D012892,Sleep Deprivation,rem sleep deprivation
+D012892,Sleep Deprivation,insufficient sleep syndrome
+D012892,Sleep Deprivation,sleep fragmentation
+D012892,Sleep Deprivation,sleep insufficiency
+D012892,Sleep Deprivation,sleep deprivation
+D012892,Sleep Deprivation,sleep debt
+D012892,Sleep Deprivation,insufficient sleep
+D012893,Sleep Wake Disorders,long sleeper syndrome
+D012893,Sleep Wake Disorders,subwakefullness syndrome
+D012893,Sleep Wake Disorders,sleep-related neurogenic tachypnea
+D012893,Sleep Wake Disorders,sleep wake disorders
+D012893,Sleep Wake Disorders,sleep disorders
+D012893,Sleep Wake Disorders,short sleeper syndrome
+D012912,Sneezing,sneezing
+D012913,Snoring,snoring
+D013035,Spasm,"spasm, generalized"
+D013035,Spasm,"spasm, ciliary body"
+D013035,Spasm,spasm
+D013064,Speech Disorders,verbal fluency disorders
+D013064,Speech Disorders,cluttering
+D013064,Speech Disorders,aprosodia
+D013064,Speech Disorders,dysglossia
+D013064,Speech Disorders,speech disorders
+D013064,Speech Disorders,dyslalia
+D013064,Speech Disorders,rhinolalia
+D013088,Spermatocele,spermatocele
+D013088,Spermatocele,epididymal cyst
+D013159,Splenic Infarction,splenic infarction
+D013163,Splenomegaly,splenomegaly
+D013226,Status Epilepticus,complex partial status epilepticus
+D013226,Status Epilepticus,non-convulsive status epilepticus
+D013226,Status Epilepticus,grand mal status epilepticus
+D013226,Status Epilepticus,status epilepticus
+D013226,Status Epilepticus,simple partial status epilepticus
+D013226,Status Epilepticus,"status epilepticus, subclinical"
+D013226,Status Epilepticus,petit mal status
+D013273,"Diverticulum, Stomach","diverticulum, stomach"
+D013342,Stuttering,stammering
+D013342,Stuttering,"stuttering, developmental"
+D013342,Stuttering,"stuttering, familial persistent 1"
+D013342,Stuttering,"stuttering, acquired"
+D013342,Stuttering,"stuttering, childhood"
+D013342,Stuttering,stuttering
+D013342,Stuttering,"stuttering, adult"
+D013345,Subarachnoid Hemorrhage,perinatal subarachnoid hemorrhage
+D013345,Subarachnoid Hemorrhage,"subarachnoid hemorrhage, spontaneous"
+D013345,Subarachnoid Hemorrhage,"subarachnoid hemorrhage, intracranial"
+D013345,Subarachnoid Hemorrhage,subarachnoid hemorrhage
+D013345,Subarachnoid Hemorrhage,"subarachnoid hemorrhage, aneurysmal"
+D013352,Subcutaneous Emphysema,subcutaneous emphysema
+D013354,"Empyema, Subdural","abscess, intracranial, subdural"
+D013354,"Empyema, Subdural","empyema, subdural"
+D013398,Sudden Infant Death,sudden infant death
+D013492,Suppuration,suppuration
+D013492,Suppuration,pus
+D013494,"Supranuclear Palsy, Progressive","supranuclear palsy, progressive"
+D013494,"Supranuclear Palsy, Progressive","supranuclear palsy, progressive, 1"
+D013494,"Supranuclear Palsy, Progressive","ophthalmoplegia, progressive supranuclear"
+D013529,Surgical Wound Dehiscence,surgical wound dehiscence
+D013530,Surgical Wound Infection,surgical wound infection
+D013568,"Pathological Conditions, Signs and Symptoms","pathological conditions, signs and symptoms"
+D013575,Syncope,presyncope
+D013575,Syncope,"syncope, stokes-adams"
+D013575,Syncope,"syncope, effort"
+D013575,Syncope,"syncope, micturition"
+D013575,Syncope,syncope
+D013575,Syncope,"syncope, postural"
+D013575,Syncope,syncopal episode
+D013575,Syncope,drop attack
+D013575,Syncope,"syncope, situational"
+D013575,Syncope,"syncope, cardiogenic"
+D013575,Syncope,"syncope, tussive"
+D013575,Syncope,"syncope, hyperventilation"
+D013575,Syncope,syncopal vertigo
+D013575,Syncope,"syncope, deglutitional"
+D013575,Syncope,"syncope, carotid sinus"
+D013575,Syncope,"syncope, convulsive"
+D013577,Syndrome,syndrome
+D013610,Tachycardia,tachyarrhythmia
+D013610,Tachycardia,tachycardia
+D013611,"Tachycardia, Atrioventricular Nodal Reentry","tachycardia, atrioventricular nodal reentry"
+D013612,"Tachycardia, Ectopic Atrial","tachycardia, ectopic atrial"
+D013613,"Tachycardia, Ectopic Junctional","tachycardia, ectopic junctional"
+D013614,"Tachycardia, Paroxysmal","tachycardia, paroxysmal"
+D013614,"Tachycardia, Paroxysmal",paroxysmal reciprocal tachycardia
+D013615,"Tachycardia, Sinoatrial Nodal Reentry","tachycardia, sinoatrial nodal reentry"
+D013616,"Tachycardia, Sinus","tachycardia, sinus"
+D013617,"Tachycardia, Supraventricular","tachycardia, supraventricular"
+D013651,Taste Disorders,"taste disorder, primary, salt"
+D013651,Taste Disorders,"taste disorder, secondary"
+D013651,Taste Disorders,"taste disorder, primary, bitter"
+D013651,Taste Disorders,"taste disorder, secondary, bitter"
+D013651,Taste Disorders,"taste disorder, anterior tongue"
+D013651,Taste Disorders,taste dysfunction
+D013651,Taste Disorders,"taste, metallic"
+D013651,Taste Disorders,"taste disorder, secondary, salt"
+D013651,Taste Disorders,"taste disorder, secondary, sweet"
+D013651,Taste Disorders,"taste disorder, primary"
+D013651,Taste Disorders,"taste disorder, primary, sweet"
+D013651,Taste Disorders,"taste disorder, posterior tongue"
+D013651,Taste Disorders,taste disorders
+D013746,Tetany,tetanilla
+D013746,Tetany,tetany
+D013746,Tetany,"tetany, neonatal"
+D013746,Tetany,spasmophilia
+D013851,Thinness,underweight
+D013851,Thinness,thinness
+D014008,Tinea Pedis,tinea pedis
+D014012,Tinnitus,tinnitus
+D014012,Tinnitus,"tinnitus, subjective"
+D014012,Tinnitus,"tinnitus, leudet"
+D014012,Tinnitus,tinnitus of vascular origin
+D014012,Tinnitus,"tinnitus, spontaneous oto-acoustic emission"
+D014012,Tinnitus,"tinnitus, objective"
+D014012,Tinnitus,"tinnitus, clicking"
+D014012,Tinnitus,pulsatile tinnitus
+D014012,Tinnitus,"tinnitus, tensor palatini induced"
+D014012,Tinnitus,"tinnitus, tensor tympani induced"
+D014012,Tinnitus,"tinnitus, noise induced"
+D014098,Toothache,toothache
+D014102,Torsion Abnormality,torsion abnormality
+D014103,Torticollis,"torticollis, psychogenic"
+D014103,Torticollis,torticollis
+D014103,Torticollis,"torticollis, intermittent"
+D014103,Torticollis,cervical dystonia
+D014138,Tracheoesophageal Fistula,tracheoesophageal fistula
+D014178,"Translocation, Genetic","translocation, genetic"
+D014202,Tremor,resting tremor
+D014202,Tremor,"tremor, neonatal"
+D014202,Tremor,continuous tremor
+D014202,Tremor,pill rolling tremor
+D014202,Tremor,static tremor
+D014202,Tremor,intermittent tremor
+D014202,Tremor,"tremor, limb"
+D014202,Tremor,saturnine tremor
+D014202,Tremor,intention tremor
+D014202,Tremor,"tremor, semirhythmic"
+D014202,Tremor,persistent tremor
+D014202,Tremor,massive tremor
+D014202,Tremor,"tremor, nerve"
+D014202,Tremor,"tremor, muscle"
+D014202,Tremor,involuntary quiver
+D014202,Tremor,"tremor, perioral"
+D014202,Tremor,fine tremor
+D014202,Tremor,senile tremor
+D014202,Tremor,darkness tremor
+D014202,Tremor,tremor
+D014202,Tremor,coarse tremor
+D014202,Tremor,passive tremor
+D014202,Tremor,action tremor
+D014313,Trismus,trismus
+D014313,Trismus,masseter muscle spasm
+D014313,Trismus,lockjaw
+D014314,Trisomy,trisomy
+D014314,Trisomy,partial trisomy
+D014456,Ulcer,ulcer
+D014474,Unconsciousness,unconsciousness
+D014514,Ureteral Calculi,ureteral calculi
+D014545,Urinary Calculi,urinary calculi
+D014548,Urinary Fistula,urinary fistula
+D014549,Urinary Incontinence,urinary incontinence
+D014550,"Urinary Incontinence, Stress","urinary incontinence, stress"
+D014592,Uterine Hemorrhage,vaginal bleeding
+D014592,Uterine Hemorrhage,uterine hemorrhage
+D014596,Uterine Prolapse,vaginal prolapse
+D014596,Uterine Prolapse,uterine prolapse
+D014624,Vaginal Fistula,vaginal fistula
+D014693,Ventricular Fibrillation,ventricular fibrillation
+D014717,Vertigo,"vertigo, peripheral"
+D014717,Vertigo,positional vertigo
+D014717,Vertigo,"vertigo, paroxysmal"
+D014717,Vertigo,"vertigo, intermittant"
+D014717,Vertigo,central nervous system origin vertigo
+D014717,Vertigo,"vertigo, essential"
+D014717,Vertigo,"vertigo, constant"
+D014717,Vertigo,vertigo
+D014717,Vertigo,"vertigo, brain stem"
+D014719,Vesicovaginal Fistula,vesicovaginal fistula
+D014766,Viremia,viremia
+D014770,Virilism,virilism
+D014770,Virilism,androgenization
+D014782,Visceral Prolapse,visceral prolapse
+D014786,Vision Disorders,micropsia
+D014786,Vision Disorders,hemeralopia
+D014786,Vision Disorders,metamorphopsia
+D014786,Vision Disorders,vision disability
+D014786,Vision Disorders,macropsia
+D014786,Vision Disorders,vision disorders
+D014786,Vision Disorders,visual impairment
+D014823,Vitreous Hemorrhage,vitreous hemorrhage
+D014826,Vocal Cord Paralysis,unilateral vocal cord paresis
+D014826,Vocal Cord Paralysis,acquired vocal cord palsy
+D014826,Vocal Cord Paralysis,"paralysis, unilateral, vocal cord"
+D014826,Vocal Cord Paralysis,"laryngeal nerve palsy, recurrent"
+D014826,Vocal Cord Paralysis,bilateral vocal cord paresis
+D014826,Vocal Cord Paralysis,laryngeal paralysis
+D014826,Vocal Cord Paralysis,partial paralysis (paresis) vocal cords
+D014826,Vocal Cord Paralysis,congenital vocal cord palsy
+D014826,Vocal Cord Paralysis,vocal cord paralysis
+D014832,Voice Disorders,"voice disorder, neurologic"
+D014832,Voice Disorders,voice disorders
+D014832,Voice Disorders,voice fatigue
+D014832,Voice Disorders,voice disturbance
+D014839,Vomiting,vomiting
+D014840,"Vomiting, Anticipatory","vomiting, anticipatory"
+D014854,Lateral Medullary Syndrome,lateral medullary syndrome
+D014855,Wallerian Degeneration,wallerian degeneration
+D014884,Waterhouse-Friderichsen Syndrome,waterhouse-friderichsen syndrome
+D014884,Waterhouse-Friderichsen Syndrome,meningococcal waterhouse-friderichsen syndrome
+D014997,XYY Karyotype,xyy karyotype
+D015160,Hydrops Fetalis,hydrops fetalis
+D015160,Hydrops Fetalis,"hydrops fetalis, non-immune"
+D015160,Hydrops Fetalis,immune hydrops fetalis
+D015161,"Dementia, Multi-Infarct","dementia, multi-infarct"
+D015161,"Dementia, Multi-Infarct",lacunar dementia
+D015229,"Sexually Transmitted Diseases, Viral","sexually transmitted diseases, viral"
+D015231,"Sexually Transmitted Diseases, Bacterial","sexually transmitted diseases, bacterial"
+D015354,"Vision, Low","vision, low"
+D015427,Reperfusion Injury,reperfusion injury
+D015428,Myocardial Reperfusion Injury,myocardial reperfusion injury
+D015430,Weight Gain,weight gain
+D015431,Weight Loss,weight loss
+D015451,"Leukemia, Lymphocytic, Chronic, B-Cell","leukemia, lymphocytic, chronic, b-cell"
+D015464,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive","leukemia, myelogenous, chronic, bcr-abl positive"
+D015465,"Leukemia, Myeloid, Accelerated Phase","leukemia, myeloid, accelerated phase"
+D015466,"Leukemia, Myeloid, Chronic-Phase","leukemia, myeloid, chronic-phase"
+D015467,"Leukemia, Neutrophilic, Chronic","leukemia, neutrophilic, chronic"
+D015477,"Leukemia, Myelomonocytic, Chronic","leukemia, myelomonocytic, chronic"
+D015494,Salivary Gland Calculi,salivary gland calculi
+D015673,"Fatigue Syndrome, Chronic","fatigue syndrome, chronic"
+D015745,"Granuloma, Foreign-Body","granuloma, foreign-body"
+D015746,Abdominal Pain,abdominal pain
+D015746,Abdominal Pain,colicky pain
+D015769,"Granuloma, Respiratory Tract","granuloma, respiratory tract"
+D015845,Tonic Pupil,"tonic pupil, local"
+D015845,Tonic Pupil,tonic pupil
+D015845,Tonic Pupil,"tonic pupil, neuropathic"
+D015861,Retinal Neovascularization,retinal neovascularization
+D015861,Retinal Neovascularization,sea fan neovascularization
+D015861,Retinal Neovascularization,optic disc neovascularization
+D015875,Anisocoria,anisocoria
+D015875,Anisocoria,"anisocoria, physiologic"
+D015877,Miosis,miosis
+D016063,"Blood Loss, Surgical","blood loss, surgical"
+D016154,Digestive System Fistula,digestive system fistula
+D016155,Oral Fistula,oral fistula
+D016156,Respiratory Tract Fistula,respiratory tract fistula
+D016157,Vascular Fistula,vascular fistula
+D016170,Accelerated Idioventricular Rhythm,accelerated idioventricular rhythm
+D016171,Torsades de Pointes,torsades de pointes
+D016459,Prosthesis-Related Infections,prosthesis-related infections
+D016460,Granuloma Annulare,granuloma annulare
+D016469,Fungemia,fungemia
+D016470,Bacteremia,bacteremia
+D016510,Corneal Neovascularization,corneal neovascularization
+D016534,"Cardiac Output, High","cardiac output, high"
+D016553,"Purpura, Thrombocytopenic, Idiopathic","purpura, thrombocytopenic, idiopathic"
+D016638,Critical Illness,critical illness
+D016672,Zenker Diverticulum,zenker diverticulum
+D016672,Zenker Diverticulum,posterior pharyngeal pouch
+D016710,Yin Deficiency,yin deficiency
+D016711,Yang Deficiency,yang deficiency
+D016724,"Empyema, Pleural","empyema, pleural"
+D016757,"Death, Sudden, Cardiac",sudden cardiac arrest
+D016757,"Death, Sudden, Cardiac","death, sudden, cardiac"
+D016857,Hypocapnia,hypocapnia
+D016918,"Arthritis, Reactive","arthritis, reactive"
+D016918,"Arthritis, Reactive",reiter syndrome
+D017036,Epilepsia Partialis Continua,chronic progressive epilepsia partialis continua
+D017036,Epilepsia Partialis Continua,epilepsia partialis continua
+D017109,"Akathisia, Drug-Induced","akathisia, tardive"
+D017109,"Akathisia, Drug-Induced",pseudoakathisia
+D017109,"Akathisia, Drug-Induced","akathisia, drug-induced"
+D017116,Low Back Pain,"low back pain, postural"
+D017116,Low Back Pain,"low back pain, mechanical"
+D017116,Low Back Pain,"low back pain, recurrent"
+D017116,Low Back Pain,low back pain
+D017116,Low Back Pain,"low back pain, posterior compartment"
+D017180,"Tachycardia, Ventricular",idiopathic ventricular tachycardia
+D017180,"Tachycardia, Ventricular","tachycardia, ventricular"
+D017180,"Tachycardia, Ventricular",nonsustained ventricular tachycardia
+D017180,"Tachycardia, Ventricular",ventricular tachyarrhythmias
+D017180,"Tachycardia, Ventricular",paroxysmal supraventricular tachycardia
+D017246,"Ophthalmoplegia, Chronic Progressive External","ophthalmoplegia, chronic progressive external"
+D017254,Leukemic Infiltration,leukemic infiltration
+D017379,"Hypertrophy, Left Ventricular","hypertrophy, left ventricular"
+D017380,"Hypertrophy, Right Ventricular","hypertrophy, right ventricular"
+D017439,"Cicatrix, Hypertrophic","cicatrix, hypertrophic"
+D017562,Postcholecystectomy Syndrome,postcholecystectomy syndrome
+D017562,Postcholecystectomy Syndrome,postcholedochoduodenostomy syndrome
+D017562,Postcholecystectomy Syndrome,postcholedochojejunostomy syndrome
+D017562,Postcholecystectomy Syndrome,sump syndrome
+D017562,Postcholecystectomy Syndrome,postcholedochostomy syndrome
+D017574,Parasystole,parasystole
+D017577,Cutaneous Fistula,cutaneous fistula
+D017682,Myocardial Stunning,myocardial stunning
+D017682,Myocardial Stunning,stunned myocardium
+D017682,Myocardial Stunning,"hibernation, myocardial"
+D017699,Pelvic Pain,pelvic pain
+D017733,"Leukoplakia, Hairy","leukoplakia, hairy"
+D017789,"Granuloma, Pyogenic","granuloma, pyogenic"
+D017789,"Granuloma, Pyogenic",angiogranuloma
+D017887,Ossification of Posterior Longitudinal Ligament,ossification of posterior longitudinal ligament
+D018365,"Neoplasm, Residual",residual tumor
+D018365,"Neoplasm, Residual",residual cancer
+D018365,"Neoplasm, Residual","neoplasm, residual"
+D018404,Isochromosomes,isochromosomes
+D018437,Brown-Sequard Syndrome,brown-sequard's paralysis
+D018437,Brown-Sequard Syndrome,brown-sequard syndrome
+D018437,Brown-Sequard Syndrome,spastic spinal monoplegia syndrome
+D018450,Disease Progression,disease exacerbation
+D018450,Disease Progression,disease progression
+D018450,Disease Progression,clinical course
+D018458,Persistent Vegetative State,post-comatose unawareness state
+D018458,Persistent Vegetative State,transient vegetative state
+D018458,Persistent Vegetative State,post-traumatic vegetative state
+D018458,Persistent Vegetative State,permanent vegetative state
+D018458,Persistent Vegetative State,vegetative state
+D018458,Persistent Vegetative State,prolonged post-traumatic unawareness
+D018458,Persistent Vegetative State,minimally conscious state
+D018458,Persistent Vegetative State,persistent vegetative state
+D018476,Hypokinesia,hypodynamia
+D018476,Hypokinesia,hypokinesia
+D018476,Hypokinesia,"hypokinesia, antiorthostatic"
+D018476,Hypokinesia,bradykinesia
+D018489,Space Motion Sickness,space motion sickness
+D018496,Hyperoxia,hyperoxia
+D018512,Parasitemia,parasitemia
+D018589,Gastroparesis,gastroparesis
+D018614,Sweating Sickness,sweating sickness
+D018746,Systemic Inflammatory Response Syndrome,systemic inflammatory response syndrome
+D018771,Arthralgia,polyarthralgia
+D018771,Arthralgia,arthralgia
+D018805,Sepsis,severe sepsis
+D018805,Sepsis,sepsis
+D018805,Sepsis,pyemia
+D018805,Sepsis,septicemia
+D018879,Ventricular Premature Complexes,ventricular premature complexes
+D018880,Atrial Premature Complexes,atrial premature complexes
+D018886,"Aphasia, Conduction","aphasia, conduction"
+D018888,"Aphasia, Primary Progressive","aphasia, primary progressive"
+D018908,Muscle Weakness,muscle weakness
+D019066,Facies,facies
+D019080,Cafe-au-Lait Spots,cafe-au-lait spots
+D019106,Postoperative Hemorrhage,postoperative hemorrhage
+D019315,Retrobulbar Hemorrhage,retrobulbar hemorrhage
+D019446,Endotoxemia,endotoxemia
+D019457,Chromosome Breakage,chromosome breakage
+D019457,Chromosome Breakage,chromosome breaks
+D019462,"Syncope, Vasovagal","syncope, malignant neurocardiogenic"
+D019462,"Syncope, Vasovagal","syncope, cerebral"
+D019462,"Syncope, Vasovagal","syncope, vasovagal"
+D019462,"Syncope, Vasovagal","syncope, supine"
+D019547,Neck Pain,anterior cervical pain
+D019547,Neck Pain,neck pain
+D019547,Neck Pain,posterior cervical pain
+D019569,Hemifacial Spasm,hemifacial myokymia
+D019569,Hemifacial Spasm,hemifacial spasm
+D019575,"Blindness, Cortical","blindness, cortical"
+D019575,"Blindness, Cortical",anton syndrome
+D019575,"Blindness, Cortical","blindness, cortical, transient"
+D019575,"Blindness, Cortical","blindness, cortical, post-ictal"
+D019584,Hot Flashes,hot flashes
+D019588,"Aging, Premature","aging, premature"
+D019591,Pseudophakia,pseudophakia
+D019694,"Hepatitis B, Chronic","hepatitis b, chronic"
+D019698,"Hepatitis C, Chronic","hepatitis c, chronic"
+D019701,"Hepatitis D, Chronic","hepatitis d, chronic"
+D019896,alpha 1-Antitrypsin Deficiency,alpha 1-antitrypsin deficiency
+D019954,Neurobehavioral Manifestations,neurobehavioral manifestations
+D020022,Genetic Predisposition to Disease,genetic predisposition to disease
+D020047,Rectocele,rectocele
+D020069,Shoulder Pain,shoulder pain
+D020078,Neurogenic Inflammation,neurogenic inflammation
+D020132,"Anticipation, Genetic","anticipation, genetic"
+D020139,Gastroschisis,gastroschisis
+D020145,Basal Ganglia Hemorrhage,basal ganglia hemorrhage
+D020145,Basal Ganglia Hemorrhage,"hematoma, basal ganglia"
+D020146,Putaminal Hemorrhage,putaminal hematoma
+D020146,Putaminal Hemorrhage,putaminal hemorrhage
+D020179,Jet Lag Syndrome,jet lag syndrome
+D020199,"Hematoma, Subdural, Acute","hematoma, subdural, acute"
+D020200,"Hematoma, Subdural, Chronic","hematoma, subdural, chronic"
+D020208,"Brain Injury, Chronic","brain injury, chronic"
+D020216,Carotid-Cavernous Sinus Fistula,traumatic carotid-cavernous sinus fistula
+D020216,Carotid-Cavernous Sinus Fistula,carotid-cavernous sinus fistula
+D020233,"Gait Disorders, Neurologic","gait, shuffling"
+D020233,"Gait Disorders, Neurologic",rapid fatigue of gait
+D020233,"Gait Disorders, Neurologic","gait, broadened"
+D020233,"Gait Disorders, Neurologic","gait, hysterical"
+D020233,"Gait Disorders, Neurologic",charcot gait
+D020233,"Gait Disorders, Neurologic","gait, scissors"
+D020233,"Gait Disorders, Neurologic","gait, athetotic"
+D020233,"Gait Disorders, Neurologic","gait, drop foot"
+D020233,"Gait Disorders, Neurologic","gait, rigid"
+D020233,"Gait Disorders, Neurologic","gait, reeling"
+D020233,"Gait Disorders, Neurologic","gait, frontal"
+D020233,"Gait Disorders, Neurologic","gait disorders, neurologic"
+D020233,"Gait Disorders, Neurologic","gait, widebased"
+D020233,"Gait Disorders, Neurologic","gait, festinating"
+D020233,"Gait Disorders, Neurologic","gait, unsteady"
+D020233,"Gait Disorders, Neurologic",duck gait
+D020233,"Gait Disorders, Neurologic","gait, stumbling"
+D020233,"Gait Disorders, Neurologic",marche a petit pas
+D020233,"Gait Disorders, Neurologic","gait, hemiplegic"
+D020233,"Gait Disorders, Neurologic","gait disorder, sensorimotor"
+D020233,"Gait Disorders, Neurologic","gait, spastic"
+D020234,Gait Ataxia,gait ataxia
+D020234,Gait Ataxia,cerebellar gait ataxia
+D020234,Gait Ataxia,"gait ataxia, sensory"
+D020235,Gait Apraxia,gait apraxia
+D020235,Gait Apraxia,frontal gait apraxia
+D020235,Gait Apraxia,bruns' apraxia of gait
+D020236,"Amnesia, Transient Global","amnesia, transient global"
+D020237,"Alexia, Pure","alexia, pure"
+D020238,Prosopagnosia,"prosopagnosia, acquired"
+D020238,Prosopagnosia,"prosopagnosia, developmental"
+D020238,Prosopagnosia,prosopagnosia
+D020240,"Apraxia, Ideomotor","apraxia, ideomotor"
+D020243,"Infarction, Anterior Cerebral Artery","infarction, anterior cerebral artery"
+D020243,"Infarction, Anterior Cerebral Artery",anterior cerebral artery syndrome
+D020243,"Infarction, Anterior Cerebral Artery",heubner artery infarction
+D020244,"Infarction, Middle Cerebral Artery","embolic infarction, middle cerebral artery"
+D020244,"Infarction, Middle Cerebral Artery",middle cerebral artery syndrome
+D020244,"Infarction, Middle Cerebral Artery",right middle cerebral artery infarction
+D020244,"Infarction, Middle Cerebral Artery",middle cerebral artery occlusion
+D020244,"Infarction, Middle Cerebral Artery",left middle cerebral artery infarction
+D020244,"Infarction, Middle Cerebral Artery","infarction, middle cerebral artery"
+D020244,"Infarction, Middle Cerebral Artery",middle cerebral artery embolus
+D020244,"Infarction, Middle Cerebral Artery",middle cerebral artery thrombosis
+D020244,"Infarction, Middle Cerebral Artery","thrombotic infarction, middle cerebral artery"
+D020250,Postoperative Nausea and Vomiting,postoperative nausea and vomiting
+D020250,Postoperative Nausea and Vomiting,postoperative nausea
+D020250,Postoperative Nausea and Vomiting,"vomiting, postoperative"
+D020256,Choroidal Neovascularization,choroidal neovascularization
+D020257,Ventricular Remodeling,ventricular remodeling
+D020257,Ventricular Remodeling,left ventricle remodeling
+D020270,Alcohol Withdrawal Seizures,alcohol withdrawal-induced major motor seizure
+D020270,Alcohol Withdrawal Seizures,alcohol withdrawal seizures
+D020270,Alcohol Withdrawal Seizures,"status epilepticus, alcohol withdrawal-induced"
+D020275,Guillain-Barre Syndrome,acute inflammatory demyelinating polyneuropathy
+D020275,Guillain-Barre Syndrome,"guillain-barre syndrome, familial"
+D020275,Guillain-Barre Syndrome,guillain-barre syndrome
+D020275,Guillain-Barre Syndrome,acute autoimmune neuropathy
+D020277,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating","polyradiculoneuropathy, chronic inflammatory demyelinating"
+D020300,Intracranial Hemorrhages,posterior fossa hemorrhage
+D020300,Intracranial Hemorrhages,brain hemorrhage
+D020300,Intracranial Hemorrhages,intracranial hemorrhages
+D020323,Tics,"tic, vocal"
+D020323,Tics,"tic, motor"
+D020323,Tics,"tic, transient"
+D020323,Tics,"tic, gestural"
+D020323,Tics,tics
+D020324,"Amnesia, Anterograde","amnesia, anterograde"
+D020324,"Amnesia, Anterograde",post-ictal memory loss
+D020335,Paraparesis,"paraparesis, hypotonic"
+D020335,Paraparesis,"paraparesis, cerebral"
+D020335,Paraparesis,paraparesis
+D020335,Paraparesis,"paraparesis, spinal"
+D020335,Paraparesis,"paraparesis, chronic progressive"
+D020336,"Paraparesis, Spastic","paraparesis, spastic"
+D020347,Lithiasis,lithiasis
+D020385,Myokymia,"myokymia, generalized"
+D020385,Myokymia,myokymia
+D020520,Brain Infarction,anterior cerebral circulation infarction
+D020520,Brain Infarction,"venous infarction, brain"
+D020520,Brain Infarction,anterior circulation brain infarction
+D020520,Brain Infarction,"brain infarction, posterior circulation"
+D020520,Brain Infarction,brain infarction
+D020526,Brain Stem Infarctions,claude syndrome
+D020526,Brain Stem Infarctions,weber syndrome
+D020526,Brain Stem Infarctions,millard-gublar syndrome
+D020526,Brain Stem Infarctions,top of the basilar syndrome
+D020526,Brain Stem Infarctions,foville syndrome
+D020526,Brain Stem Infarctions,benedict syndrome
+D020526,Brain Stem Infarctions,brain stem infarctions
+D020528,"Multiple Sclerosis, Chronic Progressive","multiple sclerosis, secondary progressive"
+D020528,"Multiple Sclerosis, Chronic Progressive","multiple sclerosis, chronic progressive"
+D020528,"Multiple Sclerosis, Chronic Progressive","multiple sclerosis, primary progressive"
+D020528,"Multiple Sclerosis, Chronic Progressive","multiple sclerosis, progressive relapsing"
+D020567,Fetal Weight,fetal weight
+D020757,Amaurosis Fugax,amaurosis fugax
+D020762,"Infarction, Posterior Cerebral Artery","embolic infarction, posterior cerebral artery"
+D020762,"Infarction, Posterior Cerebral Artery",posterior cerebral artery syndrome
+D020762,"Infarction, Posterior Cerebral Artery","thrombotic infarction, posterior cerebral artery"
+D020762,"Infarction, Posterior Cerebral Artery","infarction, posterior cerebral artery"
+D020763,"Pathological Conditions, Anatomical","pathological conditions, anatomical"
+D020792,Salivary Calculi,salivary calculi
+D020795,Photophobia,photophobia
+D020820,Dyskinesias,dyskinesias
+D020820,Dyskinesias,oral dyskinesia
+D020820,Dyskinesias,asterixis
+D020820,Dyskinesias,hemiballismus
+D020820,Dyskinesias,ballismus
+D020820,Dyskinesias,involuntary movements
+D020820,Dyskinesias,orofacial dyskinesia
+D020828,Pseudobulbar Palsy,pseudobulbar palsy
+D020828,Pseudobulbar Palsy,"dysarthria, pseudobulbar"
+D020828,Pseudobulbar Palsy,pseudobulbar mutism
+D020879,Neuromuscular Manifestations,neuromuscular manifestations
+D020879,Neuromuscular Manifestations,muscle disease manifestations
+D020886,Somatosensory Disorders,"impairment, light touch sensation"
+D020886,Somatosensory Disorders,proprioceptive disorders
+D020886,Somatosensory Disorders,position sense disorders
+D020886,Somatosensory Disorders,pinprick sensation diminished
+D020886,Somatosensory Disorders,somatosensory disorders
+D020886,Somatosensory Disorders,thermal sensation disorders
+D020886,Somatosensory Disorders,pain sensation diminished
+D020896,Hypovolemia,hypovolemia
+D020896,Hypovolemia,hypovolemic
+D020915,Korsakoff Syndrome,korsakoff syndrome
+D020924,Urological Manifestations,urological manifestations
+D020925,"Hypoxia-Ischemia, Brain",hypoxic-ischemic encephalopathy
+D020925,"Hypoxia-Ischemia, Brain","anoxia-ischemia, brain"
+D020925,"Hypoxia-Ischemia, Brain","hypoxia-ischemia, brain"
+D020925,"Hypoxia-Ischemia, Brain",anoxic-ischemic encephalopathy
+D020925,"Hypoxia-Ischemia, Brain",cerebral hypoxia-ischemia
+D020925,"Hypoxia-Ischemia, Brain","anoxia-ischemia, cerebral"
+D020964,Embryo Loss,embryo loss
+D020964,Embryo Loss,embryo resorption
+D020964,Embryo Loss,embryo death
+D020964,Embryo Loss,blastocyst disintegration
+D020964,Embryo Loss,embryo disintegration
+D020969,Disease Attributes,disease attributes
+D021501,Flank Pain,left flank pain
+D021501,Flank Pain,flank pain
+D021501,Flank Pain,right flank pain
+D021821,"Communicable Diseases, Emerging","communicable diseases, reemerging"
+D021821,"Communicable Diseases, Emerging","communicable diseases, emerging"
+D022124,Hyperammonemia,hyperammonemia
+D023341,Chills,chills
+D024182,Uniparental Disomy,uniparental isodisomy
+D024182,Uniparental Disomy,uniparental heterodisomy
+D024182,Uniparental Disomy,uniparental disomy
+D029424,"Pulmonary Disease, Chronic Obstructive","airflow obstruction, chronic"
+D029424,"Pulmonary Disease, Chronic Obstructive","pulmonary disease, chronic obstructive"
+D029481,"Bronchitis, Chronic","bronchitis, chronic"
+D029597,Romano-Ward Syndrome,romano-ward syndrome
+D030361,Papillomavirus Infections,human papillomavirus infection
+D030361,Papillomavirus Infections,papillomavirus infections
+D031941,"Hemorrhagic Septicemia, Viral","hemorrhagic septicemia, viral"
+D033461,Hyperuricemia,hyperuricemia
+D034081,"Wasting Disease, Chronic","wasting disease, chronic"
+D034321,Hyperamylasemia,hyperamylasemia
+D034321,Hyperamylasemia,macroamylasemia
+D034381,Hearing Loss,"deafness, transitory"
+D034381,Hearing Loss,hearing loss
+D035583,Rare Diseases,orphan diseases
+D035583,Rare Diseases,rare diseases
+D037061,Metatarsalgia,metatarsalgia
+D041781,"Jaundice, Obstructive","jaundice, obstructive"
+D042822,Genomic Instability,genomic stability
+D042822,Genomic Instability,genomic instability
+D042882,Gallstones,gallstones
+D042882,Gallstones,common bile duct calculi
+D043171,Chromosomal Instability,chromosomal instability
+D043171,Chromosomal Instability,chromosome stability
+D045262,Reticulocytosis,reticulocytosis
+D045822,Intestinal Volvulus,intestinal volvulus
+D046088,"Hearing Loss, Unilateral","hearing loss, unilateral"
+D046088,"Hearing Loss, Unilateral","deafness, unilateral"
+D046089,"Hearing Loss, Mixed Conductive-Sensorineural","hearing loss, mixed conductive-sensorineural"
+D046449,"Hernia, Abdominal","hernia, abdominal"
+D046589,CADASIL,cadasil
+D046589,CADASIL,cadasilm
+D046608,Synkinesis,synkinesis
+D046648,"Hematoma, Subdural, Intracranial","intracranial subdural hematoma, traumatic"
+D046648,"Hematoma, Subdural, Intracranial","hematoma, subdural, intracranial"
+D046649,"Hematoma, Subdural, Spinal","hematoma, subdural, spinal"
+D046649,"Hematoma, Subdural, Spinal",traumatic spinal subdural hematoma
+D046748,"Hematoma, Epidural, Spinal","hematoma, epidural, spinal"
+D048629,"Micronuclei, Chromosome-Defective","micronuclei, chromosome-defective"
+D048629,"Micronuclei, Chromosome-Defective","micronuclei, genotoxicant-induced"
+D048949,Labor Pain,labor pain
+D048968,Morning Sickness,morning sickness
+D049291,Seroma,seroma
+D049292,Leukoaraiosis,leukoaraiosis
+D050030,Andersen Syndrome,andersen syndrome
+D050177,Overweight,overweight
+D050497,Stillbirth,stillbirth
+D050500,"Pancreatitis, Chronic","pancreatitis, chronic"
+D051261,"Granulomatosis, Orofacial","granulomatosis, orofacial"
+D051346,Mobility Limitation,ambulation difficulty
+D051346,Mobility Limitation,mobility limitation
+D051436,"Renal Insufficiency, Chronic",chronic kidney diseases
+D051436,"Renal Insufficiency, Chronic","renal insufficiency, chronic"
+D051474,"Neuralgia, Postherpetic","neuralgia, postherpetic"
+D051556,"Hyperbilirubinemia, Neonatal","indirect hyperbilirubinemia, neonatal"
+D051556,"Hyperbilirubinemia, Neonatal","direct hyperbilirubinemia, neonatal"
+D051556,"Hyperbilirubinemia, Neonatal","hyperbilirubinemia, neonatal"
+D051799,Delayed Graft Function,delayed graft function
+D052159,Frasier Syndrome,frasier syndrome
+D052245,Usher Syndromes,"usher syndrome, type iii"
+D052245,Usher Syndromes,"usher syndrome, type i"
+D052245,Usher Syndromes,"usher syndrome, type ii"
+D052245,Usher Syndromes,usher syndromes
+D052858,Cystocele,cystocele
+D052879,Subacute Combined Degeneration,subacute combined degeneration
+D053099,Azotemia,azotemia
+D053120,Respiratory Aspiration,respiratory aspiration
+D053120,Respiratory Aspiration,foreign body aspiration
+D053158,Nocturia,nocturia
+D053159,Dysuria,dysuria
+D053201,"Urinary Bladder, Overactive","urinary bladder, overactive"
+D053201,"Urinary Bladder, Overactive",overactive detrusor
+D053202,"Urinary Incontinence, Urge","urinary incontinence, urge"
+D053447,Channelopathies,channelopathies
+D053448,Prostatism,prostatism
+D053565,Hypercalciuria,hypercalciuria
+D053584,Urinoma,urinoma
+D053591,"Pain, Referred","pain, referred"
+D053591,"Pain, Referred","facial pain, referred"
+D053608,Stupor,stupor
+D053608,Stupor,narcosis
+D053609,Lethargy,lethargy
+D053717,"Pneumonia, Ventilator-Associated","pneumonia, ventilator-associated"
+D053836,"DNA Degradation, Necrotic","dna degradation, necrotic"
+D053842,Microsatellite Instability,replication error phenotype
+D053842,Microsatellite Instability,microsatellite instability
+D054060,Pulmonary Infarction,pulmonary infarction
+D054062,Deaf-Blind Disorders,prelingual deafness-blindness
+D054062,Deaf-Blind Disorders,deaf-blind syndromes
+D054062,Deaf-Blind Disorders,deaf-blind disorders
+D054068,Livedo Reticularis,livedo racemosa
+D054068,Livedo Reticularis,livedo reticularis
+D054068,Livedo Reticularis,cutis marmorata
+D054138,"Sinus Arrest, Cardiac","sinus arrest, cardiac"
+D054139,"Tachycardia, Reciprocating","tachycardia, reciprocating"
+D054141,Ventricular Flutter,ventricular flutter
+D054160,Systolic Murmurs,systolic regurgitant murmurs
+D054160,Systolic Murmurs,systolic murmurs
+D054160,Systolic Murmurs,ejection murmurs
+D054318,No-Reflow Phenomenon,no-reflow phenomenon
+D054318,No-Reflow Phenomenon,slow-flow phenomenon
+D054438,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative","leukemia, myeloid, chronic, atypical, bcr-abl negative"
+D054537,Atrioventricular Block,atrioventricular block
+D054971,Orthostatic Intolerance,orthostatic intolerance
+D054989,Nephrogenic Fibrosing Dermopathy,nephrogenic fibrosing dermopathy
+D055031,Primary Graft Dysfunction,primary graft dysfunction
+D055111,Failed Back Surgery Syndrome,failed back surgery syndrome
+D055113,Chronic Periodontitis,chronic periodontitis
+D055154,Dysphonia,spastic dysphonia
+D055154,Dysphonia,hyperkinetic dysphonia
+D055154,Dysphonia,"spastic dysphonia, neurologic adducter"
+D055154,Dysphonia,organic tremor dysphonia
+D055154,Dysphonia,dysphonia
+D055191,Delayed Emergence from Anesthesia,delayed emergence from anesthesia
+D055191,Delayed Emergence from Anesthesia,postoperative residual curarization
+D055665,Purpura Fulminans,purpura fulminans
+D055948,Sarcopenia,sarcopenia
+D055954,Corneal Endothelial Cell Loss,corneal endothelial cell loss
+D055955,Susac Syndrome,susac syndrome
+D055958,Piriformis Muscle Syndrome,piriformis muscle syndrome
+D055964,Alien Limb Phenomenon,alien leg syndrome
+D055964,Alien Limb Phenomenon,alien hand syndrome
+D055964,Alien Limb Phenomenon,alien limb phenomenon
+D056124,Slit Ventricle Syndrome,slit ventricle syndrome
+D056128,"Obesity, Abdominal","obesity, abdominal"
+D056128,"Obesity, Abdominal","obesity, visceral"
+D056146,Corpse Dismemberment,corpse dismemberment
+D056151,Airway Remodeling,asthmatic airway remodeling
+D056151,Airway Remodeling,small airway remodeling
+D056151,Airway Remodeling,airway remodeling
+D056487,"Chemical and Drug Induced Liver Injury, Chronic","hepatitis, chronic, drug-induced"
+D056487,"Chemical and Drug Induced Liver Injury, Chronic","chemical-induced liver injury, chronic"
+D056487,"Chemical and Drug Induced Liver Injury, Chronic","drug-induced liver injury, chronic"
+D056487,"Chemical and Drug Induced Liver Injury, Chronic","chemical and drug induced liver injury, chronic"
+D056587,Cryopyrin-Associated Periodic Syndromes,"chronic infantile neurological, cutaneous, and articular syndrome"
+D056587,Cryopyrin-Associated Periodic Syndromes,muckle-wells syndrome
+D056587,Cryopyrin-Associated Periodic Syndromes,familial cold autoinflammatory syndrome 1
+D056587,Cryopyrin-Associated Periodic Syndromes,familial cold autoinflammatory syndrome
+D056587,Cryopyrin-Associated Periodic Syndromes,cryopyrin-associated periodic syndromes
+D056627,Peritoneal Fibrosis,peritoneal sclerosis
+D056627,Peritoneal Fibrosis,encapsulating peritoneal sclerosis
+D056627,Peritoneal Fibrosis,peritoneal fibrosis
+D056684,Yellow Nail Syndrome,yellow nail syndrome
+D056844,Renal Colic,renal colic
+D056887,Pelvic Organ Prolapse,vaginal vault prolapse
+D056887,Pelvic Organ Prolapse,pelvic organ prolapse
+D056987,Vasoplegia,postoperative vasoplegic syndrome
+D056987,Vasoplegia,vasoplegia
+D056988,Anterior Wall Myocardial Infarction,anteroseptal myocardial infarction
+D056988,Anterior Wall Myocardial Infarction,anterior wall myocardial infarction
+D056988,Anterior Wall Myocardial Infarction,acute anterior wall myocardial infarction
+D056988,Anterior Wall Myocardial Infarction,anterolateral myocardial infarction
+D056989,Inferior Wall Myocardial Infarction,inferior wall myocardial infarction
+D056989,Inferior Wall Myocardial Infarction,acute inferior myocardial infarction
+D057178,Primary Progressive Nonfluent Aphasia,primary progressive nonfluent aphasia
+D057768,"Brief, Resolved, Unexplained Event",infantile apparent life-threatening event
+D057768,"Brief, Resolved, Unexplained Event","brief, resolved, unexplained event"
+D057867,Endoleak,endoleak
+D057868,Anastomotic Leak,anastomotic leak
+D057885,Triploidy,triploidy
+D057891,Tetraploidy,tetraploidy
+D057896,Striae Distensae,striae distensae
+D057910,Implant Capsular Contracture,implant capsular contracture
+D057925,Femoracetabular Impingement,femoracetabular impingement
+D058069,Neglected Diseases,neglected tropical diseases
+D058069,Neglected Diseases,neglected diseases
+D058070,Asymptomatic Diseases,asymptomatic diseases
+D058225,"Plaque, Amyloid",senile plaques
+D058225,"Plaque, Amyloid","plaque, amyloid"
+D058226,"Plaque, Atherosclerotic","plaque, atherosclerotic"
+D058226,"Plaque, Atherosclerotic","fatty streak, arterial"
+D058226,"Plaque, Atherosclerotic",fibroatheroma
+D058226,"Plaque, Atherosclerotic",atheroma
+D058247,Loose Anagen Hair Syndrome,loose anagen hair syndrome
+D058252,Necrobiotic Xanthogranuloma,necrobiotic xanthogranuloma
+D058345,Asymptomatic Infections,presymptomatic infections
+D058345,Asymptomatic Infections,asymptomatic infections
+D058345,Asymptomatic Infections,asymptomatic colonization
+D058387,Candidemia,candidemia
+D058426,Neointima,neointima
+D058426,Neointima,neointima formation
+D058447,Eye Pain,eye pain
+D058568,Necrolytic Migratory Erythema,pseudoglucagonoma syndrome
+D058568,Necrolytic Migratory Erythema,necrolytic migratory erythema
+D058606,Accessory Atrioventricular Bundle,concealed accessory pathway
+D058606,Accessory Atrioventricular Bundle,james fibers
+D058606,Accessory Atrioventricular Bundle,mahaim fibers
+D058606,Accessory Atrioventricular Bundle,accessory atrioventricular bundle
+D058606,Accessory Atrioventricular Bundle,atriohisian tract
+D058606,Accessory Atrioventricular Bundle,nodoventricular accessory pathway
+D058606,Accessory Atrioventricular Bundle,fasciculoventricular accessory pathway
+D058670,Tetrasomy,partial tetrasomy
+D058670,Tetrasomy,tetrasomy
+D058674,Chromosome Duplication,chromosome duplication
+D058686,Coronary-Subclavian Steal Syndrome,coronary-subclavian steal syndrome
+D058734,Exsanguination,exsanguination
+D058747,CHARGE Syndrome,charge syndrome
+D058747,CHARGE Syndrome,familial charge syndrome
+D058926,Intraoperative Awareness,intraoperative awareness
+D059226,Nociceptive Pain,tissue pain
+D059226,Nociceptive Pain,nociceptive pain
+D059245,Transient Tachypnea of the Newborn,transient tachypnea of the newborn
+D059246,Tachypnea,tachypnea
+D059265,Visceral Pain,visceral pain
+D059266,Bisphosphonate-Associated Osteonecrosis of the Jaw,bisphosphonate-associated osteonecrosis of the jaw
+D059266,Bisphosphonate-Associated Osteonecrosis of the Jaw,bisphosphonate-associated osteonecrosis
+D059350,Chronic Pain,chronic pain
+D059350,Chronic Pain,widespread chronic pain
+D059350,Chronic Pain,chronic primary pain
+D059350,Chronic Pain,chronic secondary pain
+D059352,Musculoskeletal Pain,musculoskeletal pain
+D059373,Mastodynia,mastodynia
+D059388,Pelvic Girdle Pain,symphysis pubis dysfunction
+D059388,Pelvic Girdle Pain,pelvic girdle pain
+D059390,Breakthrough Pain,breakthrough pain
+D059409,"Stroke, Lacunar","stroke, lacunar"
+D059409,"Stroke, Lacunar","infarction, lacunar"
+D059411,Lower Urinary Tract Symptoms,lower urinary tract symptoms
+D059445,Anhedonia,anhedonia
+D059445,Anhedonia,physical anhedonia
+D059445,Anhedonia,social anhedonia
+D059606,Polydipsia,polydipsia
+D059607,"Polydipsia, Psychogenic","polydipsia, psychogenic"
+D059786,Abnormal Karyotype,abnormal karyotype
+D059787,Acute Pain,acute pain
+D060050,"Angina, Stable","angina, stable"
+D060467,Disease Resistance,disease resistance
+D060486,Ophthalmoplegic Migraine,ophthalmoplegic migraine
+D060545,Pudendal Neuralgia,pudendal neuralgia
+D060545,Pudendal Neuralgia,pudendal nerve entrapment syndrome
+D060705,Dyscalculia,secondary acalculia
+D060705,Dyscalculia,acalculia
+D060705,Dyscalculia,developmental dyscalculia
+D060705,Dyscalculia,dyscalculia
+D060705,Dyscalculia,acquired dyscalculia
+D060725,Uterine Retroversion,uterine retroflexion
+D060725,Uterine Retroversion,incarcerated retroverted uterus
+D060725,Uterine Retroversion,uterine retroversion
+D060725,Uterine Retroversion,retroverted gravid uterus
+D060750,Bone Anteversion,bone anteversion
+D060751,Bone Retroversion,bone retroversion
+D060905,Coxa Vara,acquired coxa vara
+D060905,Coxa Vara,developmental coxa vara
+D060905,Coxa Vara,congenital coxa vara
+D060905,Coxa Vara,coxa vara
+D060906,Coxa Valga,acquired coxa valga
+D060906,Coxa Valga,developmental coxa valga
+D060906,Coxa Valga,coxa valga
+D060906,Coxa Valga,congenital coxa valga
+D061085,Agenesis of Corpus Callosum,agenesis of corpus callosum
+D061085,Agenesis of Corpus Callosum,corpus callosum malformation
+D061206,Neoplasm Micrometastasis,neoplasm micrometastasis
+D062026,Alice in Wonderland Syndrome,alice in wonderland syndrome
+D062688,Buschke-Lowenstein Tumor,buschke-lowenstein tumor
+D062706,Prodromal Symptoms,prodromal period
+D062706,Prodromal Symptoms,prodromal states
+D062706,Prodromal Symptoms,prodromal stage
+D062706,Prodromal Symptoms,prodromal symptoms
+D063129,Parental Death,parental death
+D063130,Maternal Death,maternal death
+D063466,Respiratory Aspiration of Gastric Contents,respiratory aspiration of gastric contents
+D063646,Carcinogenesis,carcinogenesis
+D063748,Bland White Garland Syndrome,bland white garland syndrome
+D063766,Pediatric Obesity,adolescent overweight
+D063766,Pediatric Obesity,infantile obesity
+D063766,Pediatric Obesity,infant overweight
+D063766,Pediatric Obesity,pediatric obesity
+D063766,Pediatric Obesity,adolescent obesity
+D063766,Pediatric Obesity,childhood overweight
+D063806,Myalgia,muscle tenderness
+D063806,Myalgia,myalgia
+D064250,Hypertriglyceridemic Waist,hypertriglyceridemic waist
+D064752,Atrial Remodeling,atrial remodeling
+D064793,Teratogenesis,teratogenesis
+D064806,Dysbiosis,dysbacteriosis
+D064806,Dysbiosis,dysbiosis
+D065308,Morphological and Microscopic Findings,morphological and microscopic findings
+D065309,Atypical Squamous Cells of the Cervix,atypical squamous cells of the cervix
+D065309,Atypical Squamous Cells of the Cervix,atypical squamous cells of undetermined significance
+D065309,Atypical Squamous Cells of the Cervix,atypical squamous cells
+D065309,Atypical Squamous Cells of the Cervix,"atypical squamous cells, cannot rule out high-grade squamous intra-epithelial lesion"
+D065310,Squamous Intraepithelial Lesions of the Cervix,squamous intraepithelial lesions of the cervix
+D065311,Adenocarcinoma in Situ,adenocarcinoma in situ
+D065446,Premenstrual Dysphoric Disorder,premenstrual dysphoric disorder
+D065630,"Hernias, Diaphragmatic, Congenital",bochdalek hernias
+D065630,"Hernias, Diaphragmatic, Congenital","hernias, diaphragmatic, congenital"
+D065630,"Hernias, Diaphragmatic, Congenital",morgagni hernias
+D065634,Cerebrospinal Fluid Leak,cerebrospinal fluid leak
+D065634,Cerebrospinal Fluid Leak,"cerebrospinal fluid leak, spontaneous"
+D065634,Cerebrospinal Fluid Leak,"cerebrospinal fluid leak, post-traumatic"
+D065635,Benign Paroxysmal Positional Vertigo,benign paroxysmal positional vertigo
+D065906,Hyperlactatemia,hyperlactatemia
+D065907,Karoshi Death,karoshi death
+D066087,Perinatal Death,neonatal death
+D066087,Perinatal Death,perinatal death
+D066088,Infant Death,infant death
+D066126,Cardiotoxicity,cardiotoxicity
+D066190,Allesthesia,allochiria
+D066190,Allesthesia,dyschiria
+D066190,Allesthesia,allesthesia
+D066253,Vascular Remodeling,pulmonary arterial remodeling
+D066253,Vascular Remodeling,vascular remodeling
+D066263,"Protein Aggregation, Pathological","protein aggregation, pathological"
+D000067251,Symptom Flare Up,symptom flare up
+D000067251,Symptom Flare Up,symptom exacerbation
+D000067329,"Obesity, Metabolically Benign","obesity, metabolically benign"
+D000067559,Specific Learning Disorder,specific learning disorder
+D000067562,Late Onset Disorders,late onset disorders
+D000068376,Compassion Fatigue,compassion fatigue
+D000069290,Incisional Hernia,incisional hernia
+D000069451,Long Term Adverse Effects,long term adverse effects
+D000069856,Staghorn Calculi,staghorn calculi
+D000070607,Morton Neuroma,morton neuroma
+D000070627,Chronic Traumatic Encephalopathy,"encephalopathy, post-traumatic"
+D000070627,Chronic Traumatic Encephalopathy,"chronic encephalopathy, post-concussive"
+D000070627,Chronic Traumatic Encephalopathy,"encephalopathy, post-concussive"
+D000070627,Chronic Traumatic Encephalopathy,chronic traumatic encephalopathy
+D000071057,Tardive Dyskinesia,tardive dyskinesia
+D000071064,"Alert Fatigue, Health Personnel","alert fatigue, health personnel"
+D000071069,Multiple Chronic Conditions,multiple chronic conditions
+D000071074,Neonatal Sepsis,neonatal early-onset sepsis
+D000071074,Neonatal Sepsis,neonatal sepsis
+D000071074,Neonatal Sepsis,neonatal late-onset sepsis
+D000071257,Emergence Delirium,emergence delirium
+D000071298,Body Remains,animal remains
+D000071298,Body Remains,human remains
+D000071298,Body Remains,body remains
+D000071298,Body Remains,skeletal remains
+D000071697,Cellulite,cellulite
+D000071699,Bilateral Vestibulopathy,bilateral vestibulopathy
+D000071896,Medically Unexplained Symptoms,medically unexplained symptoms
+D000072656,Breast Cancer Lymphedema,breast cancer lymphedema
+D000072656,Breast Cancer Lymphedema,postmastectomy lymphedema
+D000072657,ST Elevation Myocardial Infarction,st elevation myocardial infarction
+D000072658,Non-ST Elevated Myocardial Infarction,non-st elevated myocardial infarction
+D000072662,Margins of Excision,positive surgical margins
+D000072662,Margins of Excision,margins of excision
+D000072662,Margins of Excision,negative surgical margins
+D000072663,Spontaneous Perforation,spontaneous perforation
+D000072716,Cancer Pain,cancer pain
+D000072717,Tertiary Lymphoid Structures,tertiary lymphoid structures
+D000072837,Chromothripsis,chromothripsis
+D000073296,Noncommunicable Diseases,non-communicable chronic diseases
+D000073296,Noncommunicable Diseases,noncommunicable diseases
+D000073436,Microvascular Rarefaction,microvascular rarefaction
+D000073436,Microvascular Rarefaction,capillary rarefaction
+D000073496,Frailty,frailty syndrome
+D000073496,Frailty,debility
+D000073496,Frailty,frailty
+D000073818,"Pain, Procedural","pain, procedural"
+D000073923,Food Intolerance,food intolerance
+D000074021,Interatrial Block,interatrial block
+D000074021,Interatrial Block,bayes syndrome
+D000074042,Cerebral Intraventricular Hemorrhage,cerebral intraventricular hemorrhage
+D000074723,Oncogene Addiction,oncogene addiction
+D000075529,Solitary Kidney,solitary kidney
+D000075529,Solitary Kidney,unilateral renal hypoplasia
+D000075562,Charles Bonnet Syndrome,charles bonnet syndrome
+D000075662,Injection Site Reaction,injection site reaction
+D000075662,Injection Site Reaction,infusion site reaction
+D000075902,Clinical Deterioration,clinical deterioration
+D000076042,Alcoholic Korsakoff Syndrome,alcoholic korsakoff syndrome
+D000076082,Travel-Related Illness,travel sickness
+D000076082,Travel-Related Illness,travel-related sickness
+D000076082,Travel-Related Illness,travel-related illness
+D000076082,Travel-Related Illness,travel-associated infections
+D000076263,"Communicable Diseases, Imported","communicable diseases, imported"
+D000077260,Sleepiness,sleepiness
+D000077295,"Urinary Bladder, Underactive",hypotonic bladder
+D000077295,"Urinary Bladder, Underactive","urinary bladder, underactive"
+D000077295,"Urinary Bladder, Underactive",underactive detrusor
+D000077299,Healthcare-Associated Pneumonia,healthcare-associated pneumonia
+D000077299,Healthcare-Associated Pneumonia,hospital acquired pneumonia
+D000077342,Post-Lyme Disease Syndrome,post-treatment lyme disease
+D000077342,Post-Lyme Disease Syndrome,post-lyme disease syndrome
+D000077962,Body-Weight Trajectory,weight loss trajectory
+D000077962,Body-Weight Trajectory,weight change trajectory
+D000077962,Body-Weight Trajectory,weight gain trajectory
+D000077962,Body-Weight Trajectory,body-weight trajectory
+D000078064,Gestational Weight Gain,postpartum weight retention
+D000078064,Gestational Weight Gain,gestational weight gain
+D000079262,Pregnancy in Obesity,pregnancy in obesity
+D000079689,Opioid-Induced Constipation,narcotic bowel syndrome
+D000079689,Opioid-Induced Constipation,opioid-induced bowel dysfunction
+D000079689,Opioid-Induced Constipation,opioid-induced constipation
+D000079690,Postoperative Cognitive Complications,postoperative cognitive complications
+D000079690,Postoperative Cognitive Complications,postoperative cognitive disorders
+D000079690,Postoperative Cognitive Complications,postoperative dementia
+D000079822,Extranodal Extension,extranodal extension
+D000079822,Extranodal Extension,extranodal tumor deposits
+D000080223,Chronic Urticaria,autoimmune urticaria
+D000080223,Chronic Urticaria,chronic autoimmune urticaria
+D000080223,Chronic Urticaria,chronic urticaria
+D000080223,Chronic Urticaria,chronic spontaneous urticaria
+D000080422,Locked-In Syndrome,locked-in syndrome
+D000080424,Cytokine Release Syndrome,cytokine storm
+D000080424,Cytokine Release Syndrome,cytokine release syndrome
+D000080445,Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome,asthma-chronic obstructive pulmonary disease overlap syndrome
+D000080485,Sudden Unexpected Death in Epilepsy,sudden unexpected death in epilepsy
+D000080842,Undiagnosed Diseases,undiagnosed diseases
+D000080888,Specific Language Disorder,specific language disorder
+D000080942,Post-Cardiac Arrest Syndrome,post-cardiac arrest syndrome
+D000081011,Hepatic Infarction,hepatic infarction
+D000081012,Autoimmune Pancreatitis,type 2 autoimmune pancreatitis
+D000081012,Autoimmune Pancreatitis,autoimmune pancreatitis
+D000081012,Autoimmune Pancreatitis,type 1 autoimmune pancreatitis
+D000081015,Ototoxicity,ototoxicity
+D000081015,Ototoxicity,drug-induced ototoxicity
+D000081015,Ototoxicity,drug-induced cochleotoxicity
+D000081015,Ototoxicity,radiation-induced ototoxicity
+D000081015,Ototoxicity,drug-induced vestibulotoxicity
+D000081015,Ototoxicity,auditory toxicity
+D000081028,Toxic Optic Neuropathy,ocular toxicity
+D000081028,Toxic Optic Neuropathy,toxic optic neuropathy
+D000081030,Myotoxicity,drug related myopathies
+D000081030,Myotoxicity,myotoxicity
+D000081030,Myotoxicity,myalgia-arthralgia syndrome
+D000081483,Squamous Intraepithelial Lesions,"lsil, atypical squamous cells cannot exclude hsil"
+D000081483,Squamous Intraepithelial Lesions,low-grade squamous intraepithelial lesions
+D000081483,Squamous Intraepithelial Lesions,squamous intraepithelial lesions
+D000081483,Squamous Intraepithelial Lesions,high-grade squamous intraepithelial lesions
+D000082122,Internal Hernia,retrocecal hernia
+D000082122,Internal Hernia,internal hernia
+D000082122,Internal Hernia,broad ligament hernia
+D000082122,Internal Hernia,supravesical hernia
+D000082122,Internal Hernia,intramesenteric hernia
+D000082122,Internal Hernia,foramen of winslow hernia
+D000082122,Internal Hernia,transmesosigmoid hernia
+D000082122,Internal Hernia,intersigmoid hernia
+D000082122,Internal Hernia,paracecal herniation
+D000082122,Internal Hernia,transmesenteric hernia
+D000082122,Internal Hernia,transomental hernia
+D000082123,Paraduodenal Hernia,right paraduodenal hernia
+D000082123,Paraduodenal Hernia,paraduodenal hernia
+D000082123,Paraduodenal Hernia,obstructed paraduodenal hernia
+D000082123,Paraduodenal Hernia,left paraduodenal hernia
+D000082643,Cerebral Cortical Thinning,cerebral cortical thinning
+D000082802,"Warburg Effect, Oncologic","warburg effect, oncologic"
+D000082843,Ovarian Torsion,adnexal torsion
+D000082843,Ovarian Torsion,ovarian torsion
+D000083182,Chronic Exertional Compartment Syndrome,chronic exertional compartment syndrome
+D000084063,Reinfection,reinfection
+D000084063,Reinfection,recurrent infection
+D000084462,Hyperthermia,hyperpyrexia
+D000084462,Hyperthermia,hyperthermia
+D000086582,Anosmia,hyposmia
+D000086582,Anosmia,anosmia
+D000086722,Rhinorrhea,rhinorrhea
+D000086982,Blood-Borne Infections,blood-borne infections
+D000087122,Mania,hypomania
+D000087122,Mania,manic episode
+D000087122,Mania,mania
+D000087122,Mania,hypomanic episode
+D000087525,Radiation Fibrosis Syndrome,radiation fibrosis syndrome
+D000088442,MINOCA,minoca
+D000088562,Persistent Infection,chronic infection
+D000088562,Persistent Infection,persistent infection
+D000089083,Body Odor,body odor
+D000089802,Chronic Limb-Threatening Ischemia,chronic limb-threatening ischemia
+D000089965,Erythema Ab Igne,erythema ab igne
+D000090004,Ambulatory Care Sensitive Conditions,ambulatory care sensitive conditions
+D000090862,Neuroinflammatory Diseases,neuroinflammatory diseases
+D000090862,Neuroinflammatory Diseases,neuroinflammation
+D000090882,Thromboinflammation,thromboinflammation
+D000091323,Psychogenic Nonepileptic Seizures,psychogenic nonepileptic seizures
+D000091622,Weight Cycling,weight cycling
+D000092129,Platypnea Orthodeoxia Syndrome,orthodeoxia
+D000092129,Platypnea Orthodeoxia Syndrome,platypnea orthodeoxia syndrome
+D000092130,"Urticaria, Solar","urticaria, solar"
+D000092162,Crystalluria,crystalluria
+D000092342,Polypoidal Choroidal Vasculopathy,polypoidal choroidal vasculopathy
+D000092342,Polypoidal Choroidal Vasculopathy,idiopathic polypoidal choroidal vasculopathy
+D000092342,Polypoidal Choroidal Vasculopathy,polypoidal choroidal neovascularization
+D000092582,Drug Fever,drug fever
+D000092702,Chronic Kidney Diseases of Uncertain Etiology,chronic kidney diseases of uncertain etiology
+D000093742,Breakthrough Infections,vaccine breakthrough infections
+D000093742,Breakthrough Infections,breakthrough infections
+D000093742,Breakthrough Infections,treatment emergent infections
+D000094024,Post-Acute COVID-19 Syndrome,post-acute covid-19 syndrome
+D000094025,Post-Infectious Disorders,post-infectious disorders
+D000094123,Low Anterior Resection Syndrome,low anterior resection syndrome
+D000094222,Dropped Head Syndrome,dropped head syndrome
+D000094482,Chronic Inducible Urticaria,"urticaria, aquagenic"
+D000094482,Chronic Inducible Urticaria,vibratory urticaria
+D000094482,Chronic Inducible Urticaria,chronic inducible urticaria
+D000094666,Aortic Intramural Hematoma,aortic intramural hematoma
+D000095027,Overtraining Syndrome,exercise overtraining
+D000095027,Overtraining Syndrome,overtraining syndrome
+D000095384,Pathologic Complete Response,in full remission
+D000095384,Pathologic Complete Response,pathologic complete response
+D000096442,Genetic Risk Score,polygenic risk score
+D000096442,Genetic Risk Score,genetic risk score
+D000096822,Chronic Cough,chronic cough
+D000097742,Patient-Ventilator Asynchrony,patient-ventilator asynchrony
+D000097815,Emotional Exhaustion,emotional exhaustion
+D000097942,"Hearing Loss, Hidden","hearing loss, hidden"
+D000097942,"Hearing Loss, Hidden",cochlear synaptopathy
+D000097942,"Hearing Loss, Hidden",noise-induced cochlear synaptopathy
+D000097942,"Hearing Loss, Hidden",auditory synaptopathy
+D000098653,Nociplastic Pain,nociplastic pain
+D000098829,Paternal Death,paternal death
+D000098850,Polymorphic Catecholaminergic Ventricular Tachycardia,polymorphic catecholaminergic ventricular tachycardia
+D000098850,Polymorphic Catecholaminergic Ventricular Tachycardia,stress-induced polymorphic ventricular tachycardia
+D000098850,Polymorphic Catecholaminergic Ventricular Tachycardia,familial polymorphic ventricular tachycardia
+D000098858,Cronkhite-Canada Syndrome,cronkhite-canada syndrome
+D000098985,Emphysematous Pyelonephritis,emphysematous pyelonephritis
+D000099074,Diabesity,diabesity
