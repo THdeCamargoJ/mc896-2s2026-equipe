@@ -44,7 +44,7 @@ Para superar os gargalos operacionais da linguagem médica real (sobreposição 
 
 O trecho a seguir demonstra a resolução determinística de termos sobrepostos, garantindo que termos compostos (ex.: *"acute pancreatitis"*) sobreponham termos genéricos (*"pancreatitis"*), ao mesmo tempo em que limites de palavra (`\b`) impedem falsos positivos (ex.: casar *"ear"* dentro de *"clear"*):
 
-~~~python
+```python
 # project1/src/entity_matcher.py
 raw_matches.sort(key=lambda m: (-(m['end'] - m['start']), m['start']))
 filtered_matches, occupied_spans = [], []
@@ -55,13 +55,13 @@ for candidate in raw_matches:
     if not overlaps:
         filtered_matches.append(candidate)
         occupied_spans.append((c_start, c_end))
-~~~
+```
 
 ### Destaque de Implementação: Gramática Farmacológica Tripartite e Deduplicação de Spans
 
 Para capturar dosagens farmacológicas complexas em terapia intensiva (incluindo construções partitivas invertidas como *"50 mg of diltiazem hydrochloride intravenously (at 5 mL/h) for maintenance"* e formulações parentéticas), o extrator sintático analisa tanto os núcleos de dosagem quanto modificadores desvinculados de ordem no segmento posterior (*tail*), eliminando nós simples redundantes:
 
-~~~python
+```python
 # project1/src/quant_extractor.py
 patterns = [self.drug_inverted_pattern, self.drug_parenthetical_pattern, self.drug_direct_pattern]
 for rx in patterns:
@@ -73,7 +73,7 @@ for rx in patterns:
         tail = sentence_text[end:end + 100]
         r_m, rt_m, reg_m, freq_m = self.route_re.search(tail), self.rate_re.search(tail), self.regimen_re.search(tail), self.freq_re.search(tail)
         # Atribuição garantida a DrugAdministration e TREATED_WITH
-~~~
+```
 
 ---
 
@@ -163,14 +163,14 @@ A separação em duas camadas aliada às arestas temporais viabiliza consultas c
 
 ## Ferramentas
 
-| Ferramenta | Finalidade no Projeto | Justificativa Técnica |
-| :--- | :--- | :--- |
-| **Python 3.10+** | Linguagem principal | Ecossistema maduro para manipulação de grafos e dados estruturados. |
-| **Aho-Corasick Nativo** | Casamento de padrões léxicos | Complexidade $O(N)$ linear para escaneamento simultâneo de centenas de conceitos. |
-| **Pandas** | Manipulação de dados tabulares | Ingestão e exportação das tabelas relacionais `nodes.csv` e `edges.csv`. |
+| Ferramenta                      | Finalidade no Projeto              | Justificativa Técnica                                                                       |
+| :------------------------------ | :--------------------------------- | :------------------------------------------------------------------------------------------- |
+| **Python 3.10+**          | Linguagem principal                | Ecossistema maduro para manipulação de grafos e dados estruturados.                        |
+| **Aho-Corasick Nativo**   | Casamento de padrões léxicos     | Complexidade$O(N)$ linear para escaneamento simultâneo de centenas de conceitos.          |
+| **Pandas**                | Manipulação de dados tabulares   | Ingestão e exportação das tabelas relacionais`nodes.csv` e `edges.csv`.               |
 | **NetworkX & Matplotlib** | Renderização estática de grafos | Exportação automatizada de figuras em PNG de alta resolução (`export_graph_image.py`). |
-| **Pytest** | Testes automatizados de software | Garantia de cobertura dos 5 gargalos críticos com integração contínua. |
-| **Cytoscape.js** | Visualização interativa de redes | Renderização gráfica em HTML standalone (zero dependência de backend). |
+| **Pytest**                | Testes automatizados de software   | Garantia de cobertura dos 5 gargalos críticos com integração contínua.                   |
+| **Cytoscape.js**          | Visualização interativa de redes | Renderização gráfica em HTML standalone (zero dependência de backend).                   |
 
 ---
 
@@ -184,6 +184,7 @@ O pipeline foi executado com sucesso sobre a amostra completa do MultiCaRe:
 * **Integridade Referencial:** **100%** (zero arestas com nós de origem ou destino órfãos).
 
 ### Distribuição dos Tipos de Nós
+
 * `Diagnosis`: 410
 * `ExamInstance`: 247
 * `Anatomy`: 220
@@ -196,6 +197,7 @@ O pipeline foi executado com sucesso sobre a amostra completa do MultiCaRe:
 * `Finding`: 48
 
 ### Distribuição das Principais Relações
+
 * `INSTANCE_OF`: 1.280 (ancoragem ontológica global na T-Box MeSH)
 * `PRECEDES`: 652 (arestas do DAG temporal longitudinal TimeML)
 * `DIAGNOSED_WITH`: 399
@@ -217,18 +219,22 @@ O pipeline foi executado com sucesso sobre a amostra completa do MultiCaRe:
 Para demonstrar a expressividade semântica do grafo construído, geramos via [`export_graph_image.py`](src/export_graph_image.py) uma sequência em 4 atos ilustrando o caso **PMC5137649_01** (mulher de 44 anos com lesão cística pancreatogástrica):
 
 #### Ato 1: Separação Ontológica em Duas Camadas (A-Box vs. T-Box)
+
 Instâncias específicas do caso (dor no flanco, náusea, tomografia, pancreatectomia) conectadas via `INSTANCE_OF` aos conceitos universais da taxonomia MeSH.
 ![Ato 1: Arquitetura em Duas Camadas](assets/images/story_01_two_layer_architecture.png)
 
 #### Ato 2: Grafo Direcionado Acíclico (DAG) de Precedência Temporal
+
 Evolução cronológica longitudinal reconstruída a partir de âncoras TimeML: Início dos Sintomas (Dia -3) $\rightarrow$ Admissão/Tomografia (Dia 0) $\rightarrow$ Punção EUS-FNA (Dia +1) $\rightarrow$ Pancreatectomia (Dia +2) $\rightarrow$ Alta com Resolução (Dia +4).
 ![Ato 2: DAG Temporal TimeML](assets/images/story_02_clinical_timeline_dag.png)
 
 #### Ato 3: Raciocínio Clínico e Suporte Diagnóstico com NegEx
+
 Cadeia de tomada de decisão médica: o EUS confirma o Cisto e **exclui Malignidade** (`EXCLUDES`, em vermelho tracejado), enquanto o marcador tumoral CEA elevado (12.476,5 ng/ml) apoia (`SUPPORTS`) o diagnóstico que direciona a cirurgia curativa (`TARGETS`).
 ![Ato 3: Raciocínio Diagnóstico e Suporte](assets/images/story_03_diagnostic_reasoning.png)
 
 #### Ato 4: Inteligência Populacional e Consultas de Coorte Multi-Paciente
+
 Convergência ontológica de múltiplos pacientes em conceitos canônicos compartilhados no repositório, viabilizando buscas epidemiológicas estruturadas.
 ![Ato 4: Coorte Multi-Paciente](assets/images/story_04_cross_patient_cohort.png)
 
@@ -238,11 +244,11 @@ Convergência ontológica de múltiplos pacientes em conceitos canônicos compar
 
 Avaliamos a recuperação das entidades extraídas pelo nosso pipeline e pelas soluções dos outros grupos contra o padrão-ouro humano indexado na National Library of Medicine (`metadata.csv`):
 
-| Abordagem Avaliada | Casos | Precision | Recall | F1-Score | Jaccard | Recall@10 |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Abordagem Avaliada                             |    Casos    |    Precision    |      Recall      |     F1-Score     |     Jaccard     |    Recall@10    |
+| :--------------------------------------------- | :----------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 | **Nosso Projeto (SOTA 2-Camadas + DAG)** | **41** | **20.98%** | **40.25%** | **22.20%** | **12.94%** | **29.96%** |
-| `jrsbr` (Aho-Corasick + BK-tree) | 41 | 8.45% | 32.40% | 12.35% | 6.53% | 20.49% |
-| `MatheuzRuf` (Regex + RI) | 41 | 8.08% | 27.77% | 11.25% | 6.14% | 15.37% |
+| `jrsbr` (Aho-Corasick + BK-tree)             |      41      |      8.45%      |      32.40%      |      12.35%      |      6.53%      |      20.49%      |
+| `MatheuzRuf` (Regex + RI)                    |      41      |      8.08%      |      27.77%      |      11.25%      |      6.14%      |      15.37%      |
 
 > **Destaque:** Nosso pipeline obteve **precisão 2.5 vezes superior** e **F1-score quase o dobro** dos demais projetos. Esse ganho empírico decorre diretamente da resolução dos 5 gargalos: autômato com validação de token boundaries (`\b`), descarte de achados negados via NegEx com barreira de conjunções e pareamento sintagmático de exames e valores.
 
@@ -251,10 +257,11 @@ Avaliamos a recuperação das entidades extraídas pelo nosso pipeline e pelas s
 Para viabilizar a auditoria médica e a inspeção detalhada dos grafos gerados, desenvolvemos uma aplicação web em arquivo único ([`project1/data/output/graph_visualization.html`](data/output/graph_visualization.html)) baseada em **Cytoscape.js**, totalmente desacoplada de backend (executa diretamente no navegador com duplo-clique) e equipada com **Sentence Provenance Total**:
 
 1. **Sincronização Bidirecional Grafo $\leftrightarrow$ Narrativa Clínica:**
+
    - **Grafo $\rightarrow$ Texto:** Clicar em qualquer nó do grafo localiza instantaneamente a sentença exata de origem no relatório clínico (`[S0]`, `[S1]`, `[S17]`), executando rolagem suave animada e destacando a frase correspondente com contorno azul pulsante.
    - **Texto $\rightarrow$ Grafo:** No painel da narrativa, todas as entidades identificadas são renderizadas como marcações `<mark>` interativas com código cromático semântico. Clicar em qualquer termo no texto centraliza e aplica zoom automático sobre o nó respectivo no Cytoscape.js.
-
 2. **Ficha de Proveniência Profunda (*Deep Provenance Drawer*):**
+
    - Ao selecionar um nó ou aresta, um painel lateral exibe a evidência literal completa:
      - **Citação Literal da Frase:** Trecho exato da frase original com o termo destacado em contexto clínico real.
      - **Offsets Rigorosos:** Intervalo de caracteres absoluto no caso `[start - end]` e relativo dentro da sentença.
@@ -262,8 +269,8 @@ Para viabilizar a auditoria médica e a inspeção detalhada dos grafos gerados,
      - **Dado Clínico Estruturado:** Exibição direta de exames laboratoriais interpretados (valor, unidade, faixa de referência) ou esquemas posológicos (dose, via de administração, taxa de infusão contínua em mL/h e finalidade terapêutica).
      - **Ancoragem Ontológica:** Link direto e navegável para o registro oficial do conceito na National Library of Medicine (MeSH / LOINC).
      - **Navegação de Vizinhança:** Botões interativos para percorrer todas as arestas incidentes (origem $\rightarrow$ destino).
-
 3. **Múltiplos Modos de Layout para Investigação Clínica:**
+
    - **Arquitetura em 2 Camadas (Padrão):** Separação topológica formal entre a camada conceitual MeSH (T-Box) no topo e as instâncias episódicas do paciente (A-Box) na base.
    - **Linha do Tempo DAG (TimeML):** Reconstrução sequencial da trajetória cronológica do paciente desde os sintomas prodrômicos até a alta médica.
    - **Simulação por Forças Físicas (CoSE Spring-Embedder):** Agrupamento orgânico de clusters clínicos inter-relacionados por física de atração e repulsão.
@@ -274,8 +281,9 @@ Para viabilizar a auditoria médica e a inspeção detalhada dos grafos gerados,
 ## Como Modelos de Linguagem foram Usados
 
 Conforme as diretrizes da disciplina:
+
 * **Na Extração de Dados e Construção do Grafo:** **Zero uso de LLMs**. Toda a extração de entidades, análise de negação (NegEx), expressões de sintagmas quantitativos, casamento Aho-Corasick e regras de dependência de Hearst foi realizada de forma puramente determinística e algorítmica.
-* **Na Apresentação Visual e Apoio de Código:** Modelos de linguagem foram utilizados exclusivamente como ferramenta de produtividade para auxiliar na codificação da interface web em Cytoscape.js e na revisão textual deste relatório.
+* **Na Apresentação Visual e Apoio de Código:** Modelos de linguagem foram utilizados exclusivamente como ferramenta de produtividade para auxiliar na codificação da interface web em Cytoscape.js e na revisão textual deste relatório. Para essas tarefas, utilizou-se o ambiente de desenvolvimento Antigravity integrado ao modelo Gemini (versão Gemini 3.8 Flash)
 
 ---
 
